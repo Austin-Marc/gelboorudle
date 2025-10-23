@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Gelbooru-dle - Guess which tag has more posts!">
+    <meta name="theme-color" content="#6366f1">
+    <title>Gelbooru-dle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+            <span id="theme-icon">🌙</span>
+            <span id="theme-text">Dark</span>
+        </button>
+
+        <header>
+            <h1>Gelbooru-dle</h1>
+            <p class="tagline">Which tag has more posts?</p>
+        </header>
+
+        <div class="score-board">
+            <div class="score-item">
+                <span class="score-label">Current Streak</span>
+                <span class="score-value" id="current-streak">0</span>
+            </div>
+            <div class="score-item">
+                <span class="score-label">Best Streak</span>
+                <span class="score-value" id="best-streak">0</span>
+            </div>
+        </div>
+
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Loading tags...</p>
+        </div>
+
+        <div id="game-container" class="game-container" style="display: none;">
+            <div class="cards-wrapper">
+                <div class="card" id="card-1" data-choice="1">
+                    <div class="card-image" id="card-1-image"></div>
+                    <div class="card-content">
+                        <h2 class="card-title" id="card-1-title">Tag Name</h2>
+                        <div class="card-badges">
+                            <span class="badge" id="card-1-category">Category</span>
+                            <span class="badge badge-material" id="card-1-material"></span>
+                        </div>
+                        <div class="card-count" id="card-1-count" style="display: none;">
+                            <span class="count-value">0</span>
+                            <span class="count-label">posts</span>
+                        </div>
+                    </div>
+                    <div class="card-overlay">
+                        <span class="overlay-text">CLICK TO CHOOSE</span>
+                    </div>
+                </div>
+
+                <div class="vs-divider">
+                    <span>VS</span>
+                </div>
+
+                <div class="card" id="card-2" data-choice="2">
+                    <div class="card-image" id="card-2-image"></div>
+                    <div class="card-content">
+                        <h2 class="card-title" id="card-2-title">Tag Name</h2>
+                        <div class="card-badges">
+                            <span class="badge" id="card-2-category">Category</span>
+                            <span class="badge badge-material" id="card-2-material"></span>
+                        </div>
+                        <div class="card-count" id="card-2-count" style="display: none;">
+                            <span class="count-value">0</span>
+                            <span class="count-label">posts</span>
+                        </div>
+                    </div>
+                    <div class="card-overlay">
+                        <span class="overlay-text">CLICK TO CHOOSE</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="result-message" id="result-message" style="display: none;">
+                <p class="result-text" id="result-text"></p>
+            </div>
+        </div>
+
+        <footer>
+            <p>Data sourced from Danbooru and Gelbooru. Not affiliated with either site</p>
+        </footer>
+    </div>
+
+    <script src="crypto.js"></script>
+    <script src="tags_data.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
+
