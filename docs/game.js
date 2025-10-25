@@ -125,19 +125,25 @@ class Game {
 
     displayTag(cardNumber, tag) {
         const titleEl = document.getElementById(`card-${cardNumber}-title`);
-        const categoryEl = document.getElementById(`card-${cardNumber}-category`);
         const materialEl = document.getElementById(`card-${cardNumber}-material`);
         const imageEl = document.getElementById(`card-${cardNumber}-image`);
+        const copyrightEl = document.getElementById(`card-${cardNumber}-copyright`);
         
         titleEl.textContent = tag.proper_name || this.formatTagName(tag.name);
-        
-        categoryEl.textContent = tag.category.charAt(0).toUpperCase() + tag.category.slice(1);
         
         if (tag.material) {
             materialEl.textContent = tag.material;
             materialEl.style.display = 'inline-block';
         } else {
             materialEl.style.display = 'none';
+        }
+        
+        // Show copyright badge for non-copyright tags
+        if (tag.category !== 'copyright' && tag.copyright) {
+            copyrightEl.textContent = tag.copyright;
+            copyrightEl.style.display = 'inline-block';
+        } else {
+            copyrightEl.style.display = 'none';
         }
         
         if (tag.image_reference) {
