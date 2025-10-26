@@ -138,7 +138,6 @@ class Game {
             materialEl.style.display = 'none';
         }
         
-        // Show copyright badge for non-copyright tags
         if (tag.category !== 'copyright' && tag.copyright) {
             copyrightEl.textContent = tag.copyright;
             copyrightEl.style.display = 'inline-block';
@@ -146,11 +145,26 @@ class Game {
             copyrightEl.style.display = 'none';
         }
         
+        const imgTag = document.getElementById(`card-${cardNumber}-img`);
         if (tag.image_reference) {
-            imageEl.style.backgroundImage = `url('${tag.image_reference}')`;
             imageEl.classList.add('has-image');
+            
+            imgTag.style.display = 'none';
+            
+            imgTag.onerror = () => {
+                console.error(`Failed to load: ${tag.image_reference}`);
+                imgTag.style.display = 'none';
+                imageEl.classList.remove('has-image');
+            };
+            
+            imgTag.onload = () => {
+                imgTag.style.display = 'block';
+            };
+            
+            // Start loading the image
+            imgTag.src = tag.image_reference;
         } else {
-            imageEl.style.backgroundImage = '';
+            imgTag.style.display = 'none';
             imageEl.classList.remove('has-image');
         }
     }
@@ -201,9 +215,11 @@ class Game {
                 card1.classList.add('correct');
             }
             
+            // Save streak before resetting
+            const previousStreak = this.currentStreak;
             this.currentStreak = 0;
             
-            this.showResult(false);
+            this.showResult(false, previousStreak);
         }
         
         this.updateScoreDisplay();
@@ -225,7 +241,7 @@ class Game {
     }
     
 
-    showResult(correct, tie = false) {
+    showResult(correct, tieOrStreak = false) {
         const messageEl = document.getElementById('result-message');
         const textEl = document.getElementById('result-text');
         
@@ -233,14 +249,15 @@ class Game {
         
         if (correct) {
             messageEl.classList.add('correct');
-            if (tie) {
+            if (tieOrStreak === true) {
                 textEl.textContent = '🎯 Correct! They have the same count!';
             } else {
                 textEl.textContent = `🎉 Correct! Streak: ${this.currentStreak}`;
             }
         } else {
             messageEl.classList.add('incorrect');
-            textEl.textContent = `❌ Wrong! Your streak was ${this.currentStreak > 0 ? this.currentStreak : 0}`;
+            const previousStreak = typeof tieOrStreak === 'number' ? tieOrStreak : 0;
+            textEl.textContent = `❌ Wrong! Your streak was ${previousStreak}`;
         }
         
         messageEl.style.display = 'block';
