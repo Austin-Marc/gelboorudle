@@ -10,7 +10,7 @@ Basic gameplay is the same as other -dles Select the category that you think wil
 
 ## Data
 - Data sourced from Danbooru and Gelbooru through their open APIs and Selenium
-- Current tag count is at 3087 but is subject to change (10/23/25)
+- Images sourced from open wikis
 
 ## AI Disclamer
 Much of the code was written with Claude AI assistance . 
