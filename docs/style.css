@@ -69,6 +69,25 @@ h1 {
     font-size: clamp(1rem, 2vw, 1.25rem);
 }
 
+.daily-link {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    border-radius: 8px;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.daily-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4);
+}
+
 /* Score Board */
 .score-board {
     display: flex;
@@ -430,6 +449,159 @@ footer a:hover {
     
     .count-value {
         font-size: 2rem;
+    }
+}
+
+/* Daily Challenge Styles */
+.progress-bar {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.progress-text {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.results-container {
+    text-align: center;
+    padding: 32px 16px;
+}
+
+.results-container h2 {
+    font-size: 2rem;
+    margin-bottom: 32px;
+    color: var(--text-color);
+}
+
+.final-score {
+    margin: 32px 0;
+}
+
+.score-circle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    box-shadow: 0 8px 24px rgba(99, 102, 241, 0.3);
+}
+
+.score-circle span {
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+}
+
+.results-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 12px;
+    max-width: 400px;
+    margin: 32px auto;
+}
+
+.result-box {
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: transform 0.2s;
+    cursor: default;
+}
+
+.result-box:hover {
+    transform: scale(1.1);
+}
+
+.result-box.correct {
+    background: #10b981;
+    color: white;
+}
+
+.result-box.incorrect {
+    background: #ef4444;
+    color: white;
+}
+
+.results-actions {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.btn-primary {
+    padding: 16px 32px;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4);
+}
+
+.btn-primary:active {
+    transform: translateY(0);
+}
+
+.btn-secondary {
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-color);
+    background: var(--card-bg);
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-block;
+}
+
+.btn-secondary:hover {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+.comeback-text {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin: 8px 0;
+}
+
+@media (max-width: 640px) {
+    .results-grid {
+        gap: 8px;
+        max-width: 300px;
+    }
+    
+    .result-box {
+        font-size: 24px;
+    }
+    
+    .score-circle {
+        width: 120px;
+        height: 120px;
+    }
+    
+    .score-circle span {
+        font-size: 2.5rem;
     }
 }
 

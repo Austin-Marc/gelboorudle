@@ -3,14 +3,14 @@
 
 const GAME_DATA = {
   "version": "1.0",
-  "key": "G1Rx1oXytGgd63QP",
+  "key": "8JWLlIcTSjPsMckh",
   "tags": [
     {
       "id": "t0001",
       "name": "touhou",
       "proper_name": "Touhou",
       "category": "copyright",
-      "encrypted_count": "fgBnTARZ",
+      "encrypted_count": "AXtieFl/",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0715/4f2d148d417cc5876bdfd62734c716c2c82c5017d413df3a.png"
@@ -20,7 +20,7 @@ const GAME_DATA = {
       "name": "kantai_collection",
       "proper_name": "Kantai Collection",
       "category": "copyright",
-      "encrypted_count": "cwhhTAZZ",
+      "encrypted_count": "DHNkeFt/",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/02/Kantai_Collection_logo.png"
@@ -30,7 +30,7 @@ const GAME_DATA = {
       "name": "fate_(series)",
       "proper_name": "Fate Series",
       "category": "copyright",
-      "encrypted_count": "dAllTAla",
+      "encrypted_count": "C3JgeFR8",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://m.media-amazon.com/images/M/MV5BOWQ1ZDdiMDItYTc2My00ZjZkLWJlMzktYTZmNGY5MWQwODU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -40,7 +40,7 @@ const GAME_DATA = {
       "name": "blue_archive",
       "proper_name": "Blue Archive",
       "category": "copyright",
-      "encrypted_count": "dAVmTwhc",
+      "encrypted_count": "C35je1V6",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
@@ -50,7 +50,7 @@ const GAME_DATA = {
       "name": "pokemon",
       "proper_name": "Pokémon",
       "category": "copyright",
-      "encrypted_count": "cwRhTwZf",
+      "encrypted_count": "DH9ke1t5",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
@@ -60,7 +60,7 @@ const GAME_DATA = {
       "name": "fate/grand_order",
       "proper_name": "Fate/Grand Order",
       "category": "copyright",
-      "encrypted_count": "dQZrSQhb",
+      "encrypted_count": "Cn1ufVV9",
       "copyright": "Fate/Grand Order",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/3e/FGOBabylonia.jpg"
@@ -70,7 +70,7 @@ const GAME_DATA = {
       "name": "hololive",
       "proper_name": "Hololive",
       "category": "copyright",
-      "encrypted_count": "dQZmTgBZ",
+      "encrypted_count": "Cn1jel1/",
       "copyright": "Hololive Production",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/f/fc/Hololive_production_Logo.png/revision/latest/scale-to-width-down/1200?cb=20200703020700"
@@ -80,7 +80,7 @@ const GAME_DATA = {
       "name": "genshin_impact",
       "proper_name": "Genshin Impact",
       "category": "copyright",
-      "encrypted_count": "dQZhSQhe",
+      "encrypted_count": "Cn1kfVV4",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2602/30935168a0f21b6710dc2bd7bb37c23ed937fb9fa747d84c.png"
@@ -90,7 +90,7 @@ const GAME_DATA = {
       "name": "idolmaster",
       "proper_name": "The Idolmaster",
       "category": "copyright",
-      "encrypted_count": "dQZlSAFf",
+      "encrypted_count": "Cn1gfFx5",
       "copyright": "The Idolmaster",
       "material": "Video Game",
       "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -100,7 +100,7 @@ const GAME_DATA = {
       "name": "arknights",
       "proper_name": "Arknights",
       "category": "copyright",
-      "encrypted_count": "dgZjSgNY",
+      "encrypted_count": "CX1mfl5+",
       "copyright": "Arknights",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Arknights_English_Release_Logo.svg/2560px-Arknights_English_Release_Logo.svg.png"
@@ -110,7 +110,7 @@ const GAME_DATA = {
       "name": "umamusume",
       "proper_name": "Umamusume",
       "category": "copyright",
-      "encrypted_count": "dgVgSgle",
+      "encrypted_count": "CX5lflR4",
       "copyright": "Umamusume",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/Umamusume_Pretty_Derby_game_cover.jpg"
@@ -120,7 +120,7 @@ const GAME_DATA = {
       "name": "azur_lane",
       "proper_name": "Azur Lane",
       "category": "copyright",
-      "encrypted_count": "dgVrTgZW",
+      "encrypted_count": "CX5ueltw",
       "copyright": "Azur Lane",
       "material": "Video Game",
       "image_reference": "https://m.media-amazon.com/images/M/MV5BN2JlOGM2MWUtNjhkNi00NmY2LWE3ODYtZDQ2YTc5ZGExMmNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -130,7 +130,7 @@ const GAME_DATA = {
       "name": "honkai_(series)",
       "proper_name": "Honkai Series",
       "category": "copyright",
-      "encrypted_count": "dgJkTglc",
+      "encrypted_count": "CXlhelR6",
       "copyright": "Honkai Series",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/da/Honkai_Impact_3rd_logo.png"
@@ -140,7 +140,7 @@ const GAME_DATA = {
       "name": "idolmaster_cinderella_girls",
       "proper_name": "Idolmaster Cinderella Girls",
       "category": "copyright",
-      "encrypted_count": "dgViSQdf",
+      "encrypted_count": "CX5nfVp5",
       "copyright": "Idolmaster Cinderella Girls",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Idolmaster_Cinderella_Girls_promo.jpg"
@@ -150,7 +150,7 @@ const GAME_DATA = {
       "name": "hatsune_miku",
       "proper_name": "Hatsune Miku",
       "category": "character",
-      "encrypted_count": "dgNrTQJW",
+      "encrypted_count": "CXhueV9w",
       "copyright": "Vocaloid",
       "material": "Music Software",
       "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
@@ -160,7 +160,7 @@ const GAME_DATA = {
       "name": "love_live!",
       "proper_name": "Love Live!",
       "category": "copyright",
-      "encrypted_count": "dgZnTgBZ",
+      "encrypted_count": "CX1iel1/",
       "copyright": "Love Live!",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b9/Love_Live%21_promotional_image.jpg"
@@ -170,7 +170,7 @@ const GAME_DATA = {
       "name": "fire_emblem",
       "proper_name": "Fire Emblem",
       "category": "copyright",
-      "encrypted_count": "dgJmQANc",
+      "encrypted_count": "CXljdF56",
       "copyright": "Fire Emblem",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/1/1b/Fire_Emblem_Engage_Box_Art.png/revision/latest/thumbnail/width/360/height/450?cb=20220914001431"
@@ -180,7 +180,7 @@ const GAME_DATA = {
       "name": "honkai:_star_rail",
       "proper_name": "Honkai: Star Rail",
       "category": "copyright",
-      "encrypted_count": "fgJmQAQ=",
+      "encrypted_count": "AXljdFk=",
       "copyright": "Honkai: Star Rail",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/7f/Honkai_Star_Rail_%28logo%29.png"
@@ -190,7 +190,7 @@ const GAME_DATA = {
       "name": "final_fantasy",
       "proper_name": "Final Fantasy",
       "category": "copyright",
-      "encrypted_count": "dgNjTAdf",
+      "encrypted_count": "CXhmeFp5",
       "copyright": "Final Fantasy",
       "material": "Video Game",
       "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
@@ -200,7 +200,7 @@ const GAME_DATA = {
       "name": "hololive_english",
       "proper_name": "Hololive English",
       "category": "copyright",
-      "encrypted_count": "fgBnSQY=",
+      "encrypted_count": "AXtifVs=",
       "copyright": "Hololive English",
       "material": "Virtual Youtubers",
       "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
@@ -210,7 +210,7 @@ const GAME_DATA = {
       "name": "hakurei_reimu",
       "proper_name": "Hakurei Reimu",
       "category": "character",
-      "encrypted_count": "cAVkTwE=",
+      "encrypted_count": "D35he1w=",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/touhou/images/a/ae/Th20Reimu.png/revision/latest?cb=20250505061952"
@@ -220,7 +220,7 @@ const GAME_DATA = {
       "name": "kirisame_marisa",
       "proper_name": "Kirisame Marisa",
       "category": "character",
-      "encrypted_count": "cQJlSgA=",
+      "encrypted_count": "Dnlgfl0=",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/touhou/images/2/29/Th20Marisa.png/revision/latest?cb=20250505062007"
@@ -230,7 +230,7 @@ const GAME_DATA = {
       "name": "nijisanji",
       "proper_name": "Nijisanji",
       "category": "copyright",
-      "encrypted_count": "cAZlTgg=",
+      "encrypted_count": "D31gelU=",
       "copyright": "Nijisanji",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/73/Nijisanji_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221027135628"
@@ -240,7 +240,7 @@ const GAME_DATA = {
       "name": "girls'_frontline",
       "proper_name": "Girls' Frontline",
       "category": "copyright",
-      "encrypted_count": "cgljTgc=",
+      "encrypted_count": "DXJmelo=",
       "copyright": "Girls' Frontline",
       "material": "Video Game",
       "image_reference": "https://cdn2.steamgriddb.com/logo/81594380e009d61a67688e4805265058.png"
@@ -250,7 +250,7 @@ const GAME_DATA = {
       "name": "girls_und_panzer",
       "proper_name": "Girls und Panzer",
       "category": "copyright",
-      "encrypted_count": "cARqQQg=",
+      "encrypted_count": "D39vdVU=",
       "copyright": "Girls und Panzer",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/f0/Girls_und_Panzer_TV_key_visual.png"
@@ -260,7 +260,7 @@ const GAME_DATA = {
       "name": "gundam",
       "proper_name": "Gundam",
       "category": "copyright",
-      "encrypted_count": "cAZiSgY=",
+      "encrypted_count": "D31nfls=",
       "copyright": "Gundam",
       "material": "Anime",
       "image_reference": "https://m.media-amazon.com/images/M/MV5BZjQ3MmU1M2QtODc5My00MDhkLWEwZmItMGM2ODUzODA2YzY0XkEyXkFqcGc@._V1_.jpg"
@@ -270,7 +270,7 @@ const GAME_DATA = {
       "name": "danganronpa_(series)",
       "proper_name": "Danganronpa Series",
       "category": "copyright",
-      "encrypted_count": "cQVhTAY=",
+      "encrypted_count": "Dn5keFs=",
       "copyright": "Danganronpa Series",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
@@ -280,7 +280,7 @@ const GAME_DATA = {
       "name": "precure",
       "proper_name": "Precure",
       "category": "copyright",
-      "encrypted_count": "cQZlTgM=",
+      "encrypted_count": "Dn1gel4=",
       "copyright": "Precure",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5c/PrettyCureS1.jpg"
@@ -290,7 +290,7 @@ const GAME_DATA = {
       "name": "zenless_zone_zero",
       "proper_name": "Zenless Zone Zero",
       "category": "copyright",
-      "encrypted_count": "cglkTQI=",
+      "encrypted_count": "DXJheV8=",
       "copyright": "Zenless Zone Zero",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Zenless_Zone_Zero_curved_box_logo.svg/250px-Zenless_Zone_Zero_curved_box_logo.svg.png"
@@ -300,7 +300,7 @@ const GAME_DATA = {
       "name": "mahou_shoujo_madoka_magica_(anime)",
       "proper_name": "Mahou Shoujo Madoka Magica",
       "category": "copyright",
-      "encrypted_count": "cwhrQAQ=",
+      "encrypted_count": "DHNudFk=",
       "copyright": "Mahou Shoujo Madoka Magica",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/MadokaBD.jpg"
@@ -310,7 +310,7 @@ const GAME_DATA = {
       "name": "remilia_scarlet",
       "proper_name": "Remilia Scarlet",
       "category": "character",
-      "encrypted_count": "cwhqTwg=",
+      "encrypted_count": "DHNve1U=",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/touhou/images/e/e7/Th105Remilia.png/revision/latest?cb=20241004093502"
@@ -320,7 +320,7 @@ const GAME_DATA = {
       "name": "flandre_scarlet",
       "proper_name": "Flandre Scarlet",
       "category": "character",
-      "encrypted_count": "cgJnSgM=",
+      "encrypted_count": "DXlifl4=",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fcs-vs-battle/images/e/ef/Flandre_Scarlet_Vector.png/revision/latest/scale-to-width-down/370?cb=20200521120624"
@@ -330,7 +330,7 @@ const GAME_DATA = {
       "name": "kemono_friends",
       "proper_name": "Kemono Friends",
       "category": "copyright",
-      "encrypted_count": "cglmTgg=",
+      "encrypted_count": "DXJjelU=",
       "copyright": "Kemono Friends",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kemono_Friends_Anime_Key_Visual_Art.jpg/250px-Kemono_Friends_Anime_Key_Visual_Art.jpg"
@@ -340,7 +340,7 @@ const GAME_DATA = {
       "name": "florence_nightingale_(fate)",
       "proper_name": "Florence Nightingale",
       "category": "character",
-      "encrypted_count": "cwNiQA==",
+      "encrypted_count": "DHhndA==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/51/BerserkerFloranceStage3.png/revision/latest?cb=20170217232053"
@@ -350,7 +350,7 @@ const GAME_DATA = {
       "name": "chouzetsusaikawa_tenshi-chan",
       "proper_name": "Chouzetsusaikawa Tenshi-chan",
       "category": "character",
-      "encrypted_count": "dAVjTw==",
+      "encrypted_count": "C35mew==",
       "image_reference": "https://static.wikia.nocookie.net/honkai-star-rail-fanon/images/9/99/KAngelSprite.png/revision/latest?cb=20241023001421"
     },
     {
@@ -358,7 +358,7 @@ const GAME_DATA = {
       "name": "usami_sumireko",
       "proper_name": "Usami Sumireko",
       "category": "character",
-      "encrypted_count": "dQdjSg==",
+      "encrypted_count": "Cnxmfg==",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/d/d8/Th145Sumireko.png/revision/latest?cb=20151127030013"
@@ -368,7 +368,7 @@ const GAME_DATA = {
       "name": "mayuzumi_fuyuko",
       "proper_name": "Mayuzumi Fuyuko",
       "category": "character",
-      "encrypted_count": "dAdqQA==",
+      "encrypted_count": "C3xvdA==",
       "image_reference": "https://image.shinycolors.wiki/d/da/FuyukoProfile.png"
     },
     {
@@ -376,7 +376,7 @@ const GAME_DATA = {
       "name": "super_sonico",
       "proper_name": "Super Sonico",
       "category": "character",
-      "encrypted_count": "cgJgTw==",
+      "encrypted_count": "DXllew==",
       "copyright": "Super Sonico",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Supersonicocharacter.jpg/250px-Supersonicocharacter.jpg"
@@ -386,7 +386,7 @@ const GAME_DATA = {
       "name": "mordred_(fate/apocrypha)",
       "proper_name": "Mordred",
       "category": "character",
-      "encrypted_count": "cgNhTg==",
+      "encrypted_count": "DXhkeg==",
       "copyright": "Fate/Apocrypha",
       "material": "anime",
       "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest/scale-to-width/360?cb=20220910153017"
@@ -396,7 +396,7 @@ const GAME_DATA = {
       "name": "yoimiya_(genshin_impact)",
       "proper_name": "Yoimiya",
       "category": "character",
-      "encrypted_count": "cwBlSQ==",
+      "encrypted_count": "DHtgfQ==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Character_Yoimiya_Game.png/revision/latest/scale-to-width/360?cb=20241004030432"
@@ -406,7 +406,7 @@ const GAME_DATA = {
       "name": "i-19_(kancolle)",
       "proper_name": "I-19",
       "category": "character",
-      "encrypted_count": "dAJrSA==",
+      "encrypted_count": "C3lufA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e9/I-19_Full.png/revision/latest/scale-to-width-down/300?cb=20180817192054"
@@ -416,7 +416,7 @@ const GAME_DATA = {
       "name": "shiroko_terror_(blue_archive)",
       "proper_name": "Shiroko Terror",
       "category": "character",
-      "encrypted_count": "dAJrTA==",
+      "encrypted_count": "C3lueA==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
@@ -426,7 +426,7 @@ const GAME_DATA = {
       "name": "izuna_(blue_archive)",
       "proper_name": "Izuna",
       "category": "character",
-      "encrypted_count": "dAVlSw==",
+      "encrypted_count": "C35gfw==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
@@ -436,7 +436,7 @@ const GAME_DATA = {
       "name": "marie_(splatoon)",
       "proper_name": "Marie",
       "category": "character",
-      "encrypted_count": "cwZqTQ==",
+      "encrypted_count": "DH1veQ==",
       "copyright": "Splatoon",
       "material": "Video Game",
       "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S_Marie_render_2.png"
@@ -446,7 +446,7 @@ const GAME_DATA = {
       "name": "seaport_princess",
       "proper_name": "Seaport Princess",
       "category": "character",
-      "encrypted_count": "dAJiQQ==",
+      "encrypted_count": "C3lndQ==",
       "copyright": "Kantai Collection",
       "material": "video game",
       "image_reference": "https://static.wikia.nocookie.net/kancolle/images/2/22/Harbour_Princess_II_Full.png/revision/latest/scale-to-width-down/300?cb=20180818160600"
@@ -456,7 +456,7 @@ const GAME_DATA = {
       "name": "unicorn_(azur_lane)",
       "proper_name": "Unicorn",
       "category": "character",
-      "encrypted_count": "dAdlTg==",
+      "encrypted_count": "C3xgeg==",
       "copyright": "Azur Lane",
       "material": "Video Game",
       "image_reference": "https://azurlane.netojuu.com/images/b/b6/UnicornKai.png"
@@ -466,7 +466,7 @@ const GAME_DATA = {
       "name": "akari_(pokemon)",
       "proper_name": "Akari",
       "category": "character",
-      "encrypted_count": "dAhnSw==",
+      "encrypted_count": "C3Nifw==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/3/38/Legends_Arceus_Akari.png/1200px-Legends_Arceus_Akari.png"
@@ -476,7 +476,7 @@ const GAME_DATA = {
       "name": "rosalina",
       "proper_name": "Rosalina",
       "category": "character",
-      "encrypted_count": "cQVqTg==",
+      "encrypted_count": "Dn5veg==",
       "copyright": "Super Mario",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rosalina_by_Shigehisa_Nakaue.png/250px-Rosalina_by_Shigehisa_Nakaue.png"
@@ -486,7 +486,7 @@ const GAME_DATA = {
       "name": "gokou_ruri",
       "proper_name": "Gokou Ruri",
       "category": "character",
-      "encrypted_count": "dAllTg==",
+      "encrypted_count": "C3Jgeg==",
       "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/oreimo/images/c/cd/Kuroneko_Appearance.png/revision/latest?cb=20240414210944"
@@ -496,7 +496,7 @@ const GAME_DATA = {
       "name": "octoling_girl",
       "proper_name": "Octoling Girl",
       "category": "character",
-      "encrypted_count": "dAZlTw==",
+      "encrypted_count": "C31gew==",
       "copyright": "Splatoon",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/splatoon/images/c/c9/S3_art_3D_Octoling_Hydra_Splatling.png/revision/latest?cb=20221129201234"
@@ -506,7 +506,7 @@ const GAME_DATA = {
       "name": "cyberpunk:_edgerunners",
       "proper_name": "Cyberpunk: Edgerunners",
       "category": "copyright",
-      "encrypted_count": "cwdhTw==",
+      "encrypted_count": "DHxkew==",
       "copyright": "Cyberpunk: Edgerunners",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg/revision/latest?cb=20220801170122"
@@ -516,7 +516,7 @@ const GAME_DATA = {
       "name": "zero_no_tsukaima",
       "proper_name": "Zero no Tsukaima",
       "category": "copyright",
-      "encrypted_count": "cgljQA==",
+      "encrypted_count": "DXJmdA==",
       "copyright": "Zero no Tsukaima",
       "material": "Light Novel",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/ZnT_novel01.png"
@@ -526,7 +526,7 @@ const GAME_DATA = {
       "name": "dragon_quest_iii",
       "proper_name": "Dragon Quest III",
       "category": "copyright",
-      "encrypted_count": "cQVqTA==",
+      "encrypted_count": "Dn5veA==",
       "copyright": "Dragon Quest",
       "material": "Video Game",
       "image_reference": "https://m.media-amazon.com/images/I/91M8HM0QlDL._AC_UF1000,1000_QL80_.jpg"
@@ -536,7 +536,7 @@ const GAME_DATA = {
       "name": "fate/hollow_ataraxia",
       "proper_name": "Fate/hollow ataraxia",
       "category": "copyright",
-      "encrypted_count": "dAljTw==",
+      "encrypted_count": "C3Jmew==",
       "copyright": "Fate Series",
       "material": "Visual Novel",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fate_hollow_ataraxia_game_DVD_cover.jpg"
@@ -546,7 +546,7 @@ const GAME_DATA = {
       "name": "fate/prototype",
       "proper_name": "Fate/prototype",
       "category": "copyright",
-      "encrypted_count": "cwBjSg==",
+      "encrypted_count": "DHtmfg==",
       "copyright": "Fate Series",
       "material": "Light Novel",
       "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -556,7 +556,7 @@ const GAME_DATA = {
       "name": "modao_zushi",
       "proper_name": "Mo Dao Zu Shi",
       "category": "copyright",
-      "encrypted_count": "dARmTg==",
+      "encrypted_count": "C39jeg==",
       "copyright": "Mo Dao Zu Shi",
       "material": "Novel",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/e/e8/One_of_the_official_posters_for_Mo_Dao_Zu_Shi_by_Tencent.jpg"
@@ -566,7 +566,7 @@ const GAME_DATA = {
       "name": "boku_wa_tomodachi_ga_sukunai",
       "proper_name": "Boku wa Tomodachi ga Sukunai",
       "category": "copyright",
-      "encrypted_count": "cwZkTw==",
+      "encrypted_count": "DH1hew==",
       "copyright": "Boku wa Tomodachi ga Sukunai",
       "material": "Light Novel",
       "image_reference": "https://m.media-amazon.com/images/M/MV5BMmJlNTQ1MDEtY2I2NS00OWQxLWI1NzQtYzAyNjhkMTRlNTcyXkEyXkFqcGc@._V1_.jpg"
@@ -576,7 +576,7 @@ const GAME_DATA = {
       "name": "narmaya_(granblue_fantasy)",
       "proper_name": "Narmaya",
       "category": "character",
-      "encrypted_count": "dAhmQQ==",
+      "encrypted_count": "C3NjdQ==",
       "copyright": "Granblue Fantasy",
       "material": "Video Game",
       "image_reference": "https://gbf.wiki/images/thumb/f/fc/Npc_zoom_3040063000_01.png/480px-Npc_zoom_3040063000_01.png"
@@ -586,7 +586,7 @@ const GAME_DATA = {
       "name": "iori_(blue_archive)",
       "proper_name": "Iori",
       "category": "character",
-      "encrypted_count": "dAVhTA==",
+      "encrypted_count": "C35keA==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/8/82/Iori_Portrait.png/revision/latest?cb=20220221085942"
@@ -596,7 +596,7 @@ const GAME_DATA = {
       "name": "march_7th_(preservation)_(honkai:_star_rail)",
       "proper_name": "March 7th (Preservation)",
       "category": "character",
-      "encrypted_count": "dAFgTw==",
+      "encrypted_count": "C3plew==",
       "copyright": "Honkai: Star Rail",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Character_March_7th_%28Preservation%29_Splash_Art.png/revision/latest/scale-to-width/360?cb=20230525090156"
@@ -606,7 +606,7 @@ const GAME_DATA = {
       "name": "hiroi_kikuri",
       "proper_name": "Hiroi Kikuri",
       "category": "character",
-      "encrypted_count": "dARhTg==",
+      "encrypted_count": "C39keg==",
       "copyright": "Bocchi The Rock!",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/8/88/Kikuri_Hiroi.png/revision/latest?cb=20221213205501"
@@ -616,7 +616,7 @@ const GAME_DATA = {
       "name": "yamakaze_(kancolle)",
       "proper_name": "Yamakaze",
       "category": "character",
-      "encrypted_count": "dANqTg==",
+      "encrypted_count": "C3hveg==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
@@ -626,7 +626,7 @@ const GAME_DATA = {
       "name": "diluc_(genshin_impact)",
       "proper_name": "Diluc",
       "category": "character",
-      "encrypted_count": "dAVlSA==",
+      "encrypted_count": "C35gfA==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
@@ -636,7 +636,7 @@ const GAME_DATA = {
       "name": "nessa_(pokemon)",
       "proper_name": "Nessa",
       "category": "character",
-      "encrypted_count": "cgBiSw==",
+      "encrypted_count": "DXtnfw==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Pokemon-Nessa.png/220px-Pokemon-Nessa.png"
@@ -646,7 +646,7 @@ const GAME_DATA = {
       "name": "ichika_(blue_archive)",
       "proper_name": "Ichika",
       "category": "character",
-      "encrypted_count": "dAJkQQ==",
+      "encrypted_count": "C3lhdQ==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
@@ -656,7 +656,7 @@ const GAME_DATA = {
       "name": "cyrene_(honkai:_star_rail)",
       "proper_name": "Cyrene",
       "category": "character",
-      "encrypted_count": "dAJlTQ==",
+      "encrypted_count": "C3lgeQ==",
       "copyright": "Honkai: Star Rail",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Character_Cyrene_Introduction.png/revision/latest/scale-to-width/360?cb=20250909040027"
@@ -666,7 +666,7 @@ const GAME_DATA = {
       "name": "jack_the_ripper_(fate/apocrypha)",
       "proper_name": "Jack the Ripper",
       "category": "character",
-      "encrypted_count": "dAhmQQ==",
+      "encrypted_count": "C3NjdQ==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/typemoon/images/c/c8/Assassin_of_black.png/revision/latest?cb=20130824114138"
@@ -676,7 +676,7 @@ const GAME_DATA = {
       "name": "shimada_arisu",
       "proper_name": "Shimada Arisu",
       "category": "character",
-      "encrypted_count": "dAVqTw==",
+      "encrypted_count": "C35vew==",
       "copyright": "Girls Und Panzer",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/a/a6/Arisu_Shimada_Render_01.png/revision/latest/scale-to-width-down/206?cb=20240316075811"
@@ -686,7 +686,7 @@ const GAME_DATA = {
       "name": "hiiragi_tsukasa",
       "proper_name": "Hiiragi Tsukasa",
       "category": "character",
-      "encrypted_count": "cwBkQQ==",
+      "encrypted_count": "DHthdQ==",
       "copyright": "Lucky Star",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/luckystar/images/9/92/Tsukasa-san.gif/revision/latest?cb=20120723133432"
@@ -696,7 +696,7 @@ const GAME_DATA = {
       "name": "koshimizu_sachiko",
       "proper_name": "Koshimizu Sachiko",
       "category": "character",
-      "encrypted_count": "dAJrSQ==",
+      "encrypted_count": "C3lufQ==",
       "copyright": "The Idolmaster",
       "material": "Video Game",
       "image_reference": "https://project-imas.wiki/images/d/d0/Sachiko_SS.png"
@@ -706,7 +706,7 @@ const GAME_DATA = {
       "name": "nicole_demara",
       "proper_name": "Nicole Demara",
       "category": "character",
-      "encrypted_count": "dAdmTw==",
+      "encrypted_count": "C3xjew==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
@@ -716,7 +716,7 @@ const GAME_DATA = {
       "name": "anastasia_(idolmaster)",
       "proper_name": "Anastasia",
       "category": "character",
-      "encrypted_count": "dARlSg==",
+      "encrypted_count": "C39gfg==",
       "copyright": "The Idolmaster",
       "material": "Video Game",
       "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
@@ -726,7 +726,7 @@ const GAME_DATA = {
       "name": "jonathan_joestar",
       "proper_name": "Jonathan Joestar",
       "category": "character",
-      "encrypted_count": "dARmSQ==",
+      "encrypted_count": "C39jfQ==",
       "copyright": "JoJo's Bizarre Adventure",
       "material": "Manga",
       "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
@@ -736,7 +736,7 @@ const GAME_DATA = {
       "name": "sanya_v._litvyak",
       "proper_name": "Sanya V. Litvyak",
       "category": "character",
-      "encrypted_count": "dAlgTg==",
+      "encrypted_count": "C3Jleg==",
       "copyright": "Strike Witches",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
@@ -746,7 +746,7 @@ const GAME_DATA = {
       "name": "herta_(honkai:_star_rail)",
       "proper_name": "Herta",
       "category": "character",
-      "encrypted_count": "dQdgTA==",
+      "encrypted_count": "CnxleA==",
       "copyright": "Honkai: Star Rail",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Character_Herta_Splash_Art.png/revision/latest?cb=20230216231220"
@@ -756,7 +756,7 @@ const GAME_DATA = {
       "name": "karin_(bunny)_(blue_archive)",
       "proper_name": "Karin (Bunny)",
       "category": "character",
-      "encrypted_count": "dAdqTA==",
+      "encrypted_count": "C3xveA==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/d/de/Karin_Bunny_Girl_Portrait.png/revision/latest?cb=20211001143254"
@@ -766,7 +766,7 @@ const GAME_DATA = {
       "name": "higashikata_josuke",
       "proper_name": "Higashikata Josuke",
       "category": "character",
-      "encrypted_count": "dAJiTA==",
+      "encrypted_count": "C3lneA==",
       "copyright": "JoJo's Bizarre Adventure",
       "material": "Manga",
       "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
@@ -776,7 +776,7 @@ const GAME_DATA = {
       "name": "hyouka",
       "proper_name": "Hyouka",
       "category": "copyright",
-      "encrypted_count": "dAZjTg==",
+      "encrypted_count": "C31meg==",
       "copyright": "Hyouka",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Hyouka_English_poster.jpg/250px-Hyouka_English_poster.jpg"
@@ -786,7 +786,7 @@ const GAME_DATA = {
       "name": "zeta_gundam",
       "proper_name": "Mobile Suit Zeta Gundam",
       "category": "copyright",
-      "encrypted_count": "cwRjTA==",
+      "encrypted_count": "DH9meA==",
       "copyright": "Mobile Suit Gundam",
       "material": "Anime",
       "image_reference": "https://m.media-amazon.com/images/M/MV5BNTRlYzIwYmYtMzUzYy00YmFmLTllMjItOWYzYmNmYjQ2YmI5XkEyXkFqcGc@._V1_.jpg"
@@ -796,7 +796,7 @@ const GAME_DATA = {
       "name": "baldur's_gate",
       "proper_name": "Baldur's Gate",
       "category": "copyright",
-      "encrypted_count": "dAJkTw==",
+      "encrypted_count": "C3lhew==",
       "copyright": "Baldur's Gate",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/forgottenrealms/images/1/1a/BG3_logo_1.png/revision/latest/scale-to-width-down/1200?cb=20200910182711"
@@ -806,7 +806,7 @@ const GAME_DATA = {
       "name": "final_fantasy_vii_rebirth",
       "proper_name": "Final Fantasy VII Rebirth",
       "category": "copyright",
-      "encrypted_count": "dAlkSw==",
+      "encrypted_count": "C3Jhfw==",
       "copyright": "Final Fantasy",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/75/Boxart_for_Final_Fantasy_VII_Rebirth.png"
@@ -816,7 +816,7 @@ const GAME_DATA = {
       "name": "samurai_spirits",
       "proper_name": "Samurai Spirits",
       "category": "copyright",
-      "encrypted_count": "dgNnSwQ=",
+      "encrypted_count": "CXhif1k=",
       "copyright": "Samurai Spirits",
       "material": "Video Game",
       "image_reference": "https://www.snk-corp.co.jp/us/games/samuraishodown/img/characters/chara_01.png"
@@ -826,7 +826,7 @@ const GAME_DATA = {
       "name": "alice_gear_aegis",
       "proper_name": "Alice Gear Aegis",
       "category": "copyright",
-      "encrypted_count": "dARlSA==",
+      "encrypted_count": "C39gfA==",
       "copyright": "Alice Gear Aegis",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/alicegearaegis/images/0/00/Alice_Gear_Aegis_Expansion_Key_Visual.png/revision/latest?cb=20230322170433"
@@ -836,7 +836,7 @@ const GAME_DATA = {
       "name": "urusei_yatsura",
       "proper_name": "Urusei Yatsura",
       "category": "copyright",
-      "encrypted_count": "cwdlSw==",
+      "encrypted_count": "DHxgfw==",
       "copyright": "Urusei Yatsura",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
@@ -846,7 +846,7 @@ const GAME_DATA = {
       "name": "tales_of_vesperia",
       "proper_name": "Tales of Vesperia",
       "category": "copyright",
-      "encrypted_count": "cwNjSw==",
+      "encrypted_count": "DHhmfw==",
       "copyright": "Tales Series",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/dc/Tales_of_Vesperia_Game_Cover.jpg"
@@ -856,7 +856,7 @@ const GAME_DATA = {
       "name": "final_fantasy_vi",
       "proper_name": "Final Fantasy VI",
       "category": "copyright",
-      "encrypted_count": "cwlgTQ==",
+      "encrypted_count": "DHJleQ==",
       "copyright": "Final Fantasy VI",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
@@ -866,7 +866,7 @@ const GAME_DATA = {
       "name": "mahou_sensei_negima!",
       "proper_name": "Mahou Sensei Negima!",
       "category": "copyright",
-      "encrypted_count": "cwNhTw==",
+      "encrypted_count": "DHhkew==",
       "copyright": "Mahou Sensei Negima!",
       "material": "Manga",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/3a/Negima%21_Magister_Negi_Magi_1.png"
@@ -876,7 +876,7 @@ const GAME_DATA = {
       "name": "youkai_watch",
       "proper_name": "Youkai Watch",
       "category": "copyright",
-      "encrypted_count": "cwhlTw==",
+      "encrypted_count": "DHNgew==",
       "copyright": "Youkai Watch",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/e/ed/Youkaiwatch2019.jpg"
@@ -886,7 +886,7 @@ const GAME_DATA = {
       "name": "ruby_rose",
       "proper_name": "Ruby Rose",
       "category": "character",
-      "encrypted_count": "cgNgTw==",
+      "encrypted_count": "DXhlew==",
       "copyright": "RWBY",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/rwby/images/9/9b/RubyRose-V8C14.png/revision/latest?cb=20241205032544"
@@ -896,7 +896,7 @@ const GAME_DATA = {
       "name": "artoria_pendragon_(lancer)_(fate)",
       "proper_name": "Artoria Pendragon (Lancer)",
       "category": "character",
-      "encrypted_count": "cwRlSQ==",
+      "encrypted_count": "DH9gfQ==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/character-stats-and-profiles/images/9/93/LancerArturiaStage3.jpg/revision/latest?cb=20191026015024"
@@ -906,7 +906,7 @@ const GAME_DATA = {
       "name": "maya_(kancolle)",
       "proper_name": "Maya",
       "category": "character",
-      "encrypted_count": "dAFhQA==",
+      "encrypted_count": "C3pkdA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
@@ -916,7 +916,7 @@ const GAME_DATA = {
       "name": "eren_yeager",
       "proper_name": "Eren Yeager",
       "category": "character",
-      "encrypted_count": "dAhqQQ==",
+      "encrypted_count": "C3NvdQ==",
       "copyright": "Attack on Titan",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
@@ -926,7 +926,7 @@ const GAME_DATA = {
       "name": "pecorine_(princess_connect!)",
       "proper_name": "Peorine",
       "category": "character",
-      "encrypted_count": "dAlkQQ==",
+      "encrypted_count": "C3JhdQ==",
       "copyright": "Princess Connect!",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png/revision/latest?cb=20180219083648"
@@ -936,7 +936,7 @@ const GAME_DATA = {
       "name": "eila_ilmatar_juutilainen",
       "proper_name": "Eila Ilmatar Juutilainen",
       "category": "character",
-      "encrypted_count": "dAljTg==",
+      "encrypted_count": "C3Jmeg==",
       "copyright": "Girls und Panzer",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
@@ -946,7 +946,7 @@ const GAME_DATA = {
       "name": "inkling_boy",
       "proper_name": "Inkling Boy",
       "category": "character",
-      "encrypted_count": "dAdrSw==",
+      "encrypted_count": "C3xufw==",
       "copyright": "Splatoon",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
@@ -956,7 +956,7 @@ const GAME_DATA = {
       "name": "mash_kyrielight_(demi-servant)",
       "proper_name": "Mash Kyrielight",
       "category": "character",
-      "encrypted_count": "dgViTQ==",
+      "encrypted_count": "CX5neQ==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
@@ -966,7 +966,7 @@ const GAME_DATA = {
       "name": "kikyou_(blue_archive)",
       "proper_name": "Kikyou",
       "category": "character",
-      "encrypted_count": "dAFqTA==",
+      "encrypted_count": "C3pveA==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/8/84/Kikyou_Portrait.png/revision/latest?cb=20231122112635"
@@ -976,7 +976,7 @@ const GAME_DATA = {
       "name": "akigumo_(kancolle)",
       "proper_name": "Akigumo",
       "category": "character",
-      "encrypted_count": "dQlrSw==",
+      "encrypted_count": "CnJufw==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e5/Akigumo_Card.png/revision/latest?cb=20180817195311"
@@ -986,7 +986,7 @@ const GAME_DATA = {
       "name": "nagisa_kaworu",
       "proper_name": "Nagisa Kaworu",
       "category": "character",
-      "encrypted_count": "cwBrSQ==",
+      "encrypted_count": "DHtufQ==",
       "copyright": "Neon Genesis Evangelion",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Eva24DC_Kaworu.jpg/230px-Eva24DC_Kaworu.jpg"
@@ -996,7 +996,7 @@ const GAME_DATA = {
       "name": "katyusha_(girls_und_panzer)",
       "proper_name": "Katyusha",
       "category": "character",
-      "encrypted_count": "dANgSQ==",
+      "encrypted_count": "C3hlfQ==",
       "copyright": "Girls und Panzer",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/gup/images/c/ce/Katyusha.png/revision/latest?cb=20170123061132"
@@ -1006,7 +1006,7 @@ const GAME_DATA = {
       "name": "kotomine_kirei",
       "proper_name": "Kotomine Kirei",
       "category": "character",
-      "encrypted_count": "dAJmSw==",
+      "encrypted_count": "C3ljfw==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/typemoon/images/a/aa/Kotomine_kirei.png/revision/latest?cb=20141019084245"
@@ -1016,7 +1016,7 @@ const GAME_DATA = {
       "name": "shirogane_naoto",
       "proper_name": "Shirogane Naoto",
       "category": "character",
-      "encrypted_count": "dAlmQA==",
+      "encrypted_count": "C3JjdA==",
       "copyright": "Persona",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/0/0e/P4A_Naoto.png/revision/latest?cb=20141207153024"
@@ -1026,7 +1026,7 @@ const GAME_DATA = {
       "name": "barnaby_brooks_jr.",
       "proper_name": "Barnaby Brooks Jr.",
       "category": "character",
-      "encrypted_count": "dARjSQ==",
+      "encrypted_count": "C39mfQ==",
       "copyright": "Tiger & Bunny",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/tigerbunny/images/4/43/TIGERandBUNNY-Barnaby.png/revision/latest?cb=20200501193300"
@@ -1036,7 +1036,7 @@ const GAME_DATA = {
       "name": "luna_child",
       "proper_name": "Luna Child",
       "category": "character",
-      "encrypted_count": "dQZrTQ==",
+      "encrypted_count": "Cn1ueQ==",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png/revision/latest?cb=20241205032544"
@@ -1046,7 +1046,7 @@ const GAME_DATA = {
       "name": "nakano_yotsuba",
       "proper_name": "Nakano Yotsuba",
       "category": "character",
-      "encrypted_count": "dAdlTA==",
+      "encrypted_count": "C3xgeA==",
       "copyright": "The Quintessential Quintuplets",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701"
@@ -1056,7 +1056,7 @@ const GAME_DATA = {
       "name": "uchiha_sasuke",
       "proper_name": "Uchiha Sasuke",
       "category": "character",
-      "encrypted_count": "cQdkTw==",
+      "encrypted_count": "Dnxhew==",
       "copyright": "Naruto",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest/scale-to-width-down/1200?cb=20170716092103"
@@ -1066,7 +1066,7 @@ const GAME_DATA = {
       "name": "ayase_momo",
       "proper_name": "Ayase Momo",
       "category": "character",
-      "encrypted_count": "dAhiSw==",
+      "encrypted_count": "C3Nnfw==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/7/78/Momo_Anime_Concept_Art.webp/revision/latest/scale-to-width-down/178?cb=20241024083841"
@@ -1076,7 +1076,7 @@ const GAME_DATA = {
       "name": "ange_katrina",
       "proper_name": "Ange Katrina",
       "category": "character",
-      "encrypted_count": "dANlSw==",
+      "encrypted_count": "C3hgfw==",
       "copyright": "Nijisanji",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/2/29/Ange_Katrina_Portrait.png/revision/latest?cb=20210327041754"
@@ -1086,7 +1086,7 @@ const GAME_DATA = {
       "name": "weiss_schnee",
       "proper_name": "Weiss Schnee",
       "category": "character",
-      "encrypted_count": "cwZgTw==",
+      "encrypted_count": "DH1lew==",
       "copyright": "RWBY",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png/revision/latest?cb=20241205032544"
@@ -1096,7 +1096,7 @@ const GAME_DATA = {
       "name": "itadori_yuuji",
       "proper_name": "Itadori Yuuji",
       "category": "character",
-      "encrypted_count": "dAdrSQ==",
+      "encrypted_count": "C3xufQ==",
       "copyright": "Jujutsu Kaisen",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/66/Yuji_Itadori_-_Anime.jpg/revision/latest?cb=20201031200040&path-prefix=es"
@@ -1106,7 +1106,7 @@ const GAME_DATA = {
       "name": "iskandar_(fate)",
       "proper_name": "Iskandar",
       "category": "character",
-      "encrypted_count": "dAFqQA==",
+      "encrypted_count": "C3pvdA==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
@@ -1116,7 +1116,7 @@ const GAME_DATA = {
       "name": "project_diva_(series)",
       "proper_name": "Project Diva Series",
       "category": "copyright",
-      "encrypted_count": "dQZmTA==",
+      "encrypted_count": "Cn1jeA==",
       "copyright": "Project Diva Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/ruben-the-hedgehog-official/images/4/48/HMPD_Logo.png/revision/latest?cb=20170808141524"
@@ -1126,7 +1126,7 @@ const GAME_DATA = {
       "name": "bloodborne",
       "proper_name": "Bloodborne",
       "category": "copyright",
-      "encrypted_count": "dAVqTA==",
+      "encrypted_count": "C35veA==",
       "copyright": "Bloodborne",
       "material": "Video Game",
       "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Bloodborne-Logo.jpg"
@@ -1136,7 +1136,7 @@ const GAME_DATA = {
       "name": "fresh_precure!",
       "proper_name": "Fresh Precure!",
       "category": "copyright",
-      "encrypted_count": "cwdkQA==",
+      "encrypted_count": "DHxhdA==",
       "copyright": "Precure",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/logopedia/images/9/98/Fresh_Pretty_Cure_(English_2009).png/revision/latest?cb=20230828060448"
@@ -1146,7 +1146,7 @@ const GAME_DATA = {
       "name": "gundam_seed_destiny",
       "proper_name": "Gundam Seed Destiny",
       "category": "copyright",
-      "encrypted_count": "cwdiQA==",
+      "encrypted_count": "DHxndA==",
       "copyright": "Mobile Suit Gundam",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/0/0c/Logo_Mobile_Suit_Gundam_Seed_Destiny.jpg/revision/latest/scale-to-width-down/310?cb=20181204163359"
@@ -1156,7 +1156,7 @@ const GAME_DATA = {
       "name": "shadowverse",
       "proper_name": "Shadowverse",
       "category": "copyright",
-      "encrypted_count": "dARiSA==",
+      "encrypted_count": "C39nfA==",
       "copyright": "Shadowverse",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/shadowverse/images/f/f9/Top_key_logo.png/revision/latest?cb=20161011045849"
@@ -1166,7 +1166,7 @@ const GAME_DATA = {
       "name": "pokemon_rgby",
       "proper_name": "Pokémon Ruby and Sapphire",
       "category": "copyright",
-      "encrypted_count": "cghiQA==",
+      "encrypted_count": "DXNndA==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pokémon_the_Series_Ruby_and_Sapphire_logo.png"
@@ -1176,7 +1176,7 @@ const GAME_DATA = {
       "name": "my_little_pony",
       "proper_name": "My Little Pony",
       "category": "copyright",
-      "encrypted_count": "cgBrTQ==",
+      "encrypted_count": "DXtueQ==",
       "copyright": "My Little Pony",
       "material": "TV Show",
       "image_reference": "https://logos-world.net/wp-content/uploads/2023/04/My-Little-Pony-Logo-2016.png"
@@ -1186,7 +1186,7 @@ const GAME_DATA = {
       "name": "maria-sama_ga_miteru",
       "proper_name": "Maria-sama ga Miteru",
       "category": "copyright",
-      "encrypted_count": "dARiTg==",
+      "encrypted_count": "C39neg==",
       "copyright": "Maria-sama ga Miteru",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/animeland-index/images/6/6a/Maria_sama_ga_miteru.jpg/revision/latest?cb=20220526195420&path-prefix=fr"
@@ -1196,7 +1196,7 @@ const GAME_DATA = {
       "name": "yuzu_(blue_archive)",
       "proper_name": "Yuzu",
       "category": "character",
-      "encrypted_count": "dABjQQ==",
+      "encrypted_count": "C3tmdQ==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/a/ac/Yuzu_Portrait.png/revision/latest?cb=20220420090226"
@@ -1206,7 +1206,7 @@ const GAME_DATA = {
       "name": "aisaka_taiga",
       "proper_name": "Aisaka Taiga",
       "category": "character",
-      "encrypted_count": "dAZlQQ==",
+      "encrypted_count": "C31gdQ==",
       "copyright": "Toradora!",
       "material": "Light Novel",
       "image_reference": "https://anibase.net/files/076c0373d3a43576ada022e81b5be19c/360"
@@ -1216,7 +1216,7 @@ const GAME_DATA = {
       "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
       "proper_name": "Elysia",
       "category": "character",
-      "encrypted_count": "dABkQQ==",
+      "encrypted_count": "C3thdQ==",
       "copyright": "Honkai Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
@@ -1226,7 +1226,7 @@ const GAME_DATA = {
       "name": "falin_touden",
       "proper_name": "Falin Touden",
       "category": "character",
-      "encrypted_count": "dAViTg==",
+      "encrypted_count": "C35neg==",
       "copyright": "Dungeon Meshi",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
@@ -1236,7 +1236,7 @@ const GAME_DATA = {
       "name": "alhaitham_(genshin_impact)",
       "proper_name": "Alhaitham",
       "category": "character",
-      "encrypted_count": "dABkTQ==",
+      "encrypted_count": "C3theQ==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://i.pinimg.com/originals/2f/27/94/2f2794662a6f9ca07076d8fc0fe48f83.png"
@@ -1246,7 +1246,7 @@ const GAME_DATA = {
       "name": "ethan_(pokemon)",
       "proper_name": "Ethan",
       "category": "character",
-      "encrypted_count": "dAdhTA==",
+      "encrypted_count": "C3xkeA==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/Ethan_(Pokémon_Masters).png/revision/latest?cb=20220818005918&path-prefix=protagonist"
@@ -1256,17 +1256,17 @@ const GAME_DATA = {
       "name": "kirito",
       "proper_name": "Kirito",
       "category": "character",
-      "encrypted_count": "dAdnTQ==",
+      "encrypted_count": "C3xieQ==",
       "copyright": "Sword Art Online",
       "material": "Anime",
-      "image_reference": "https://th.bing.com/th/id/R.697fb2d50e0d69348da0defac35ec0a3?rik=muWx4qPyiOwpKg&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fen%2fthumb%2f9%2f90%2fKirito_Sword_Art_Online.png%2f180px-Kirito_Sword_Art_Online.png&ehk=5Rbyk%2be5zvK7ENgv7B3RLI5P7Yguca7%2fpPli4%2fBm5TQ%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Kirito_Sword_Art_Online.png"
     },
     {
       "id": "t0127",
       "name": "yagami_hayate",
       "proper_name": "Yagami Hayate",
       "category": "character",
-      "encrypted_count": "dARjSw==",
+      "encrypted_count": "C39mfw==",
       "copyright": "Magical Girl Lyrical Nanoha",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/nanoha/images/e/ed/Character_hayate.png/revision/latest?cb=20170327192812"
@@ -1276,7 +1276,7 @@ const GAME_DATA = {
       "name": "omori_(omori)",
       "proper_name": "Omori",
       "category": "character",
-      "encrypted_count": "dAFmTg==",
+      "encrypted_count": "C3pjeg==",
       "copyright": "Omori",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/omori/images/c/ce/Group_hug_dw.gif/revision/latest?cb=20220217114528&path-prefix=zh"
@@ -1286,7 +1286,7 @@ const GAME_DATA = {
       "name": "i-58_(kancolle)",
       "proper_name": "I-58",
       "category": "character",
-      "encrypted_count": "dQhkSQ==",
+      "encrypted_count": "CnNhfQ==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/9/96/Ship_Card_I-58.png/218px-Ship_Card_I-58.png"
@@ -1296,17 +1296,17 @@ const GAME_DATA = {
       "name": "sunny_milk",
       "proper_name": "Sunny Milk",
       "category": "character",
-      "encrypted_count": "dQZmSQ==",
+      "encrypted_count": "Cn1jfQ==",
       "copyright": "Touhou Project",
       "material": "Video Game",
-      "image_reference": "https://th.bing.com/th/id/R.62d0c2b92a4635593f1727f810c08ff6?rik=B3r2U8RaTZlOQA&riu=http%3a%2f%2fen.touhouwiki.net%2fimages%2fthumb%2f2%2f22%2fSunny-milk-FW.png%2f275px-Sunny-milk-FW.png&ehk=tt7dV6fBuCY21%2fZDS0SWPDBwvvrP8N1GstB%2bQzTVl8U%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://en.touhouwiki.net/images/2/22/Sunny-milk-FW.png?20101108015940"
     },
     {
       "id": "t0131",
       "name": "ayanami_(azur_lane)",
       "proper_name": "Ayanami",
       "category": "character",
-      "encrypted_count": "dAJgSA==",
+      "encrypted_count": "C3llfA==",
       "copyright": "Azur Lane",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/bhlx/images/0/0a/Ayanami.png/revision/latest?cb=20190519143145"
@@ -1316,7 +1316,7 @@ const GAME_DATA = {
       "name": "jeanne_d'arc_alter_(avenger)_(fate)",
       "proper_name": "Jeanne D'Arc Alter (Avenger)",
       "category": "character",
-      "encrypted_count": "cABlSg==",
+      "encrypted_count": "D3tgfg==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/78/AvengerJeanneAlterStage1nb.png/revision/latest?cb=20211001014408&path-prefix=vi"
@@ -1326,7 +1326,7 @@ const GAME_DATA = {
       "name": "nitocris_(fate)",
       "proper_name": "Nitocris",
       "category": "character",
-      "encrypted_count": "dAJiSQ==",
+      "encrypted_count": "C3lnfQ==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fatedomination/images/4/44/Catalyst_Nitocris.png/revision/latest?cb=20230702184029"
@@ -1336,7 +1336,7 @@ const GAME_DATA = {
       "name": "dusk_(arknights)",
       "proper_name": "Dusk",
       "category": "character",
-      "encrypted_count": "dANmQQ==",
+      "encrypted_count": "C3hjdQ==",
       "copyright": "Arknights",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/mrfz/images/5/5d/Dusk.png/revision/latest?cb=20210205132501"
@@ -1346,7 +1346,7 @@ const GAME_DATA = {
       "name": "juliana_(pokemon)",
       "proper_name": "Juliana",
       "category": "character",
-      "encrypted_count": "dAVlSA==",
+      "encrypted_count": "C35gfA==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Juliana_concept_art.jpg/680px-Juliana_concept_art.jpg"
@@ -1356,7 +1356,7 @@ const GAME_DATA = {
       "name": "mercy_(overwatch)",
       "proper_name": "Mercy",
       "category": "character",
-      "encrypted_count": "cwJrSw==",
+      "encrypted_count": "DHlufw==",
       "copyright": "Overwatch",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/overwatch/images/7/75/Mercy-ow2.png/revision/latest?cb=20201122032817"
@@ -1366,7 +1366,7 @@ const GAME_DATA = {
       "name": "bea_(pokemon)",
       "proper_name": "Bea",
       "category": "character",
-      "encrypted_count": "cwdlSg==",
+      "encrypted_count": "DHxgfg==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://i.pinimg.com/originals/6b/7e/37/6b7e3723b7b1f832563928a9e4b4f65c.png"
@@ -1376,7 +1376,7 @@ const GAME_DATA = {
       "name": "yorigami_jo'on",
       "proper_name": "Yorigami Joon",
       "category": "character",
-      "encrypted_count": "dQdiTQ==",
+      "encrypted_count": "CnxneQ==",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/touhou/images/6/6e/JoonYorigami1.2.png/revision/latest?cb=20230430211416"
@@ -1386,7 +1386,7 @@ const GAME_DATA = {
       "name": "yoshida_yuuko",
       "proper_name": "Yoshida Yuuko",
       "category": "character",
-      "encrypted_count": "dABrTw==",
+      "encrypted_count": "C3tuew==",
       "copyright": "Machikado Mazoku",
       "material": "Anime",
       "image_reference": "https://static.zerochan.net/Yoshida.Yuuko.(Machikado.Mazoku).full.3883983.jpg"
@@ -1396,7 +1396,7 @@ const GAME_DATA = {
       "name": "kel_(omori)",
       "proper_name": "Kel",
       "category": "character",
-      "encrypted_count": "dQlkSQ==",
+      "encrypted_count": "CnJhfQ==",
       "copyright": "Omori",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
@@ -1406,7 +1406,7 @@ const GAME_DATA = {
       "name": "hoto_cocoa",
       "proper_name": "Hoto Cocoa",
       "category": "character",
-      "encrypted_count": "dARgSA==",
+      "encrypted_count": "C39lfA==",
       "copyright": "GochiUsa",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/gochuumon-wa-usagi-desu-ka/images/4/45/Hoto_cocoa_render_by_poppyoreos-d7zaxf6.png/revision/latest?cb=20151024201559&path-prefix=es"
@@ -1416,7 +1416,7 @@ const GAME_DATA = {
       "name": "common_raccoon_(kemono_friends)",
       "proper_name": "Common Raccoon",
       "category": "character",
-      "encrypted_count": "dQhiTw==",
+      "encrypted_count": "CnNnew==",
       "copyright": "Kemono Friends",
       "material": "Anime",
       "image_reference": "https://s1.zerochan.net/Common.Raccoon.(Kemono.Friends).600.3421032.jpg"
@@ -1426,7 +1426,7 @@ const GAME_DATA = {
       "name": "jougasaki_rika",
       "proper_name": "Jougasaki Rika",
       "category": "character",
-      "encrypted_count": "dAZiSw==",
+      "encrypted_count": "C31nfw==",
       "copyright": "The iDOLM@STER",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/17/R_Rare_Rika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107025154"
@@ -1436,7 +1436,7 @@ const GAME_DATA = {
       "name": "kaburagi_t._kotetsu",
       "proper_name": "Kaburagi T. Kotetsu",
       "category": "character",
-      "encrypted_count": "dAJkTw==",
+      "encrypted_count": "C3lhew==",
       "copyright": "Tiger & Bunny",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/1/1b/KotetsuTiger.png"
@@ -1446,7 +1446,7 @@ const GAME_DATA = {
       "name": "lize_helesta",
       "proper_name": "Lize Helesta",
       "category": "character",
-      "encrypted_count": "dAJrSQ==",
+      "encrypted_count": "C3lufQ==",
       "copyright": "Nijisanji",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/1/13/Lize_Helesta_Portrait.png/revision/latest?cb=20210327042159"
@@ -1456,7 +1456,7 @@ const GAME_DATA = {
       "name": "nia_(xenoblade)",
       "proper_name": "Nia",
       "category": "character",
-      "encrypted_count": "dAlmQQ==",
+      "encrypted_count": "C3JjdQ==",
       "copyright": "Xenoblade Chronicles",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
@@ -1466,7 +1466,7 @@ const GAME_DATA = {
       "name": "rika_(pokemon)",
       "proper_name": "Rika",
       "category": "character",
-      "encrypted_count": "dABmTA==",
+      "encrypted_count": "C3tjeA==",
       "copyright": "Pokemon",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/espokemon/images/f/fa/Rika.png/revision/latest?cb=20161129170046"
@@ -1476,7 +1476,7 @@ const GAME_DATA = {
       "name": "waver_velvet",
       "proper_name": "Waver Velvet",
       "category": "character",
-      "encrypted_count": "dAFqSQ==",
+      "encrypted_count": "C3pvfQ==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://i.pinimg.com/originals/c7/af/52/c7af5289325440f1d4372f96af41445a.png"
@@ -1486,7 +1486,7 @@ const GAME_DATA = {
       "name": "oboro_(kancolle)",
       "proper_name": "Oboro",
       "category": "character",
-      "encrypted_count": "dQdrSA==",
+      "encrypted_count": "CnxufA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://w7.pngwing.com/pngs/738/261/png-transparent-kantai-collection-battleship-wiki-japanese-destroyer-oboro-kantai-miscellaneous-computer-wallpaper-fictional-character.png"
@@ -1496,7 +1496,7 @@ const GAME_DATA = {
       "name": "rowlet",
       "proper_name": "Rowlet",
       "category": "character",
-      "encrypted_count": "dANiSg==",
+      "encrypted_count": "C3hnfg==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/f/ff/Rowlet.png/revision/latest?cb=20180622184738&path-prefix=pl"
@@ -1506,7 +1506,7 @@ const GAME_DATA = {
       "name": "miyu_edelfelt",
       "proper_name": "Miyu Edelfelt",
       "category": "character",
-      "encrypted_count": "cwFnSg==",
+      "encrypted_count": "DHpifg==",
       "copyright": "Fate Series",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/typemoon/images/3/37/Miyu_Edelfelt_(Fate_Kaleid_-_Uniforme).png/revision/latest?cb=20200808040558&path-prefix=es"
@@ -1516,7 +1516,7 @@ const GAME_DATA = {
       "name": "final_fantasy_ix",
       "proper_name": "Final Fantasy IX",
       "category": "copyright",
-      "encrypted_count": "cwJgTA==",
+      "encrypted_count": "DHlleA==",
       "copyright": "Final Fantasy",
       "material": "Video Game",
       "image_reference": "https://www.pngmart.com/files/22/Final-Fantasy-IX-Logo-PNG-File.png"
@@ -1526,7 +1526,7 @@ const GAME_DATA = {
       "name": "melty_blood",
       "proper_name": "Melty Blood",
       "category": "copyright",
-      "encrypted_count": "dAlmSA==",
+      "encrypted_count": "C3JjfA==",
       "copyright": "Melty Blood",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/1/16/Melty_Blood.png/revision/latest/scale-to-width-down/1200?cb=20220210035841"
@@ -1536,7 +1536,7 @@ const GAME_DATA = {
       "name": "stellive",
       "proper_name": "Stellive",
       "category": "copyright",
-      "encrypted_count": "dANlTg==",
+      "encrypted_count": "C3hgeg==",
       "copyright": "Stellive",
       "material": "Video Game",
       "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
@@ -1546,7 +1546,7 @@ const GAME_DATA = {
       "name": "summer_pockets",
       "proper_name": "Summer Pockets",
       "category": "copyright",
-      "encrypted_count": "dABhQQ==",
+      "encrypted_count": "C3tkdQ==",
       "copyright": "Summer Pockets",
       "material": "Visual Novel",
       "image_reference": "https://wiki.ruliweb.com/images/thumb/6/66/서머포켓_logo.png/640px-서머포켓_logo.png"
@@ -1556,7 +1556,7 @@ const GAME_DATA = {
       "name": "fire_emblem:_the_sacred_stones",
       "proper_name": "Fire Emblem: The Sacred Stones",
       "category": "copyright",
-      "encrypted_count": "cwVqSg==",
+      "encrypted_count": "DH5vfg==",
       "copyright": "Fire Emblem",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/06/Logo_Fire_Emblem_The_Sacred_Stones.png/revision/latest?cb=20170719171810&path-prefix=es"
@@ -1566,7 +1566,7 @@ const GAME_DATA = {
       "name": "my_little_pony:_friendship_is_magic",
       "proper_name": "My Little Pony: Friendship Is Magic",
       "category": "copyright",
-      "encrypted_count": "cwdlSA==",
+      "encrypted_count": "DHxgfA==",
       "copyright": "My Little Pony",
       "material": "TV Show",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg/640px-My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg.png"
@@ -1576,7 +1576,7 @@ const GAME_DATA = {
       "name": "amber_(genshin_impact)",
       "proper_name": "Amber",
       "category": "character",
-      "encrypted_count": "dAdiQQ==",
+      "encrypted_count": "C3xndQ==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest?cb=20220725204839"
@@ -1586,7 +1586,7 @@ const GAME_DATA = {
       "name": "miura_azusa",
       "proper_name": "Miura Azusa",
       "category": "character",
-      "encrypted_count": "dAZlSw==",
+      "encrypted_count": "C31gfw==",
       "copyright": "The Idolmaster",
       "material": "Video Game",
       "image_reference": "https://project-imas.wiki/images/6/67/MASTER_ARTIST_3_11.jpg"
@@ -1596,7 +1596,7 @@ const GAME_DATA = {
       "name": "toga_himiko",
       "proper_name": "Toga Himiko",
       "category": "character",
-      "encrypted_count": "cQdnSw==",
+      "encrypted_count": "Dnxifw==",
       "copyright": "My Hero Academia",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
@@ -1606,7 +1606,7 @@ const GAME_DATA = {
       "name": "haru_urara_(umamusume)",
       "proper_name": "Haru Urara",
       "category": "character",
-      "encrypted_count": "dQZgTw==",
+      "encrypted_count": "Cn1lew==",
       "copyright": "Umamusume: Pretty Derby",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Haru.Urara.full.3657738.png"
@@ -1616,7 +1616,7 @@ const GAME_DATA = {
       "name": "satonaka_chie",
       "proper_name": "Satonaka Chie",
       "category": "character",
-      "encrypted_count": "cwBlSQ==",
+      "encrypted_count": "DHtgfQ==",
       "copyright": "Persona",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
@@ -1626,7 +1626,7 @@ const GAME_DATA = {
       "name": "harukawa_maki",
       "proper_name": "Harukawa Maki",
       "category": "character",
-      "encrypted_count": "dANgTQ==",
+      "encrypted_count": "C3hleQ==",
       "copyright": "Project Sekai",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Harukawa.Maki.full.4175270.png"
@@ -1636,7 +1636,7 @@ const GAME_DATA = {
       "name": "elysia_(miss_pink_elf)_(honkai_impact)",
       "proper_name": "Elysia (Miss Pink Elf)",
       "category": "character",
-      "encrypted_count": "dQZrSw==",
+      "encrypted_count": "Cn1ufw==",
       "copyright": "Honkai Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4c/Elf_Elysia.png/revision/latest?cb=20220916070416"
@@ -1646,7 +1646,7 @@ const GAME_DATA = {
       "name": "z1_leberecht_maass_(kancolle)",
       "proper_name": "Z1 Leberecht Maass",
       "category": "character",
-      "encrypted_count": "dAFlTg==",
+      "encrypted_count": "C3pgeg==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
@@ -1656,7 +1656,7 @@ const GAME_DATA = {
       "name": "dizzy_(guilty_gear)",
       "proper_name": "Dizzy",
       "category": "character",
-      "encrypted_count": "cwBnTQ==",
+      "encrypted_count": "DHtieQ==",
       "copyright": "Guilty Gear",
       "material": "Video Game",
       "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
@@ -1666,7 +1666,7 @@ const GAME_DATA = {
       "name": "arima_kana",
       "proper_name": "Arima Kana",
       "category": "character",
-      "encrypted_count": "dAJiTg==",
+      "encrypted_count": "C3lneg==",
       "copyright": "Kagurazaka Kyouka",
       "material": "Anime",
       "image_reference": "https://i.pinimg.com/originals/b8/54/67/b854676be50d9e15483c0aac5c85901b.png"
@@ -1676,7 +1676,7 @@ const GAME_DATA = {
       "name": "castorice_(honkai:_star_rail)",
       "proper_name": "Castorice",
       "category": "character",
-      "encrypted_count": "dQhqTA==",
+      "encrypted_count": "CnNveA==",
       "copyright": "Honkai: Star Rail",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
@@ -1686,7 +1686,7 @@ const GAME_DATA = {
       "name": "hagiwara_yukiho",
       "proper_name": "Hagiwara Yukiho",
       "category": "character",
-      "encrypted_count": "dAVkTw==",
+      "encrypted_count": "C35hew==",
       "copyright": "The Idolmaster",
       "material": "Video Game",
       "image_reference": "https://project-imas.wiki/images/4/45/MASTER_ARTIST_4_11.png"
@@ -1696,7 +1696,7 @@ const GAME_DATA = {
       "name": "serika_(blue_archive)",
       "proper_name": "Serika",
       "category": "character",
-      "encrypted_count": "dQhrTg==",
+      "encrypted_count": "CnNueg==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/68195-1831388089.png"
@@ -1706,7 +1706,7 @@ const GAME_DATA = {
       "name": "taihou_(kancolle)",
       "proper_name": "Taihou",
       "category": "character",
-      "encrypted_count": "dAFiSw==",
+      "encrypted_count": "C3pnfw==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/b/b1/Ship_Card_Taihou_Damaged.png"
@@ -1716,7 +1716,7 @@ const GAME_DATA = {
       "name": "illustrious_(azur_lane)",
       "proper_name": "Illustrious",
       "category": "character",
-      "encrypted_count": "dAJlTA==",
+      "encrypted_count": "C3lgeA==",
       "copyright": "Azur Lane",
       "material": "Video Game",
       "image_reference": "https://azurlane.netojuu.com/images/3/39/Illustrious.png"
@@ -1726,7 +1726,7 @@ const GAME_DATA = {
       "name": "hex_maniac_(pokemon_xy)",
       "proper_name": "Hex Maniac",
       "category": "character",
-      "encrypted_count": "cABrQA==",
+      "encrypted_count": "D3tudA==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/07/HexManiac.png/revision/latest?cb=20211128202648"
@@ -1736,17 +1736,17 @@ const GAME_DATA = {
       "name": "dimitri_alexandre_blaiddyd",
       "proper_name": "Dimitri Alexandre Blaiddyd",
       "category": "character",
-      "encrypted_count": "dARlSw==",
+      "encrypted_count": "C39gfw==",
       "copyright": "Fire Emblem",
       "material": "Video Game",
-      "image_reference": "https://th.bing.com/th/id/R.a7173bbb179b85f241f2ee8443c93049?rik=g7bXgDTiZYH7eA&riu=http%3a%2f%2fpm1.aminoapps.com%2f7315%2fb0ec506527b22caef53bee4a39c95191ca28b14br1-1100-1100v2_uhq.jpg&ehk=arOKx1pGnQX6vtITz9NpXpAM95upFmR2cNqRuI81QW8%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
     },
     {
       "id": "t0175",
       "name": "koseki_bijou",
       "proper_name": "Koseki Bijou",
       "category": "character",
-      "encrypted_count": "dABmSA==",
+      "encrypted_count": "C3tjfA==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikitide.net/hololivewiki/9/9f/Koseki_Bijou_-_Portrait_01.png"
@@ -1756,7 +1756,7 @@ const GAME_DATA = {
       "name": "raora_panthera",
       "proper_name": "Raora Panthera",
       "category": "character",
-      "encrypted_count": "dAFiSg==",
+      "encrypted_count": "C3pnfg==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
@@ -1766,7 +1766,7 @@ const GAME_DATA = {
       "name": "wei_wuxian",
       "proper_name": "Wei Wuxian",
       "category": "character",
-      "encrypted_count": "dABhSw==",
+      "encrypted_count": "C3tkfw==",
       "copyright": "Mo Dao Zu Shi",
       "material": "Novel",
       "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mdzs_wwx_1.png"
@@ -1776,7 +1776,7 @@ const GAME_DATA = {
       "name": "tsukishiro_yanagi",
       "proper_name": "Tsukishiro Yanagi",
       "category": "character",
-      "encrypted_count": "dQlqTA==",
+      "encrypted_count": "CnJveA==",
       "copyright": "Zenless Zone Zero",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
@@ -1786,7 +1786,7 @@ const GAME_DATA = {
       "name": "z3_max_schultz_(kancolle)",
       "proper_name": "Z3 Max Schultz",
       "category": "character",
-      "encrypted_count": "dABmTQ==",
+      "encrypted_count": "C3tjeQ==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/1/10/Z3.png/revision/latest?cb=20150604195539&path-prefix=protagonist"
@@ -1796,7 +1796,7 @@ const GAME_DATA = {
       "name": "tokitsukaze_(kancolle)",
       "proper_name": "Tokitsukaze",
       "category": "character",
-      "encrypted_count": "dQlkSw==",
+      "encrypted_count": "CnJhfw==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
@@ -1806,7 +1806,7 @@ const GAME_DATA = {
       "name": "jinx_(league_of_legends)",
       "proper_name": "Jinx",
       "category": "character",
-      "encrypted_count": "cwNiQQ==",
+      "encrypted_count": "DHhndQ==",
       "copyright": "League of Legends",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
@@ -1816,7 +1816,7 @@ const GAME_DATA = {
       "name": "kamado_nezuko",
       "proper_name": "Kamado Nezuko",
       "category": "character",
-      "encrypted_count": "cwJjSQ==",
+      "encrypted_count": "DHlmfQ==",
       "copyright": "Demon Slayer",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Nezuko_anime.png/revision/latest?cb=20211119014953"
@@ -1826,7 +1826,7 @@ const GAME_DATA = {
       "name": "atlanta_(kancolle)",
       "proper_name": "Atlanta",
       "category": "character",
-      "encrypted_count": "dQlmSg==",
+      "encrypted_count": "CnJjfg==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/42711-1127415922.png"
@@ -1836,7 +1836,7 @@ const GAME_DATA = {
       "name": "phase_connect",
       "proper_name": "Phase Connect",
       "category": "copyright",
-      "encrypted_count": "dAhqSg==",
+      "encrypted_count": "C3Nvfg==",
       "copyright": "Phase Connect",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/phase_connect___logo.png"
@@ -1846,7 +1846,7 @@ const GAME_DATA = {
       "name": "hazbin_hotel",
       "proper_name": "Hazbin Hotel",
       "category": "copyright",
-      "encrypted_count": "dANjSQ==",
+      "encrypted_count": "C3hmfQ==",
       "copyright": "Hazbin Hotel",
       "material": "Anime",
       "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
@@ -1856,7 +1856,7 @@ const GAME_DATA = {
       "name": "ado_(utaite)",
       "proper_name": "Ado",
       "category": "copyright",
-      "encrypted_count": "dABqTg==",
+      "encrypted_count": "C3tveg==",
       "copyright": "Ado",
       "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
     },
@@ -1865,7 +1865,7 @@ const GAME_DATA = {
       "name": "pokemon_journeys",
       "proper_name": "Pokémon Journeys",
       "category": "copyright",
-      "encrypted_count": "cwRgSg==",
+      "encrypted_count": "DH9lfg==",
       "copyright": "Pokémon",
       "material": "Anime",
       "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
@@ -1875,7 +1875,7 @@ const GAME_DATA = {
       "name": "mega_man_zero_(series)",
       "proper_name": "Mega Man Zero Series",
       "category": "copyright",
-      "encrypted_count": "cwFrTA==",
+      "encrypted_count": "DHpueA==",
       "copyright": "Mega Man",
       "material": "Video Game",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
@@ -1885,7 +1885,7 @@ const GAME_DATA = {
       "name": "tsukihime_(remake)",
       "proper_name": "Tsukihime Remake",
       "category": "copyright",
-      "encrypted_count": "dQJjSg==",
+      "encrypted_count": "Cnlmfg==",
       "copyright": "Tsukihime",
       "material": "Visual Novel",
       "image_reference": "https://tsukihime-en.com/assets/img/main/logo.png"
@@ -1895,7 +1895,7 @@ const GAME_DATA = {
       "name": "shin_megami_tensei",
       "proper_name": "Shin Megami Tensei",
       "category": "copyright",
-      "encrypted_count": "cANrTQ==",
+      "encrypted_count": "D3hueQ==",
       "copyright": "Shin Megami Tensei",
       "material": "Video Game",
       "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/6/66/Shin_Megami_Tensei_logo.svg/800px-Shin_Megami_Tensei_logo.svg.png"
@@ -1905,7 +1905,7 @@ const GAME_DATA = {
       "name": "sylveon",
       "proper_name": "Sylveon",
       "category": "character",
-      "encrypted_count": "cwBkQA==",
+      "encrypted_count": "DHthdA==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/pokemonopedia/images/b/b2/Shiny2.png/revision/latest?cb=20141109112421&path-prefix=pl"
@@ -1915,7 +1915,7 @@ const GAME_DATA = {
       "name": "nia_teppelin",
       "proper_name": "Nia Teppelin",
       "category": "character",
-      "encrypted_count": "dAJhSg==",
+      "encrypted_count": "C3lkfg==",
       "copyright": "Tengen Toppa Gurren Lagann",
       "material": "Anime",
       "image_reference": "https://vignette2.wikia.nocookie.net/gurennlagann/images/6/60/Nialove.jpg/revision/latest?cb=20131125032633"
@@ -1925,7 +1925,7 @@ const GAME_DATA = {
       "name": "nanashi_mumei_(1st_costume)",
       "proper_name": "Nanashi Mumei (1st Costume)",
       "category": "character",
-      "encrypted_count": "dQZgQQ==",
+      "encrypted_count": "Cn1ldQ==",
       "copyright": "Hololive Production",
       "material": "Virtual Youtubers",
       "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Nanashi-Mumei_pr-img_02.png"
@@ -1935,7 +1935,7 @@ const GAME_DATA = {
       "name": "omaru_polka",
       "proper_name": "Omaru Polka",
       "category": "character",
-      "encrypted_count": "dAFnTw==",
+      "encrypted_count": "C3piew==",
       "copyright": "Hololive Production",
       "material": "Virtual Youtubers",
       "image_reference": "https://www.previewsworld.com/SiteImage/MainImage/STL314355.jpg"
@@ -1945,7 +1945,7 @@ const GAME_DATA = {
       "name": "warspite_(kancolle)",
       "proper_name": "Warspite",
       "category": "character",
-      "encrypted_count": "dQZqSA==",
+      "encrypted_count": "Cn1vfA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/3b/Ship_Card_Warspite.png/218px-Ship_Card_Warspite.png"
@@ -1955,7 +1955,7 @@ const GAME_DATA = {
       "name": "reizei_mako",
       "proper_name": "Reizei Mako",
       "category": "character",
-      "encrypted_count": "dQhgQQ==",
+      "encrypted_count": "CnNldQ==",
       "copyright": "Kantai Collection",
       "material": "Anime",
       "image_reference": "https://img10.reactor.cc/pics/post/full/Girls-und-Panzer-Anime-reizei-mako-sazanka-4507628.png"
@@ -1965,7 +1965,7 @@ const GAME_DATA = {
       "name": "charizard",
       "proper_name": "Charizard",
       "category": "character",
-      "encrypted_count": "dAliSQ==",
+      "encrypted_count": "C3JnfQ==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
@@ -1975,7 +1975,7 @@ const GAME_DATA = {
       "name": "trafalgar_law",
       "proper_name": "Trafalgar Law",
       "category": "character",
-      "encrypted_count": "cwlrSg==",
+      "encrypted_count": "DHJufg==",
       "copyright": "One Piece",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240109232516&path-prefix=pt"
@@ -1985,7 +1985,7 @@ const GAME_DATA = {
       "name": "jeanne_d'arc_(ruler)_(fate)",
       "proper_name": "Jeanne d'Arc (Ruler)",
       "category": "character",
-      "encrypted_count": "fwRhSA==",
+      "encrypted_count": "AH9kfA==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://get.wallhere.com/photo/Fate-Series-Fate-Apocrypha-anime-girls-Ruler-Fate-Apocrypha-Jeanne-d-Arc-blonde-1504105.jpg"
@@ -1995,7 +1995,7 @@ const GAME_DATA = {
       "name": "yuki_setsuna",
       "proper_name": "Yuki Setsuna",
       "category": "character",
-      "encrypted_count": "cgJiSw==",
+      "encrypted_count": "DXlnfw==",
       "copyright": "Love Live! Series",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/love-live/images/a/ab/PDP_Profile_Image_-_Setsuna_Yuki.png/revision/latest?cb=20181005192611"
@@ -2005,7 +2005,7 @@ const GAME_DATA = {
       "name": "tsunomaki_watame",
       "proper_name": "Tsunomaki Watame",
       "category": "character",
-      "encrypted_count": "dAFiSQ==",
+      "encrypted_count": "C3pnfQ==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
@@ -2015,7 +2015,7 @@ const GAME_DATA = {
       "name": "maekawa_miku",
       "proper_name": "Maekawa Miku",
       "category": "character",
-      "encrypted_count": "dABiTA==",
+      "encrypted_count": "C3tneA==",
       "copyright": "Idolmaster Cinderalla Girls",
       "material": "Anime",
       "image_reference": "https://m.project-imas.wiki/images/thumb/3/3c/Miku_SS.png/300px-Miku_SS.png"
@@ -2025,7 +2025,7 @@ const GAME_DATA = {
       "name": "elizabeth_bathory_(fate)",
       "proper_name": "Elizabeth Bathory",
       "category": "character",
-      "encrypted_count": "dANnSw==",
+      "encrypted_count": "C3hifw==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/2/29/S018_Stage1.webp/revision/latest?cb=20220910082212"
@@ -2035,7 +2035,7 @@ const GAME_DATA = {
       "name": "changli_(wuthering_waves)",
       "proper_name": "Changli",
       "category": "character",
-      "encrypted_count": "dQhqQA==",
+      "encrypted_count": "CnNvdA==",
       "copyright": "Wuthering Waves",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Changli_Introduction.png/revision/latest?cb=20240518045554"
@@ -2045,7 +2045,7 @@ const GAME_DATA = {
       "name": "sheryl_nome",
       "proper_name": "Sheryl Nome",
       "category": "character",
-      "encrypted_count": "dAVrSg==",
+      "encrypted_count": "C35ufg==",
       "copyright": "Macross",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/macross/images/e/e1/Sheryl_Nome.jpg/revision/latest?cb=20090430231804&path-prefix=de"
@@ -2055,7 +2055,7 @@ const GAME_DATA = {
       "name": "uehara_ayumu",
       "proper_name": "Uehara Ayumu",
       "category": "character",
-      "encrypted_count": "cwhiSw==",
+      "encrypted_count": "DHNnfw==",
       "copyright": "Love Live! Series",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
@@ -2065,7 +2065,7 @@ const GAME_DATA = {
       "name": "blue_oak",
       "proper_name": "Blue Oak",
       "category": "character",
-      "encrypted_count": "dQhjQA==",
+      "encrypted_count": "CnNmdA==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://comicvine.gamespot.com/a/uploads/square_medium/11/114183/5216642-243px-heartgold_soulsilver_blue.png"
@@ -2075,7 +2075,7 @@ const GAME_DATA = {
       "name": "aoba_(kancolle)",
       "proper_name": "Aoba",
       "category": "character",
-      "encrypted_count": "dQdkQQ==",
+      "encrypted_count": "CnxhdQ==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/4/42/Aoba.png/revision/latest?cb=20140504163245&path-prefix=protagonist"
@@ -2085,7 +2085,7 @@ const GAME_DATA = {
       "name": "iroha_(blue_archive)",
       "proper_name": "Iroha",
       "category": "character",
-      "encrypted_count": "dAFkQQ==",
+      "encrypted_count": "C3phdQ==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikitide.net/bluearchivewiki/b/bf/Iroha.png?version=03ef775c67f6cd088ca023ceabf87467"
@@ -2095,7 +2095,7 @@ const GAME_DATA = {
       "name": "lum",
       "proper_name": "Lum",
       "category": "character",
-      "encrypted_count": "cwBrSQ==",
+      "encrypted_count": "DHtufQ==",
       "copyright": "Urusei Yatsura",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/urusei/images/8/80/Lum_wikia.jpg/revision/latest?cb=20210717072234"
@@ -2105,7 +2105,7 @@ const GAME_DATA = {
       "name": "darkness_(konosuba)",
       "proper_name": "Darkness",
       "category": "character",
-      "encrypted_count": "cwNjTA==",
+      "encrypted_count": "DHhmeA==",
       "copyright": "KonoSuba",
       "material": "Light Novel",
       "image_reference": "https://vignette.wikia.nocookie.net/konofan/images/7/7a/DarknessModel.png/revision/latest?cb=20200302090208"
@@ -2115,7 +2115,7 @@ const GAME_DATA = {
       "name": "lucario",
       "proper_name": "Lucario",
       "category": "character",
-      "encrypted_count": "cwdmSg==",
+      "encrypted_count": "DHxjfg==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
@@ -2125,7 +2125,7 @@ const GAME_DATA = {
       "name": "fusou_(kancolle)",
       "proper_name": "Fusou",
       "category": "character",
-      "encrypted_count": "dQZkTQ==",
+      "encrypted_count": "Cn1heQ==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Fusou.(Kantai.Collection).full.4129880.jpg"
@@ -2135,7 +2135,7 @@ const GAME_DATA = {
       "name": "satou_kazuma",
       "proper_name": "Kazuma Satou",
       "category": "character",
-      "encrypted_count": "dAJqTw==",
+      "encrypted_count": "C3lvew==",
       "copyright": "KonoSuba",
       "material": "Light Novel",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/44/Kazuma_Sato.png"
@@ -2145,7 +2145,7 @@ const GAME_DATA = {
       "name": "mari_(omori)",
       "proper_name": "Mari",
       "category": "character",
-      "encrypted_count": "dANqTQ==",
+      "encrypted_count": "C3hveQ==",
       "copyright": "Omori",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/omori/images/d/d1/DW_Mari_Fullbody_Profile.png/revision/latest?cb=20221031040609"
@@ -2155,7 +2155,7 @@ const GAME_DATA = {
       "name": "kuma_(kancolle)",
       "proper_name": "Kuma",
       "category": "character",
-      "encrypted_count": "dQdqQA==",
+      "encrypted_count": "CnxvdA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
@@ -2165,7 +2165,7 @@ const GAME_DATA = {
       "name": "i-401_(kancolle)",
       "proper_name": "I-401",
       "category": "character",
-      "encrypted_count": "dQllTg==",
+      "encrypted_count": "CnJgeg==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/35/Ship_Card_I-401.png/218px-Ship_Card_I-401.png"
@@ -2175,7 +2175,7 @@ const GAME_DATA = {
       "name": "piplup",
       "proper_name": "Piplup",
       "category": "character",
-      "encrypted_count": "dARiSg==",
+      "encrypted_count": "C39nfg==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork0393_DLPS.png/1200px-Artwork0393_DLPS.png"
@@ -2185,7 +2185,7 @@ const GAME_DATA = {
       "name": "mizi_(alien_stage)",
       "proper_name": "Mizi",
       "category": "character",
-      "encrypted_count": "dQdqQA==",
+      "encrypted_count": "CnxvdA==",
       "copyright": "Alien Stage",
       "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
     },
@@ -2194,7 +2194,7 @@ const GAME_DATA = {
       "name": "admire_vega_(umamusume)",
       "proper_name": "Admire Vega",
       "category": "character",
-      "encrypted_count": "dQdmTQ==",
+      "encrypted_count": "CnxjeQ==",
       "copyright": "Umamusume: Pretty Derby",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Admire.Vega.full.3896993.jpg"
@@ -2204,7 +2204,7 @@ const GAME_DATA = {
       "name": "sakurai_momoka",
       "proper_name": "Sakurai Momoka",
       "category": "character",
-      "encrypted_count": "dAdnTw==",
+      "encrypted_count": "C3xiew==",
       "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/72/Sakurai_Momoka.png/revision/latest?cb=20230408124811"
     },
     {
@@ -2212,7 +2212,7 @@ const GAME_DATA = {
       "name": "nagisa_(blue_archive)",
       "proper_name": "Nagisa",
       "category": "character",
-      "encrypted_count": "dQlgSA==",
+      "encrypted_count": "CnJlfA==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://anibase.net/files/fb589f518d8061b9dca4353fcf8ab473"
@@ -2222,7 +2222,7 @@ const GAME_DATA = {
       "name": "mostima_(arknights)",
       "proper_name": "Mostima",
       "category": "character",
-      "encrypted_count": "dQhrQQ==",
+      "encrypted_count": "CnNudQ==",
       "copyright": "Arknights",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/mrfz/images/3/31/Mostima.png/revision/latest?cb=20200520090244"
@@ -2232,7 +2232,7 @@ const GAME_DATA = {
       "name": "matsuura_kanan",
       "proper_name": "Matsuura Kanan",
       "category": "character",
-      "encrypted_count": "cgFlSA==",
+      "encrypted_count": "DXpgfA==",
       "copyright": "Love Live!",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
@@ -2242,7 +2242,7 @@ const GAME_DATA = {
       "name": "kumano_(kancolle)",
       "proper_name": "Kumano",
       "category": "character",
-      "encrypted_count": "dQlhTA==",
+      "encrypted_count": "CnJkeA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/9/9e/Kumano_Kan.jpg/revision/latest/scale-to-width-down/317?cb=20220811111454"
@@ -2252,7 +2252,7 @@ const GAME_DATA = {
       "name": "kiyohime_(fate)",
       "proper_name": "Kiyohime",
       "category": "character",
-      "encrypted_count": "dAFkQA==",
+      "encrypted_count": "C3phdA==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
@@ -2262,17 +2262,17 @@ const GAME_DATA = {
       "name": "yuri!!!_on_ice",
       "proper_name": "Yuri!!! on ICE",
       "category": "copyright",
-      "encrypted_count": "dAJjTg==",
+      "encrypted_count": "C3lmeg==",
       "copyright": "Yuri!!! on ICE",
       "material": "Anime",
-      "image_reference": "https://th.bing.com/th/id/R.62a6e79a12784916bc819fcf137cc8bc?rik=VxQtNl0pf%2bj%2fYQ&riu=http%3a%2f%2fyurionice.com%2fimages%2fmainLogo.png&ehk=V0gbiYK2kfMQDsDdNMJm0eftS1IQ6SA3woCO1%2fy06Jw%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6YWsFdsN90j7jwUoV9LzaEFb96hoevDz1A--O3VGX_DqgBhW4Zj1pJGBIwN25bKoiUybLw"
     },
     {
       "id": "t0228",
       "name": "futari_wa_precure",
       "proper_name": "Futari wa Precure",
       "category": "copyright",
-      "encrypted_count": "cwNhQQ==",
+      "encrypted_count": "DHhkdQ==",
       "copyright": "Futari wa Precure",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
@@ -2282,7 +2282,7 @@ const GAME_DATA = {
       "name": "overlord_(maruyama)",
       "proper_name": "Overlord",
       "category": "copyright",
-      "encrypted_count": "cgNmTw==",
+      "encrypted_count": "DXhjew==",
       "copyright": "Overlord",
       "material": "Light Novel",
       "image_reference": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Overlord_logo.png"
@@ -2292,7 +2292,7 @@ const GAME_DATA = {
       "name": "nichijou",
       "proper_name": "Nichijou",
       "category": "copyright",
-      "encrypted_count": "cwBkTA==",
+      "encrypted_count": "DHtheA==",
       "copyright": "Nichijou",
       "material": "Anime",
       "image_reference": "https://nichijou.wiki.gg/images/e/e6/Site-logo.png"
@@ -2302,17 +2302,17 @@ const GAME_DATA = {
       "name": "kid_icarus_uprising",
       "proper_name": "Kid Icarus: Uprising",
       "category": "copyright",
-      "encrypted_count": "cwBrTQ==",
+      "encrypted_count": "DHtueQ==",
       "copyright": "Kid Icarus: Uprising",
       "material": "Video Game",
-      "image_reference": "https://th.bing.com/th/id/R.9b2dd055068e1b946f8738a71680c3f9?rik=EVKY8a%2bEgsH11Q&riu=http%3a%2f%2fimg3.wikia.nocookie.net%2f__cb20110518221502%2fnintendo3ds%2fimages%2ff%2ff8%2fKid_Icarus_Uprising_logo.png&ehk=n2Gx3bMAcK7vn2mLZTedKUS8ygh8F9G15F5TS6YwmeA%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdlhz0SDnycIXAyHMifpNYjHFY6xq8cTkg2sR9Ff8zE9PQAbqyap13XnTJ0g4_WFdFg8WvA"
     },
     {
       "id": "t0232",
       "name": "tokyo_ghoul",
       "proper_name": "Tokyo Ghoul",
       "category": "copyright",
-      "encrypted_count": "dANlSw==",
+      "encrypted_count": "C3hgfw==",
       "copyright": "Tokyo Ghoul",
       "material": "Manga",
       "image_reference": "https://bayanbox.ir/view/167939588418032986/tokyo-ghoul-logo-png.png"
@@ -2322,7 +2322,7 @@ const GAME_DATA = {
       "name": "fire_emblem_echoes:_shadows_of_valentia",
       "proper_name": "Fire Emblem Echoes: Shadows of Valentia",
       "category": "copyright",
-      "encrypted_count": "dAhnQA==",
+      "encrypted_count": "C3NidA==",
       "copyright": "Fire Emblem Echoes: Shadows of Valentia",
       "material": "Video Game",
       "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/c/c9/Fire_Emblem_Echoes_logo.png/400px-Fire_Emblem_Echoes_logo.png"
@@ -2332,7 +2332,7 @@ const GAME_DATA = {
       "name": "22/7",
       "proper_name": "22/7",
       "category": "copyright",
-      "encrypted_count": "dABmQQ==",
+      "encrypted_count": "C3tjdQ==",
       "copyright": "22/7",
       "material": "Anime",
       "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/ff/Nanabun_no_Nijuuni.jpg"
@@ -2342,7 +2342,7 @@ const GAME_DATA = {
       "name": "final_fantasy_vii_ever_crisis",
       "proper_name": "Final Fantasy VII: Ever Crisis",
       "category": "copyright",
-      "encrypted_count": "dAFmQA==",
+      "encrypted_count": "C3pjdA==",
       "copyright": "Final Fantasy VII: Ever Crisis",
       "material": "Video Game",
       "image_reference": "https://www.rpgfan.com/wp-content/uploads/2021/02/Final-Fantasy-VII-Ever-Crisis-Logo-001-1134x720.jpg"
@@ -2352,7 +2352,7 @@ const GAME_DATA = {
       "name": "kara_no_kyoukai",
       "proper_name": "Kara no Kyoukai",
       "category": "copyright",
-      "encrypted_count": "dANrSg==",
+      "encrypted_count": "C3hufg==",
       "copyright": "Kara no Kyoukai",
       "material": "Light Novel",
       "image_reference": "https://static.wikia.nocookie.net/typemoon/images/f/f0/KnK_logo.png/revision/latest?cb=20130716091824"
@@ -2362,7 +2362,7 @@ const GAME_DATA = {
       "name": "azumanga_daioh",
       "proper_name": "Azumanga Daioh",
       "category": "copyright",
-      "encrypted_count": "dgFkSg==",
+      "encrypted_count": "CXphfg==",
       "copyright": "Azumanga Daioh",
       "material": "Manga",
       "image_reference": "https://static.wikitide.net/bearboneswiki/f/f3/Azumanga_Daioh_logo.png"
@@ -2372,7 +2372,7 @@ const GAME_DATA = {
       "name": "snk",
       "proper_name": "Shingeki no Kyojin",
       "category": "copyright",
-      "encrypted_count": "dQZqTwU=",
+      "encrypted_count": "Cn1ve1g=",
       "copyright": "Attack on Titan",
       "material": "Manga",
       "image_reference": "https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo.png"
@@ -2382,7 +2382,7 @@ const GAME_DATA = {
       "name": "yu-gi-oh!_5d's",
       "proper_name": "Yu-Gi-Oh! 5D's",
       "category": "copyright",
-      "encrypted_count": "cwdrSQ==",
+      "encrypted_count": "DHxufQ==",
       "copyright": "Yu-Gi-Oh! 5D's",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/yugioh/images/e/e1/Yu-Gi-Oh!_5Ds_logo.png/revision/latest?cb=20091226000453"
@@ -2392,7 +2392,7 @@ const GAME_DATA = {
       "name": "go!_princess_precure",
       "proper_name": "Go! Princess Precure",
       "category": "copyright",
-      "encrypted_count": "dAVkSg==",
+      "encrypted_count": "C35hfg==",
       "copyright": "Go! Princess Precure",
       "material": "Anime",
       "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrfro-dcc080fa-8f6b-4627-8407-2319854f47c9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q2YWJjMzkwLTg1MDktNGZhNC05ODY3LTM5OGRkNDgwNDYzY1wvZGVmcmZyby1kY2MwODBmYS04ZjZiLTQ2MjctODQwNy0yMzE5ODU0ZjQ3YzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2xLM9AVlQ7ftXi5qUhHR2nTYna4SpFJ1rA54XuwW0DA"
@@ -2402,7 +2402,7 @@ const GAME_DATA = {
       "name": "fennec_(kemono_friends)",
       "proper_name": "Fennec",
       "category": "character",
-      "encrypted_count": "dQZjSw==",
+      "encrypted_count": "Cn1mfw==",
       "copyright": "Kemono Friends",
       "material": "Anime",
       "image_reference": "https://www.japari-library.com/images/8/8b/Fennec_FoxOriginal.png"
@@ -2412,7 +2412,7 @@ const GAME_DATA = {
       "name": "angelina_(arknights)",
       "proper_name": "Angelina",
       "category": "character",
-      "encrypted_count": "dQhjTg==",
+      "encrypted_count": "CnNmeg==",
       "copyright": "Arknights",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/mrfz/images/9/9b/Angelina.png/revision/latest?cb=20190620082323"
@@ -2422,7 +2422,7 @@ const GAME_DATA = {
       "name": "houjou_satoko",
       "proper_name": "Houjou Satoko",
       "category": "character",
-      "encrypted_count": "dAJrQQ==",
+      "encrypted_count": "C3ludQ==",
       "copyright": "Higurashi When They Cry",
       "material": "Visual Novel",
       "image_reference": "https://static.wikitide.net/whentheycrywiki/1/16/Alc_sa1a_def_a1_2.png?version=412d4aa183c927277ad2171f039940c1"
@@ -2432,7 +2432,7 @@ const GAME_DATA = {
       "name": "matara_okina",
       "proper_name": "Matara Okina",
       "category": "character",
-      "encrypted_count": "dQVlTQ==",
+      "encrypted_count": "Cn5geQ==",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://pm1.narvii.com/6626/12a7432efa65b8fd5cc4aa821a60c67f99850263_hq.jpg"
@@ -2442,7 +2442,7 @@ const GAME_DATA = {
       "name": "lana_(pokemon)",
       "proper_name": "Lana",
       "category": "character",
-      "encrypted_count": "cgdgTQ==",
+      "encrypted_count": "DXxleQ==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
@@ -2452,7 +2452,7 @@ const GAME_DATA = {
       "name": "lelouch_vi_britannia",
       "proper_name": "Lelouch vi Britannia",
       "category": "character",
-      "encrypted_count": "dAJiTQ==",
+      "encrypted_count": "C3lneQ==",
       "copyright": "Code Geass",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/codegeass/images/0/0a/Lelouch_empereur.jpg/revision/latest?cb=20150611020318&path-prefix=fr"
@@ -2462,7 +2462,7 @@ const GAME_DATA = {
       "name": "qiqi_(genshin_impact)",
       "proper_name": "Qiqi",
       "category": "character",
-      "encrypted_count": "dABmTw==",
+      "encrypted_count": "C3tjew==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8b/Personagem_Qiqi_Cartão.jpg/revision/latest?cb=20210330004500&path-prefix=pt-br"
@@ -2472,7 +2472,7 @@ const GAME_DATA = {
       "name": "laios_touden",
       "proper_name": "Laios Touden",
       "category": "character",
-      "encrypted_count": "dQZiTQ==",
+      "encrypted_count": "Cn1neQ==",
       "image_reference": "https://static.wikitide.net/thefinalrumblewiki/8/82/Laius_Thorden.png"
     },
     {
@@ -2480,7 +2480,7 @@ const GAME_DATA = {
       "name": "kanna_kamui",
       "proper_name": "Kanna Kamui",
       "category": "character",
-      "encrypted_count": "cgZjTg==",
+      "encrypted_count": "DX1meg==",
       "copyright": "Miss Kobayashi's Dragon Maid",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png/revision/latest?cb=20180225164809"
@@ -2490,7 +2490,7 @@ const GAME_DATA = {
       "name": "asakura_toru",
       "proper_name": "Asakura Toru",
       "category": "character",
-      "encrypted_count": "dAFnQQ==",
+      "encrypted_count": "C3pidQ==",
       "image_reference": "https://image.shinycolors.wiki/thumb/2/2d/ToruProfile.png/400px-ToruProfile.png"
     },
     {
@@ -2498,7 +2498,7 @@ const GAME_DATA = {
       "name": "wa2000_(girls'_frontline)",
       "proper_name": "WA2000",
       "category": "character",
-      "encrypted_count": "dQdhQA==",
+      "encrypted_count": "CnxkdA==",
       "copyright": "Girls' Frontline",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/girls-frontline/images/5/54/WA2000_S.png/revision/latest?cb=20240716105711&path-prefix=ru"
@@ -2508,7 +2508,7 @@ const GAME_DATA = {
       "name": "kicchou_yachie",
       "proper_name": "Kicchou Yachie",
       "category": "character",
-      "encrypted_count": "dQRkTA==",
+      "encrypted_count": "Cn9heA==",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
@@ -2518,7 +2518,7 @@ const GAME_DATA = {
       "name": "kochou_shinobu",
       "proper_name": "Kochou Shinobu",
       "category": "character",
-      "encrypted_count": "dAZnSg==",
+      "encrypted_count": "C31ifg==",
       "copyright": "Demon Slayer: Kimetsu no Yaiba",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png/revision/latest/scale-to-width-down/1200?cb=20211119011810"
@@ -2528,17 +2528,19 @@ const GAME_DATA = {
       "name": "beatrice_(umineko)",
       "proper_name": "Beatrice",
       "category": "character",
-      "encrypted_count": "dABjQA==",
+      "encrypted_count": "C3tmdA==",
       "copyright": "Umineko no Naku Koro ni",
       "material": "Visual Novel",
-      "image_reference": "https://th.bing.com/th/id/R.21306a3d9c364ead840dfd3bc9920652?rik=J6OokmNnVtUNsw&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fumineko%2fimages%2f9%2f95%2fBea_a11_default_1.png%2frevision%2flatest%3fcb%3d20120423130413%26path-prefix%3dpl&ehk=tg34OE%2bmhkVgFInBjm4ST6rXHO%2bnf%2bYYw0OREFOtQXg%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
     },
     {
       "id": "t0255",
       "name": "evelyn_chevalier",
       "proper_name": "Evelyn Chevalier",
       "category": "character",
-      "encrypted_count": "dQhqQQ==",
+      "encrypted_count": "CnNvdQ==",
+      "copyright": "Zenless Zone Zero",
+      "material": "Video Game",
       "image_reference": "https://static.wikitide.net/hoyodexwiki/4/45/Evelyn_Chevalier_(ZZ-MU).png"
     },
     {
@@ -2546,7 +2548,7 @@ const GAME_DATA = {
       "name": "fujita_kotone",
       "proper_name": "Fujita Kotone",
       "category": "character",
-      "encrypted_count": "dQlhTQ==",
+      "encrypted_count": "CnJkeQ==",
       "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/7f/Kotone_Portrait.png/revision/latest?cb=20240306193455"
     },
     {
@@ -2554,7 +2556,7 @@ const GAME_DATA = {
       "name": "mihono_bourbon_(umamusume)",
       "proper_name": "Mihono Bourbon",
       "category": "character",
-      "encrypted_count": "dQRiTQ==",
+      "encrypted_count": "Cn9neQ==",
       "copyright": "Umamusume: Pretty Derby",
       "material": "Video Game",
       "image_reference": "https://s1.zerochan.net/Mihono.Bourbon.600.3657614.jpg"
@@ -2564,7 +2566,7 @@ const GAME_DATA = {
       "name": "senjougahara_hitagi",
       "proper_name": "Senjougahara Hitagi",
       "category": "character",
-      "encrypted_count": "dANqSw==",
+      "encrypted_count": "C3hvfw==",
       "copyright": "Monogatari Series",
       "material": "Anime",
       "image_reference": "https://1.bp.blogspot.com/-Su1PAdKQzao/WHHpgH_v2QI/AAAAAAAABMg/wvAO-6iJMp0n84RNYlC1aye6wSBeH9vuwCEw/s1600/Hitagi_bake_designs.jpg"
@@ -2574,7 +2576,7 @@ const GAME_DATA = {
       "name": "azusa_(blue_archive)",
       "proper_name": "Azusa",
       "category": "character",
-      "encrypted_count": "dQlnSQ==",
+      "encrypted_count": "CnJifQ==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
@@ -2584,7 +2586,7 @@ const GAME_DATA = {
       "name": "kouzuki_kallen",
       "proper_name": "Kouzuki Kallen",
       "category": "character",
-      "encrypted_count": "cwRlTQ==",
+      "encrypted_count": "DH9geQ==",
       "copyright": "Code Geass",
       "material": "Anime",
       "image_reference": "https://static.wikitide.net/geasswiki/4/43/Kallen_kouzuki_pilot_resurrection_roze_infobox_color_settei.png"
@@ -2594,16 +2596,17 @@ const GAME_DATA = {
       "name": "nian_(arknights)",
       "proper_name": "Nian",
       "category": "character",
-      "encrypted_count": "dQlkTw==",
+      "encrypted_count": "CnJhew==",
       "copyright": "Arknights",
-      "material": "Video Game"
+      "material": "Video Game",
+      "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
     },
     {
       "id": "t0262",
       "name": "mika_(girls_und_panzer)",
       "proper_name": "Mika",
       "category": "character",
-      "encrypted_count": "dQhhTQ==",
+      "encrypted_count": "CnNkeQ==",
       "copyright": "Girls und Panzer",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/gup/images/3/36/Micahofficial.png/revision/latest?cb=20170123122312"
@@ -2613,7 +2616,7 @@ const GAME_DATA = {
       "name": "boko_(girls_und_panzer)",
       "proper_name": "Boko",
       "category": "character",
-      "encrypted_count": "dQRrQQ==",
+      "encrypted_count": "Cn9udQ==",
       "copyright": "Girls und Panzer",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
@@ -2623,7 +2626,7 @@ const GAME_DATA = {
       "name": "ashigara_(kancolle)",
       "proper_name": "Ashigara",
       "category": "character",
-      "encrypted_count": "dQdqTg==",
+      "encrypted_count": "Cnxveg==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/c/c6/Ship_Card_Ashigara.png/218px-Ship_Card_Ashigara.png"
@@ -2633,7 +2636,7 @@ const GAME_DATA = {
       "name": "ram_(re:zero)",
       "proper_name": "Ram",
       "category": "character",
-      "encrypted_count": "dAVhQA==",
+      "encrypted_count": "C35kdA==",
       "copyright": "Re:Zero",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/rezero/images/e/ee/Ram_-_Re_Zero_Anime_BD_-_6.png/revision/latest?cb=20160914125706"
@@ -2643,7 +2646,7 @@ const GAME_DATA = {
       "name": "mankanshoku_mako",
       "proper_name": "Mankanshoku Mako",
       "category": "character",
-      "encrypted_count": "dARkQQ==",
+      "encrypted_count": "C39hdQ==",
       "copyright": "Kill la Kill",
       "material": "Anime",
       "image_reference": "https://www.pngkey.com/png/detail/790-7906667_mako-mankanshoku-drawings-kill-la-kill-mako-senketsu.png"
@@ -2653,7 +2656,7 @@ const GAME_DATA = {
       "name": "kirima_syaro",
       "proper_name": "Kirima Syaro",
       "category": "character",
-      "encrypted_count": "dANiTg==",
+      "encrypted_count": "C3hneg==",
       "copyright": "Gochuumon wa Usagi Desu ka?",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/gochuumon-wa-usagi-desu-ka/images/f/f0/Kirima_syaro_render_by_poppyoreos-d7zaxlr.png/revision/latest?cb=20151024212114&path-prefix=es"
@@ -2663,7 +2666,7 @@ const GAME_DATA = {
       "name": "akizuki_ritsuko",
       "proper_name": "Akizuki Ritsuko",
       "category": "character",
-      "encrypted_count": "dABrQA==",
+      "encrypted_count": "C3tudA==",
       "copyright": "The iDOLM@STER",
       "material": "Video Game",
       "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
@@ -2673,7 +2676,7 @@ const GAME_DATA = {
       "name": "uzuki_(kancolle)",
       "proper_name": "Uzuki",
       "category": "character",
-      "encrypted_count": "dQZnSw==",
+      "encrypted_count": "Cn1ifw==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/8/88/Uzuki.png/revision/latest?cb=20140312175607&path-prefix=protagonist"
@@ -2683,7 +2686,7 @@ const GAME_DATA = {
       "name": "fushiguro_megumi",
       "proper_name": "Fushiguro Megumi",
       "category": "character",
-      "encrypted_count": "cwFgSQ==",
+      "encrypted_count": "DHplfQ==",
       "copyright": "Jujutsu Kaisen",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8d/Megumi_Fushiguro_(Anime).png/revision/latest?cb=20201213115916&path-prefix=pl"
@@ -2693,7 +2696,7 @@ const GAME_DATA = {
       "name": "izumi_sagiri",
       "proper_name": "Izumi Sagiri",
       "category": "character",
-      "encrypted_count": "dAZrTg==",
+      "encrypted_count": "C31ueg==",
       "copyright": "Eromanga Sensei",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/eromanga/images/1/19/Sagiri_Izumi_anime.jpg/revision/latest?cb=20211121182256"
@@ -2703,7 +2706,7 @@ const GAME_DATA = {
       "name": "hanako_(swimsuit)_(blue_archive)",
       "proper_name": "Hanako (Swimsuit)",
       "category": "character",
-      "encrypted_count": "dQhkQQ==",
+      "encrypted_count": "CnNhdQ==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/c/c5/Hanako_(Swimsuit).png/266px-Hanako_(Swimsuit).png"
@@ -2713,7 +2716,7 @@ const GAME_DATA = {
       "name": "kris_(deltarune)",
       "proper_name": "Kris",
       "category": "character",
-      "encrypted_count": "dQlgTA==",
+      "encrypted_count": "CnJleA==",
       "copyright": "Deltarune",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/deltarune/images/f/fb/Kris_LINE_sticker_artwork.png/revision/latest?cb=20201120001252"
@@ -2723,7 +2726,7 @@ const GAME_DATA = {
       "name": "voicevox",
       "proper_name": "VoiceVox",
       "category": "copyright",
-      "encrypted_count": "dQdrQA==",
+      "encrypted_count": "CnxudA==",
       "copyright": "VoiceVox",
       "material": "Music Software",
       "image_reference": "https://prtimes.jp/data/corp/132725/ogp/0fc2c0b4cc844511409698e0d4cef820-963b6c7c0403ec1027cb2432a3e966c1.png"
@@ -2733,7 +2736,7 @@ const GAME_DATA = {
       "name": "sayonara_zetsubou_sensei",
       "proper_name": "Sayonara, Zetsubou-Sensei",
       "category": "copyright",
-      "encrypted_count": "dAJnQQ==",
+      "encrypted_count": "C3lidQ==",
       "copyright": "Sayonara, Zetsubou-Sensei",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/71/A_Sayonara_zetsubou_sensei_logo.png/revision/latest?cb=20150308203430"
@@ -2743,7 +2746,7 @@ const GAME_DATA = {
       "name": "muv-luv",
       "proper_name": "Muv-Luv",
       "category": "copyright",
-      "encrypted_count": "dAhiTw==",
+      "encrypted_count": "C3Nnew==",
       "copyright": "Muv-Luv",
       "material": "Visual Novel",
       "image_reference": "https://image.librewiki.net/thumb/2/29/Muv-Luv_logo.png/1200px-Muv-Luv_logo.png"
@@ -2753,7 +2756,7 @@ const GAME_DATA = {
       "name": "kanon",
       "proper_name": "Kanon",
       "category": "copyright",
-      "encrypted_count": "dAFhQA==",
+      "encrypted_count": "C3pkdA==",
       "copyright": "Kanon",
       "material": "Visual Novel",
       "image_reference": "https://images.wikia.com/kanon/images/b/bc/Wiki.png"
@@ -2763,7 +2766,7 @@ const GAME_DATA = {
       "name": "oshiro_project:re",
       "proper_name": "Oshiro Project: Re",
       "category": "copyright",
-      "encrypted_count": "dAFnSw==",
+      "encrypted_count": "C3pifw==",
       "copyright": "Oshiro Project: Re",
       "material": "Video Game",
       "image_reference": "https://play-lh.googleusercontent.com/mZqL67H8JkcYvkTYS1ZFA2ZswkmlAJeo4XjEZZUCfvw5JXiBLhp9ExrXKiigv0gfzSE=w526-h296-rw"
@@ -2773,7 +2776,7 @@ const GAME_DATA = {
       "name": "arcane:_league_of_legends",
       "proper_name": "Arcane: League of Legends",
       "category": "copyright",
-      "encrypted_count": "dQhiSg==",
+      "encrypted_count": "CnNnfg==",
       "copyright": "League of Legends",
       "material": "TV Show",
       "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
@@ -2783,7 +2786,7 @@ const GAME_DATA = {
       "name": "shakugan_no_shana",
       "proper_name": "Shakugan no Shana",
       "category": "copyright",
-      "encrypted_count": "dAZnQA==",
+      "encrypted_count": "C31idA==",
       "copyright": "Shakugan no Shana",
       "material": "Light Novel",
       "image_reference": "https://static.wikia.nocookie.net/shakugan/images/3/34/First_season_title_card.jpg/revision/latest?cb=20120915105459"
@@ -2793,7 +2796,7 @@ const GAME_DATA = {
       "name": "project_voltage",
       "proper_name": "Project Voltage",
       "category": "copyright",
-      "encrypted_count": "dAJjQA==",
+      "encrypted_count": "C3lmdA==",
       "copyright": "Project Voltage",
       "material": "Video Game",
       "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230905142316/Logo_Project_Voltage.png/600px-Logo_Project_Voltage.png"
@@ -2803,7 +2806,7 @@ const GAME_DATA = {
       "name": "happinesscharge_precure!",
       "proper_name": "HappinessCharge Precure!",
       "category": "copyright",
-      "encrypted_count": "dANqTA==",
+      "encrypted_count": "C3hveA==",
       "copyright": "HappinessCharge Precure!",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/prettycureseries/images/4/43/HappinessChargePrettyCureLogo1.jpg/revision/latest?cb=20160704142946&path-prefix=pl"
@@ -2813,7 +2816,7 @@ const GAME_DATA = {
       "name": "soul_eater",
       "proper_name": "Soul Eater",
       "category": "copyright",
-      "encrypted_count": "cwdiQA==",
+      "encrypted_count": "DHxndA==",
       "copyright": "Soul Eater",
       "material": "Manga",
       "image_reference": "https://logos-world.net/wp-content/uploads/2023/08/Soul-Eater-Logo.png"
@@ -2823,17 +2826,17 @@ const GAME_DATA = {
       "name": "mother_(series)",
       "proper_name": "Mother Series",
       "category": "copyright",
-      "encrypted_count": "cwNnSg==",
+      "encrypted_count": "DHhifg==",
       "copyright": "Mother Series",
       "material": "Video Game",
-      "image_reference": "https://th.bing.com/th/id/R.cc6a55dfdf8160a28f5ca6131bd0dde7?rik=rI0ZmG6kIR8a4w&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f2%2f23%2fMother_series_logo.png%2f250px-Mother_series_logo.png&ehk=0SMxQe1xxcofgYVkvbpcTdZ%2bDYcvZi0NGBK18eVWSzA%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MOTHER_1989_Boxart_%28Nintendo%29.png/1200px-MOTHER_1989_Boxart_%28Nintendo%29.png"
     },
     {
       "id": "t0285",
       "name": "yes!_precure_5",
       "proper_name": "Yes! Precure 5",
       "category": "copyright",
-      "encrypted_count": "dARqTw==",
+      "encrypted_count": "C39vew==",
       "copyright": "Yes! Precure 5",
       "material": "Anime",
       "image_reference": "https://static.wikitide.net/precurewikiwiki/e/ef/Yesfiveenglogo.jpg"
@@ -2843,7 +2846,7 @@ const GAME_DATA = {
       "name": "shiratsuyu_(kancolle)",
       "proper_name": "Shiratsuyu",
       "category": "character",
-      "encrypted_count": "dQRqTw==",
+      "encrypted_count": "Cn9vew==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://s1.zerochan.net/Shiratsuyu.(Kantai.Collection).600.4352729.jpg"
@@ -2853,7 +2856,7 @@ const GAME_DATA = {
       "name": "charlotte_(madoka_magica)",
       "proper_name": "Charlotte",
       "category": "character",
-      "encrypted_count": "dQZrQQ==",
+      "encrypted_count": "Cn1udQ==",
       "copyright": "Puella Magi Madoka Magica",
       "material": "Anime",
       "image_reference": "https://images.puella-magi.net/b/be/Card_Charlotte.png"
@@ -2863,7 +2866,7 @@ const GAME_DATA = {
       "name": "satsuki_(kancolle)",
       "proper_name": "Satsuki",
       "category": "character",
-      "encrypted_count": "dQdkSw==",
+      "encrypted_count": "Cnxhfw==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
@@ -2873,7 +2876,7 @@ const GAME_DATA = {
       "name": "mogami_(kancolle)",
       "proper_name": "Mogami",
       "category": "character",
-      "encrypted_count": "dQRnTA==",
+      "encrypted_count": "Cn9ieA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/5/5b/Ship_Card_Mogami_Kai_Ni.png"
@@ -2883,7 +2886,7 @@ const GAME_DATA = {
       "name": "seele_vollerei",
       "proper_name": "Seele Vollerei",
       "category": "character",
-      "encrypted_count": "dQlrTw==",
+      "encrypted_count": "CnJuew==",
       "copyright": "Honkai: Star Rail",
       "material": "Video Game",
       "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
@@ -2893,7 +2896,7 @@ const GAME_DATA = {
       "name": "asuna_(school_uniform)_(blue_archive)",
       "proper_name": "Asuna (School Uniform)",
       "category": "character",
-      "encrypted_count": "dgdiQQ==",
+      "encrypted_count": "CXxndQ==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/0/01/Asuna_(School_Uniform).png/399px-Asuna_(School_Uniform).png"
@@ -2903,7 +2906,7 @@ const GAME_DATA = {
       "name": "hilbert_(pokemon)",
       "proper_name": "Hilbert",
       "category": "character",
-      "encrypted_count": "dAdqTA==",
+      "encrypted_count": "C3xveA==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/Spr_Masters_Hilbert.png/800px-Spr_Masters_Hilbert.png"
@@ -2913,7 +2916,7 @@ const GAME_DATA = {
       "name": "kagerou_(kancolle)",
       "proper_name": "Kagerou",
       "category": "character",
-      "encrypted_count": "dQVqSA==",
+      "encrypted_count": "Cn5vfA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/p__/images/1/1a/Kagerou.png/revision/latest?cb=20140315195952&path-prefix=protagonist"
@@ -2923,7 +2926,7 @@ const GAME_DATA = {
       "name": "wakamo_(blue_archive)",
       "proper_name": "Wakamo",
       "category": "character",
-      "encrypted_count": "dQlrSw==",
+      "encrypted_count": "CnJufw==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait/10033.webp"
@@ -2933,7 +2936,7 @@ const GAME_DATA = {
       "name": "umbreon",
       "proper_name": "Umbreon",
       "category": "character",
-      "encrypted_count": "dAhgTg==",
+      "encrypted_count": "C3Nleg==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/9/9f/Umbreon.png/revision/latest?cb=20150823181058&path-prefix=pl"
@@ -2943,7 +2946,7 @@ const GAME_DATA = {
       "name": "nikki_(nikki)",
       "proper_name": "Nikki",
       "category": "character",
-      "encrypted_count": "dQdiSw==",
+      "encrypted_count": "Cnxnfw==",
       "copyright": "Nikki",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/heroe/images/1/14/Nikki_SN_sprite39.png/revision/latest?cb=20220723070732&path-prefix=es"
@@ -2953,7 +2956,7 @@ const GAME_DATA = {
       "name": "zhu_yuan",
       "proper_name": "Zhu Yuan",
       "category": "character",
-      "encrypted_count": "dQlrQQ==",
+      "encrypted_count": "CnJudQ==",
       "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
     },
     {
@@ -2961,7 +2964,7 @@ const GAME_DATA = {
       "name": "hong_lu_(project_moon)",
       "proper_name": "Hong Lu",
       "category": "character",
-      "encrypted_count": "dQZnTg==",
+      "encrypted_count": "Cn1ieg==",
       "copyright": "Project Moon",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
@@ -2971,7 +2974,7 @@ const GAME_DATA = {
       "name": "hayami_kanade",
       "proper_name": "Hayami Kanade",
       "category": "character",
-      "encrypted_count": "dQhgSQ==",
+      "encrypted_count": "CnNlfQ==",
       "image_reference": "https://static.wikia.nocookie.net/cinderella-girls/images/d/d1/200037R-Hayami-Kanade-Cool.png/revision/latest?cb=20180905181124"
     },
     {
@@ -2979,7 +2982,7 @@ const GAME_DATA = {
       "name": "king_halo_(umamusume)",
       "proper_name": "King Halo",
       "category": "character",
-      "encrypted_count": "dQJlTA==",
+      "encrypted_count": "CnlgeA==",
       "copyright": "Uma Musume",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/umamusume/images/1/1c/Kinghalogame.png/revision/latest/scale-to-width-down/250?cb=20210921101634"
@@ -2989,7 +2992,7 @@ const GAME_DATA = {
       "name": "urakaze_(kancolle)",
       "proper_name": "Urakaze",
       "category": "character",
-      "encrypted_count": "dQlmQA==",
+      "encrypted_count": "CnJjdA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Urakaze.(Kantai.Collection).full.4330635.jpg"
@@ -2999,7 +3002,7 @@ const GAME_DATA = {
       "name": "tomoe_gozen_(fate)",
       "proper_name": "Tomoe Gozen",
       "category": "character",
-      "encrypted_count": "dAFiSQ==",
+      "encrypted_count": "C3pnfQ==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://pm1.narvii.com/6999/99662f2ac78d6680faaed4cc6b30d0b4757f43dcr1-850-1073v2_hq.jpg"
@@ -3009,7 +3012,7 @@ const GAME_DATA = {
       "name": "citlali_(genshin_impact)",
       "proper_name": "Citlali",
       "category": "character",
-      "encrypted_count": "dQlnSQ==",
+      "encrypted_count": "CnJifQ==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Citlali.full.4224518.jpg"
@@ -3019,7 +3022,7 @@ const GAME_DATA = {
       "name": "kiyoshimo_(kancolle)",
       "proper_name": "Kiyoshimo",
       "category": "character",
-      "encrypted_count": "dQdrTA==",
+      "encrypted_count": "CnxueA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
@@ -3029,7 +3032,7 @@ const GAME_DATA = {
       "name": "oberon_(fate)",
       "proper_name": "Oberon",
       "category": "character",
-      "encrypted_count": "dQlrTA==",
+      "encrypted_count": "CnJueA==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://pm1.aminoapps.com/8013/ff4bf082deaeb0bce85c456b82cc04ae6b676231r1-600-858v2_hq.jpg"
@@ -3039,7 +3042,7 @@ const GAME_DATA = {
       "name": "twin_turbo_(umamusume)",
       "proper_name": "Twin Turbo",
       "category": "character",
-      "encrypted_count": "dQVnSg==",
+      "encrypted_count": "Cn5ifg==",
       "copyright": "Uma Musume: Pretty Derby",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/umamusume/images/4/46/Twin_Turbo_%28Race%29.png/revision/latest?cb=20240728220739"
@@ -3049,7 +3052,7 @@ const GAME_DATA = {
       "name": "kurosawa_dia",
       "proper_name": "Kurosawa Dia",
       "category": "character",
-      "encrypted_count": "cwdgQA==",
+      "encrypted_count": "DHxldA==",
       "copyright": "Love Live!",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/love-live/images/d/db/789Transparent.png/revision/latest?cb=20160601025120&path-prefix=es"
@@ -3059,7 +3062,7 @@ const GAME_DATA = {
       "name": "kudamaki_tsukasa",
       "proper_name": "Kudamaki Tsukasa",
       "category": "character",
-      "encrypted_count": "dQVnSg==",
+      "encrypted_count": "Cn5ifg==",
       "copyright": "D4DJ",
       "material": "Anime",
       "image_reference": "https://static.zerochan.net/Kudamaki.Tsukasa.full.3320713.jpg"
@@ -3069,7 +3072,7 @@ const GAME_DATA = {
       "name": "momosuzu_nene",
       "proper_name": "Momosuzu Nene",
       "category": "character",
-      "encrypted_count": "dQlmSA==",
+      "encrypted_count": "CnJjfA==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikitide.net/hololivewiki/thumb/7/74/Momosuzu_Nene_-_Full_Illustration_02.png/640px-Momosuzu_Nene_-_Full_Illustration_02.png"
@@ -3079,7 +3082,7 @@ const GAME_DATA = {
       "name": "midorikawa_nao",
       "proper_name": "Midorikawa Nao",
       "category": "character",
-      "encrypted_count": "dQllTQ==",
+      "encrypted_count": "CnJgeQ==",
       "copyright": "D4DJ",
       "material": "Anime",
       "image_reference": "https://static.zerochan.net/Midorikawa.Nao.full.3242452.png"
@@ -3089,7 +3092,7 @@ const GAME_DATA = {
       "name": "kokona_(blue_archive)",
       "proper_name": "Kokona",
       "category": "character",
-      "encrypted_count": "dQhrSg==",
+      "encrypted_count": "CnNufg==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/3/3b/Kokona_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20250515072948"
@@ -3099,7 +3102,7 @@ const GAME_DATA = {
       "name": "makaino_ririmu",
       "proper_name": "Makaino Ririmu",
       "category": "character",
-      "encrypted_count": "dQlnSg==",
+      "encrypted_count": "CnJifg==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
@@ -3109,7 +3112,7 @@ const GAME_DATA = {
       "name": "vodka_(umamusume)",
       "proper_name": "Vodka",
       "category": "character",
-      "encrypted_count": "dQNqSQ==",
+      "encrypted_count": "CnhvfQ==",
       "copyright": "Uma Musume: Pretty Derby",
       "material": "Video Game",
       "image_reference": "https://s1.zerochan.net/Vodka.(Uma.Musume).600.3298337.jpg"
@@ -3119,7 +3122,7 @@ const GAME_DATA = {
       "name": "natsu_(blue_archive)",
       "proper_name": "Natsu",
       "category": "character",
-      "encrypted_count": "dQZgSQ==",
+      "encrypted_count": "Cn1lfQ==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikitide.net/bluearchivewiki/9/90/Natsu.png"
@@ -3129,7 +3132,7 @@ const GAME_DATA = {
       "name": "aotsuki_eito",
       "proper_name": "Aotsuki Eito",
       "category": "character",
-      "encrypted_count": "dAZlTA==",
+      "encrypted_count": "C31geA==",
       "copyright": "Unknown",
       "material": "Unknown",
       "image_reference": "https://static.wikia.nocookie.net/the-hundred-line/images/b/b3/Eito_Fullbody.png/revision/latest?cb=20250114130334"
@@ -3139,7 +3142,7 @@ const GAME_DATA = {
       "name": "curren_chan_(umamusume)",
       "proper_name": "Curren Chan",
       "category": "character",
-      "encrypted_count": "dQRmQA==",
+      "encrypted_count": "Cn9jdA==",
       "copyright": "Uma Musume Pretty Derby",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Curren.Chan.full.3657664.png"
@@ -3149,7 +3152,7 @@ const GAME_DATA = {
       "name": "final_fantasy_viii",
       "proper_name": "Final Fantasy VIII",
       "category": "copyright",
-      "encrypted_count": "dAZkSQ==",
+      "encrypted_count": "C31hfQ==",
       "copyright": "Final Fantasy",
       "material": "Video Game",
       "image_reference": "https://cdn.finalfantasywiki.com/b/b4/FFVIII_logo.jpg"
@@ -3159,7 +3162,7 @@ const GAME_DATA = {
       "name": "shining_nikki",
       "proper_name": "Shining Nikki",
       "category": "copyright",
-      "encrypted_count": "dQZkTQ==",
+      "encrypted_count": "Cn1heQ==",
       "copyright": "Shining Nikki",
       "material": "Mobile Game",
       "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
@@ -3169,7 +3172,7 @@ const GAME_DATA = {
       "name": "promare",
       "proper_name": "Promare",
       "category": "copyright",
-      "encrypted_count": "dAFrQQ==",
+      "encrypted_count": "C3pudQ==",
       "copyright": "Promare",
       "material": "Anime",
       "image_reference": "https://i0.kym-cdn.com/photos/images/original/001/270/904/f6a.jpg"
@@ -3179,7 +3182,7 @@ const GAME_DATA = {
       "name": "closers",
       "proper_name": "Closers",
       "category": "copyright",
-      "encrypted_count": "dAJgQA==",
+      "encrypted_count": "C3lldA==",
       "copyright": "Closers",
       "material": "Video Game",
       "image_reference": "https://logodix.com/logo/1707726.png"
@@ -3189,7 +3192,7 @@ const GAME_DATA = {
       "name": "street_fighter_zero_(series)",
       "proper_name": "Street Fighter Zero Series",
       "category": "copyright",
-      "encrypted_count": "dAVlSw==",
+      "encrypted_count": "C35gfw==",
       "copyright": "Street Fighter",
       "material": "Video Game",
       "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11a10a01-ac23-4fea-ad5a-b51f53084159/d7emmzp-a5fccda0-1e9b-4213-a884-e8393ac4a9de.png/v1/fill/w_800,h_554/street_fighter_zero_logo_by_ringostarr39_d7emmzp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU0IiwicGF0aCI6IlwvZlwvMTFhMTBhMDEtYWMyMy00ZmVhLWFkNWEtYjUxZjUzMDg0MTU5XC9kN2VtbXpwLWE1ZmNjZGEwLTFlOWItNDIxMy1hODg0LWU4MzkzYWM0YTlkZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wiCZfhEIoUu7WURWTrk1j8qIrUtTR7ibA4zBI_z-EcA"
@@ -3199,7 +3202,7 @@ const GAME_DATA = {
       "name": "pokemon_gsc",
       "proper_name": "Pokemon Gold and Silver",
       "category": "copyright",
-      "encrypted_count": "cwBnSA==",
+      "encrypted_count": "DHtifA==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/4/4f/Pokémon_the_Series_Gold_and_Silver_logo.png/240px-Pokémon_the_Series_Gold_and_Silver_logo.png"
@@ -3209,7 +3212,7 @@ const GAME_DATA = {
       "name": "cookie_run:_kingdom",
       "proper_name": "Cookie Run: Kingdom",
       "category": "copyright",
-      "encrypted_count": "dQZmSw==",
+      "encrypted_count": "Cn1jfw==",
       "copyright": "Cookie Run: Kingdom",
       "material": "Video Game",
       "image_reference": "https://videogamedatabank.com/application/files/1516/1212/6345/cookie_run_kingdom_logo.png"
@@ -3219,7 +3222,7 @@ const GAME_DATA = {
       "name": "working!!",
       "proper_name": "Working!!",
       "category": "copyright",
-      "encrypted_count": "dARgSw==",
+      "encrypted_count": "C39lfw==",
       "copyright": "Working!!",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
@@ -3229,7 +3232,7 @@ const GAME_DATA = {
       "name": "tate_no_yuusha_no_nariagari",
       "proper_name": "Tate no Yuusha no Nariagari",
       "category": "copyright",
-      "encrypted_count": "dAZnSw==",
+      "encrypted_count": "C31ifw==",
       "copyright": "Tate no Yuusha no Nariagari",
       "material": "Light Novel",
       "image_reference": "https://vectorseek.com/wp-content/uploads/2023/11/Tate-no-Yuusha-no-Nariagari-Logo-Vector.svg-.png"
@@ -3239,7 +3242,7 @@ const GAME_DATA = {
       "name": "danganronpa_3_(anime)",
       "proper_name": "Danganronpa 3: The End of Hope's Peak High School",
       "category": "copyright",
-      "encrypted_count": "dQliTQ==",
+      "encrypted_count": "CnJneQ==",
       "copyright": "Danganronpa",
       "material": "Anime",
       "image_reference": "https://vignette2.wikia.nocookie.net/danganronpa/images/2/2f/Logo_of_Hope%27s_Peak.png/revision/latest/scale-to-width-down/2000?cb=20161227015605"
@@ -3249,7 +3252,7 @@ const GAME_DATA = {
       "name": "komi-san_wa_komyushou_desu",
       "proper_name": "Komi-san wa Komyushou desu",
       "category": "copyright",
-      "encrypted_count": "cwdnQQ==",
+      "encrypted_count": "DHxidQ==",
       "copyright": "Komi Can't Communicate",
       "material": "Manga",
       "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b1e4199-b81a-493a-b093-54056d1cc96f/deps4ag-0ec5e548-d953-4454-9e31-f07657e6688a.png/v1/fill/w_512,h_512/komi_san_wa__comyushou_desu__folder_icon_by_nocturnexi_deps4ag-fullview.png"
@@ -3259,7 +3262,7 @@ const GAME_DATA = {
       "name": "bleach:_sennen_kessen-hen",
       "proper_name": "Bleach: Thousand-Year Blood War",
       "category": "copyright",
-      "encrypted_count": "cwZiSA==",
+      "encrypted_count": "DH1nfA==",
       "copyright": "Bleach",
       "material": "Anime",
       "image_reference": "https://latestlogo.com/wp-content/uploads/2024/01/bleach-thousand-year-blood-war-logo.png"
@@ -3269,7 +3272,7 @@ const GAME_DATA = {
       "name": "panty_(psg)",
       "proper_name": "Panty",
       "category": "character",
-      "encrypted_count": "cwNnTQ==",
+      "encrypted_count": "DHhieQ==",
       "copyright": "Panty & Stocking with Garterbelt",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
@@ -3279,7 +3282,7 @@ const GAME_DATA = {
       "name": "asahina_mafuyu",
       "proper_name": "Asahina Mafuyu",
       "category": "character",
-      "encrypted_count": "dQJlSA==",
+      "encrypted_count": "CnlgfA==",
       "copyright": "Project Sekai: Colorful Stage! feat. Hatsune Miku",
       "material": "Video Game",
       "image_reference": "https://colorfulstage.com/img/ogtag_twitter.png"
@@ -3289,7 +3292,7 @@ const GAME_DATA = {
       "name": "hyuuga_(kancolle)",
       "proper_name": "Hyuuga",
       "category": "character",
-      "encrypted_count": "dQFkQA==",
+      "encrypted_count": "CnphdA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Hyuuga.(Kantai.Collection).1024.4351400.webp"
@@ -3299,7 +3302,7 @@ const GAME_DATA = {
       "name": "faust_(project_moon)",
       "proper_name": "Faust",
       "category": "character",
-      "encrypted_count": "dQZnSQ==",
+      "encrypted_count": "Cn1ifQ==",
       "copyright": "Project Moon",
       "material": "Video Game",
       "image_reference": "https://static.wikitide.net/projectmoonwiki/thumb/4/4c/FaustLCB-Profile.png/240px-FaustLCB-Profile.png"
@@ -3309,7 +3312,7 @@ const GAME_DATA = {
       "name": "luigi",
       "proper_name": "Luigi",
       "category": "character",
-      "encrypted_count": "cwJjSg==",
+      "encrypted_count": "DHlmfg==",
       "copyright": "Nintendo",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/nintendo/images/0/0a/MP10_Luigi.png/revision/latest?cb=20170626025223&path-prefix=en"
@@ -3319,7 +3322,7 @@ const GAME_DATA = {
       "name": "kise_yayoi",
       "proper_name": "Kise Yayoi",
       "category": "character",
-      "encrypted_count": "dAFmTg==",
+      "encrypted_count": "C3pjeg==",
       "copyright": "The iDOLM@STER",
       "material": "Anime",
       "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
@@ -3329,7 +3332,7 @@ const GAME_DATA = {
       "name": "katsushika_hokusai_(fate)",
       "proper_name": "Katsushika Hokusai",
       "category": "character",
-      "encrypted_count": "dQZkTA==",
+      "encrypted_count": "Cn1heA==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/9/90/S198_Stage1.webp/revision/latest?cb=20220911142141"
@@ -3339,17 +3342,17 @@ const GAME_DATA = {
       "name": "shadow_the_hedgehog",
       "proper_name": "Shadow the Hedgehog",
       "category": "character",
-      "encrypted_count": "dANgSQ==",
+      "encrypted_count": "C3hlfQ==",
       "copyright": "Sonic the Hedgehog",
       "material": "Video Game",
-      "image_reference": "https://th.bing.com/th/id/R.37848b65c727d3e21c1bd192f293c804?rik=%2bPJ%2bA56%2bFWHClg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20130814115044%2fsonic%2fimages%2f6%2f66%2fCG_Shadow_11.png&ehk=QlTyWGflOIt6ailJoft6FKOtKiiscLZ0bKJN%2bu2Jz40%3d&risl=1&pid=ImgRaw&r=0"
+      "image_reference": "https://static.wikia.nocookie.net/sonic/images/4/45/SRCShadow.png/revision/latest/scale-to-width-down/1200?cb=20251008005300"
     },
     {
       "id": "t0337",
       "name": "yukine_chris",
       "proper_name": "Yukine Chris",
       "category": "character",
-      "encrypted_count": "dABnQQ==",
+      "encrypted_count": "C3tidQ==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://i.pinimg.com/originals/38/28/85/3828856f31e9ce0c92e1bb306bd82d2b.png"
@@ -3359,17 +3362,17 @@ const GAME_DATA = {
       "name": "kaenbyou_rin_(cat)",
       "proper_name": "Kaenbyou Rin",
       "category": "character",
-      "encrypted_count": "dQVhQA==",
+      "encrypted_count": "Cn5kdA==",
       "copyright": "Touhou Project",
       "material": "Video Game",
-      "image_reference": "https://th.bing.com/th/id/R.30ad20d56eda147672095d27dcaed53c?rik=ZcheBkIozQjxsw&riu=http%3a%2f%2fde.touhouwiki.net%2fimages%2fe%2fef%2fDe_Rin.png&ehk=RYenSFsGEKtCtzEAKVl9FqAVyp1UJUU5sGPWqkgEzJU%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://static.wikia.nocookie.net/touhou/images/b/b2/RinSubAni.png/revision/latest/thumbnail/width/360/height/450?cb=20091025143107"
     },
     {
       "id": "t0339",
       "name": "mayano_top_gun_(umamusume)",
       "proper_name": "Mayano Top Gun",
       "category": "character",
-      "encrypted_count": "dQdjSQ==",
+      "encrypted_count": "CnxmfQ==",
       "copyright": "Umamusume: Pretty Derby",
       "material": "Anime",
       "image_reference": "https://static.zerochan.net/Mayano.Top.Gun.full.3657606.png"
@@ -3379,7 +3382,7 @@ const GAME_DATA = {
       "name": "unzan",
       "proper_name": "Unzan",
       "category": "character",
-      "encrypted_count": "dQJrTQ==",
+      "encrypted_count": "CnlueQ==",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://img10.reactor.cc/pics/post/Anime-Kumoi-Ichirin-Touhou-Project-Unzan-4343995.png"
@@ -3389,7 +3392,7 @@ const GAME_DATA = {
       "name": "kaeya_(genshin_impact)",
       "proper_name": "Kaeya",
       "category": "character",
-      "encrypted_count": "dQdlSg==",
+      "encrypted_count": "Cnxgfg==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8a/Character_Kaeya_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030050&path-prefix=th"
@@ -3399,7 +3402,7 @@ const GAME_DATA = {
       "name": "non-human_admiral_(kancolle)",
       "proper_name": "Non-Human Admiral",
       "category": "character",
-      "encrypted_count": "dgRqSg==",
+      "encrypted_count": "CX9vfg==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
@@ -3409,7 +3412,7 @@ const GAME_DATA = {
       "name": "jintsuu_(kancolle)",
       "proper_name": "Jintsuu",
       "category": "character",
-      "encrypted_count": "dQJqQA==",
+      "encrypted_count": "CnlvdA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/b/b0/Jintsu_kai2.png"
@@ -3419,7 +3422,7 @@ const GAME_DATA = {
       "name": "hatsuyuki_(kancolle)",
       "proper_name": "Hatsuyuki",
       "category": "character",
-      "encrypted_count": "dQNrSw==",
+      "encrypted_count": "Cnhufw==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Hatsuyuki.(Kantai.Collection).full.2014249.jpg"
@@ -3429,7 +3432,7 @@ const GAME_DATA = {
       "name": "emiya_kiritsugu",
       "proper_name": "Emiya Kiritsugu",
       "category": "character",
-      "encrypted_count": "dQdmTQ==",
+      "encrypted_count": "CnxjeQ==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
@@ -3439,7 +3442,7 @@ const GAME_DATA = {
       "name": "kousaka_kirino",
       "proper_name": "Kousaka Kirino",
       "category": "character",
-      "encrypted_count": "dAZnTw==",
+      "encrypted_count": "C31iew==",
       "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
       "material": "Light Novel",
       "image_reference": "https://static.zerochan.net/Kousaka.Kirino.full.1735927.jpg"
@@ -3449,7 +3452,7 @@ const GAME_DATA = {
       "name": "sumino_takumi",
       "proper_name": "Sumino Takumi",
       "category": "character",
-      "encrypted_count": "dAlnTw==",
+      "encrypted_count": "C3Jiew==",
       "copyright": "KonoSuba: God's Blessing on This Wonderful World!",
       "material": "Light Novel",
       "image_reference": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw2bb73cab/rightstuf/9781975371135_manga-konosuba-gods-blessing-on-this-wonderful-world-fantastic-days-novel-primary.jpg"
@@ -3459,7 +3462,7 @@ const GAME_DATA = {
       "name": "peroro_(blue_archive)",
       "proper_name": "Peroro",
       "category": "character",
-      "encrypted_count": "dQRmTw==",
+      "encrypted_count": "Cn9jew==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Perorodzilla_Banner_1.png/revision/latest/scale-to-width-down/700?cb=20211028155953"
@@ -3469,7 +3472,7 @@ const GAME_DATA = {
       "name": "ranma-chan",
       "proper_name": "Ranma-chan",
       "category": "character",
-      "encrypted_count": "cABgSw==",
+      "encrypted_count": "D3tlfw==",
       "copyright": "Ranma ½",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/ranma/images/d/dd/Saotome_Ranma_%E2%99%80_%28Anime_2024%29.png/revision/latest?cb=20240718055725"
@@ -3479,7 +3482,7 @@ const GAME_DATA = {
       "name": "laffey_(azur_lane)",
       "proper_name": "Laffey",
       "category": "character",
-      "encrypted_count": "dQljTA==",
+      "encrypted_count": "CnJmeA==",
       "copyright": "Azur Lane",
       "material": "Video Game",
       "image_reference": "https://azurlane.netojuu.com/images/2/2a/Laffey.png"
@@ -3489,7 +3492,7 @@ const GAME_DATA = {
       "name": "kamijou_touma",
       "proper_name": "Kamijou Touma",
       "category": "character",
-      "encrypted_count": "dQZnSw==",
+      "encrypted_count": "Cn1ifw==",
       "copyright": "A Certain Magical Index",
       "material": "Light Novel",
       "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
@@ -3499,7 +3502,7 @@ const GAME_DATA = {
       "name": "gengar",
       "proper_name": "Gengar",
       "category": "character",
-      "encrypted_count": "dAJmTg==",
+      "encrypted_count": "C3ljeg==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/4/47/0094Gengar.png/1200px-0094Gengar.png"
@@ -3509,7 +3512,7 @@ const GAME_DATA = {
       "name": "hibiki_(blue_archive)",
       "proper_name": "Hibiki",
       "category": "character",
-      "encrypted_count": "dQlmTw==",
+      "encrypted_count": "CnJjew==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/b/bc/Hibiki.png/266px-Hibiki.png"
@@ -3519,7 +3522,7 @@ const GAME_DATA = {
       "name": "merlin_prismriver",
       "proper_name": "Merlin Prismriver",
       "category": "character",
-      "encrypted_count": "dQRgSQ==",
+      "encrypted_count": "Cn9lfQ==",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://pm1.aminoapps.com/6373/c4ea5075242be120a6e74045d9f3259bca213a98_hq.jpg"
@@ -3529,7 +3532,7 @@ const GAME_DATA = {
       "name": "saratoga_(kancolle)",
       "proper_name": "Saratoga",
       "category": "character",
-      "encrypted_count": "dQRrTw==",
+      "encrypted_count": "Cn9uew==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/0/0d/Ship_Card_Saratoga_Mk.II.png/218px-Ship_Card_Saratoga_Mk.II.png"
@@ -3539,7 +3542,7 @@ const GAME_DATA = {
       "name": "isokaze_(kancolle)",
       "proper_name": "Isokaze",
       "category": "character",
-      "encrypted_count": "dQdgQA==",
+      "encrypted_count": "CnxldA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Isokaze.(Kantai.Collection).full.2420339.png"
@@ -3549,7 +3552,7 @@ const GAME_DATA = {
       "name": "sakura_miku",
       "proper_name": "Sakura Miku",
       "category": "character",
-      "encrypted_count": "dQZjTA==",
+      "encrypted_count": "Cn1meA==",
       "copyright": "Vocaloid",
       "material": "Music Software",
       "image_reference": "https://pm1.aminoapps.com/6321/de459a5e34e092632072e93c61dc913a84a12e05_hq.jpg"
@@ -3559,7 +3562,7 @@ const GAME_DATA = {
       "name": "accelerator_(toaru_majutsu_no_index)",
       "proper_name": "Accelerator",
       "category": "character",
-      "encrypted_count": "dQVhSA==",
+      "encrypted_count": "Cn5kfA==",
       "copyright": "Toaru Majutsu no Index",
       "material": "Light Novel",
       "image_reference": "https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/9/96/Accelerator_Novel.jpg/revision/latest?cb=20160121115001"
@@ -3569,7 +3572,7 @@ const GAME_DATA = {
       "name": "theresa_apocalypse",
       "proper_name": "Theresa Apocalypse",
       "category": "character",
-      "encrypted_count": "dQZhTA==",
+      "encrypted_count": "Cn1keA==",
       "copyright": "Honkai Impact 3rd",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/e/ec/Hi3rd-Theresa_001.png/revision/latest?cb=20210123100514&path-prefix=fr"
@@ -3579,7 +3582,7 @@ const GAME_DATA = {
       "name": "akai_haato",
       "proper_name": "Akai Haato",
       "category": "character",
-      "encrypted_count": "dQliSg==",
+      "encrypted_count": "CnJnfg==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikitide.net/hololivewiki/thumb/f/f6/Akai_Haato_-_Nonstop_Story_Full_Illustration.png/640px-Akai_Haato_-_Nonstop_Story_Full_Illustration.png"
@@ -3589,7 +3592,7 @@ const GAME_DATA = {
       "name": "male_byleth_(fire_emblem)",
       "proper_name": "Byleth (Male)",
       "category": "character",
-      "encrypted_count": "cwhqQA==",
+      "encrypted_count": "DHNvdA==",
       "copyright": "Fire Emblem",
       "material": "Video Game",
       "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
@@ -3599,7 +3602,7 @@ const GAME_DATA = {
       "name": "miyafuji_yoshika",
       "proper_name": "Miyafuji Yoshika",
       "category": "character",
-      "encrypted_count": "dABlSA==",
+      "encrypted_count": "C3tgfA==",
       "copyright": "Strike Witches",
       "material": "Anime",
       "image_reference": "https://static.zerochan.net/Miyafuji.Yoshika.full.1053900.jpg"
@@ -3609,7 +3612,7 @@ const GAME_DATA = {
       "name": "soulcalibur",
       "proper_name": "Soulcalibur",
       "category": "copyright",
-      "encrypted_count": "cwBrTA==",
+      "encrypted_count": "DHtueA==",
       "copyright": "Soulcalibur",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cb/Soul_Calibur_logo.png/revision/latest?cb=20140721234029"
@@ -3619,7 +3622,7 @@ const GAME_DATA = {
       "name": "ambience_synesthesia",
       "proper_name": "Ambience Synesthesia",
       "category": "copyright",
-      "encrypted_count": "dgdnSg==",
+      "encrypted_count": "CXxifg==",
       "copyright": "Ambience Synesthesia",
       "image_reference": "https://arknights.wiki.gg/images/4/45/Ambience_Synesthesia.png?8fca06"
     },
@@ -3628,7 +3631,7 @@ const GAME_DATA = {
       "name": "m.u.g.e.n",
       "proper_name": "M.U.G.E.N",
       "category": "copyright",
-      "encrypted_count": "dAZlSQ==",
+      "encrypted_count": "C31gfQ==",
       "copyright": "M.U.G.E.N",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/roblox/images/7/7f/MugenIcon2020February.png/revision/latest?cb=20210219071459"
@@ -3638,7 +3641,7 @@ const GAME_DATA = {
       "name": "twitter",
       "proper_name": "Twitter",
       "category": "copyright",
-      "encrypted_count": "cAFkSA==",
+      "encrypted_count": "D3phfA==",
       "copyright": "Twitter",
       "image_reference": "https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png"
     },
@@ -3647,7 +3650,7 @@ const GAME_DATA = {
       "name": "black_survival",
       "proper_name": "Black Survival",
       "category": "copyright",
-      "encrypted_count": "dQlmTQ==",
+      "encrypted_count": "CnJjeQ==",
       "copyright": "Black Survival",
       "material": "Video Game",
       "image_reference": "https://www.kindpng.com/picc/m/227-2274467_black-survival-game-logo-hd-png-download.png"
@@ -3657,7 +3660,7 @@ const GAME_DATA = {
       "name": "aria_(manga)",
       "proper_name": "Aria",
       "category": "copyright",
-      "encrypted_count": "dQhgTA==",
+      "encrypted_count": "CnNleA==",
       "copyright": "Aria",
       "material": "Manga",
       "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
@@ -3667,7 +3670,7 @@ const GAME_DATA = {
       "name": "kuro_no_kiseki_(series)",
       "proper_name": "Kuro no Kiseki",
       "category": "copyright",
-      "encrypted_count": "dQlmTA==",
+      "encrypted_count": "CnJjeA==",
       "copyright": "Kuro no Kiseki",
       "material": "Video Game",
       "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/61b44e77aae5bfa464aa71914d0043a7.png"
@@ -3677,7 +3680,7 @@ const GAME_DATA = {
       "name": "warcraft",
       "proper_name": "Warcraft",
       "category": "copyright",
-      "encrypted_count": "dQljTA==",
+      "encrypted_count": "CnJmeA==",
       "copyright": "Warcraft",
       "material": "Video Game",
       "image_reference": "https://logos-world.net/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png"
@@ -3687,7 +3690,7 @@ const GAME_DATA = {
       "name": "black_swan_(honkai:_star_rail)",
       "proper_name": "Black Swan",
       "category": "character",
-      "encrypted_count": "dQRrTg==",
+      "encrypted_count": "Cn9ueg==",
       "copyright": "Honkai: Star Rail",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Character_Black_Swan_Introduction.png/revision/latest?cb=20231212041201"
@@ -3697,17 +3700,17 @@ const GAME_DATA = {
       "name": "vegeta",
       "proper_name": "Vegeta",
       "category": "character",
-      "encrypted_count": "cwFjTA==",
+      "encrypted_count": "DHpmeA==",
       "copyright": "Dragon Ball",
       "material": "Anime",
-      "image_reference": "https://th.bing.com/th/id/R.199b7a7be7e56f63c72d306c847c256a?rik=D60vFsV8bb7SYQ&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20120813175202%2fdragonball%2fes%2fimages%2f2%2f2e%2fVegeta_(Render).png&ehk=G4GPyj%2bD4bm5mdw1M1peVqe4AOTrzN46vrpgXvGo%2bUw%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://static.wikia.nocookie.net/dragonballfighterz/images/4/4f/Vegeta_Artwork.png/revision/latest?cb=20180902173806"
     },
     {
       "id": "t0373",
       "name": "unryuu_(kancolle)",
       "proper_name": "Unryuu",
       "category": "character",
-      "encrypted_count": "dQdiSg==",
+      "encrypted_count": "Cnxnfg==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/2/23/Ship_Card_Unryuu.png"
@@ -3717,7 +3720,7 @@ const GAME_DATA = {
       "name": "lilith_(darkstalkers)",
       "proper_name": "Lilith",
       "category": "character",
-      "encrypted_count": "cwNrSw==",
+      "encrypted_count": "DHhufw==",
       "copyright": "Darkstalkers",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
@@ -3727,7 +3730,7 @@ const GAME_DATA = {
       "name": "glaceon",
       "proper_name": "Glaceon",
       "category": "character",
-      "encrypted_count": "dAhmSg==",
+      "encrypted_count": "C3Njfg==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/Glaceon.png/revision/latest?cb=20170422064259"
@@ -3737,7 +3740,7 @@ const GAME_DATA = {
       "name": "hatsuzuki_(kancolle)",
       "proper_name": "Hatsuzuki",
       "category": "character",
-      "encrypted_count": "dQRrSQ==",
+      "encrypted_count": "Cn9ufQ==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
@@ -3747,7 +3750,7 @@ const GAME_DATA = {
       "name": "sinclair_(project_moon)",
       "proper_name": "Sinclair",
       "category": "character",
-      "encrypted_count": "dQdjSQ==",
+      "encrypted_count": "CnxmfQ==",
       "copyright": "Project Moon",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest?cb=20230228041304"
@@ -3757,7 +3760,7 @@ const GAME_DATA = {
       "name": "hilda_valentine_goneril",
       "proper_name": "Hilda Valentine Goneril",
       "category": "character",
-      "encrypted_count": "dAVkQQ==",
+      "encrypted_count": "C35hdQ==",
       "copyright": "Fire Emblem",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/c/c6/Hilda_Porträt.png/revision/latest?cb=20201210095142&path-prefix=de"
@@ -3767,7 +3770,7 @@ const GAME_DATA = {
       "name": "vivian_banshee",
       "proper_name": "Vivian Banshee",
       "category": "character",
-      "encrypted_count": "dQRlSw==",
+      "encrypted_count": "Cn9gfw==",
       "copyright": "Zenless Zone Zero",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
@@ -3777,7 +3780,7 @@ const GAME_DATA = {
       "name": "sendai_kai_ni_(kancolle)",
       "proper_name": "Sendai Kai Ni",
       "category": "character",
-      "encrypted_count": "dgJqQA==",
+      "encrypted_count": "CXlvdA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/kancolle/images/c/ce/Sendai_Kai_Ni_Full.png/revision/latest/scale-to-width-down/284?cb=20180817193836"
@@ -3787,7 +3790,7 @@ const GAME_DATA = {
       "name": "kaga_(azur_lane)",
       "proper_name": "Kaga",
       "category": "character",
-      "encrypted_count": "dQJiSw==",
+      "encrypted_count": "Cnlnfw==",
       "copyright": "Azur Lane",
       "material": "Video Game",
       "image_reference": "https://azurlane.netojuu.com/images/9/9a/Kaga.png"
@@ -3797,7 +3800,7 @@ const GAME_DATA = {
       "name": "female_rover_(wuthering_waves)",
       "proper_name": "Female Rover",
       "category": "character",
-      "encrypted_count": "dQRjTQ==",
+      "encrypted_count": "Cn9meQ==",
       "copyright": "Wuthering Waves",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Rover.(Female).full.3915197.jpg"
@@ -3807,7 +3810,7 @@ const GAME_DATA = {
       "name": "michishio_(kancolle)",
       "proper_name": "Michishio",
       "category": "character",
-      "encrypted_count": "dQJkSA==",
+      "encrypted_count": "CnlhfA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
@@ -3817,7 +3820,7 @@ const GAME_DATA = {
       "name": "amy_rose",
       "proper_name": "Amy Rose",
       "category": "character",
-      "encrypted_count": "cwlqSA==",
+      "encrypted_count": "DHJvfA==",
       "copyright": "Sonic the Hedgehog",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/sonic/images/9/94/AmyRoseTSR.png/revision/latest?cb=20200229192419&path-prefix=es"
@@ -3827,7 +3830,7 @@ const GAME_DATA = {
       "name": "leaf_(pokemon)",
       "proper_name": "Leaf",
       "category": "character",
-      "encrypted_count": "dQlnTQ==",
+      "encrypted_count": "CnJieQ==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://media.pokemoncentral.it/wiki/3/3b/Leaf_RFVF.png"
@@ -3837,7 +3840,7 @@ const GAME_DATA = {
       "name": "yoru_(chainsaw_man)",
       "proper_name": "Yoru",
       "category": "character",
-      "encrypted_count": "dQhiTQ==",
+      "encrypted_count": "CnNneQ==",
       "copyright": "Chainsaw Man",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b7/Img_cm_yoru_manga.png/revision/latest?cb=20231025061200&path-prefix=pt-br"
@@ -3847,7 +3850,7 @@ const GAME_DATA = {
       "name": "chitanda_eru",
       "proper_name": "Chitanda Eru",
       "category": "character",
-      "encrypted_count": "dQlmTg==",
+      "encrypted_count": "CnJjeg==",
       "copyright": "Hyouka",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/hyouka/images/0/0f/Chitanda_eru.jpg/revision/latest/scale-to-width-down/1200?cb=20161113165236&path-prefix=vi"
@@ -3857,7 +3860,7 @@ const GAME_DATA = {
       "name": "yang_xiao_long",
       "proper_name": "Yang Xiao Long",
       "category": "character",
-      "encrypted_count": "cwBhSg==",
+      "encrypted_count": "DHtkfg==",
       "copyright": "RWBY",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/rwby/images/8/89/Yang-v8-infobox.png/revision/latest/scale-to-width-down/1200?cb=20200726010350"
@@ -3867,7 +3870,7 @@ const GAME_DATA = {
       "name": "kurosawa_ruby",
       "proper_name": "Kurosawa Ruby",
       "category": "character",
-      "encrypted_count": "cgBqQQ==",
+      "encrypted_count": "DXtvdQ==",
       "copyright": "Love Live!",
       "material": "Anime",
       "image_reference": "https://lovelive-sif2.com/wp-content/uploads/2022/12/28174743/img_ruby_JxDJ5ziaMRBh.png"
@@ -3877,7 +3880,7 @@ const GAME_DATA = {
       "name": "harusame_(kancolle)",
       "proper_name": "Harusame",
       "category": "character",
-      "encrypted_count": "dQdgSg==",
+      "encrypted_count": "Cnxlfg==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/kancolle/images/6/6d/Harusame_Full.png/revision/latest/scale-to-width-down/284?cb=20180817191835"
@@ -3887,7 +3890,7 @@ const GAME_DATA = {
       "name": "kunikida_hanamaru",
       "proper_name": "Kunikida Hanamaru",
       "category": "character",
-      "encrypted_count": "cwRmTA==",
+      "encrypted_count": "DH9jeA==",
       "copyright": "Love Live! Sunshine!!",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/love-live/images/c/c1/Sunshine%21%21_infobox_-_Kunikida_Hanamaru.png/revision/latest?cb=20170402074009"
@@ -3897,7 +3900,7 @@ const GAME_DATA = {
       "name": "mega_gardevoir",
       "proper_name": "Mega Gardevoir",
       "category": "character",
-      "encrypted_count": "dQhmQA==",
+      "encrypted_count": "CnNjdA==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://i.pinimg.com/originals/66/d5/17/66d517e6be088e8593678091fe19277a.png"
@@ -3907,7 +3910,7 @@ const GAME_DATA = {
       "name": "takane_lui",
       "proper_name": "Takane Lui",
       "category": "character",
-      "encrypted_count": "dQZjTg==",
+      "encrypted_count": "Cn1meg==",
       "copyright": "Vocaloid",
       "material": "Music Software",
       "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/Takane_Lui_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20211202201955"
@@ -3917,7 +3920,7 @@ const GAME_DATA = {
       "name": "yahagi_(kancolle)",
       "proper_name": "Yahagi",
       "category": "character",
-      "encrypted_count": "dQRrSA==",
+      "encrypted_count": "Cn9ufA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Yahagi.(Kantai.Collection).full.4307028.jpg"
@@ -3927,17 +3930,17 @@ const GAME_DATA = {
       "name": "android_18",
       "proper_name": "Android 18",
       "category": "character",
-      "encrypted_count": "fwRrTw==",
+      "encrypted_count": "AH9uew==",
       "copyright": "Dragon Ball",
       "material": "Anime",
-      "image_reference": "https://th.bing.com/th/id/R.d2a09287c605ab19740b7407a2f41c4b?rik=JonHcxBeZfTiXA&riu=http%3a%2f%2fvignette2.wikia.nocookie.net%2fdragonball%2fimages%2f2%2f25%2fAndroide_18_render.png%2frevision%2flatest%3fcb%3d20160427232920%26path-prefix%3des&ehk=S360JV0VhtaYr7jBE%2fuOhl1h%2bALTbADZX1dTmLAr380%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/69/Android_18_Resurrection_%27F%27.jpg"
     },
     {
       "id": "t0396",
       "name": "tamamo_cross_(umamusume)",
       "proper_name": "Tamamo Cross",
       "category": "character",
-      "encrypted_count": "dQBrTQ==",
+      "encrypted_count": "CntueQ==",
       "copyright": "Umamusume: Pretty Derby",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Tamamo.Cross.full.3657591.png"
@@ -3947,7 +3950,7 @@ const GAME_DATA = {
       "name": "lyra_(pokemon)",
       "proper_name": "Lyra",
       "category": "character",
-      "encrypted_count": "dANgSA==",
+      "encrypted_count": "C3hlfA==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/d/d8/Lyra.png/revision/latest?cb=20160116133943"
@@ -3957,7 +3960,7 @@ const GAME_DATA = {
       "name": "enterprise_(azur_lane)",
       "proper_name": "Enterprise",
       "category": "character",
-      "encrypted_count": "dQdiTw==",
+      "encrypted_count": "Cnxnew==",
       "copyright": "Azur Lane",
       "material": "Video Game",
       "image_reference": "https://azurlane.netojuu.com/images/4/40/Enterprise.png"
@@ -3967,7 +3970,7 @@ const GAME_DATA = {
       "name": "sonia_(pokemon)",
       "proper_name": "Sonia",
       "category": "character",
-      "encrypted_count": "cwViTw==",
+      "encrypted_count": "DH5new==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/3/3b/Sword_Shield_Sonia.png"
@@ -3977,7 +3980,7 @@ const GAME_DATA = {
       "name": "lyrica_prismriver",
       "proper_name": "Lyrica Prismriver",
       "category": "character",
-      "encrypted_count": "dQJqTQ==",
+      "encrypted_count": "CnlveQ==",
       "copyright": "Touhou Project",
       "material": "Video Game",
       "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
@@ -3987,7 +3990,7 @@ const GAME_DATA = {
       "name": "erica_hartmann",
       "proper_name": "Erica Hartmann",
       "category": "character",
-      "encrypted_count": "dQhiTw==",
+      "encrypted_count": "CnNnew==",
       "copyright": "Strike Witches",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/strikewitches/images/5/56/Strike_Witches-_Erica_Hartmann_1941.jpg/revision/latest?cb=20200320173134"
@@ -3997,7 +4000,7 @@ const GAME_DATA = {
       "name": "saki_(blue_archive)",
       "proper_name": "Saki",
       "category": "character",
-      "encrypted_count": "dQRhTg==",
+      "encrypted_count": "Cn9keg==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
@@ -4007,7 +4010,7 @@ const GAME_DATA = {
       "name": "aigis_(persona)",
       "proper_name": "Aigis",
       "category": "character",
-      "encrypted_count": "dQhlQA==",
+      "encrypted_count": "CnNgdA==",
       "copyright": "Persona",
       "material": "Video Game",
       "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
@@ -4017,7 +4020,7 @@ const GAME_DATA = {
       "name": "ohtsuki_yui",
       "proper_name": "Ohtsuki Yui",
       "category": "character",
-      "encrypted_count": "dQdlTg==",
+      "encrypted_count": "Cnxgeg==",
       "copyright": "Unknown",
       "material": "Unknown",
       "image_reference": "https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/9/99/Yui_Ohtsuki.png/revision/latest?cb=20211229073705"
@@ -4027,7 +4030,7 @@ const GAME_DATA = {
       "name": "sessyoin_kiara",
       "proper_name": "Sessyoin Kiara",
       "category": "character",
-      "encrypted_count": "dQdkTA==",
+      "encrypted_count": "CnxheA==",
       "copyright": "Fate Grand/Order",
       "material": "Video game",
       "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
@@ -4037,7 +4040,7 @@ const GAME_DATA = {
       "name": "rotom_phone",
       "proper_name": "Rotom Phone",
       "category": "character",
-      "encrypted_count": "dQlhTA==",
+      "encrypted_count": "CnJkeA==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/2/23/Rotom_Phone.png/revision/latest/scale-to-width-down/2000?cb=20200627164134"
@@ -4047,7 +4050,7 @@ const GAME_DATA = {
       "name": "higashiyama_kobeni",
       "proper_name": "Higashiyama Kobeni",
       "category": "character",
-      "encrypted_count": "dANhTw==",
+      "encrypted_count": "C3hkew==",
       "copyright": "Chainsaw Man",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
@@ -4057,7 +4060,7 @@ const GAME_DATA = {
       "name": "gran_(granblue_fantasy)",
       "proper_name": "Gran",
       "category": "character",
-      "encrypted_count": "dQZnTg==",
+      "encrypted_count": "Cn1ieg==",
       "copyright": "Granblue Fantasy",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/granblue/images/3/33/FighterM.png/revision/latest?cb=20210313172546"
@@ -4067,7 +4070,7 @@ const GAME_DATA = {
       "name": "princess_daisy",
       "proper_name": "Princess Daisy",
       "category": "character",
-      "encrypted_count": "cQlrQA==",
+      "encrypted_count": "DnJudA==",
       "copyright": "Mario",
       "material": "Video Game",
       "image_reference": "https://www.mariowiki.com/images/thumb/a/a9/SuperMarioParty_Daisy.png/1200px-SuperMarioParty_Daisy.png"
@@ -4077,7 +4080,7 @@ const GAME_DATA = {
       "name": "lyn_(fire_emblem)",
       "proper_name": "Lyn",
       "category": "character",
-      "encrypted_count": "dAViTA==",
+      "encrypted_count": "C35neA==",
       "copyright": "Fire Emblem",
       "material": "Video Game",
       "image_reference": "https://fireemblemwiki.org/w/images/thumb/3/3a/FEA_Lyn.png/1200px-FEA_Lyn.png"
@@ -4087,7 +4090,7 @@ const GAME_DATA = {
       "name": "skyla_(pokemon)",
       "proper_name": "Skyla",
       "category": "character",
-      "encrypted_count": "cgRkTA==",
+      "encrypted_count": "DX9heA==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/d/d2/Spr_Masters_Skyla.png"
@@ -4097,7 +4100,7 @@ const GAME_DATA = {
       "name": "jeanne_d'arc_alter_(swimsuit_berserker)_(fate)",
       "proper_name": "Jeanne d'Arc Alter (Swimsuit Berserker)",
       "category": "character",
-      "encrypted_count": "cwJlTw==",
+      "encrypted_count": "DHlgew==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://pbs.twimg.com/media/F5bt4ELbIAAhnjv.jpg"
@@ -4107,7 +4110,7 @@ const GAME_DATA = {
       "name": "specter_(arknights)",
       "proper_name": "Specter",
       "category": "character",
-      "encrypted_count": "dQRrTQ==",
+      "encrypted_count": "Cn9ueQ==",
       "copyright": "Arknights",
       "material": "Video Game",
       "image_reference": "https://arknights.wiki.gg/images/thumb/0/0d/Specter_the_Unchained.png/800px-Specter_the_Unchained.png"
@@ -4117,7 +4120,7 @@ const GAME_DATA = {
       "name": "hanekawa_tsubasa",
       "proper_name": "Hanekawa Tsubasa",
       "category": "character",
-      "encrypted_count": "dAJlTg==",
+      "encrypted_count": "C3lgeg==",
       "copyright": "Monogatari Series",
       "material": "Light Novel",
       "image_reference": "https://static.wikia.nocookie.net/bakemonogatari1645/images/b/be/Bakehane.png/revision/latest/scale-to-width-down/1200?cb=20181125055426"
@@ -4127,7 +4130,7 @@ const GAME_DATA = {
       "name": "neuvillette_(genshin_impact)",
       "proper_name": "Neuvillette",
       "category": "character",
-      "encrypted_count": "dQVjQA==",
+      "encrypted_count": "Cn5mdA==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/genshinimpact/images/a/ad/Neuvillette_carte.png/revision/latest?cb=20231105142328&path-prefix=fr"
@@ -4137,7 +4140,7 @@ const GAME_DATA = {
       "name": "makinami_mari_illustrious",
       "proper_name": "Makinami Mari Illustrious",
       "category": "character",
-      "encrypted_count": "dARmTg==",
+      "encrypted_count": "C39jeg==",
       "copyright": "Neon Genesis Evangelion",
       "material": "Anime",
       "image_reference": "https://static.zerochan.net/Makinami.Mari.Illustrious.full.2292748.png"
@@ -4147,7 +4150,7 @@ const GAME_DATA = {
       "name": "hoshino_(swimsuit)_(blue_archive)",
       "proper_name": "Hoshino (Swimsuit)",
       "category": "character",
-      "encrypted_count": "dQRqTA==",
+      "encrypted_count": "Cn9veA==",
       "copyright": "Blue Archive",
       "material": "Video Game",
       "image_reference": "https://static.wikitide.net/bluearchivewiki/c/c2/Hoshino_%28Swimsuit%29.png?version=25af5c07790b064540722a394002a255"
@@ -4157,7 +4160,7 @@ const GAME_DATA = {
       "name": "kasumi_kai_ni_(kancolle)",
       "proper_name": "Kasumi Kai Ni",
       "category": "character",
-      "encrypted_count": "dgZmSw==",
+      "encrypted_count": "CX1jfw==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/f/f3/Ship_Card_Kasumi_Kai_Ni.png/218px-Ship_Card_Kasumi_Kai_Ni.png"
@@ -4167,7 +4170,7 @@ const GAME_DATA = {
       "name": "high_priest_(ragnarok_online)",
       "proper_name": "High Priest",
       "category": "character",
-      "encrypted_count": "dQVkSQ==",
+      "encrypted_count": "Cn5hfQ==",
       "copyright": "Ragnarok Online",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
@@ -4177,7 +4180,7 @@ const GAME_DATA = {
       "name": "akitsu_maru_(kancolle)",
       "proper_name": "Akitsu Maru",
       "category": "character",
-      "encrypted_count": "dQJqTA==",
+      "encrypted_count": "CnlveA==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://yksk.kancollewiki.net/w/images/b/b3/166_3.png"
@@ -4187,7 +4190,7 @@ const GAME_DATA = {
       "name": "mizuno_ami",
       "proper_name": "Mizuno Ami",
       "category": "character",
-      "encrypted_count": "cwJlQA==",
+      "encrypted_count": "DHlgdA==",
       "copyright": "Sailor Moon",
       "material": "Anime",
       "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
@@ -4197,17 +4200,17 @@ const GAME_DATA = {
       "name": "dark_souls_i",
       "proper_name": "Dark Souls I",
       "category": "copyright",
-      "encrypted_count": "dABqQA==",
+      "encrypted_count": "C3tvdA==",
       "copyright": "Dark Souls",
       "material": "Video Game",
-      "image_reference": "https://th.bing.com/th/id/R.0d1830ca2ffae7281ca609d531f56af2?rik=GrNDuXUVm5L1qg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fdark-souls-png-filename-dark-souls-logo-fix-white-jpg-8000.jpg&ehk=YrsY16HqiPmAJ78vXWY0onwJIpYdpYf8HbLU8J01Vag%3d&risl=&pid=ImgRaw&r=0"
+      "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Dark_Souls_Cover_Art.jpg/250px-Dark_Souls_Cover_Art.jpg"
     },
     {
       "id": "t0423",
       "name": "mega_man_zx",
       "proper_name": "Mega Man ZX",
       "category": "copyright",
-      "encrypted_count": "dAhmSw==",
+      "encrypted_count": "C3Njfw==",
       "copyright": "Mega Man",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Mega_Man_ZX_logo.gif/revision/latest?cb=20110726202034"
@@ -4217,7 +4220,7 @@ const GAME_DATA = {
       "name": "hidamari_sketch",
       "proper_name": "Hidamari Sketch",
       "category": "copyright",
-      "encrypted_count": "dARlSg==",
+      "encrypted_count": "C39gfg==",
       "copyright": "Hidamari Sketch",
       "material": "Anime",
       "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
@@ -4227,7 +4230,7 @@ const GAME_DATA = {
       "name": "ultra_series",
       "proper_name": "Ultra Series",
       "category": "copyright",
-      "encrypted_count": "dABmQQ==",
+      "encrypted_count": "C3tjdQ==",
       "copyright": "Ultraman",
       "material": "TV Show",
       "image_reference": "https://static.wikia.nocookie.net/ultramananthology/images/7/7a/Ultraman_Series_Official_Logo.png/revision/latest?cb=20210118211502"
@@ -4237,7 +4240,7 @@ const GAME_DATA = {
       "name": "brave_witches",
       "proper_name": "Brave Witches",
       "category": "copyright",
-      "encrypted_count": "dAFmTg==",
+      "encrypted_count": "C3pjeg==",
       "copyright": "Brave Witches",
       "material": "Anime",
       "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
@@ -4247,7 +4250,7 @@ const GAME_DATA = {
       "name": "spider-verse",
       "proper_name": "Spider-Verse",
       "category": "copyright",
-      "encrypted_count": "dABqTA==",
+      "encrypted_count": "C3tveA==",
       "copyright": "Marvel Comics",
       "material": "Comic",
       "image_reference": "https://cdn.freelogovectors.net/wp-content/uploads/2023/10/spider_man-across-the-spider-verse-logo-freelogovectors.net_.png"
@@ -4257,7 +4260,7 @@ const GAME_DATA = {
       "name": "persona_3_portable",
       "proper_name": "Persona 3 Portable",
       "category": "copyright",
-      "encrypted_count": "dQdgSw==",
+      "encrypted_count": "Cnxlfw==",
       "copyright": "Persona",
       "material": "Video Game",
       "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
@@ -4267,7 +4270,7 @@ const GAME_DATA = {
       "name": "avatar_legends",
       "proper_name": "Avatar Legends",
       "category": "copyright",
-      "encrypted_count": "cwVrSg==",
+      "encrypted_count": "DH5ufg==",
       "copyright": "Avatar: The Last Airbender",
       "material": "Tabletop Game",
       "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
@@ -4277,7 +4280,7 @@ const GAME_DATA = {
       "name": "senran_kagura_new_link",
       "proper_name": "Senran Kagura: New Link",
       "category": "copyright",
-      "encrypted_count": "dQllTA==",
+      "encrypted_count": "CnJgeA==",
       "copyright": "Senran Kagura",
       "material": "Video Game",
       "image_reference": "https://www.giantbomb.com/a/uploads/scale_medium/0/9536/2954447-7552396149-logo_.png"
@@ -4287,7 +4290,7 @@ const GAME_DATA = {
       "name": "girls'_frontline_neural_cloud",
       "proper_name": "Girls' Frontline: Neural Cloud",
       "category": "copyright",
-      "encrypted_count": "dQdlTw==",
+      "encrypted_count": "Cnxgew==",
       "copyright": "Girls' Frontline: Neural Cloud",
       "material": "Video Game",
       "image_reference": "https://uspto.report/TM/98035315/mark.png"
@@ -4297,7 +4300,7 @@ const GAME_DATA = {
       "name": "mihoyo",
       "proper_name": "MiHoYo",
       "category": "copyright",
-      "encrypted_count": "dAJiSg==",
+      "encrypted_count": "C3lnfg==",
       "copyright": "MiHoYo",
       "image_reference": "https://static.wikia.nocookie.net/gen-impact/images/8/86/MiHoYo.png/revision/latest?cb=20211104093938&path-prefix=es"
     },
@@ -4306,7 +4309,7 @@ const GAME_DATA = {
       "name": "pokemon_legends:_z-a",
       "proper_name": "Pokémon Legends: Z-A",
       "category": "copyright",
-      "encrypted_count": "dAJmSg==",
+      "encrypted_count": "C3ljfg==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/logopedia/images/4/44/Pokemon_Legends_Z-A.png/revision/latest?cb=20240227152222"
@@ -4316,7 +4319,7 @@ const GAME_DATA = {
       "name": "emil_chronicle_online",
       "proper_name": "Emil Chronicle Online",
       "category": "copyright",
-      "encrypted_count": "dQdqTQ==",
+      "encrypted_count": "CnxveQ==",
       "copyright": "Emil Chronicle Online",
       "material": "Video Game",
       "image_reference": "https://cdn.mobygames.com/covers/9924119-emil-chronicle-online-windows-front-cover.jpg"
@@ -4326,7 +4329,7 @@ const GAME_DATA = {
       "name": "hayate_no_gotoku!",
       "proper_name": "Hayate no Gotoku!",
       "category": "copyright",
-      "encrypted_count": "dAlqTw==",
+      "encrypted_count": "C3Jvew==",
       "copyright": "Hayate no Gotoku!",
       "material": "Manga",
       "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
@@ -4336,7 +4339,7 @@ const GAME_DATA = {
       "name": "breath_of_fire",
       "proper_name": "Breath of Fire",
       "category": "copyright",
-      "encrypted_count": "dAFiTA==",
+      "encrypted_count": "C3pneA==",
       "copyright": "Breath of Fire",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/capcomdatabase/images/4/49/BoF_Logo.png/revision/latest?cb=20140626001848"
@@ -4346,7 +4349,7 @@ const GAME_DATA = {
       "name": "n_(pokemon)",
       "proper_name": "N",
       "category": "character",
-      "encrypted_count": "dQhmTQ==",
+      "encrypted_count": "CnNjeQ==",
       "copyright": "Pokémon",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/01/N_Black_2_and_White_2.png/revision/latest?cb=20220603233630"
@@ -4356,7 +4359,7 @@ const GAME_DATA = {
       "name": "futami_mami",
       "proper_name": "Futami Mami",
       "category": "character",
-      "encrypted_count": "dQlrQA==",
+      "encrypted_count": "CnJudA==",
       "copyright": "The Idolmaster",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/4/46/Mami_Futami_2nd_Vision_Normal.png/revision/latest?cb=20200608040131"
@@ -4366,7 +4369,7 @@ const GAME_DATA = {
       "name": "akiyama_mizuki",
       "proper_name": "Akiyama Mizuki",
       "category": "character",
-      "encrypted_count": "dQJnTw==",
+      "encrypted_count": "Cnliew==",
       "copyright": "The Idolmaster",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
@@ -4376,7 +4379,7 @@ const GAME_DATA = {
       "name": "yi_sang_(project_moon)",
       "proper_name": "Yi Sang",
       "category": "character",
-      "encrypted_count": "dQVnQQ==",
+      "encrypted_count": "Cn5idQ==",
       "copyright": "Project Moon",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
@@ -4386,7 +4389,7 @@ const GAME_DATA = {
       "name": "tighnari_(genshin_impact)",
       "proper_name": "Tighnari",
       "category": "character",
-      "encrypted_count": "dQRgSw==",
+      "encrypted_count": "Cn9lfw==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Tighnari_Full_Wish.png/revision/latest?cb=20220824042927"
@@ -4396,7 +4399,7 @@ const GAME_DATA = {
       "name": "tamamo_cat_(fate)",
       "proper_name": "Tamamo Cat",
       "category": "character",
-      "encrypted_count": "dQVmTg==",
+      "encrypted_count": "Cn5jeg==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
@@ -4406,7 +4409,7 @@ const GAME_DATA = {
       "name": "cheval_grand_(umamusume)",
       "proper_name": "Cheval Grand",
       "category": "character",
-      "encrypted_count": "dQNjSw==",
+      "encrypted_count": "Cnhmfw==",
       "copyright": "Umamusume",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/umamusume/images/6/64/Cheval_Grand_%28Race%29.png/revision/latest?cb=20240728193832"
@@ -4416,7 +4419,7 @@ const GAME_DATA = {
       "name": "taigei_(kancolle)",
       "proper_name": "Taigei",
       "category": "character",
-      "encrypted_count": "dQRhQQ==",
+      "encrypted_count": "Cn9kdQ==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-310248996.png"
@@ -4426,7 +4429,7 @@ const GAME_DATA = {
       "name": "monokuma",
       "proper_name": "Monokuma",
       "category": "character",
-      "encrypted_count": "dQZqTw==",
+      "encrypted_count": "Cn1vew==",
       "copyright": "Danganronpa",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Danganronpa_V3_Monokuma_Sprite_(Standing)_(6).png/revision/latest?cb=20180430003830"
@@ -4436,7 +4439,7 @@ const GAME_DATA = {
       "name": "mash_kyrielight_(dangerous_beast)",
       "proper_name": "Mash Kyrielight",
       "category": "character",
-      "encrypted_count": "dQdgSA==",
+      "encrypted_count": "CnxlfA==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mash_2.png"
@@ -4446,7 +4449,7 @@ const GAME_DATA = {
       "name": "tsumiki_mikan",
       "proper_name": "Tsumiki Mikan",
       "category": "character",
-      "encrypted_count": "dQlmQQ==",
+      "encrypted_count": "CnJjdQ==",
       "copyright": "Danganronpa",
       "material": "Video Game",
       "image_reference": "https://i.pinimg.com/736x/8d/d6/86/8dd686f3d14630bd560ec334b981be25.jpg"
@@ -4456,7 +4459,7 @@ const GAME_DATA = {
       "name": "akagi_miria",
       "proper_name": "Akagi Miria",
       "category": "character",
-      "encrypted_count": "dAFnSQ==",
+      "encrypted_count": "C3pifQ==",
       "image_reference": "https://static.wikia.nocookie.net/deresute/images/1/12/Miria_N.jpg/revision/latest?cb=20160919163515&path-prefix=it"
     },
     {
@@ -4464,7 +4467,7 @@ const GAME_DATA = {
       "name": "female_robin_(fire_emblem)",
       "proper_name": "Female Robin",
       "category": "character",
-      "encrypted_count": "dANnSQ==",
+      "encrypted_count": "C3hifQ==",
       "copyright": "Fire Emblem",
       "material": "Video Game",
       "image_reference": "https://gamepedia.cursecdn.com/fewarriors_gamepedia_en/1/16/Robin_(Female)_Artwork.png"
@@ -4474,7 +4477,7 @@ const GAME_DATA = {
       "name": "saten_ruiko",
       "proper_name": "Saten Ruiko",
       "category": "character",
-      "encrypted_count": "dAFqTA==",
+      "encrypted_count": "C3pveA==",
       "copyright": "Toaru Series",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
@@ -4484,7 +4487,7 @@ const GAME_DATA = {
       "name": "toshinou_kyouko",
       "proper_name": "Toshinou Kyouko",
       "category": "character",
-      "encrypted_count": "dQlgTA==",
+      "encrypted_count": "CnJleA==",
       "copyright": "YuruYuri",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
@@ -4494,7 +4497,7 @@ const GAME_DATA = {
       "name": "tippy_(gochiusa)",
       "proper_name": "Tippy",
       "category": "character",
-      "encrypted_count": "dQRiSw==",
+      "encrypted_count": "Cn9nfw==",
       "copyright": "Gochuumon wa Usagi Desu ka?",
       "material": "Anime",
       "image_reference": "https://static.zerochan.net/Gochuumon.wa.Usagi.Desu.ka.1024.2048654.webp"
@@ -4504,7 +4507,7 @@ const GAME_DATA = {
       "name": "azki_(hololive)",
       "proper_name": "AZKi",
       "category": "character",
-      "encrypted_count": "dQdjQA==",
+      "encrypted_count": "CnxmdA==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikitide.net/hololivewiki/thumb/9/99/AZKi_-_Portrait_02-2-2.png/580px-AZKi_-_Portrait_02-2-2.png"
@@ -4514,7 +4517,7 @@ const GAME_DATA = {
       "name": "hachimiya_meguru",
       "proper_name": "Hachimiya Meguru",
       "category": "character",
-      "encrypted_count": "dAFiTQ==",
+      "encrypted_count": "C3pneQ==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://image.shinycolors.wiki/4/4b/MeguruProfile.png"
@@ -4524,7 +4527,7 @@ const GAME_DATA = {
       "name": "albedo_(genshin_impact)",
       "proper_name": "Albedo",
       "category": "character",
-      "encrypted_count": "dQVhSQ==",
+      "encrypted_count": "Cn5kfQ==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest?cb=20210302092013"
@@ -4534,7 +4537,7 @@ const GAME_DATA = {
       "name": "ump9_(girls'_frontline)",
       "proper_name": "UMP9",
       "category": "character",
-      "encrypted_count": "dQVrSQ==",
+      "encrypted_count": "Cn5ufQ==",
       "copyright": "Girls' Frontline",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/UMP9.(Girls.Frontline).full.3776038.jpg"
@@ -4544,7 +4547,7 @@ const GAME_DATA = {
       "name": "carmine_(pokemon)",
       "proper_name": "Carmine",
       "category": "character",
-      "encrypted_count": "dQdqSA==",
+      "encrypted_count": "CnxvfA==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://archives.bulbagarden.net/media/upload/e/e6/Scarlet_Violet_Carmine.png"
@@ -4554,7 +4557,7 @@ const GAME_DATA = {
       "name": "hishikawa_rikka",
       "proper_name": "Hishikawa Rikka",
       "category": "character",
-      "encrypted_count": "dQRqTg==",
+      "encrypted_count": "Cn9veg==",
       "copyright": "Vocaloid",
       "material": "Music Software",
       "image_reference": "https://static.wikia.nocookie.net/prettycure/images/a/a7/Curediamondmain.jpg/revision/latest?cb=20121226035824"
@@ -4564,7 +4567,7 @@ const GAME_DATA = {
       "name": "akuma_homura",
       "proper_name": "Akuma Homura",
       "category": "character",
-      "encrypted_count": "dQRlTg==",
+      "encrypted_count": "Cn9geg==",
       "copyright": "Puella Magi Madoka Magica",
       "material": "Anime",
       "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
@@ -4574,7 +4577,7 @@ const GAME_DATA = {
       "name": "tachibana_kanade",
       "proper_name": "Tachibana Kanade",
       "category": "character",
-      "encrypted_count": "dgNm",
+      "encrypted_count": "CXhj",
       "copyright": "Angel Beats!",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/angelbeats/images/d/d4/Kanade_anime.png/revision/latest/scale-to-width-down/1200?cb=20190414062510"
@@ -4584,7 +4587,7 @@ const GAME_DATA = {
       "name": "frisk_(undertale)",
       "proper_name": "Frisk",
       "category": "character",
-      "encrypted_count": "dAFiSA==",
+      "encrypted_count": "C3pnfA==",
       "copyright": "Undertale",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/undertale/images/a/a7/Undertale_frisk_front_by_ldinos-d9ywr9e.png/revision/latest?cb=20170105221708&path-prefix=es"
@@ -4594,7 +4597,7 @@ const GAME_DATA = {
       "name": "yura_(kancolle)",
       "proper_name": "Yura",
       "category": "character",
-      "encrypted_count": "dQJnTw==",
+      "encrypted_count": "Cnliew==",
       "copyright": "Kantai Collection",
       "material": "Video Game",
       "image_reference": "https://static.zerochan.net/Yura.(Kantai.Collection).full.1712007.jpg"
@@ -4604,7 +4607,7 @@ const GAME_DATA = {
       "name": "shinonome_ena",
       "proper_name": "Shinonome Ena",
       "category": "character",
-      "encrypted_count": "dQNkQQ==",
+      "encrypted_count": "CnhhdQ==",
       "copyright": "D4DJ",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
@@ -4614,7 +4617,7 @@ const GAME_DATA = {
       "name": "awa_subaru",
       "proper_name": "Awa Subaru",
       "category": "character",
-      "encrypted_count": "dQJhTQ==",
+      "encrypted_count": "CnlkeQ==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://external-preview.redd.it/McQKncRvPg9PgZzuZT2aJOs6zyuoVsQUkm9xKNW1yxs.jpg?width=1080&crop=smart&auto=webp&s=d1ee8796a59e9dfa172c9d4e35e2e149802c8734"
@@ -4624,7 +4627,7 @@ const GAME_DATA = {
       "name": "burnice_white",
       "proper_name": "Burnice White",
       "category": "character",
-      "encrypted_count": "dQdlTA==",
+      "encrypted_count": "CnxgeA==",
       "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/d/d1/Agent_Burnice_White_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240930234702"
     },
     {
@@ -4632,7 +4635,7 @@ const GAME_DATA = {
       "name": "shigure_ui_(vtuber)",
       "proper_name": "Shigure Ui",
       "category": "character",
-      "encrypted_count": "dQRrSQ==",
+      "encrypted_count": "Cn9ufQ==",
       "copyright": "Hololive",
       "material": "Virtual Youtubers",
       "image_reference": "https://static.wikitide.net/hololivewiki/thumb/f/f0/Shigure_Ui_-_Full_Illustration_03.png/93px-Shigure_Ui_-_Full_Illustration_03.png"
@@ -4642,7 +4645,7 @@ const GAME_DATA = {
       "name": "aubrey_(faraway)_(omori)",
       "proper_name": "Aubrey",
       "category": "character",
-      "encrypted_count": "dQNqTg==",
+      "encrypted_count": "Cnhveg==",
       "copyright": "Omori",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/omori/images/8/88/DW_Aubrey_Fullbody_Profile.png/revision/latest?cb=20221031041200"
@@ -4652,7 +4655,7 @@ const GAME_DATA = {
       "name": "seiun_sky_(umamusume)",
       "proper_name": "Seiun Sky",
       "category": "character",
-      "encrypted_count": "dQBkTg==",
+      "encrypted_count": "Cntheg==",
       "copyright": "Umamusume",
       "material": "Video Game",
       "image_reference": "https://cdn.umamusu.wiki/thumb/Seiun_Sky_(Main).png/640px-Seiun_Sky_(Main).png"
@@ -4662,7 +4665,7 @@ const GAME_DATA = {
       "name": "shana",
       "proper_name": "Shana",
       "category": "character",
-      "encrypted_count": "dABlQA==",
+      "encrypted_count": "C3tgdA==",
       "copyright": "Shakugan no Shana",
       "material": "Anime",
       "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/6/66/Shana_render2.png/revision/latest?cb=20160302072323"
@@ -4672,7 +4675,7 @@ const GAME_DATA = {
       "name": "clorinde_(genshin_impact)",
       "proper_name": "Clorinde",
       "category": "character",
-      "encrypted_count": "dQVmSw==",
+      "encrypted_count": "Cn5jfw==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Clorinde_Introduction_Card.png/revision/latest?cb=20240422100307"
@@ -4682,7 +4685,7 @@ const GAME_DATA = {
       "name": "fou_(fate)",
       "proper_name": "Fou",
       "category": "character",
-      "encrypted_count": "dQJgSw==",
+      "encrypted_count": "Cnllfw==",
       "copyright": "Fate Series",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
@@ -4692,7 +4695,7 @@ const GAME_DATA = {
       "name": "sora_harewataru",
       "proper_name": "Sora Harewataru",
       "category": "character",
-      "encrypted_count": "dQRiTA==",
+      "encrypted_count": "Cn9neA==",
       "image_reference": "https://static.wikia.nocookie.net/prettycure/images/d/d5/Sky_Sora_Profile.png/revision/latest/scale-to-width-down/350?cb=20230124133600"
     },
     {
@@ -4700,7 +4703,7 @@ const GAME_DATA = {
       "name": "aoki_reika",
       "proper_name": "Aoki Reika",
       "category": "character",
-      "encrypted_count": "dQdhSQ==",
+      "encrypted_count": "CnxkfQ==",
       "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/5/58/Reika_Aoki_Perfil.png/revision/latest?cb=20160918201752&path-prefix=pt-br"
     },
     {
@@ -4708,7 +4711,7 @@ const GAME_DATA = {
       "name": "takao_(azur_lane)",
       "proper_name": "Takao",
       "category": "character",
-      "encrypted_count": "dQdrSw==",
+      "encrypted_count": "Cnxufw==",
       "copyright": "Azur Lane",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/bhlx/images/2/28/Takao.png/revision/latest?cb=20230427040443"
@@ -4718,7 +4721,7 @@ const GAME_DATA = {
       "name": "florian_(pokemon)",
       "proper_name": "Florian",
       "category": "character",
-      "encrypted_count": "dQdqTg==",
+      "encrypted_count": "Cnxveg==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20230826015011/Artwork_de_Florian_y_Fuecoco.png/376px-Artwork_de_Florian_y_Fuecoco.png"
@@ -4728,7 +4731,7 @@ const GAME_DATA = {
       "name": "kirlia",
       "proper_name": "Kirlia",
       "category": "character",
-      "encrypted_count": "dAJnSA==",
+      "encrypted_count": "C3lifA==",
       "copyright": "Pokemon",
       "material": "Video Game",
       "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
@@ -4738,7 +4741,7 @@ const GAME_DATA = {
       "name": "ningguang_(genshin_impact)",
       "proper_name": "Ningguang",
       "category": "character",
-      "encrypted_count": "dQRrTw==",
+      "encrypted_count": "Cn9uew==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/5/59/Ningguang.jpg"
@@ -4748,7 +4751,7 @@ const GAME_DATA = {
       "name": "dodoco_(genshin_impact)",
       "proper_name": "Dodoco",
       "category": "character",
-      "encrypted_count": "dghhTA==",
+      "encrypted_count": "CXNkeA==",
       "copyright": "Genshin Impact",
       "material": "Video Game",
       "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/7/75/Dodoco.png/revision/latest?cb=20220327125113&path-prefix=th"
