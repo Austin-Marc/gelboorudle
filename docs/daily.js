@@ -288,18 +288,15 @@ class DailyChallenge {
         const score = this.answers.filter(a => a === true).length;
         
         // Create emoji grid (2 rows of 5)
-        const row1 = this.answers.slice(0, 5)
+        const row1 = this.answers.slice(0, 10)
             .map(a => a ? '🟩' : '🟥').join('');
-        const row2 = this.answers.slice(5, 10)
-            .map(a => a ? '🟩' : '🟥').join('');
+
         
         const shareText = `Gelbooru-dle Daily ${this.todayDate}
 Score: ${score}/10
-
 ${row1}
-${row2}
 
-${window.location.origin}`;
+${window.location.href}`;
         
         // Copy to clipboard
         if (navigator.clipboard && navigator.clipboard.writeText) {
