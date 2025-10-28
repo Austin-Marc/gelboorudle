@@ -1,154 +1,132 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-10-26T06:52:47.675776Z
-// Date: 2025-10-26
+// Generated on: 2025-10-28T03:34:16.008947+00:00
+// Date: 2025-10-28
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-10-26",
+  "date": "2025-10-28",
   "key": "8JWLlIcTSjPsMckh",
   "pairs": [
     {
       "tag1": {
-        "id": "t0437",
-        "name": "n_(pokemon)",
-        "proper_name": "N",
-        "category": "character",
-        "encrypted_count": "CnNjeQ==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/01/N_Black_2_and_White_2.png/revision/latest?cb=20220603233630"
-      },
-      "tag2": {
-        "id": "t0091",
-        "name": "maya_(kancolle)",
-        "proper_name": "Maya",
-        "category": "character",
-        "encrypted_count": "C3pkdA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0407",
-        "name": "higashiyama_kobeni",
-        "proper_name": "Higashiyama Kobeni",
-        "category": "character",
-        "encrypted_count": "C3hkew==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
-      },
-      "tag2": {
-        "id": "t0146",
-        "name": "nia_(xenoblade)",
-        "proper_name": "Nia",
-        "category": "character",
-        "encrypted_count": "C3JjdQ==",
-        "copyright": "Xenoblade Chronicles",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0354",
-        "name": "merlin_prismriver",
-        "proper_name": "Merlin Prismriver",
-        "category": "character",
-        "encrypted_count": "Cn9lfQ==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://pm1.aminoapps.com/6373/c4ea5075242be120a6e74045d9f3259bca213a98_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0478",
-        "name": "dodoco_(genshin_impact)",
-        "proper_name": "Dodoco",
-        "category": "character",
-        "encrypted_count": "CXNkeA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/7/75/Dodoco.png/revision/latest?cb=20220327125113&path-prefix=th"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0087",
-        "name": "mahou_sensei_negima!",
-        "proper_name": "Mahou Sensei Negima!",
+        "id": "t0119",
+        "name": "maria-sama_ga_miteru",
+        "proper_name": "Maria-sama ga Miteru",
         "category": "copyright",
-        "encrypted_count": "DHhkew==",
-        "copyright": "Mahou Sensei Negima!",
-        "material": "Manga",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/3a/Negima%21_Magister_Negi_Magi_1.png"
+        "encrypted_count": "C39neg==",
+        "copyright": "Maria-sama ga Miteru",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/animeland-index/images/6/6a/Maria_sama_ga_miteru.jpg/revision/latest?cb=20220526195420&path-prefix=fr"
       },
       "tag2": {
-        "id": "t0244",
-        "name": "matara_okina",
-        "proper_name": "Matara Okina",
+        "id": "t0015",
+        "name": "hatsune_miku",
+        "proper_name": "Hatsune Miku",
         "category": "character",
-        "encrypted_count": "Cn5geQ==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/6626/12a7432efa65b8fd5cc4aa821a60c67f99850263_hq.jpg"
+        "encrypted_count": "CXhueV9w",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
       }
     },
     {
       "tag1": {
-        "id": "t0349",
-        "name": "ranma-chan",
-        "proper_name": "Ranma-chan",
+        "id": "t0393",
+        "name": "takane_lui",
+        "proper_name": "Takane Lui",
         "category": "character",
-        "encrypted_count": "D3tlfw==",
-        "copyright": "Ranma \u00bd",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/ranma/images/d/dd/Saotome_Ranma_%E2%99%80_%28Anime_2024%29.png/revision/latest?cb=20240718055725"
+        "encrypted_count": "Cn1meg==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/Takane_Lui_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20211202201955"
       },
       "tag2": {
-        "id": "t0373",
-        "name": "unryuu_(kancolle)",
-        "proper_name": "Unryuu",
-        "category": "character",
-        "encrypted_count": "Cnxnfg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/2/23/Ship_Card_Unryuu.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0414",
-        "name": "hanekawa_tsubasa",
-        "proper_name": "Hanekawa Tsubasa",
-        "category": "character",
-        "encrypted_count": "C3lgeg==",
-        "copyright": "Monogatari Series",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/bakemonogatari1645/images/b/be/Bakehane.png/revision/latest/scale-to-width-down/1200?cb=20181125055426"
-      },
-      "tag2": {
-        "id": "t0145",
-        "name": "lize_helesta",
-        "proper_name": "Lize Helesta",
-        "category": "character",
-        "encrypted_count": "C3lufQ==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/1/13/Lize_Helesta_Portrait.png/revision/latest?cb=20210327042159"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0237",
-        "name": "azumanga_daioh",
-        "proper_name": "Azumanga Daioh",
+        "id": "t0328",
+        "name": "bleach:_sennen_kessen-hen",
+        "proper_name": "Bleach: Thousand-Year Blood War",
         "category": "copyright",
-        "encrypted_count": "CXphfg==",
-        "copyright": "Azumanga Daioh",
-        "material": "Manga",
-        "image_reference": "https://static.wikitide.net/bearboneswiki/f/f3/Azumanga_Daioh_logo.png"
+        "encrypted_count": "DH1nfA==",
+        "copyright": "Bleach",
+        "material": "Anime",
+        "image_reference": "https://latestlogo.com/wp-content/uploads/2024/01/bleach-thousand-year-blood-war-logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0410",
+        "name": "lyn_(fire_emblem)",
+        "proper_name": "Lyn",
+        "category": "character",
+        "encrypted_count": "C35neA==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/3/3a/FEA_Lyn.png/1200px-FEA_Lyn.png"
+      },
+      "tag2": {
+        "id": "t0170",
+        "name": "serika_(blue_archive)",
+        "proper_name": "Serika",
+        "category": "character",
+        "encrypted_count": "CnNueg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/68195-1831388089.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0255",
+        "name": "evelyn_chevalier",
+        "proper_name": "Evelyn Chevalier",
+        "category": "character",
+        "encrypted_count": "CnNvdQ==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/hoyodexwiki/4/45/Evelyn_Chevalier_(ZZ-MU).png"
+      },
+      "tag2": {
+        "id": "t0335",
+        "name": "katsushika_hokusai_(fate)",
+        "proper_name": "Katsushika Hokusai",
+        "category": "character",
+        "encrypted_count": "Cn1heA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/9/90/S198_Stage1.webp/revision/latest?cb=20220911142141"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0166",
+        "name": "dizzy_(guilty_gear)",
+        "proper_name": "Dizzy",
+        "category": "character",
+        "encrypted_count": "DHtieQ==",
+        "copyright": "Guilty Gear",
+        "material": "Video Game",
+        "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
+      },
+      "tag2": {
+        "id": "t0128",
+        "name": "omori_(omori)",
+        "proper_name": "Omori",
+        "category": "character",
+        "encrypted_count": "C3pjeg==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/c/ce/Group_hug_dw.gif/revision/latest?cb=20220217114528&path-prefix=zh"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0308",
+        "name": "kudamaki_tsukasa",
+        "proper_name": "Kudamaki Tsukasa",
+        "category": "character",
+        "encrypted_count": "Cn5ifg==",
+        "copyright": "D4DJ",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Kudamaki.Tsukasa.full.3320713.jpg"
       },
       "tag2": {
         "id": "t0369",
@@ -163,68 +141,90 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0055",
-        "name": "fate/prototype",
-        "proper_name": "Fate/prototype",
+        "id": "t0017",
+        "name": "fire_emblem",
+        "proper_name": "Fire Emblem",
         "category": "copyright",
-        "encrypted_count": "DHtmfg==",
-        "copyright": "Fate Series",
-        "material": "Light Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        "encrypted_count": "CXljdF56",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/1/1b/Fire_Emblem_Engage_Box_Art.png/revision/latest/thumbnail/width/360/height/450?cb=20220914001431"
       },
       "tag2": {
-        "id": "t0069",
-        "name": "hiiragi_tsukasa",
-        "proper_name": "Hiiragi Tsukasa",
+        "id": "t0292",
+        "name": "hilbert_(pokemon)",
+        "proper_name": "Hilbert",
         "category": "character",
-        "encrypted_count": "DHthdQ==",
-        "copyright": "Lucky Star",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/9/92/Tsukasa-san.gif/revision/latest?cb=20120723133432"
+        "encrypted_count": "C3xveA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/Spr_Masters_Hilbert.png/800px-Spr_Masters_Hilbert.png"
       }
     },
     {
       "tag1": {
-        "id": "t0467",
-        "name": "aubrey_(faraway)_(omori)",
-        "proper_name": "Aubrey",
+        "id": "t0178",
+        "name": "tsukishiro_yanagi",
+        "proper_name": "Tsukishiro Yanagi",
         "category": "character",
-        "encrypted_count": "Cnhveg==",
-        "copyright": "Omori",
+        "encrypted_count": "CnJveA==",
+        "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/8/88/DW_Aubrey_Fullbody_Profile.png/revision/latest?cb=20221031041200"
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
       },
       "tag2": {
-        "id": "t0413",
-        "name": "specter_(arknights)",
-        "proper_name": "Specter",
+        "id": "t0290",
+        "name": "seele_vollerei",
+        "proper_name": "Seele Vollerei",
         "category": "character",
-        "encrypted_count": "Cn9ueQ==",
-        "copyright": "Arknights",
+        "encrypted_count": "CnJuew==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/0/0d/Specter_the_Unchained.png/800px-Specter_the_Unchained.png"
+        "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
       }
     },
     {
       "tag1": {
-        "id": "t0421",
-        "name": "mizuno_ami",
-        "proper_name": "Mizuno Ami",
+        "id": "t0380",
+        "name": "sendai_kai_ni_(kancolle)",
+        "proper_name": "Sendai Kai Ni",
         "category": "character",
-        "encrypted_count": "DHlgdA==",
-        "copyright": "Sailor Moon",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
+        "encrypted_count": "CXlvdA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/c/ce/Sendai_Kai_Ni_Full.png/revision/latest/scale-to-width-down/284?cb=20180817193836"
       },
       "tag2": {
-        "id": "t0430",
-        "name": "senran_kagura_new_link",
-        "proper_name": "Senran Kagura: New Link",
-        "category": "copyright",
-        "encrypted_count": "CnJgeA==",
-        "copyright": "Senran Kagura",
+        "id": "t0138",
+        "name": "yorigami_jo'on",
+        "proper_name": "Yorigami Joon",
+        "category": "character",
+        "encrypted_count": "CnxneQ==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://www.giantbomb.com/a/uploads/scale_medium/0/9536/2954447-7552396149-logo_.png"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/6/6e/JoonYorigami1.2.png/revision/latest?cb=20230430211416"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0098",
+        "name": "akigumo_(kancolle)",
+        "proper_name": "Akigumo",
+        "category": "character",
+        "encrypted_count": "CnJufw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e5/Akigumo_Card.png/revision/latest?cb=20180817195311"
+      },
+      "tag2": {
+        "id": "t0440",
+        "name": "yi_sang_(project_moon)",
+        "proper_name": "Yi Sang",
+        "category": "character",
+        "encrypted_count": "Cn5idQ==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
       }
     }
   ]
