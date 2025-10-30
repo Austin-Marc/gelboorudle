@@ -1,132 +1,22 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-10-29T04:19:24.755546+00:00
-// Date: 2025-10-29
+// Generated on: 2025-10-30T04:14:44.958753+00:00
+// Date: 2025-10-30
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-10-29",
+  "date": "2025-10-30",
   "key": "8JWLlIcTSjPsMckh",
   "pairs": [
     {
       "tag1": {
-        "id": "t0374",
-        "name": "lilith_(darkstalkers)",
-        "proper_name": "Lilith",
-        "category": "character",
-        "encrypted_count": "DHhufw==",
-        "copyright": "Darkstalkers",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
-      },
-      "tag2": {
-        "id": "t0029",
-        "name": "zenless_zone_zero",
-        "proper_name": "Zenless Zone Zero",
+        "id": "t0239",
+        "name": "yu-gi-oh!_5d's",
+        "proper_name": "Yu-Gi-Oh! 5D's",
         "category": "copyright",
-        "encrypted_count": "DXJheV8=",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Zenless_Zone_Zero_curved_box_logo.svg/250px-Zenless_Zone_Zero_curved_box_logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0461",
-        "name": "frisk_(undertale)",
-        "proper_name": "Frisk",
-        "category": "character",
-        "encrypted_count": "C3pnfA==",
-        "copyright": "Undertale",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/undertale/images/a/a7/Undertale_frisk_front_by_ldinos-d9ywr9e.png/revision/latest?cb=20170105221708&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0425",
-        "name": "ultra_series",
-        "proper_name": "Ultra Series",
-        "category": "copyright",
-        "encrypted_count": "C3tjdQ==",
-        "copyright": "Ultraman",
-        "material": "TV Show",
-        "image_reference": "https://static.wikia.nocookie.net/ultramananthology/images/7/7a/Ultraman_Series_Official_Logo.png/revision/latest?cb=20210118211502"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0280",
-        "name": "shakugan_no_shana",
-        "proper_name": "Shakugan no Shana",
-        "category": "copyright",
-        "encrypted_count": "C31idA==",
-        "copyright": "Shakugan no Shana",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/shakugan/images/3/34/First_season_title_card.jpg/revision/latest?cb=20120915105459"
-      },
-      "tag2": {
-        "id": "t0428",
-        "name": "persona_3_portable",
-        "proper_name": "Persona 3 Portable",
-        "category": "copyright",
-        "encrypted_count": "Cnxlfw==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0258",
-        "name": "senjougahara_hitagi",
-        "proper_name": "Senjougahara Hitagi",
-        "category": "character",
-        "encrypted_count": "C3hvfw==",
-        "copyright": "Monogatari Series",
+        "encrypted_count": "DHxufQ==",
+        "copyright": "Yu-Gi-Oh! 5D's",
         "material": "Anime",
-        "image_reference": "https://1.bp.blogspot.com/-Su1PAdKQzao/WHHpgH_v2QI/AAAAAAAABMg/wvAO-6iJMp0n84RNYlC1aye6wSBeH9vuwCEw/s1600/Hitagi_bake_designs.jpg"
-      },
-      "tag2": {
-        "id": "t0226",
-        "name": "kiyohime_(fate)",
-        "proper_name": "Kiyohime",
-        "category": "character",
-        "encrypted_count": "C3phdA==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0201",
-        "name": "tsunomaki_watame",
-        "proper_name": "Tsunomaki Watame",
-        "category": "character",
-        "encrypted_count": "C3pnfQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
-      },
-      "tag2": {
-        "id": "t0088",
-        "name": "youkai_watch",
-        "proper_name": "Youkai Watch",
-        "category": "copyright",
-        "encrypted_count": "DHNgew==",
-        "copyright": "Youkai Watch",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/e/ed/Youkaiwatch2019.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0229",
-        "name": "overlord_(maruyama)",
-        "proper_name": "Overlord",
-        "category": "copyright",
-        "encrypted_count": "DXhjew==",
-        "copyright": "Overlord",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Overlord_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/yugioh/images/e/e1/Yu-Gi-Oh!_5Ds_logo.png/revision/latest?cb=20091226000453"
       },
       "tag2": {
         "id": "t0291",
@@ -141,90 +31,199 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0123",
-        "name": "falin_touden",
-        "proper_name": "Falin Touden",
+        "id": "t0068",
+        "name": "shimada_arisu",
+        "proper_name": "Shimada Arisu",
         "category": "character",
-        "encrypted_count": "C35neg==",
-        "copyright": "Dungeon Meshi",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
+        "encrypted_count": "C35vew==",
+        "copyright": "Girls Und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/a/a6/Arisu_Shimada_Render_01.png/revision/latest/scale-to-width-down/206?cb=20240316075811"
       },
       "tag2": {
-        "id": "t0143",
-        "name": "jougasaki_rika",
-        "proper_name": "Jougasaki Rika",
+        "id": "t0163",
+        "name": "harukawa_maki",
+        "proper_name": "Harukawa Maki",
         "category": "character",
-        "encrypted_count": "C31nfw==",
-        "copyright": "The iDOLM@STER",
+        "encrypted_count": "C3hleQ==",
+        "copyright": "Project Sekai",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/17/R_Rare_Rika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107025154"
+        "image_reference": "https://static.zerochan.net/Harukawa.Maki.full.4175270.png"
       }
     },
     {
       "tag1": {
-        "id": "t0462",
-        "name": "yura_(kancolle)",
-        "proper_name": "Yura",
+        "id": "t0380",
+        "name": "sendai_kai_ni_(kancolle)",
+        "proper_name": "Sendai Kai Ni",
         "category": "character",
-        "encrypted_count": "Cnliew==",
+        "encrypted_count": "CXlvdA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yura.(Kantai.Collection).full.1712007.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/c/ce/Sendai_Kai_Ni_Full.png/revision/latest/scale-to-width-down/284?cb=20180817193836"
       },
       "tag2": {
-        "id": "t0346",
-        "name": "kousaka_kirino",
-        "proper_name": "Kousaka Kirino",
-        "category": "character",
-        "encrypted_count": "C31iew==",
-        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
-        "material": "Light Novel",
-        "image_reference": "https://static.zerochan.net/Kousaka.Kirino.full.1735927.jpg"
+        "id": "t0187",
+        "name": "pokemon_journeys",
+        "proper_name": "Pok\u00e9mon Journeys",
+        "category": "copyright",
+        "encrypted_count": "DH9lfg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0356",
-        "name": "isokaze_(kancolle)",
-        "proper_name": "Isokaze",
+        "id": "t0321",
+        "name": "street_fighter_zero_(series)",
+        "proper_name": "Street Fighter Zero Series",
+        "category": "copyright",
+        "encrypted_count": "C35gfw==",
+        "copyright": "Street Fighter",
+        "material": "Video Game",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11a10a01-ac23-4fea-ad5a-b51f53084159/d7emmzp-a5fccda0-1e9b-4213-a884-e8393ac4a9de.png/v1/fill/w_800,h_554/street_fighter_zero_logo_by_ringostarr39_d7emmzp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU0IiwicGF0aCI6IlwvZlwvMTFhMTBhMDEtYWMyMy00ZmVhLWFkNWEtYjUxZjUzMDg0MTU5XC9kN2VtbXpwLWE1ZmNjZGEwLTFlOWItNDIxMy1hODg0LWU4MzkzYWM0YTlkZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wiCZfhEIoUu7WURWTrk1j8qIrUtTR7ibA4zBI_z-EcA"
+      },
+      "tag2": {
+        "id": "t0314",
+        "name": "natsu_(blue_archive)",
+        "proper_name": "Natsu",
         "category": "character",
-        "encrypted_count": "CnxldA==",
+        "encrypted_count": "Cn1lfQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/9/90/Natsu.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0252",
+        "name": "kicchou_yachie",
+        "proper_name": "Kicchou Yachie",
+        "category": "character",
+        "encrypted_count": "Cn9heA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
+      },
+      "tag2": {
+        "id": "t0411",
+        "name": "skyla_(pokemon)",
+        "proper_name": "Skyla",
+        "category": "character",
+        "encrypted_count": "DX9heA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/d/d2/Spr_Masters_Skyla.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0206",
+        "name": "uehara_ayumu",
+        "proper_name": "Uehara Ayumu",
+        "category": "character",
+        "encrypted_count": "DHNnfw==",
+        "copyright": "Love Live! Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
+      },
+      "tag2": {
+        "id": "t0117",
+        "name": "pokemon_rgby",
+        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
+        "category": "copyright",
+        "encrypted_count": "DXNndA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0062",
+        "name": "yamakaze_(kancolle)",
+        "proper_name": "Yamakaze",
+        "category": "character",
+        "encrypted_count": "C3hveg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Isokaze.(Kantai.Collection).full.2420339.png"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
       },
       "tag2": {
-        "id": "t0053",
-        "name": "dragon_quest_iii",
-        "proper_name": "Dragon Quest III",
-        "category": "copyright",
-        "encrypted_count": "Dn5veA==",
-        "copyright": "Dragon Quest",
+        "id": "t0162",
+        "name": "satonaka_chie",
+        "proper_name": "Satonaka Chie",
+        "category": "character",
+        "encrypted_count": "DHtgfQ==",
+        "copyright": "Persona",
         "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/I/91M8HM0QlDL._AC_UF1000,1000_QL80_.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
       }
     },
     {
       "tag1": {
-        "id": "t0112",
-        "name": "project_diva_(series)",
-        "proper_name": "Project Diva Series",
-        "category": "copyright",
-        "encrypted_count": "Cn1jeA==",
-        "copyright": "Project Diva Series",
+        "id": "t0104",
+        "name": "luna_child",
+        "proper_name": "Luna Child",
+        "category": "character",
+        "encrypted_count": "Cn1ueQ==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/ruben-the-hedgehog-official/images/4/48/HMPD_Logo.png/revision/latest?cb=20170808141524"
+        "image_reference": "https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png/revision/latest?cb=20241205032544"
       },
       "tag2": {
-        "id": "t0236",
-        "name": "kara_no_kyoukai",
-        "proper_name": "Kara no Kyoukai",
+        "id": "t0341",
+        "name": "kaeya_(genshin_impact)",
+        "proper_name": "Kaeya",
+        "category": "character",
+        "encrypted_count": "Cnxgfg==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8a/Character_Kaeya_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030050&path-prefix=th"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0014",
+        "name": "idolmaster_cinderella_girls",
+        "proper_name": "Idolmaster Cinderella Girls",
         "category": "copyright",
-        "encrypted_count": "C3hufg==",
-        "copyright": "Kara no Kyoukai",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/f/f0/KnK_logo.png/revision/latest?cb=20130716091824"
+        "encrypted_count": "CX5nfVp5",
+        "copyright": "Idolmaster Cinderella Girls",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Idolmaster_Cinderella_Girls_promo.jpg"
+      },
+      "tag2": {
+        "id": "t0186",
+        "name": "ado_(utaite)",
+        "proper_name": "Ado",
+        "category": "copyright",
+        "encrypted_count": "C3tveg==",
+        "copyright": "Ado",
+        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0263",
+        "name": "boko_(girls_und_panzer)",
+        "proper_name": "Boko",
+        "category": "character",
+        "encrypted_count": "Cn9udQ==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
+      },
+      "tag2": {
+        "id": "t0063",
+        "name": "diluc_(genshin_impact)",
+        "proper_name": "Diluc",
+        "category": "character",
+        "encrypted_count": "C35gfA==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
       }
     }
   ]
