@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-10-30T04:14:44.958753+00:00
-// Date: 2025-10-30
+// Generated on: 2025-10-31T04:16:25.691296+00:00
+// Date: 2025-10-31
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-10-30",
+  "date": "2025-10-31",
   "key": "8JWLlIcTSjPsMckh",
   "pairs": [
     {
       "tag1": {
-        "id": "t0239",
-        "name": "yu-gi-oh!_5d's",
-        "proper_name": "Yu-Gi-Oh! 5D's",
-        "category": "copyright",
-        "encrypted_count": "DHxufQ==",
-        "copyright": "Yu-Gi-Oh! 5D's",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yugioh/images/e/e1/Yu-Gi-Oh!_5Ds_logo.png/revision/latest?cb=20091226000453"
+        "id": "t0305",
+        "name": "oberon_(fate)",
+        "proper_name": "Oberon",
+        "category": "character",
+        "encrypted_count": "CnJueA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.aminoapps.com/8013/ff4bf082deaeb0bce85c456b82cc04ae6b676231r1-600-858v2_hq.jpg"
       },
       "tag2": {
-        "id": "t0291",
-        "name": "asuna_(school_uniform)_(blue_archive)",
-        "proper_name": "Asuna (School Uniform)",
+        "id": "t0216",
+        "name": "kuma_(kancolle)",
+        "proper_name": "Kuma",
         "category": "character",
-        "encrypted_count": "CXxndQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/0/01/Asuna_(School_Uniform).png/399px-Asuna_(School_Uniform).png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0068",
-        "name": "shimada_arisu",
-        "proper_name": "Shimada Arisu",
-        "category": "character",
-        "encrypted_count": "C35vew==",
-        "copyright": "Girls Und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/a/a6/Arisu_Shimada_Render_01.png/revision/latest/scale-to-width-down/206?cb=20240316075811"
-      },
-      "tag2": {
-        "id": "t0163",
-        "name": "harukawa_maki",
-        "proper_name": "Harukawa Maki",
-        "category": "character",
-        "encrypted_count": "C3hleQ==",
-        "copyright": "Project Sekai",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Harukawa.Maki.full.4175270.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0380",
-        "name": "sendai_kai_ni_(kancolle)",
-        "proper_name": "Sendai Kai Ni",
-        "category": "character",
-        "encrypted_count": "CXlvdA==",
+        "encrypted_count": "CnxvdA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/c/ce/Sendai_Kai_Ni_Full.png/revision/latest/scale-to-width-down/284?cb=20180817193836"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0198",
+        "name": "trafalgar_law",
+        "proper_name": "Trafalgar Law",
+        "category": "character",
+        "encrypted_count": "DHJufg==",
+        "copyright": "One Piece",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240109232516&path-prefix=pt"
       },
       "tag2": {
-        "id": "t0187",
-        "name": "pokemon_journeys",
-        "proper_name": "Pok\u00e9mon Journeys",
+        "id": "t0454",
+        "name": "hachimiya_meguru",
+        "proper_name": "Hachimiya Meguru",
+        "category": "character",
+        "encrypted_count": "C3pneQ==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://image.shinycolors.wiki/4/4b/MeguruProfile.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0105",
+        "name": "nakano_yotsuba",
+        "proper_name": "Nakano Yotsuba",
+        "category": "character",
+        "encrypted_count": "C3xgeA==",
+        "copyright": "The Quintessential Quintuplets",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701"
+      },
+      "tag2": {
+        "id": "t0424",
+        "name": "hidamari_sketch",
+        "proper_name": "Hidamari Sketch",
         "category": "copyright",
-        "encrypted_count": "DH9lfg==",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "C39gfg==",
+        "copyright": "Hidamari Sketch",
         "material": "Anime",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
+        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
       }
     },
     {
       "tag1": {
-        "id": "t0321",
-        "name": "street_fighter_zero_(series)",
-        "proper_name": "Street Fighter Zero Series",
-        "category": "copyright",
-        "encrypted_count": "C35gfw==",
-        "copyright": "Street Fighter",
+        "id": "t0345",
+        "name": "emiya_kiritsugu",
+        "proper_name": "Emiya Kiritsugu",
+        "category": "character",
+        "encrypted_count": "CnxjeQ==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11a10a01-ac23-4fea-ad5a-b51f53084159/d7emmzp-a5fccda0-1e9b-4213-a884-e8393ac4a9de.png/v1/fill/w_800,h_554/street_fighter_zero_logo_by_ringostarr39_d7emmzp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU0IiwicGF0aCI6IlwvZlwvMTFhMTBhMDEtYWMyMy00ZmVhLWFkNWEtYjUxZjUzMDg0MTU5XC9kN2VtbXpwLWE1ZmNjZGEwLTFlOWItNDIxMy1hODg0LWU4MzkzYWM0YTlkZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wiCZfhEIoUu7WURWTrk1j8qIrUtTR7ibA4zBI_z-EcA"
+        "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
       },
       "tag2": {
-        "id": "t0314",
-        "name": "natsu_(blue_archive)",
-        "proper_name": "Natsu",
+        "id": "t0140",
+        "name": "kel_(omori)",
+        "proper_name": "Kel",
         "category": "character",
-        "encrypted_count": "Cn1lfQ==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "CnJhfQ==",
+        "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/9/90/Natsu.png"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
       }
     },
     {
       "tag1": {
-        "id": "t0252",
-        "name": "kicchou_yachie",
-        "proper_name": "Kicchou Yachie",
+        "id": "t0178",
+        "name": "tsukishiro_yanagi",
+        "proper_name": "Tsukishiro Yanagi",
         "category": "character",
-        "encrypted_count": "Cn9heA==",
+        "encrypted_count": "CnJveA==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
+      },
+      "tag2": {
+        "id": "t0130",
+        "name": "sunny_milk",
+        "proper_name": "Sunny Milk",
+        "category": "character",
+        "encrypted_count": "Cn1jfQ==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
+        "image_reference": "https://en.touhouwiki.net/images/2/22/Sunny-milk-FW.png?20101108015940"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0232",
+        "name": "tokyo_ghoul",
+        "proper_name": "Tokyo Ghoul",
+        "category": "copyright",
+        "encrypted_count": "C3hgfw==",
+        "copyright": "Tokyo Ghoul",
+        "material": "Manga",
+        "image_reference": "https://bayanbox.ir/view/167939588418032986/tokyo-ghoul-logo-png.png"
       },
       "tag2": {
-        "id": "t0411",
-        "name": "skyla_(pokemon)",
-        "proper_name": "Skyla",
+        "id": "t0122",
+        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
+        "proper_name": "Elysia",
         "category": "character",
-        "encrypted_count": "DX9heA==",
+        "encrypted_count": "C3thdQ==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0359",
+        "name": "theresa_apocalypse",
+        "proper_name": "Theresa Apocalypse",
+        "category": "character",
+        "encrypted_count": "Cn1keA==",
+        "copyright": "Honkai Impact 3rd",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/e/ec/Hi3rd-Theresa_001.png/revision/latest?cb=20210123100514&path-prefix=fr"
+      },
+      "tag2": {
+        "id": "t0005",
+        "name": "pokemon",
+        "proper_name": "Pok\u00e9mon",
+        "category": "copyright",
+        "encrypted_count": "DH9ke1t5",
         "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/d/d2/Spr_Masters_Skyla.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
       }
     },
     {
       "tag1": {
-        "id": "t0206",
-        "name": "uehara_ayumu",
-        "proper_name": "Uehara Ayumu",
+        "id": "t0361",
+        "name": "male_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Male)",
         "category": "character",
-        "encrypted_count": "DHNnfw==",
-        "copyright": "Love Live! Series",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
+        "encrypted_count": "DHNvdA==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
       },
       "tag2": {
-        "id": "t0117",
-        "name": "pokemon_rgby",
-        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
+        "id": "t0357",
+        "name": "sakura_miku",
+        "proper_name": "Sakura Miku",
+        "category": "character",
+        "encrypted_count": "Cn1meA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://pm1.aminoapps.com/6321/de459a5e34e092632072e93c61dc913a84a12e05_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0111",
+        "name": "iskandar_(fate)",
+        "proper_name": "Iskandar",
+        "category": "character",
+        "encrypted_count": "C3pvdA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
+      },
+      "tag2": {
+        "id": "t0279",
+        "name": "arcane:_league_of_legends",
+        "proper_name": "Arcane: League of Legends",
         "category": "copyright",
-        "encrypted_count": "DXNndA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
+        "encrypted_count": "CnNnfg==",
+        "copyright": "League of Legends",
+        "material": "TV Show",
+        "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
       }
     },
     {
       "tag1": {
-        "id": "t0062",
-        "name": "yamakaze_(kancolle)",
-        "proper_name": "Yamakaze",
-        "category": "character",
-        "encrypted_count": "C3hveg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
-      },
-      "tag2": {
-        "id": "t0162",
-        "name": "satonaka_chie",
-        "proper_name": "Satonaka Chie",
-        "category": "character",
-        "encrypted_count": "DHtgfQ==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0104",
-        "name": "luna_child",
-        "proper_name": "Luna Child",
-        "category": "character",
-        "encrypted_count": "Cn1ueQ==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png/revision/latest?cb=20241205032544"
-      },
-      "tag2": {
-        "id": "t0341",
-        "name": "kaeya_(genshin_impact)",
-        "proper_name": "Kaeya",
-        "category": "character",
-        "encrypted_count": "Cnxgfg==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8a/Character_Kaeya_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030050&path-prefix=th"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0014",
-        "name": "idolmaster_cinderella_girls",
-        "proper_name": "Idolmaster Cinderella Girls",
+        "id": "t0188",
+        "name": "mega_man_zero_(series)",
+        "proper_name": "Mega Man Zero Series",
         "category": "copyright",
-        "encrypted_count": "CX5nfVp5",
-        "copyright": "Idolmaster Cinderella Girls",
+        "encrypted_count": "DHpueA==",
+        "copyright": "Mega Man",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Idolmaster_Cinderella_Girls_promo.jpg"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
       },
       "tag2": {
-        "id": "t0186",
-        "name": "ado_(utaite)",
-        "proper_name": "Ado",
-        "category": "copyright",
-        "encrypted_count": "C3tveg==",
-        "copyright": "Ado",
-        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0263",
-        "name": "boko_(girls_und_panzer)",
-        "proper_name": "Boko",
+        "id": "t0440",
+        "name": "yi_sang_(project_moon)",
+        "proper_name": "Yi Sang",
         "category": "character",
-        "encrypted_count": "Cn9udQ==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
-      },
-      "tag2": {
-        "id": "t0063",
-        "name": "diluc_(genshin_impact)",
-        "proper_name": "Diluc",
-        "category": "character",
-        "encrypted_count": "C35gfA==",
-        "copyright": "Genshin Impact",
+        "encrypted_count": "Cn5idQ==",
+        "copyright": "Project Moon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
+        "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
       }
     }
   ]
