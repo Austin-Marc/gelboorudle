@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-10-31T04:16:25.691296+00:00
-// Date: 2025-10-31
+// Generated on: 2025-11-01T04:13:59.269442+00:00
+// Date: 2025-11-01
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-10-31",
-  "key": "8JWLlIcTSjPsMckh",
+  "date": "2025-11-01",
+  "key": "2YMCJOwO5nOmGNO1",
   "pairs": [
     {
       "tag1": {
-        "id": "t0305",
-        "name": "oberon_(fate)",
-        "proper_name": "Oberon",
+        "id": "t0487",
+        "name": "cynthia_(pokemon)",
+        "proper_name": "Cynthia",
         "category": "character",
-        "encrypted_count": "CnJueA==",
-        "copyright": "Fate Series",
+        "encrypted_count": "A2l8e3w=",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://pm1.aminoapps.com/8013/ff4bf082deaeb0bce85c456b82cc04ae6b676231r1-600-858v2_hq.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/nintendo/images/c/c3/CynthiaBDSP.png/revision/latest?cb=20220120105612&path-prefix=en"
       },
       "tag2": {
-        "id": "t0216",
-        "name": "kuma_(kancolle)",
-        "proper_name": "Kuma",
+        "id": "t0308",
+        "name": "momosuzu_nene",
+        "proper_name": "Momosuzu Nene",
         "category": "character",
-        "encrypted_count": "CnxvdA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0198",
-        "name": "trafalgar_law",
-        "proper_name": "Trafalgar Law",
-        "category": "character",
-        "encrypted_count": "DHJufg==",
-        "copyright": "One Piece",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240109232516&path-prefix=pt"
-      },
-      "tag2": {
-        "id": "t0454",
-        "name": "hachimiya_meguru",
-        "proper_name": "Hachimiya Meguru",
-        "category": "character",
-        "encrypted_count": "C3pneQ==",
+        "encrypted_count": "AGF5cw==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://image.shinycolors.wiki/4/4b/MeguruProfile.png"
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/7/74/Momosuzu_Nene_-_Full_Illustration_02.png/640px-Momosuzu_Nene_-_Full_Illustration_02.png"
       }
     },
     {
       "tag1": {
-        "id": "t0105",
-        "name": "nakano_yotsuba",
-        "proper_name": "Nakano Yotsuba",
-        "category": "character",
-        "encrypted_count": "C3xgeA==",
-        "copyright": "The Quintessential Quintuplets",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701"
+        "id": "t0751",
+        "name": "marvel_rivals",
+        "proper_name": "Marvel Rivals",
+        "category": "copyright",
+        "encrypted_count": "BmB4cg==",
+        "copyright": "Marvel",
+        "material": "Comic",
+        "image_reference": "https://marvelrivals.wiki.gg/images/e/e6/Site-logo.png"
       },
       "tag2": {
-        "id": "t0424",
-        "name": "hidamari_sketch",
-        "proper_name": "Hidamari Sketch",
-        "category": "copyright",
-        "encrypted_count": "C39gfg==",
-        "copyright": "Hidamari Sketch",
-        "material": "Anime",
-        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
+        "id": "t0394",
+        "name": "lyra_(pokemon)",
+        "proper_name": "Lyra",
+        "category": "character",
+        "encrypted_count": "AWt/cw==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/d/d8/Lyra.png/revision/latest?cb=20160116133943"
       }
     },
     {
       "tag1": {
-        "id": "t0345",
-        "name": "emiya_kiritsugu",
-        "proper_name": "Emiya Kiritsugu",
+        "id": "t0947",
+        "name": "minamoto_no_raikou_(fate)",
+        "proper_name": "Minamoto no Raikou",
         "category": "character",
-        "encrypted_count": "CnxjeQ==",
+        "encrypted_count": "BW51ew==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
+        "image_reference": "https://img10.reactor.cc/pics/post/full/Jjune-Anime-Artist-Anime-minamoto-no-raikou-(fategrand-order)-3857226.jpeg"
       },
       "tag2": {
-        "id": "t0140",
-        "name": "kel_(omori)",
-        "proper_name": "Kel",
-        "category": "character",
-        "encrypted_count": "CnJhfQ==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0178",
-        "name": "tsukishiro_yanagi",
-        "proper_name": "Tsukishiro Yanagi",
-        "category": "character",
-        "encrypted_count": "CnJveA==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
-      },
-      "tag2": {
-        "id": "t0130",
-        "name": "sunny_milk",
-        "proper_name": "Sunny Milk",
-        "category": "character",
-        "encrypted_count": "Cn1jfQ==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/2/22/Sunny-milk-FW.png?20101108015940"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0232",
-        "name": "tokyo_ghoul",
-        "proper_name": "Tokyo Ghoul",
+        "id": "t0860",
+        "name": "sen_no_kiseki_(series)",
+        "proper_name": "Sen no Kiseki Series",
         "category": "copyright",
-        "encrypted_count": "C3hgfw==",
-        "copyright": "Tokyo Ghoul",
-        "material": "Manga",
-        "image_reference": "https://bayanbox.ir/view/167939588418032986/tokyo-ghoul-logo-png.png"
-      },
-      "tag2": {
-        "id": "t0122",
-        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
-        "proper_name": "Elysia",
-        "category": "character",
-        "encrypted_count": "C3thdQ==",
-        "copyright": "Honkai Impact",
+        "encrypted_count": "Bm9+dA==",
+        "copyright": "The Legend of Heroes",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
+        "image_reference": "https://image.pngaaa.com/464/4421464-middle.png"
       }
     },
     {
       "tag1": {
-        "id": "t0359",
-        "name": "theresa_apocalypse",
-        "proper_name": "Theresa Apocalypse",
-        "category": "character",
-        "encrypted_count": "Cn1keA==",
-        "copyright": "Honkai Impact 3rd",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/e/ec/Hi3rd-Theresa_001.png/revision/latest?cb=20210123100514&path-prefix=fr"
-      },
-      "tag2": {
-        "id": "t0005",
-        "name": "pokemon",
-        "proper_name": "Pok\u00e9mon",
+        "id": "t0367",
+        "name": "warcraft",
+        "proper_name": "Warcraft",
         "category": "copyright",
-        "encrypted_count": "DH9ke1t5",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "AGF8dw==",
+        "copyright": "Warcraft",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png"
+      },
+      "tag2": {
+        "id": "t0458",
+        "name": "frisk_(undertale)",
+        "proper_name": "Frisk",
+        "category": "character",
+        "encrypted_count": "AWl9cw==",
+        "copyright": "Undertale",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/undertale/images/a/a7/Undertale_frisk_front_by_ldinos-d9ywr9e.png/revision/latest?cb=20170105221708&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0361",
-        "name": "male_byleth_(fire_emblem)",
-        "proper_name": "Byleth (Male)",
+        "id": "t0822",
+        "name": "female_corrin_(fire_emblem)",
+        "proper_name": "Female Corrin",
         "category": "character",
-        "encrypted_count": "DHNvdA==",
+        "encrypted_count": "BmB4ew==",
         "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/fireemblem/images/a/aa/Female_Corrin_Heroes.png/revision/latest?cb=20170210061649"
       },
       "tag2": {
-        "id": "t0357",
-        "name": "sakura_miku",
-        "proper_name": "Sakura Miku",
+        "id": "t0702",
+        "name": "stocking_(psg)",
+        "proper_name": "Stocking",
         "category": "character",
-        "encrypted_count": "Cn1meA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://pm1.aminoapps.com/6321/de459a5e34e092632072e93c61dc913a84a12e05_hq.jpg"
+        "encrypted_count": "BGx4cQ==",
+        "copyright": "Panty & Stocking with Garterbelt",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
       }
     },
     {
       "tag1": {
-        "id": "t0111",
-        "name": "iskandar_(fate)",
-        "proper_name": "Iskandar",
-        "category": "character",
-        "encrypted_count": "C3pvdA==",
-        "copyright": "Fate Series",
+        "id": "t0828",
+        "name": "fire_emblem:_the_binding_blade",
+        "proper_name": "Fire Emblem: The Binding Blade",
+        "category": "copyright",
+        "encrypted_count": "B2h+cQ==",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
       },
       "tag2": {
-        "id": "t0279",
-        "name": "arcane:_league_of_legends",
-        "proper_name": "Arcane: League of Legends",
+        "id": "t0668",
+        "name": "yurucamp",
+        "proper_name": "Yuru Camp",
         "category": "copyright",
-        "encrypted_count": "CnNnfg==",
-        "copyright": "League of Legends",
-        "material": "TV Show",
-        "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
+        "encrypted_count": "B296ew==",
+        "copyright": "Yuru Camp",
+        "material": "Anime",
+        "image_reference": "https://logowik.com/content/uploads/images/yuru-camp1673.logowik.com.webp"
       }
     },
     {
       "tag1": {
-        "id": "t0188",
-        "name": "mega_man_zero_(series)",
-        "proper_name": "Mega Man Zero Series",
-        "category": "copyright",
-        "encrypted_count": "DHpueA==",
-        "copyright": "Mega Man",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
+        "id": "t0820",
+        "name": "hakui_koyori",
+        "proper_name": "Hakui Koyori",
+        "category": "character",
+        "encrypted_count": "Bml6cg==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c2/Hakui_Koyori_Portrait.png/revision/latest?cb=20211203043838"
       },
       "tag2": {
-        "id": "t0440",
-        "name": "yi_sang_(project_moon)",
-        "proper_name": "Yi Sang",
-        "category": "character",
-        "encrypted_count": "Cn5idQ==",
-        "copyright": "Project Moon",
+        "id": "t0790",
+        "name": "os-tan",
+        "proper_name": "OS-tan",
+        "category": "copyright",
+        "encrypted_count": "Bmx1ew==",
+        "copyright": "OS-tan",
+        "material": "Comic",
+        "image_reference": "https://www.ostan-collections.net/wiki/images/b/bb/OSCWikiLogo4.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0733",
+        "name": "made_in_abyss",
+        "proper_name": "Made in Abyss",
+        "category": "copyright",
+        "encrypted_count": "BGh+cA==",
+        "copyright": "Made in Abyss",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/madeinabyss/images/c/c4/Made-In-Abyss-Logo.png/revision/latest?cb=20170708222105"
+      },
+      "tag2": {
+        "id": "t0910",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "BGF0eg==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0523",
+        "name": "fire_emblem:_the_blazing_blade",
+        "proper_name": "Fire Emblem: The Blazing Blade",
+        "category": "copyright",
+        "encrypted_count": "BWt1cw==",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
+        "image_reference": "https://cdn.fireemblemwiki.org/thumb/1/1e/FERK_Logo.png/400px-FERK_Logo.png"
+      },
+      "tag2": {
+        "id": "t0351",
+        "name": "gengar",
+        "proper_name": "Gengar",
+        "category": "character",
+        "encrypted_count": "AWp5dQ==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/4/47/0094Gengar.png/1200px-0094Gengar.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0771",
+        "name": "hirogaru_sky!_precure",
+        "proper_name": "Hirogaru Sky! Precure",
+        "category": "copyright",
+        "encrypted_count": "Bmp0cA==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://th.bing.com/th/id/R.d35bd4aa12ec0e73dfad309c265bb14c?rik=IOgaOsXeSElM2Q&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f44700000%2fHirogaru-Sky-Precure-Logo-pretty-cure-44719864-1040-786.png&ehk=xIzRI%2bhUrt1%2fcWFWIu5m%2bMLGvc1l5CyzzsI2QVQtnsI%3d&risl=&pid=ImgRaw&r=0"
+      },
+      "tag2": {
+        "id": "t0348",
+        "name": "ranma-chan",
+        "proper_name": "Ranma-chan",
+        "category": "character",
+        "encrypted_count": "BWh/cA==",
+        "copyright": "Ranma \u00bd",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/ranma/images/d/dd/Saotome_Ranma_%E2%99%80_%28Anime_2024%29.png/revision/latest?cb=20240718055725"
       }
     }
   ]
