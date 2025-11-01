@@ -4272,15 +4272,6 @@ const GAME_DATA = {
       "image_reference": "https://uspto.report/TM/98035315/mark.png"
     },
     {
-      "id": "t0429",
-      "name": "mihoyo",
-      "proper_name": "MiHoYo",
-      "category": "copyright",
-      "encrypted_count": "AWp9cQ==",
-      "copyright": "MiHoYo",
-      "image_reference": "https://static.wikia.nocookie.net/gen-impact/images/8/86/MiHoYo.png/revision/latest?cb=20211104093938&path-prefix=es"
-    },
-    {
       "id": "t0430",
       "name": "pokemon_legends:_z-a",
       "proper_name": "Pokémon Legends: Z-A",
