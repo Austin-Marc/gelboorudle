@@ -1,66 +1,20 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-03T04:21:31.575588+00:00
-// Date: 2025-11-03
+// Generated on: 2025-11-04T04:15:11.448178+00:00
+// Date: 2025-11-04
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-03",
+  "date": "2025-11-04",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0438",
-        "name": "tamamo_cat_(fate)",
-        "proper_name": "Tamamo Cat",
+        "id": "t0940",
+        "name": "iseri_nina",
+        "proper_name": "Iseri Nina",
         "category": "character",
-        "encrypted_count": "fFBibA==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
-      },
-      "tag2": {
-        "id": "t0008",
-        "name": "genshin_impact",
-        "proper_name": "Genshin Impact",
-        "category": "copyright",
-        "encrypted_count": "fFNla0gA",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2602/30935168a0f21b6710dc2bd7bb37c23ed937fb9fa747d84c.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0747",
-        "name": "devil_may_cry_(series)",
-        "proper_name": "Devil May Cry Series",
-        "category": "copyright",
-        "encrypted_count": "e1BibA==",
-        "copyright": "Devil May Cry Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Logo_of_the_Devil_May_Cry_series.png/375px-Logo_of_the_Devil_May_Cry_series.png"
-      },
-      "tag2": {
-        "id": "t0440",
-        "name": "taigei_(kancolle)",
-        "proper_name": "Taigei",
-        "category": "character",
-        "encrypted_count": "fFFlYw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-310248996.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0160",
-        "name": "toga_himiko",
-        "proper_name": "Toga Himiko",
-        "category": "character",
-        "encrypted_count": "eFJjaQ==",
-        "copyright": "My Hero Academia",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
+        "encrypted_count": "e1dubg==",
+        "image_reference": "https://static.wikitide.net/saimoewiki/thumb/1/11/Nina_Iseri_wiki_pfp.png/280px-Nina_Iseri_wiki_pfp.png"
       },
       "tag2": {
         "id": "t0623",
@@ -75,154 +29,199 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0749",
-        "name": "vshojo",
-        "proper_name": "VShojo",
+        "id": "t0760",
+        "name": "tsushima_yoshiko",
+        "proper_name": "Tsushima Yoshiko",
+        "category": "character",
+        "encrypted_count": "eVduaw==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/44/Tsushima_Yoshiko_ALL_STARS.png/revision/latest?cb=20200323032830&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0639",
+        "name": "souryuu_(kancolle)",
+        "proper_name": "Souryuu",
+        "category": "character",
+        "encrypted_count": "elFhaw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/e/e7/Ship_Card_Souryuu.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0547",
+        "name": "dokidoki!_precure",
+        "proper_name": "Dokidoki! Precure",
         "category": "copyright",
-        "encrypted_count": "e1dubQ==",
-        "copyright": "VShojo",
+        "encrypted_count": "eFZjaA==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrf6u-538d0742-2dbd-4af1-8a2f-3905c35af6bd.png/v1/fill/w_1174,h_486/dokidoki_precure_logo_by_ffprecurespain_defrf6u-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDg2IiwicGF0aCI6IlwvZlwvZDZhYmMzOTAtODUwOS00ZmE0LTk4NjctMzk4ZGQ0ODA0NjNjXC9kZWZyZjZ1LTUzOGQwNzQyLTJkYmQtNGFmMS04YTJmLTM5MDVjMzVhZjZiZC5wbmciLCJ3aWR0aCI6Ijw9MTE3NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tyTE0XTJZfyE1vrH2mqrFiRcjVpMZy_sf0EnhqFE4iU"
+      },
+      "tag2": {
+        "id": "t0320",
+        "name": "street_fighter_zero_(series)",
+        "proper_name": "Street Fighter Zero Series",
+        "category": "copyright",
+        "encrypted_count": "fVBhaQ==",
+        "copyright": "Street Fighter",
+        "material": "Video Game",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11a10a01-ac23-4fea-ad5a-b51f53084159/d7emmzp-a5fccda0-1e9b-4213-a884-e8393ac4a9de.png/v1/fill/w_800,h_554/street_fighter_zero_logo_by_ringostarr39_d7emmzp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU0IiwicGF0aCI6IlwvZlwvMTFhMTBhMDEtYWMyMy00ZmVhLWFkNWEtYjUxZjUzMDg0MTU5XC9kN2VtbXpwLWE1ZmNjZGEwLTFlOWItNDIxMy1hODg0LWU4MzkzYWM0YTlkZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wiCZfhEIoUu7WURWTrk1j8qIrUtTR7ibA4zBI_z-EcA"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0223",
+        "name": "matsuura_kanan",
+        "proper_name": "Matsuura Kanan",
+        "category": "character",
+        "encrypted_count": "e1Rhag==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
+      },
+      "tag2": {
+        "id": "t0566",
+        "name": "transformers",
+        "proper_name": "Transformers",
+        "category": "copyright",
+        "encrypted_count": "eFRmbg==",
+        "copyright": "Transformers",
+        "image_reference": "https://vignette.wikia.nocookie.net/transformers-film-series/images/6/69/Transformers_(Logo).png/revision/latest?cb=20160331061907"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0039",
+        "name": "mordred_(fate/apocrypha)",
+        "proper_name": "Mordred",
+        "category": "character",
+        "encrypted_count": "e1ZlbA==",
+        "copyright": "Fate/Apocrypha",
+        "material": "anime",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest/scale-to-width/360?cb=20220910153017"
+      },
+      "tag2": {
+        "id": "t0526",
+        "name": "girls'_frontline_2:_exilium",
+        "proper_name": "Girls' Frontline 2: Exilium",
+        "category": "copyright",
+        "encrypted_count": "e1Jgbg==",
+        "copyright": "Girls' Frontline 2: Exilium",
+        "material": "Video Game",
+        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0879",
+        "name": "mob_psycho_100",
+        "proper_name": "Mob Psycho 100",
+        "category": "copyright",
+        "encrypted_count": "fFNnaw==",
+        "copyright": "Mob Psycho 100",
+        "material": "Anime",
+        "image_reference": "https://image.tmdb.org/t/p/original/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png"
+      },
+      "tag2": {
+        "id": "t0430",
+        "name": "emil_chronicle_online",
+        "proper_name": "Emil Chronicle Online",
+        "category": "copyright",
+        "encrypted_count": "fFJubw==",
+        "copyright": "Emil Chronicle Online",
+        "material": "Video Game",
+        "image_reference": "https://cdn.mobygames.com/covers/9924119-emil-chronicle-online-windows-front-cover.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0745",
+        "name": "haruno_sakura",
+        "proper_name": "Haruno Sakura",
+        "category": "character",
+        "encrypted_count": "f1RnbUA=",
+        "copyright": "Naruto",
+        "material": "Manga",
+        "image_reference": "https://vignette.wikia.nocookie.net/naruto/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160531055927&path-prefix=pl"
+      },
+      "tag2": {
+        "id": "t0127",
+        "name": "yagami_hayate",
+        "proper_name": "Yagami Hayate",
+        "category": "character",
+        "encrypted_count": "fVFnaQ==",
+        "copyright": "Magical Girl Lyrical Nanoha",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/nanoha/images/e/ed/Character_hayate.png/revision/latest?cb=20170327192812"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0688",
+        "name": "formidable_(azur_lane)",
+        "proper_name": "Formidable",
+        "category": "character",
+        "encrypted_count": "el1hbA==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/6/69/Formidable.png"
+      },
+      "tag2": {
+        "id": "t0180",
+        "name": "tokitsukaze_(kancolle)",
+        "proper_name": "Tokitsukaze",
+        "category": "character",
+        "encrypted_count": "fFxgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0023",
+        "name": "nijisanji",
+        "proper_name": "Nijisanji",
+        "category": "copyright",
+        "encrypted_count": "eVNhbEg=",
+        "copyright": "Nijisanji",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/7/70/VShojo_Logo.png/revision/latest?cb=20201219084925&path-prefix=id"
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/73/Nijisanji_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221027135628"
       },
       "tag2": {
-        "id": "t0769",
-        "name": "doki_doki_literature_club",
-        "proper_name": "Doki Doki Literature Club!",
-        "category": "copyright",
-        "encrypted_count": "e1Jlbw==",
-        "copyright": "Doki Doki Literature Club!",
-        "material": "Video Game",
-        "image_reference": "https://micronations.wiki/images/en/images/images/thumb/d/dd/Doki_Doki_Literature_Club_DS_logo.svg/2560px-Doki_Doki_Literature_Club_DS_logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0027",
-        "name": "danganronpa_(series)",
-        "proper_name": "Danganronpa Series",
-        "category": "copyright",
-        "encrypted_count": "eFBlbkY=",
-        "copyright": "Danganronpa Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
-      },
-      "tag2": {
-        "id": "t0787",
-        "name": "kouyoku_senki_exs-tia",
-        "proper_name": "Kouyoku Senki Exs-Tia",
-        "category": "copyright",
-        "encrypted_count": "elBnag==",
-        "copyright": "Kouyoku Senki Exs-Tia",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0456",
-        "name": "tachibana_kanade",
-        "proper_name": "Tachibana Kanade",
+        "id": "t0784",
+        "name": "akamatsu_kaede",
+        "proper_name": "Akamatsu Kaede",
         "category": "character",
-        "encrypted_count": "f1Zi",
-        "copyright": "Angel Beats!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/angelbeats/images/d/d4/Kanade_anime.png/revision/latest/scale-to-width-down/1200?cb=20190414062510"
-      },
-      "tag2": {
-        "id": "t0325",
-        "name": "danganronpa_3_(anime)",
-        "proper_name": "Danganronpa 3: The End of Hope's Peak High School",
-        "category": "copyright",
-        "encrypted_count": "fFxmbw==",
+        "encrypted_count": "eldhYw==",
         "copyright": "Danganronpa",
-        "material": "Anime",
-        "image_reference": "https://vignette2.wikia.nocookie.net/danganronpa/images/2/2f/Logo_of_Hope%27s_Peak.png/revision/latest/scale-to-width-down/2000?cb=20161227015605"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0671",
-        "name": "dungeons_&_dragons",
-        "proper_name": "Dungeons & Dragons",
-        "category": "copyright",
-        "encrypted_count": "e1RvaA==",
-        "copyright": "Dungeons & Dragons",
-        "material": "Tabletop Game",
-        "image_reference": "https://logo-marque.com/wp-content/uploads/2022/01/Dungeons-Dragons-Logo-2008-2014.jpg"
-      },
-      "tag2": {
-        "id": "t0056",
-        "name": "modao_zushi",
-        "proper_name": "Mo Dao Zu Shi",
-        "category": "copyright",
-        "encrypted_count": "fVFibA==",
-        "copyright": "Mo Dao Zu Shi",
-        "material": "Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/e/e8/One_of_the_official_posters_for_Mo_Dao_Zu_Shi_by_Tencent.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0812",
-        "name": "takatsuki_yayoi",
-        "proper_name": "Takatsuki Yayoi",
-        "category": "character",
-        "encrypted_count": "elBhbA==",
-        "copyright": "The iDOLM@STER",
         "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/e/e1/MASTER_ARTIST_3_10.jpg"
-      },
-      "tag2": {
-        "id": "t0483",
-        "name": "hinoshita_kaho",
-        "proper_name": "Hinoshita Kaho",
-        "category": "character",
-        "encrypted_count": "e1ZmYw==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/1/17/Kaho_Hinoshita_2024.png/revision/latest/scale-to-width-down/1200?cb=20240413123839"
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
       }
     },
     {
       "tag1": {
-        "id": "t0904",
-        "name": "to_heart_2",
-        "proper_name": "To Heart 2",
+        "id": "t0693",
+        "name": "kemono_friends_v_project",
+        "proper_name": "Kemono Friends V Project",
         "category": "copyright",
-        "encrypted_count": "eFxvYw==",
-        "copyright": "To Heart",
-        "material": "Visual Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
-      },
-      "tag2": {
-        "id": "t0767",
-        "name": "alice's_adventures_in_wonderland",
-        "proper_name": "Alice's Adventures in Wonderland",
-        "category": "copyright",
-        "encrypted_count": "e1dubQ==",
-        "copyright": "Alice's Adventures in Wonderland",
-        "material": "Novel",
-        "image_reference": "https://logodix.com/logo/867893.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0860",
-        "name": "yu-gi-oh!_duel_monsters",
-        "proper_name": "Yu-Gi-Oh! Duel Monsters",
-        "category": "copyright",
-        "encrypted_count": "d1BmaQ==",
-        "copyright": "Yu-Gi-Oh!",
-        "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
-      },
-      "tag2": {
-        "id": "t0075",
-        "name": "herta_(honkai:_star_rail)",
-        "proper_name": "Herta",
-        "category": "character",
-        "encrypted_count": "fFJkbg==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "dlJgYw==",
+        "copyright": "Kemono Friends",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Character_Herta_Splash_Art.png/revision/latest?cb=20230216231220"
+        "image_reference": "https://www.japari-library.com/images/d/d4/Logo.jpg"
+      },
+      "tag2": {
+        "id": "t0882",
+        "name": "seiken_densetsu",
+        "proper_name": "Seiken Densetsu",
+        "category": "copyright",
+        "encrypted_count": "elZnaQ==",
+        "copyright": "Seiken Densetsu",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/2/2a/Seiken_Densetsu_logo.jpg"
       }
     }
   ]
