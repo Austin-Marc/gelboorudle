@@ -1,166 +1,46 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-05T04:16:25.160882+00:00
-// Date: 2025-11-05
+// Generated on: 2025-11-06T04:18:46.203358+00:00
+// Date: 2025-11-06
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-05",
+  "date": "2025-11-06",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0034",
-        "name": "florence_nightingale_(fate)",
-        "proper_name": "Florence Nightingale",
+        "id": "t0440",
+        "name": "taigei_(kancolle)",
+        "proper_name": "Taigei",
         "category": "character",
-        "encrypted_count": "elZmYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/51/BerserkerFloranceStage3.png/revision/latest?cb=20170217232053"
-      },
-      "tag2": {
-        "id": "t0418",
-        "name": "mizuno_ami",
-        "proper_name": "Mizuno Ami",
-        "category": "character",
-        "encrypted_count": "eldhYg==",
-        "copyright": "Sailor Moon",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0608",
-        "name": "kitagawa_marin",
-        "proper_name": "Kitagawa Marin",
-        "category": "character",
-        "encrypted_count": "eVNlaQ==",
-        "image_reference": "https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/3/3c/Kitagawa_Marin_~_Anime.jpg/revision/latest?cb=20220227174558&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0086",
-        "name": "final_fantasy_vi",
-        "proper_name": "Final Fantasy VI",
-        "category": "copyright",
-        "encrypted_count": "elxkbw==",
-        "copyright": "Final Fantasy VI",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0958",
-        "name": "steins;gate",
-        "proper_name": "Steins;Gate",
-        "category": "copyright",
-        "encrypted_count": "eFxhbA==",
-        "copyright": "Steins;Gate",
-        "material": "Visual Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-      },
-      "tag2": {
-        "id": "t0091",
-        "name": "maya_(kancolle)",
-        "proper_name": "Maya",
-        "category": "character",
-        "encrypted_count": "fVRlYg==",
+        "encrypted_count": "fFFlYw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0391",
-        "name": "yahagi_(kancolle)",
-        "proper_name": "Yahagi",
-        "category": "character",
-        "encrypted_count": "fFFvag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yahagi.(Kantai.Collection).full.4307028.jpg"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-310248996.png"
       },
       "tag2": {
-        "id": "t0603",
-        "name": "kikuchi_makoto",
-        "proper_name": "Kikuchi Makoto",
-        "category": "character",
-        "encrypted_count": "e1JiYw==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/d/d1/Normal_Makoto_Kikuchi_Mobage_Transparent.png/revision/latest?cb=20190202042832"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0929",
-        "name": "caelus_(honkai:_star_rail)",
-        "proper_name": "Caelus",
-        "category": "character",
-        "encrypted_count": "e1RgaQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Caelus.600.3864625.jpg"
-      },
-      "tag2": {
-        "id": "t0698",
-        "name": "selene_(pokemon)",
-        "proper_name": "Selene",
-        "category": "character",
-        "encrypted_count": "e1JkaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/2/2a/Ultra_Sun_Ultra_Moon_Selene.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0497",
-        "name": "little_busters!",
-        "proper_name": "Little Busters!",
+        "id": "t0769",
+        "name": "doki_doki_literature_club",
+        "proper_name": "Doki Doki Literature Club!",
         "category": "copyright",
-        "encrypted_count": "eFxgYw==",
-        "copyright": "Little Busters!",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/littlebusters/images/e/e6/Site-logo.png/revision/latest?cb=20210713161239"
-      },
-      "tag2": {
-        "id": "t0455",
-        "name": "akuma_homura",
-        "proper_name": "Akuma Homura",
+        "encrypted_count": "e1Jlbw==",
+        "copyright": "Doki Doki Literature Club!",
+        "material": "Video Game",
+        "image_reference": "https://micronations.wiki/images/en/images/images/thumb/d/dd/Doki_Doki_Literature_Club_DS_logo.svg/2560px-Doki_Doki_Literature_Club_DS_logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0448",
+        "name": "tippy_(gochiusa)",
+        "proper_name": "Tippy",
         "category": "character",
-        "encrypted_count": "fFFhbA==",
-        "copyright": "Puella Magi Madoka Magica",
+        "encrypted_count": "fFFmaQ==",
+        "copyright": "Gochuumon wa Usagi Desu ka?",
         "material": "Anime",
-        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0258",
-        "name": "azusa_(blue_archive)",
-        "proper_name": "Azusa",
-        "category": "character",
-        "encrypted_count": "fFxjaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
+        "image_reference": "https://static.zerochan.net/Gochuumon.wa.Usagi.Desu.ka.1024.2048654.webp"
       },
       "tag2": {
-        "id": "t0339",
-        "name": "unzan",
-        "proper_name": "Unzan",
-        "category": "character",
-        "encrypted_count": "fFdvbw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/Anime-Kumoi-Ichirin-Touhou-Project-Unzan-4343995.png"
-      }
-    },
-    {
-      "tag1": {
         "id": "t0423",
         "name": "brave_witches",
         "proper_name": "Brave Witches",
@@ -169,59 +49,182 @@ const DAILY_GAME_DATA = {
         "copyright": "Brave Witches",
         "material": "Anime",
         "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
-      },
-      "tag2": {
-        "id": "t0504",
-        "name": "ooyodo_(kancolle)",
-        "proper_name": "Ooyodo",
-        "category": "character",
-        "encrypted_count": "e1BnbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game"
       }
     },
     {
       "tag1": {
-        "id": "t0599",
-        "name": "monster_musume_no_iru_nichijou",
-        "proper_name": "Monster Musume no Iru Nichijou",
-        "category": "copyright",
-        "encrypted_count": "eVBiYg==",
-        "copyright": "Monster Musume no Iru Nichijou",
-        "material": "Anime",
-        "image_reference": "https://image.pngaaa.com/602/2661602-middle.png"
+        "id": "t0791",
+        "name": "sangonomiya_kokomi",
+        "proper_name": "Sangonomiya Kokomi",
+        "category": "character",
+        "encrypted_count": "elZmaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20230429082521&path-prefix=de"
       },
       "tag2": {
-        "id": "t0073",
-        "name": "jonathan_joestar",
-        "proper_name": "Jonathan Joestar",
-        "category": "character",
-        "encrypted_count": "fVFiaw==",
+        "id": "t0707",
+        "name": "steel_ball_run",
+        "proper_name": "Steel Ball Run",
+        "category": "copyright",
+        "encrypted_count": "eldjYw==",
         "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
+        "image_reference": "https://static.jojowiki.com/images/4/4f/latest/20250412184658/Steel_Ball_Run_Anime_Logo.png?20250412184658"
       }
     },
     {
       "tag1": {
-        "id": "t0580",
-        "name": "date_a_live",
-        "proper_name": "Date A Live",
-        "category": "copyright",
-        "encrypted_count": "eFNvaQ==",
-        "copyright": "Date A Live",
-        "material": "Light Novel",
-        "image_reference": "https://vignette4.wikia.nocookie.net/cartoon-anime/images/3/39/Date_A_Live_logo.png/revision/latest?cb=20160321171838&path-prefix=fr"
+        "id": "t0516",
+        "name": "inoue_takina",
+        "proper_name": "Inoue Takina",
+        "category": "character",
+        "encrypted_count": "e1NiaQ==",
+        "copyright": "Lycoris Recoil",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/lycoris-recoil/images/e/e1/Takina_Inoue.png/revision/latest?cb=20220621164845"
       },
       "tag2": {
-        "id": "t0185",
-        "name": "hazbin_hotel",
-        "proper_name": "Hazbin Hotel",
+        "id": "t0715",
+        "name": "hatsutori_hajime",
+        "proper_name": "Hatsutori Hajime",
+        "category": "character",
+        "encrypted_count": "eldkYw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://cdn.donmai.us/original/10/9b/109b39a052b5f37522dcaa3271dc1e95.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0487",
+        "name": "kemono_friends_3",
+        "proper_name": "Kemono Friends 3",
         "category": "copyright",
-        "encrypted_count": "fVZnaw==",
-        "copyright": "Hazbin Hotel",
+        "encrypted_count": "eFFvaw==",
+        "copyright": "Kemono Friends",
+        "material": "Video Game",
+        "image_reference": "https://www.japari-library.com/images/b/bb/Kemono_Friends_3_Logo.png"
+      },
+      "tag2": {
+        "id": "t0781",
+        "name": "kiso_(kancolle)",
+        "proper_name": "Kiso",
+        "category": "character",
+        "encrypted_count": "fVNjbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Kiso.(Kantai.Collection).full.1763723.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0020",
+        "name": "hololive_english",
+        "proper_name": "Hololive English",
+        "category": "copyright",
+        "encrypted_count": "d1Vja0Y=",
+        "copyright": "Hololive English",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
+      },
+      "tag2": {
+        "id": "t0891",
+        "name": "akagi_(azur_lane)",
+        "proper_name": "Akagi",
+        "category": "character",
+        "encrypted_count": "fFBkaw==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0236",
+        "name": "azumanga_daioh",
+        "proper_name": "Azumanga Daioh",
+        "category": "copyright",
+        "encrypted_count": "f1RgaA==",
+        "copyright": "Azumanga Daioh",
+        "material": "Manga",
+        "image_reference": "https://static.wikitide.net/bearboneswiki/f/f3/Azumanga_Daioh_logo.png"
+      },
+      "tag2": {
+        "id": "t0067",
+        "name": "jack_the_ripper_(fate/apocrypha)",
+        "proper_name": "Jack the Ripper",
+        "category": "character",
+        "encrypted_count": "fV1iYw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/c/c8/Assassin_of_black.png/revision/latest?cb=20130824114138"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0642",
+        "name": "bremerton_(azur_lane)",
+        "proper_name": "Bremerton",
+        "category": "character",
+        "encrypted_count": "e1Jkbw==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/dd/Bremerton.png/1223px-Bremerton.png"
+      },
+      "tag2": {
+        "id": "t0496",
+        "name": "sono_bisque_doll_wa_koi_wo_suru",
+        "proper_name": "Sono Bisque Doll wa Koi wo Suru",
+        "category": "copyright",
+        "encrypted_count": "dlJkaw==",
+        "copyright": "Sono Bisque Doll wa Koi wo Suru",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/2/2f/Sono_Bisque_Doll_wa_Koi_wo_Suru%2C_Volume_1.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0795",
+        "name": "sanji_(one_piece)",
+        "proper_name": "Sanji",
+        "category": "character",
+        "encrypted_count": "eFJibw==",
+        "copyright": "One Piece",
         "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
+      },
+      "tag2": {
+        "id": "t0117",
+        "name": "pokemon_rgby",
+        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
+        "category": "copyright",
+        "encrypted_count": "e11mYg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0180",
+        "name": "tokitsukaze_(kancolle)",
+        "proper_name": "Tokitsukaze",
+        "category": "character",
+        "encrypted_count": "fFxgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
+      },
+      "tag2": {
+        "id": "t0583",
+        "name": "amami_haruka",
+        "proper_name": "Amami Haruka",
+        "category": "character",
+        "encrypted_count": "e1xjbg==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/1/1a/Normal_Haruka_Amami_Mobage_Transparent.png/revision/latest?cb=20180709223230"
       }
     }
   ]
