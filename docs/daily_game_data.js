@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-08T04:14:18.200934+00:00
-// Date: 2025-11-08
+// Generated on: 2025-11-09T04:14:55.498936+00:00
+// Date: 2025-11-09
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-08",
+  "date": "2025-11-09",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0721",
-        "name": "wakasagihime",
-        "proper_name": "Wakasagihime",
+        "id": "t0889",
+        "name": "takakura_ken_(dandadan)",
+        "proper_name": "Takakura Ken",
         "category": "character",
-        "encrypted_count": "fVxvbA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/3262-1482788206.png"
+        "encrypted_count": "fFJiaQ==",
+        "copyright": "Dandadan",
+        "material": "Manga",
+        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
       },
       "tag2": {
-        "id": "t0110",
-        "name": "itadori_yuuji",
-        "proper_name": "Itadori Yuuji",
+        "id": "t0736",
+        "name": "sagisawa_fumika",
+        "proper_name": "Sagisawa Fumika",
         "category": "character",
-        "encrypted_count": "fVJvaw==",
-        "copyright": "Jujutsu Kaisen",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/66/Yuji_Itadori_-_Anime.jpg/revision/latest?cb=20201031200040&path-prefix=es"
+        "encrypted_count": "elFhbw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/thumb/1/1d/Cinderella_master_031_cover.jpg/1200px-Cinderella_master_031_cover.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0634",
-        "name": "koha-ace",
-        "proper_name": "Koha-Ace",
-        "category": "copyright",
-        "encrypted_count": "elNjag==",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/56/Fate_GUDAGUDA_Order_Logo.png/revision/latest?cb=20220611195909"
+        "id": "t0376",
+        "name": "vivian_banshee",
+        "proper_name": "Vivian Banshee",
+        "category": "character",
+        "encrypted_count": "fFFhaQ==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
       },
       "tag2": {
-        "id": "t0606",
-        "name": "serena_(pokemon)",
-        "proper_name": "Serena",
+        "id": "t0881",
+        "name": "final_fantasy_iv",
+        "proper_name": "Final Fantasy IV",
+        "category": "copyright",
+        "encrypted_count": "fVxmbA==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://cdn.finalfantasywiki.com/f/fe/FFIV_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0599",
+        "name": "monster_musume_no_iru_nichijou",
+        "proper_name": "Monster Musume no Iru Nichijou",
+        "category": "copyright",
+        "encrypted_count": "eVBiYg==",
+        "copyright": "Monster Musume no Iru Nichijou",
+        "material": "Anime",
+        "image_reference": "https://image.pngaaa.com/602/2661602-middle.png"
+      },
+      "tag2": {
+        "id": "t0831",
+        "name": "mydei_(honkai:_star_rail)",
+        "proper_name": "Mydei",
         "category": "character",
-        "encrypted_count": "dlZnbg==",
+        "encrypted_count": "fVNhaQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://staticg.sportskeeda.com/editor/2025/02/ea940-17395394049968-1920.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0446",
+        "name": "saten_ruiko",
+        "proper_name": "Saten Ruiko",
+        "category": "character",
+        "encrypted_count": "fVRubg==",
+        "copyright": "Toaru Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
+      },
+      "tag2": {
+        "id": "t0560",
+        "name": "kisaragi_chihaya",
+        "proper_name": "Kisaragi Chihaya",
+        "category": "character",
+        "encrypted_count": "e1xjbw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/11/Chihaya_Kisaragi_2nd_Vision_Normal.png/revision/latest?cb=20180806222028"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0857",
+        "name": "mahjong_soul",
+        "proper_name": "Mahjong Soul",
+        "category": "copyright",
+        "encrypted_count": "fVFnaQ==",
+        "copyright": "Mahjong Soul",
+        "material": "Video Game",
+        "image_reference": "https://riichi.wiki/images/Mahjsoullogo.png"
+      },
+      "tag2": {
+        "id": "t0239",
+        "name": "go!_princess_precure",
+        "proper_name": "Go! Princess Precure",
+        "category": "copyright",
+        "encrypted_count": "fVBgaA==",
+        "copyright": "Go! Princess Precure",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrfro-dcc080fa-8f6b-4627-8407-2319854f47c9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q2YWJjMzkwLTg1MDktNGZhNC05ODY3LTM5OGRkNDgwNDYzY1wvZGVmcmZyby1kY2MwODBmYS04ZjZiLTQ2MjctODQwNy0yMzE5ODU0ZjQ3YzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2xLM9AVlQ7ftXi5qUhHR2nTYna4SpFJ1rA54XuwW0DA"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0338",
+        "name": "mayano_top_gun_(umamusume)",
+        "proper_name": "Mayano Top Gun",
+        "category": "character",
+        "encrypted_count": "fFJnaw==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Mayano.Top.Gun.full.3657606.png"
+      },
+      "tag2": {
+        "id": "t0670",
+        "name": "skullgirls",
+        "proper_name": "Skullgirls",
+        "category": "copyright",
+        "encrypted_count": "f1Nmb0g=",
+        "copyright": "Skullgirls",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/skullgirls/images/8/8c/Skullgirls_logo.png/revision/latest/scale-to-width-down/1200?cb=20150502183112"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0437",
+        "name": "tighnari_(genshin_impact)",
+        "proper_name": "Tighnari",
+        "category": "character",
+        "encrypted_count": "fFFkaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Tighnari_Full_Wish.png/revision/latest?cb=20220824042927"
+      },
+      "tag2": {
+        "id": "t0123",
+        "name": "falin_touden",
+        "proper_name": "Falin Touden",
+        "category": "character",
+        "encrypted_count": "fVBmbA==",
+        "copyright": "Dungeon Meshi",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0558",
+        "name": "red_(pokemon)",
+        "proper_name": "Red",
+        "category": "character",
+        "encrypted_count": "e1xvbQ==",
         "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/4/40/Red_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.png/revision/latest?cb=20220701232612"
+      },
+      "tag2": {
+        "id": "t0499",
+        "name": "mahou_shoujo_lyrical_nanoha_a's",
+        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
+        "category": "copyright",
+        "encrypted_count": "eFFjbg==",
+        "copyright": "Magical Girl Lyrical Nanoha",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/7/7f/Serena_(anime_XY)_3.png/revision/latest?cb=20150527212218"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
       }
     },
     {
       "tag1": {
-        "id": "t0290",
-        "name": "asuna_(school_uniform)_(blue_archive)",
-        "proper_name": "Asuna (School Uniform)",
+        "id": "t0787",
+        "name": "kouyoku_senki_exs-tia",
+        "proper_name": "Kouyoku Senki Exs-Tia",
+        "category": "copyright",
+        "encrypted_count": "elBnag==",
+        "copyright": "Kouyoku Senki Exs-Tia",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
+      },
+      "tag2": {
+        "id": "t0860",
+        "name": "yu-gi-oh!_duel_monsters",
+        "proper_name": "Yu-Gi-Oh! Duel Monsters",
+        "category": "copyright",
+        "encrypted_count": "d1BmaQ==",
+        "copyright": "Yu-Gi-Oh!",
+        "material": "Anime",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0619",
+        "name": "saori_(blue_archive)",
+        "proper_name": "Saori",
         "category": "character",
-        "encrypted_count": "f1JmYw==",
+        "encrypted_count": "e1VkbA==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/0/01/Asuna_(School_Uniform).png/399px-Asuna_(School_Uniform).png"
+        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait/10048.webp"
       },
       "tag2": {
-        "id": "t0361",
-        "name": "miyafuji_yoshika",
-        "proper_name": "Miyafuji Yoshika",
-        "category": "character",
-        "encrypted_count": "fVVhag==",
-        "copyright": "Strike Witches",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Miyafuji.Yoshika.full.1053900.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0401",
-        "name": "ohtsuki_yui",
-        "proper_name": "Ohtsuki Yui",
-        "category": "character",
-        "encrypted_count": "fFJhbA==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/9/99/Yui_Ohtsuki.png/revision/latest?cb=20211229073705"
-      },
-      "tag2": {
-        "id": "t0438",
-        "name": "tamamo_cat_(fate)",
-        "proper_name": "Tamamo Cat",
-        "category": "character",
-        "encrypted_count": "fFBibA==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0496",
-        "name": "sono_bisque_doll_wa_koi_wo_suru",
-        "proper_name": "Sono Bisque Doll wa Koi wo Suru",
+        "id": "t0956",
+        "name": "amagami",
+        "proper_name": "Amagami",
         "category": "copyright",
-        "encrypted_count": "dlJkaw==",
-        "copyright": "Sono Bisque Doll wa Koi wo Suru",
-        "material": "Manga",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/2/2f/Sono_Bisque_Doll_wa_Koi_wo_Suru%2C_Volume_1.jpg"
-      },
-      "tag2": {
-        "id": "t0099",
-        "name": "nagisa_kaworu",
-        "proper_name": "Nagisa Kaworu",
-        "category": "character",
-        "encrypted_count": "elVvaw==",
-        "copyright": "Neon Genesis Evangelion",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Eva24DC_Kaworu.jpg/230px-Eva24DC_Kaworu.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0877",
-        "name": "atelier_ryza_1",
-        "proper_name": "Atelier Ryza 1",
-        "category": "copyright",
-        "encrypted_count": "fFFuag==",
-        "copyright": "Atelier Ryza",
+        "encrypted_count": "eFNvbA==",
+        "copyright": "Amagami",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
-      },
-      "tag2": {
-        "id": "t0839",
-        "name": "surtr_(arknights)",
-        "proper_name": "Surtr",
-        "category": "character",
-        "encrypted_count": "elRmbA==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/1/13/Surtr.png/revision/latest?cb=20200924031750"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0890",
-        "name": "kuchiki_rukia",
-        "proper_name": "Kuchiki Rukia",
-        "category": "character",
-        "encrypted_count": "elFhbg==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bleach/images/b/b2/Kuchiki_Rukia.png/revision/latest?cb=20210626172949&path-prefix=pt"
-      },
-      "tag2": {
-        "id": "t0927",
-        "name": "kijin_seija",
-        "proper_name": "Kijin Seija",
-        "category": "character",
-        "encrypted_count": "e1ZlaA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/thumb/6/67/Th14Seija.png/200px-Th14Seija.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0258",
-        "name": "azusa_(blue_archive)",
-        "proper_name": "Azusa",
-        "category": "character",
-        "encrypted_count": "fFxjaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
-      },
-      "tag2": {
-        "id": "t0662",
-        "name": "kiryuuin_satsuki",
-        "proper_name": "Kiryuuin Satsuki",
-        "category": "character",
-        "encrypted_count": "eF1nYg==",
-        "copyright": "Kill la Kill",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/kill-la-kill/images/0/01/Satsuki_Kiryuin(1).png/revision/latest?cb=20170301220730&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0442",
-        "name": "mash_kyrielight_(dangerous_beast)",
-        "proper_name": "Mash Kyrielight",
-        "category": "character",
-        "encrypted_count": "fFJkag==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mash_2.png"
-      },
-      "tag2": {
-        "id": "t0367",
-        "name": "warcraft",
-        "proper_name": "Warcraft",
-        "category": "copyright",
-        "encrypted_count": "fFxnbg==",
-        "copyright": "Warcraft",
-        "material": "Video Game",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0248",
-        "name": "kanna_kamui",
-        "proper_name": "Kanna Kamui",
-        "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Miss Kobayashi's Dragon Maid",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png"
-      },
-      "tag2": {
-        "id": "t0781",
-        "name": "kiso_(kancolle)",
-        "proper_name": "Kiso",
-        "category": "character",
-        "encrypted_count": "fVNjbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Kiso.(Kantai.Collection).full.1763723.jpg"
+        "image_reference": "https://de-academic.com/pictures/dewiki/65/Amagami_SS_(Logo).png"
       }
     }
   ]
