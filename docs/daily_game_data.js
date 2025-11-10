@@ -1,132 +1,153 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-09T04:14:55.498936+00:00
-// Date: 2025-11-09
+// Generated on: 2025-11-10T04:20:54.957431+00:00
+// Date: 2025-11-10
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-09",
+  "date": "2025-11-10",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0889",
-        "name": "takakura_ken_(dandadan)",
-        "proper_name": "Takakura Ken",
+        "id": "t0658",
+        "name": "silence_suzuka_(umamusume)",
+        "proper_name": "Silence Suzuka",
         "category": "character",
-        "encrypted_count": "fFJiaQ==",
-        "copyright": "Dandadan",
-        "material": "Manga",
-        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
+        "encrypted_count": "eldgYg==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/uma-musume-pretty-derby/images/c/c1/Silence_Suzuka_(Stage).png/revision/latest?cb=20220724182241"
       },
       "tag2": {
-        "id": "t0736",
-        "name": "sagisawa_fumika",
-        "proper_name": "Sagisawa Fumika",
+        "id": "t0656",
+        "name": "sparkle_(honkai:_star_rail)",
+        "proper_name": "Sparkle",
         "category": "character",
-        "encrypted_count": "elFhbw==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/1/1d/Cinderella_master_031_cover.jpg/1200px-Cinderella_master_031_cover.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0376",
-        "name": "vivian_banshee",
-        "proper_name": "Vivian Banshee",
-        "category": "character",
-        "encrypted_count": "fFFhaQ==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0881",
-        "name": "final_fantasy_iv",
-        "proper_name": "Final Fantasy IV",
-        "category": "copyright",
-        "encrypted_count": "fVxmbA==",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://cdn.finalfantasywiki.com/f/fe/FFIV_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0599",
-        "name": "monster_musume_no_iru_nichijou",
-        "proper_name": "Monster Musume no Iru Nichijou",
-        "category": "copyright",
-        "encrypted_count": "eVBiYg==",
-        "copyright": "Monster Musume no Iru Nichijou",
-        "material": "Anime",
-        "image_reference": "https://image.pngaaa.com/602/2661602-middle.png"
-      },
-      "tag2": {
-        "id": "t0831",
-        "name": "mydei_(honkai:_star_rail)",
-        "proper_name": "Mydei",
-        "category": "character",
-        "encrypted_count": "fVNhaQ==",
+        "encrypted_count": "el1hbQ==",
         "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://staticg.sportskeeda.com/editor/2025/02/ea940-17395394049968-1920.jpg"
+        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0446",
-        "name": "saten_ruiko",
-        "proper_name": "Saten Ruiko",
-        "category": "character",
-        "encrypted_count": "fVRubg==",
-        "copyright": "Toaru Series",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
+        "id": "t0186",
+        "name": "ado_(utaite)",
+        "proper_name": "Ado",
+        "category": "copyright",
+        "encrypted_count": "fVVubA==",
+        "copyright": "Ado",
+        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
       },
       "tag2": {
-        "id": "t0560",
-        "name": "kisaragi_chihaya",
-        "proper_name": "Kisaragi Chihaya",
+        "id": "t0604",
+        "name": "okita_souji_(koha-ace)",
+        "proper_name": "Okita Souji",
         "category": "character",
-        "encrypted_count": "e1xjbw==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "e1NgbA==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/11/Chihaya_Kisaragi_2nd_Vision_Normal.png/revision/latest?cb=20180806222028"
+        "image_reference": "https://i.pinimg.com/originals/be/5c/4d/be5c4d182c79b9fa602ffa6537784489.png"
       }
     },
     {
       "tag1": {
-        "id": "t0857",
-        "name": "mahjong_soul",
-        "proper_name": "Mahjong Soul",
-        "category": "copyright",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Mahjong Soul",
-        "material": "Video Game",
-        "image_reference": "https://riichi.wiki/images/Mahjsoullogo.png"
+        "id": "t0328",
+        "name": "panty_(psg)",
+        "proper_name": "Panty",
+        "category": "character",
+        "encrypted_count": "elZjbw==",
+        "copyright": "Panty & Stocking with Garterbelt",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
       },
       "tag2": {
-        "id": "t0239",
-        "name": "go!_princess_precure",
-        "proper_name": "Go! Princess Precure",
+        "id": "t0118",
+        "name": "my_little_pony",
+        "proper_name": "My Little Pony",
         "category": "copyright",
-        "encrypted_count": "fVBgaA==",
-        "copyright": "Go! Princess Precure",
-        "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrfro-dcc080fa-8f6b-4627-8407-2319854f47c9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q2YWJjMzkwLTg1MDktNGZhNC05ODY3LTM5OGRkNDgwNDYzY1wvZGVmcmZyby1kY2MwODBmYS04ZjZiLTQ2MjctODQwNy0yMzE5ODU0ZjQ3YzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2xLM9AVlQ7ftXi5qUhHR2nTYna4SpFJ1rA54XuwW0DA"
+        "encrypted_count": "e1Vvbw==",
+        "copyright": "My Little Pony",
+        "material": "TV Show",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/04/My-Little-Pony-Logo-2016.png"
       }
     },
     {
       "tag1": {
-        "id": "t0338",
-        "name": "mayano_top_gun_(umamusume)",
-        "proper_name": "Mayano Top Gun",
+        "id": "t0878",
+        "name": "death_note",
+        "proper_name": "Death Note",
+        "category": "copyright",
+        "encrypted_count": "fVZjag==",
+        "copyright": "Death Note",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/12/Death-Note-Logo.jpg"
+      },
+      "tag2": {
+        "id": "t0358",
+        "name": "theresa_apocalypse",
+        "proper_name": "Theresa Apocalypse",
         "category": "character",
-        "encrypted_count": "fFJnaw==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Mayano.Top.Gun.full.3657606.png"
+        "encrypted_count": "fFNlbg==",
+        "copyright": "Honkai Impact 3rd",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/e/ec/Hi3rd-Theresa_001.png/revision/latest?cb=20210123100514&path-prefix=fr"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0372",
+        "name": "glaceon",
+        "proper_name": "Glaceon",
+        "category": "character",
+        "encrypted_count": "fV1iaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/Glaceon.png/revision/latest?cb=20170422064259"
+      },
+      "tag2": {
+        "id": "t0146",
+        "name": "nia_(xenoblade)",
+        "proper_name": "Nia",
+        "category": "character",
+        "encrypted_count": "fVxiYw==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0839",
+        "name": "surtr_(arknights)",
+        "proper_name": "Surtr",
+        "category": "character",
+        "encrypted_count": "elRmbA==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/1/13/Surtr.png/revision/latest?cb=20200924031750"
+      },
+      "tag2": {
+        "id": "t0576",
+        "name": "basil_(omori)",
+        "proper_name": "Basil",
+        "category": "character",
+        "encrypted_count": "e1ZkaQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/fc/DW_Basil_Fullbody_Profile.png/revision/latest?cb=20220909122311"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0587",
+        "name": "reze_(chainsaw_man)",
+        "proper_name": "Reze",
+        "category": "character",
+        "encrypted_count": "e1xnaA==",
+        "copyright": "Chainsaw Man",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/1/19/Reze_Infobox.png/revision/latest?cb=20230420070115"
       },
       "tag2": {
         "id": "t0670",
@@ -141,90 +162,68 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0437",
-        "name": "tighnari_(genshin_impact)",
-        "proper_name": "Tighnari",
+        "id": "t0553",
+        "name": "hoshimi_miyabi",
+        "proper_name": "Hoshimi Miyabi",
         "category": "character",
-        "encrypted_count": "fFFkaQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Tighnari_Full_Wish.png/revision/latest?cb=20220824042927"
-      },
-      "tag2": {
-        "id": "t0123",
-        "name": "falin_touden",
-        "proper_name": "Falin Touden",
-        "category": "character",
-        "encrypted_count": "fVBmbA==",
-        "copyright": "Dungeon Meshi",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0558",
-        "name": "red_(pokemon)",
-        "proper_name": "Red",
-        "category": "character",
-        "encrypted_count": "e1xvbQ==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/4/40/Red_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.png/revision/latest?cb=20220701232612"
-      },
-      "tag2": {
-        "id": "t0499",
-        "name": "mahou_shoujo_lyrical_nanoha_a's",
-        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
-        "category": "copyright",
-        "encrypted_count": "eFFjbg==",
-        "copyright": "Magical Girl Lyrical Nanoha",
+        "encrypted_count": "e1VjbA==",
+        "copyright": "Aikatsu!",
         "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0787",
-        "name": "kouyoku_senki_exs-tia",
-        "proper_name": "Kouyoku Senki Exs-Tia",
-        "category": "copyright",
-        "encrypted_count": "elBnag==",
-        "copyright": "Kouyoku Senki Exs-Tia",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
+        "image_reference": "https://i.pinimg.com/originals/a0/2c/e5/a02ce53bc67ef1b7fc6ace7e195b0473.png"
       },
       "tag2": {
-        "id": "t0860",
-        "name": "yu-gi-oh!_duel_monsters",
-        "proper_name": "Yu-Gi-Oh! Duel Monsters",
-        "category": "copyright",
-        "encrypted_count": "d1BmaQ==",
-        "copyright": "Yu-Gi-Oh!",
-        "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0619",
-        "name": "saori_(blue_archive)",
-        "proper_name": "Saori",
+        "id": "t0929",
+        "name": "caelus_(honkai:_star_rail)",
+        "proper_name": "Caelus",
         "category": "character",
-        "encrypted_count": "e1VkbA==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "e1RgaQ==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait/10048.webp"
+        "image_reference": "https://s1.zerochan.net/Caelus.600.3864625.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0501",
+        "name": "ijichi_nijika",
+        "proper_name": "Ijichi Nijika",
+        "category": "character",
+        "encrypted_count": "eFZgbA==",
+        "copyright": "Bocchi the Rock!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
       },
       "tag2": {
-        "id": "t0956",
-        "name": "amagami",
-        "proper_name": "Amagami",
-        "category": "copyright",
-        "encrypted_count": "eFNvbA==",
-        "copyright": "Amagami",
+        "id": "t0762",
+        "name": "arcueid_brunestud",
+        "proper_name": "Arcueid Brunestud",
+        "category": "character",
+        "encrypted_count": "elFkbQ==",
+        "copyright": "Tsukihime",
+        "material": "Visual Novel",
+        "image_reference": "https://static.zerochan.net/Arcueid.Brunestud.full.3556278.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0093",
+        "name": "pecorine_(princess_connect!)",
+        "proper_name": "Peorine",
+        "category": "character",
+        "encrypted_count": "fVxgYw==",
+        "copyright": "Princess Connect!",
         "material": "Video Game",
-        "image_reference": "https://de-academic.com/pictures/dewiki/65/Amagami_SS_(Logo).png"
+        "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png/revision/latest?cb=20180219083648"
+      },
+      "tag2": {
+        "id": "t0747",
+        "name": "devil_may_cry_(series)",
+        "proper_name": "Devil May Cry Series",
+        "category": "copyright",
+        "encrypted_count": "e1BibA==",
+        "copyright": "Devil May Cry Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Logo_of_the_Devil_May_Cry_series.png/375px-Logo_of_the_Devil_May_Cry_series.png"
       }
     }
   ]
