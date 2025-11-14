@@ -1,132 +1,44 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-13T04:18:37.765650+00:00
-// Date: 2025-11-13
+// Generated on: 2025-11-14T04:16:38.036967+00:00
+// Date: 2025-11-14
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0522",
-        "name": "fire_emblem:_the_blazing_blade",
-        "proper_name": "Fire Emblem: The Blazing Blade",
+        "id": "t0234",
+        "name": "final_fantasy_vii_ever_crisis",
+        "proper_name": "Final Fantasy VII: Ever Crisis",
         "category": "copyright",
-        "encrypted_count": "eVZuag==",
-        "copyright": "Fire Emblem",
+        "encrypted_count": "fVRiYg==",
+        "copyright": "Final Fantasy VII: Ever Crisis",
         "material": "Video Game",
-        "image_reference": "https://cdn.fireemblemwiki.org/thumb/1/1e/FERK_Logo.png/400px-FERK_Logo.png"
+        "image_reference": "https://www.rpgfan.com/wp-content/uploads/2021/02/Final-Fantasy-VII-Ever-Crisis-Logo-001-1134x720.jpg"
       },
       "tag2": {
-        "id": "t0715",
-        "name": "hatsutori_hajime",
-        "proper_name": "Hatsutori Hajime",
+        "id": "t0647",
+        "name": "marcille_donato",
+        "proper_name": "Marcille Donato",
         "category": "character",
-        "encrypted_count": "eldkYw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://cdn.donmai.us/original/10/9b/109b39a052b5f37522dcaa3271dc1e95.png"
+        "encrypted_count": "e1Rmag==",
+        "copyright": "Dorohedoro",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
       }
     },
     {
       "tag1": {
-        "id": "t0254",
-        "name": "evelyn_chevalier",
-        "proper_name": "Evelyn Chevalier",
-        "category": "character",
-        "encrypted_count": "fF1uYw==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/hoyodexwiki/4/45/Evelyn_Chevalier_(ZZ-MU).png"
-      },
-      "tag2": {
-        "id": "t0499",
-        "name": "mahou_shoujo_lyrical_nanoha_a's",
-        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
+        "id": "t0879",
+        "name": "mob_psycho_100",
+        "proper_name": "Mob Psycho 100",
         "category": "copyright",
-        "encrypted_count": "eFFjbg==",
-        "copyright": "Magical Girl Lyrical Nanoha",
+        "encrypted_count": "fFNnaw==",
+        "copyright": "Mob Psycho 100",
         "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0586",
-        "name": "ooi_(kancolle)",
-        "proper_name": "Ooi",
-        "category": "character",
-        "encrypted_count": "eldgag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Ooi.(Kantai.Collection).1024.4416436.webp"
-      },
-      "tag2": {
-        "id": "t0342",
-        "name": "jintsuu_(kancolle)",
-        "proper_name": "Jintsuu",
-        "category": "character",
-        "encrypted_count": "fFduYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b0/Jintsu_kai2.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0652",
-        "name": "shirasaka_koume",
-        "proper_name": "Shirasaka Koume",
-        "category": "character",
-        "encrypted_count": "e1dkYw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://pm1.narvii.com/6987/a06dfbcbc8f121386f7c8512ba51acd69fa98ac5r1-766-1064v2_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0644",
-        "name": "yahata_umiri",
-        "proper_name": "Yahata Umiri",
-        "category": "character",
-        "encrypted_count": "elJuag==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0851",
-        "name": "fischl_(genshin_impact)",
-        "proper_name": "Fischl",
-        "category": "character",
-        "encrypted_count": "elVkaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/c/c3/Character_Fischl_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030048&path-prefix=th"
-      },
-      "tag2": {
-        "id": "t0262",
-        "name": "boko_(girls_und_panzer)",
-        "proper_name": "Boko",
-        "category": "character",
-        "encrypted_count": "fFFvYw==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0296",
-        "name": "zhu_yuan",
-        "proper_name": "Zhu Yuan",
-        "category": "character",
-        "encrypted_count": "fFxvYw==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
+        "image_reference": "https://image.tmdb.org/t/p/original/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png"
       },
       "tag2": {
         "id": "t0768",
@@ -141,87 +53,178 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0426",
-        "name": "avatar_legends",
-        "proper_name": "Avatar Legends",
+        "id": "t0335",
+        "name": "shadow_the_hedgehog",
+        "proper_name": "Shadow the Hedgehog",
+        "category": "character",
+        "encrypted_count": "fVZkaw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonic/images/4/45/SRCShadow.png/revision/latest/scale-to-width-down/1200?cb=20251008005300"
+      },
+      "tag2": {
+        "id": "t0378",
+        "name": "kaga_(azur_lane)",
+        "proper_name": "Kaga",
+        "category": "character",
+        "encrypted_count": "fFdmaQ==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/9/9a/Kaga.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0222",
+        "name": "mostima_(arknights)",
+        "proper_name": "Mostima",
+        "category": "character",
+        "encrypted_count": "fF1vYw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/3/31/Mostima.png/revision/latest?cb=20200520090244"
+      },
+      "tag2": {
+        "id": "t0430",
+        "name": "emil_chronicle_online",
+        "proper_name": "Emil Chronicle Online",
         "category": "copyright",
-        "encrypted_count": "elBvaA==",
-        "copyright": "Avatar: The Last Airbender",
-        "material": "Tabletop Game",
-        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
-      },
-      "tag2": {
-        "id": "t0761",
-        "name": "neru_(blue_archive)",
-        "proper_name": "Neru",
-        "category": "character",
-        "encrypted_count": "elBiaw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "fFJubw==",
+        "copyright": "Emil Chronicle Online",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/2/24/Neru.png?version=d1e9e4657c08a61cae484524da7a2082"
+        "image_reference": "https://cdn.mobygames.com/covers/9924119-emil-chronicle-online-windows-front-cover.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0484",
-        "name": "clownpiece",
-        "proper_name": "Clownpiece",
-        "category": "character",
-        "encrypted_count": "e11lbA==",
-        "copyright": "Touhou Project",
+        "id": "t0633",
+        "name": "love_live!_school_idol_festival",
+        "proper_name": "Love Live! School Idol Festival",
+        "category": "copyright",
+        "encrypted_count": "fVZuakg=",
+        "copyright": "Love Live!",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/53/TH15Clownpiece.png/revision/latest?cb=20150926164947"
+        "image_reference": "https://www.kindpng.com/picc/m/102-1023896_love-live-school-idol-festival-logo-hd-png.png"
       },
       "tag2": {
-        "id": "t0890",
-        "name": "kuchiki_rukia",
-        "proper_name": "Kuchiki Rukia",
-        "category": "character",
-        "encrypted_count": "elFhbg==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bleach/images/b/b2/Kuchiki_Rukia.png/revision/latest?cb=20210626172949&path-prefix=pt"
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
       }
     },
     {
       "tag1": {
-        "id": "t0244",
-        "name": "lana_(pokemon)",
-        "proper_name": "Lana",
+        "id": "t0019",
+        "name": "final_fantasy",
+        "proper_name": "Final Fantasy",
+        "category": "copyright",
+        "encrypted_count": "f1ZnbkcB",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
+      },
+      "tag2": {
+        "id": "t0894",
+        "name": "brendan_(pokemon)",
+        "proper_name": "Brendan",
         "category": "character",
-        "encrypted_count": "e1Jkbw==",
+        "encrypted_count": "fVVubw==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
-      },
-      "tag2": {
-        "id": "t0218",
-        "name": "mizi_(alien_stage)",
-        "proper_name": "Mizi",
-        "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Alien Stage",
-        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/c/ce/Brendan_Omega_Ruby_and_Alpha_Sapphire_concept_art.png/revision/latest?cb=20160513212418"
       }
     },
     {
       "tag1": {
-        "id": "t0674",
-        "name": "iowa_(kancolle)",
-        "proper_name": "Iowa",
-        "category": "character",
-        "encrypted_count": "elNnbw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/a/a5/Iowa_Full.png/revision/latest?cb=20180817192145"
+        "id": "t0023",
+        "name": "nijisanji",
+        "proper_name": "Nijisanji",
+        "category": "copyright",
+        "encrypted_count": "eVNhbEg=",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/73/Nijisanji_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221027135628"
       },
       "tag2": {
-        "id": "t0037",
-        "name": "mayuzumi_fuyuko",
-        "proper_name": "Mayuzumi Fuyuko",
+        "id": "t0739",
+        "name": "wise_(zenless_zone_zero)",
+        "proper_name": "Wise",
         "category": "character",
-        "encrypted_count": "fVJuYg==",
-        "image_reference": "https://image.shinycolors.wiki/d/da/FuyukoProfile.png"
+        "encrypted_count": "fVNkaA==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e8/Agent_Wise_Portrait.png/revision/latest?cb=20240707002534"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0419",
+        "name": "dark_souls_i",
+        "proper_name": "Dark Souls I",
+        "category": "copyright",
+        "encrypted_count": "fVVuYg==",
+        "copyright": "Dark Souls",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Dark_Souls_Cover_Art.jpg/250px-Dark_Souls_Cover_Art.jpg"
+      },
+      "tag2": {
+        "id": "t0587",
+        "name": "reze_(chainsaw_man)",
+        "proper_name": "Reze",
+        "category": "character",
+        "encrypted_count": "e1xnaA==",
+        "copyright": "Chainsaw Man",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/1/19/Reze_Infobox.png/revision/latest?cb=20230420070115"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0639",
+        "name": "souryuu_(kancolle)",
+        "proper_name": "Souryuu",
+        "category": "character",
+        "encrypted_count": "elFhaw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/e/e7/Ship_Card_Souryuu.png"
+      },
+      "tag2": {
+        "id": "t0094",
+        "name": "eila_ilmatar_juutilainen",
+        "proper_name": "Eila Ilmatar Juutilainen",
+        "category": "character",
+        "encrypted_count": "fVxnbA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0015",
+        "name": "hatsune_miku",
+        "proper_name": "Hatsune Miku",
+        "category": "character",
+        "encrypted_count": "f1Zvb0II",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
+      },
+      "tag2": {
+        "id": "t0416",
+        "name": "high_priest_(ragnarok_online)",
+        "proper_name": "High Priest",
+        "category": "character",
+        "encrypted_count": "fFBgaw==",
+        "copyright": "Ragnarok Online",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
       }
     }
   ]
