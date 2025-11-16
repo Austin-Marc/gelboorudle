@@ -1,228 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-15T04:14:31.286828+00:00
-// Date: 2025-11-15
+// Generated on: 2025-11-16T04:18:53.159946+00:00
+// Date: 2025-11-16
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-15",
+  "date": "2025-11-16",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0959",
-        "name": "synthesizer_v",
-        "proper_name": "Synthesizer V",
-        "category": "copyright",
-        "encrypted_count": "e1Vhbg==",
-        "copyright": "Synthesizer V",
-        "material": "Music Software",
-        "image_reference": "https://moegirl.uk/images/1/1a/Synthesizer_V_R2_logo.png"
+        "id": "t0663",
+        "name": "osawa_rurino",
+        "proper_name": "Osawa Rurino",
+        "category": "character",
+        "encrypted_count": "elVgbQ==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d2/Osawa_Rurino.png/revision/latest/scale-to-width-down/1200?cb=20230210125149"
       },
       "tag2": {
-        "id": "t0177",
-        "name": "wei_wuxian",
-        "proper_name": "Wei Wuxian",
-        "category": "character",
-        "encrypted_count": "fVVlaQ==",
-        "copyright": "Mo Dao Zu Shi",
-        "material": "Novel",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mdzs_wwx_1.png"
+        "id": "t0477",
+        "name": "mushoku_tensei",
+        "proper_name": "Mushoku Tensei",
+        "category": "copyright",
+        "encrypted_count": "d1VuYg==",
+        "copyright": "Mushoku Tensei",
+        "material": "Light Novel",
+        "image_reference": "https://skitsub.com/style/img/contant/mushoku-tensei/mushokutenseilogo.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0489",
-        "name": "street_fighter_6",
-        "proper_name": "Street Fighter 6",
-        "category": "copyright",
-        "encrypted_count": "dlJjaA==",
-        "copyright": "Street Fighter",
+        "id": "t0170",
+        "name": "serika_(blue_archive)",
+        "proper_name": "Serika",
+        "category": "character",
+        "encrypted_count": "fF1vbA==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/streetfighter/images/4/47/Street_fighter_6_logo.png/revision/latest?cb=20220603151920"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/68195-1831388089.png"
       },
       "tag2": {
-        "id": "t0634",
-        "name": "koha-ace",
-        "proper_name": "Koha-Ace",
-        "category": "copyright",
-        "encrypted_count": "elNjag==",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/56/Fate_GUDAGUDA_Order_Logo.png/revision/latest?cb=20220611195909"
+        "id": "t0050",
+        "name": "octoling_girl",
+        "proper_name": "Octoling Girl",
+        "category": "character",
+        "encrypted_count": "fVNhbQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/splatoon/images/c/c9/S3_art_3D_Octoling_Hydra_Splatling.png/revision/latest?cb=20221129201234"
       }
     },
     {
       "tag1": {
-        "id": "t0135",
-        "name": "juliana_(pokemon)",
-        "proper_name": "Juliana",
-        "category": "character",
-        "encrypted_count": "fVBhag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Juliana_concept_art.jpg/680px-Juliana_concept_art.jpg"
+        "id": "t0365",
+        "name": "aria_(manga)",
+        "proper_name": "Aria",
+        "category": "copyright",
+        "encrypted_count": "fF1kbg==",
+        "copyright": "Aria",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
       },
       "tag2": {
-        "id": "t0744",
-        "name": "amamiya_ren",
-        "proper_name": "Amamiya Ren",
-        "category": "character",
-        "encrypted_count": "e1Rnbg==",
-        "copyright": "Persona 5",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/5/53/P5D_Ren_Amamiya_Artwork.png"
+        "id": "t0421",
+        "name": "hidamari_sketch",
+        "proper_name": "Hidamari Sketch",
+        "category": "copyright",
+        "encrypted_count": "fVFhaA==",
+        "copyright": "Hidamari Sketch",
+        "material": "Anime",
+        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
       }
     },
     {
       "tag1": {
-        "id": "t0963",
-        "name": "acheron_(honkai:_star_rail)",
-        "proper_name": "Acheron",
+        "id": "t0112",
+        "name": "project_diva_(series)",
+        "proper_name": "Project Diva Series",
+        "category": "copyright",
+        "encrypted_count": "fFNibg==",
+        "copyright": "Project Diva Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/ruben-the-hedgehog-official/images/4/48/HMPD_Logo.png/revision/latest?cb=20170808141524"
+      },
+      "tag2": {
+        "id": "t0134",
+        "name": "dusk_(arknights)",
+        "proper_name": "Dusk",
         "category": "character",
-        "encrypted_count": "e1JkYg==",
+        "encrypted_count": "fVZiYw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/5/5d/Dusk.png/revision/latest?cb=20210205132501"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0786",
+        "name": "os-tan",
+        "proper_name": "OS-tan",
+        "category": "copyright",
+        "encrypted_count": "elFuYg==",
+        "copyright": "OS-tan",
+        "material": "Comic",
+        "image_reference": "https://www.ostan-collections.net/wiki/images/b/bb/OSCWikiLogo4.jpg"
+      },
+      "tag2": {
+        "id": "t0656",
+        "name": "sparkle_(honkai:_star_rail)",
+        "proper_name": "Sparkle",
+        "category": "character",
+        "encrypted_count": "el1hbQ==",
         "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/12/honkai-star-rail-acheron-3.jpeg"
-      },
-      "tag2": {
-        "id": "t0115",
-        "name": "gundam_seed_destiny",
-        "proper_name": "Gundam Seed Destiny",
-        "category": "copyright",
-        "encrypted_count": "elJmYg==",
-        "copyright": "Mobile Suit Gundam",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/0/0c/Logo_Mobile_Suit_Gundam_Seed_Destiny.jpg/revision/latest/scale-to-width-down/310?cb=20181204163359"
+        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0078",
-        "name": "hyouka",
-        "proper_name": "Hyouka",
-        "category": "copyright",
-        "encrypted_count": "fVNnbA==",
-        "copyright": "Hyouka",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Hyouka_English_poster.jpg/250px-Hyouka_English_poster.jpg"
+        "id": "t0200",
+        "name": "tsunomaki_watame",
+        "proper_name": "Tsunomaki Watame",
+        "category": "character",
+        "encrypted_count": "fVRmaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
       },
       "tag2": {
-        "id": "t0808",
-        "name": "sirius_(azur_lane)",
-        "proper_name": "Sirius",
+        "id": "t0467",
+        "name": "fou_(fate)",
+        "proper_name": "Fou",
         "category": "character",
-        "encrypted_count": "eldvbg==",
-        "copyright": "Azur Lane",
+        "encrypted_count": "fFdkaQ==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/1/18/Sirius.png/revision/latest?cb=20190220204411"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
       }
     },
     {
       "tag1": {
-        "id": "t0189",
-        "name": "tsukihime_(remake)",
-        "proper_name": "Tsukihime Remake",
+        "id": "t0672",
+        "name": "osomatsu-san",
+        "proper_name": "Osomatsu-san",
         "category": "copyright",
-        "encrypted_count": "fFdnaA==",
-        "copyright": "Tsukihime",
-        "material": "Visual Novel",
-        "image_reference": "https://tsukihime-en.com/assets/img/main/logo.png"
+        "encrypted_count": "e1dkbw==",
+        "copyright": "Osomatsu-san",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/osomatsu/images/e/e6/Site-logo.png/revision/latest?cb=20210720132516&path-prefix=es"
       },
       "tag2": {
-        "id": "t0388",
-        "name": "kunikida_hanamaru",
-        "proper_name": "Kunikida Hanamaru",
+        "id": "t0556",
+        "name": "wakaba_mutsumi",
+        "proper_name": "Wakaba Mutsumi",
         "category": "character",
-        "encrypted_count": "elFibg==",
-        "copyright": "Love Live! Sunshine!!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/c/c1/Sunshine%21%21_infobox_-_Kunikida_Hanamaru.png/revision/latest?cb=20170402074009"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0659",
-        "name": "kasumi_(kancolle)",
-        "proper_name": "Kasumi",
-        "category": "character",
-        "encrypted_count": "elFibQ==",
+        "encrypted_count": "e1Vgag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/6b/Kasumi.png/revision/latest?cb=20150606171159&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0386",
-        "name": "kurosawa_ruby",
-        "proper_name": "Kurosawa Ruby",
-        "category": "character",
-        "encrypted_count": "e1VuYw==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://lovelive-sif2.com/wp-content/uploads/2022/12/28174743/img_ruby_JxDJ5ziaMRBh.png"
+        "image_reference": "https://anibase.net/files/2fe43d80636dfb7d1e4d535c174a7b68"
       }
     },
     {
       "tag1": {
-        "id": "t0724",
-        "name": "kishin_sagume",
-        "proper_name": "Kishin Sagume",
+        "id": "t0793",
+        "name": "jane_doe_(zenless_zone_zero)",
+        "proper_name": "Jane Doe",
         "category": "character",
-        "encrypted_count": "elZkbg==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "elZiag==",
+        "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5a/TH15Sagume.png/revision/latest?cb=20150908222725"
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Agent_Jane_Doe_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240712062618"
       },
       "tag2": {
-        "id": "t0123",
-        "name": "falin_touden",
-        "proper_name": "Falin Touden",
+        "id": "t0294",
+        "name": "umbreon",
+        "proper_name": "Umbreon",
         "category": "character",
-        "encrypted_count": "fVBmbA==",
-        "copyright": "Dungeon Meshi",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0048",
-        "name": "rosalina",
-        "proper_name": "Rosalina",
-        "category": "character",
-        "encrypted_count": "eFBubA==",
-        "copyright": "Super Mario",
+        "encrypted_count": "fV1kbA==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rosalina_by_Shigehisa_Nakaue.png/250px-Rosalina_by_Shigehisa_Nakaue.png"
-      },
-      "tag2": {
-        "id": "t0240",
-        "name": "fennec_(kemono_friends)",
-        "proper_name": "Fennec",
-        "category": "character",
-        "encrypted_count": "fFNnaQ==",
-        "copyright": "Kemono Friends",
-        "material": "Anime",
-        "image_reference": "https://www.japari-library.com/images/8/8b/Fennec_FoxOriginal.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/9/9f/Umbreon.png/revision/latest?cb=20150823181058&path-prefix=pl"
       }
     },
     {
       "tag1": {
-        "id": "t0398",
-        "name": "erica_hartmann",
-        "proper_name": "Erica Hartmann",
+        "id": "t0140",
+        "name": "kel_(omori)",
+        "proper_name": "Kel",
         "category": "character",
-        "encrypted_count": "fF1mbQ==",
-        "copyright": "Strike Witches",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/strikewitches/images/5/56/Strike_Witches-_Erica_Hartmann_1941.jpg/revision/latest?cb=20200320173134"
+        "encrypted_count": "fFxgaw==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
       },
       "tag2": {
-        "id": "t0357",
-        "name": "accelerator_(toaru_majutsu_no_index)",
-        "proper_name": "Accelerator",
+        "id": "t0063",
+        "name": "diluc_(genshin_impact)",
+        "proper_name": "Diluc",
         "category": "character",
-        "encrypted_count": "fFBlag==",
-        "copyright": "Toaru Majutsu no Index",
-        "material": "Light Novel",
-        "image_reference": "https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/9/96/Accelerator_Novel.jpg/revision/latest?cb=20160121115001"
+        "encrypted_count": "fVBhag==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
+        "category": "character",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
+      },
+      "tag2": {
+        "id": "t0611",
+        "name": "puzzle_&_dragons",
+        "proper_name": "Puzzle & Dragons",
+        "category": "copyright",
+        "encrypted_count": "e1xuYw==",
+        "copyright": "Puzzle & Dragons",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Main_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20150516042650"
       }
     }
   ]
