@@ -1,66 +1,22 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-17T04:19:22.422895+00:00
-// Date: 2025-11-17
+// Generated on: 2025-11-18T04:16:40.621539+00:00
+// Date: 2025-11-18
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-17",
+  "date": "2025-11-18",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0563",
-        "name": "power_(chainsaw_man)",
-        "proper_name": "Power",
+        "id": "t0647",
+        "name": "marcille_donato",
+        "proper_name": "Marcille Donato",
         "category": "character",
-        "encrypted_count": "eFNjYw==",
-        "copyright": "Chainsaw Man",
+        "encrypted_count": "e1Rmag==",
+        "copyright": "Dorohedoro",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/60/Power_Infobox.png/revision/latest?cb=20221018191230&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0476",
-        "name": "inazuma_eleven_go",
-        "proper_name": "Inazuma Eleven Go",
-        "category": "copyright",
-        "encrypted_count": "eVdkag==",
-        "copyright": "Inazuma Eleven",
-        "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/b7995b75332722ca39fea2066973e3fc.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0904",
-        "name": "to_heart_2",
-        "proper_name": "To Heart 2",
-        "category": "copyright",
-        "encrypted_count": "eFxvYw==",
-        "copyright": "To Heart",
-        "material": "Visual Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
-      },
-      "tag2": {
-        "id": "t0251",
-        "name": "kicchou_yachie",
-        "proper_name": "Kicchou Yachie",
-        "category": "character",
-        "encrypted_count": "fFFgbg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0373",
-        "name": "hatsuzuki_(kancolle)",
-        "proper_name": "Hatsuzuki",
-        "category": "character",
-        "encrypted_count": "fFFvaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
       },
       "tag2": {
         "id": "t0858",
@@ -75,134 +31,68 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0534",
-        "name": "kaban_(kemono_friends)",
-        "proper_name": "Kaban",
+        "id": "t0793",
+        "name": "jane_doe_(zenless_zone_zero)",
+        "proper_name": "Jane Doe",
         "category": "character",
-        "encrypted_count": "e1dhbg==",
-        "copyright": "Kemono Friends",
+        "encrypted_count": "elZiag==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Agent_Jane_Doe_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240712062618"
+      },
+      "tag2": {
+        "id": "t0723",
+        "name": "narukami_yu",
+        "proper_name": "Narukami Yu",
+        "category": "character",
+        "encrypted_count": "elxiaw==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://blazblue.wiki/images/2/2e/BlazBlue_Cross_Tag_Battle_Yu_Narukami_Main.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0106",
+        "name": "uchiha_sasuke",
+        "proper_name": "Uchiha Sasuke",
+        "category": "character",
+        "encrypted_count": "eFJgbQ==",
+        "copyright": "Naruto",
         "material": "Anime",
-        "image_reference": "https://www.japari-library.com/images/3/3e/KabanS2.png"
+        "image_reference": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest/scale-to-width-down/1200?cb=20170716092103"
       },
       "tag2": {
-        "id": "t0360",
-        "name": "male_byleth_(fire_emblem)",
-        "proper_name": "Byleth (Male)",
+        "id": "t0561",
+        "name": "tatsuta_(kancolle)",
+        "proper_name": "Tatsuta",
         "category": "character",
-        "encrypted_count": "el1uYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0401",
-        "name": "ohtsuki_yui",
-        "proper_name": "Ohtsuki Yui",
-        "category": "character",
-        "encrypted_count": "fFJhbA==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/9/99/Yui_Ohtsuki.png/revision/latest?cb=20211229073705"
-      },
-      "tag2": {
-        "id": "t0962",
-        "name": "anya_(spy_x_family)",
-        "proper_name": "Anya Forger",
-        "category": "character",
-        "encrypted_count": "eV1maQ==",
-        "copyright": "Spy x Family",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/spy-x-family/images/f/ff/Anya_Forger_Anime.png/revision/latest?cb=20220611184611&path-prefix=fr"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0301",
-        "name": "tomoe_gozen_(fate)",
-        "proper_name": "Tomoe Gozen",
-        "category": "character",
-        "encrypted_count": "fVRmaw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/6999/99662f2ac78d6680faaed4cc6b30d0b4757f43dcr1-850-1073v2_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0021",
-        "name": "hakurei_reimu",
-        "proper_name": "Hakurei Reimu",
-        "category": "character",
-        "encrypted_count": "eVBgbUE=",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/a/ae/Th20Reimu.png/revision/latest?cb=20250505061952"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0286",
-        "name": "charlotte_(madoka_magica)",
-        "proper_name": "Charlotte",
-        "category": "character",
-        "encrypted_count": "fFNvYw==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://images.puella-magi.net/b/be/Card_Charlotte.png"
-      },
-      "tag2": {
-        "id": "t0034",
-        "name": "florence_nightingale_(fate)",
-        "proper_name": "Florence Nightingale",
-        "category": "character",
-        "encrypted_count": "elZmYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/51/BerserkerFloranceStage3.png/revision/latest?cb=20170217232053"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0742",
-        "name": "exusiai_(arknights)",
-        "proper_name": "Exusiai",
-        "category": "character",
-        "encrypted_count": "elBiaA==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/24/Exusiai.png/revision/latest?cb=20190623025141"
-      },
-      "tag2": {
-        "id": "t0818",
-        "name": "cu_chulainn_(lancer)_(fate)",
-        "proper_name": "Cu Chulainn (Lancer)",
-        "category": "character",
-        "encrypted_count": "fVJnbw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fateanother-ii/images/3/32/LancerCuChuGOStage1.png/revision/latest/scale-to-width-down/1200?cb=20210607112610"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0292",
-        "name": "kagerou_(kancolle)",
-        "proper_name": "Kagerou",
-        "category": "character",
-        "encrypted_count": "fFBuag==",
+        "encrypted_count": "elJjaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/1a/Kagerou.png/revision/latest?cb=20140315195952&path-prefix=protagonist"
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/d/d5/Ship_Card_Tatsuta_Kai_Ni.png/218px-Ship_Card_Tatsuta_Kai_Ni.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0352",
+        "name": "hibiki_(blue_archive)",
+        "proper_name": "Hibiki",
+        "category": "character",
+        "encrypted_count": "fFxibQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/b/bc/Hibiki.png/266px-Hibiki.png"
       },
       "tag2": {
-        "id": "t0185",
-        "name": "hazbin_hotel",
-        "proper_name": "Hazbin Hotel",
-        "category": "copyright",
-        "encrypted_count": "fVZnaw==",
-        "copyright": "Hazbin Hotel",
-        "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
+        "id": "t0381",
+        "name": "amy_rose",
+        "proper_name": "Amy Rose",
+        "category": "character",
+        "encrypted_count": "elxuag==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonic/images/9/94/AmyRoseTSR.png/revision/latest?cb=20200229192419&path-prefix=es"
       }
     },
     {
@@ -217,14 +107,122 @@ const DAILY_GAME_DATA = {
         "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
       },
       "tag2": {
-        "id": "t0716",
-        "name": "ultimate_madoka",
-        "proper_name": "Ultimate Madoka",
+        "id": "t0357",
+        "name": "accelerator_(toaru_majutsu_no_index)",
+        "proper_name": "Accelerator",
         "category": "character",
-        "encrypted_count": "elBmag==",
-        "copyright": "Puella Magi Madoka Magica",
+        "encrypted_count": "fFBlag==",
+        "copyright": "Toaru Majutsu no Index",
+        "material": "Light Novel",
+        "image_reference": "https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/9/96/Accelerator_Novel.jpg/revision/latest?cb=20160121115001"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0398",
+        "name": "erica_hartmann",
+        "proper_name": "Erica Hartmann",
+        "category": "character",
+        "encrypted_count": "fF1mbQ==",
+        "copyright": "Strike Witches",
         "material": "Anime",
-        "image_reference": "https://mangayo.it/31904-full_default/puella-magi-madoka-magica-ultimate-deluxe-edition-1.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/strikewitches/images/5/56/Strike_Witches-_Erica_Hartmann_1941.jpg/revision/latest?cb=20200320173134"
+      },
+      "tag2": {
+        "id": "t0136",
+        "name": "mercy_(overwatch)",
+        "proper_name": "Mercy",
+        "category": "character",
+        "encrypted_count": "eldvaQ==",
+        "copyright": "Overwatch",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/overwatch/images/7/75/Mercy-ow2.png/revision/latest?cb=20201122032817"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0417",
+        "name": "akitsu_maru_(kancolle)",
+        "proper_name": "Akitsu Maru",
+        "category": "character",
+        "encrypted_count": "fFdubg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b3/166_3.png"
+      },
+      "tag2": {
+        "id": "t0680",
+        "name": "kal'tsit_(arknights)",
+        "proper_name": "Kal'tsit",
+        "category": "character",
+        "encrypted_count": "elFmaw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0341",
+        "name": "non-human_admiral_(kancolle)",
+        "proper_name": "Non-Human Admiral",
+        "category": "character",
+        "encrypted_count": "f1FuaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
+      },
+      "tag2": {
+        "id": "t0062",
+        "name": "yamakaze_(kancolle)",
+        "proper_name": "Yamakaze",
+        "category": "character",
+        "encrypted_count": "fVZubA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0963",
+        "name": "acheron_(honkai:_star_rail)",
+        "proper_name": "Acheron",
+        "category": "character",
+        "encrypted_count": "e1JkYg==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/12/honkai-star-rail-acheron-3.jpeg"
+      },
+      "tag2": {
+        "id": "t0440",
+        "name": "taigei_(kancolle)",
+        "proper_name": "Taigei",
+        "category": "character",
+        "encrypted_count": "fFFlYw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-310248996.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0862",
+        "name": "kachimachi_kosuzu",
+        "proper_name": "Kachimachi Kosuzu",
+        "category": "character",
+        "encrypted_count": "fVZkaw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.myfigurecollection.net/upload/entries/1/377786-f2961.jpg"
+      },
+      "tag2": {
+        "id": "t0779",
+        "name": "anyoji_hime",
+        "proper_name": "Anyoji Hime",
+        "category": "character",
+        "encrypted_count": "fVduaA==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/fb/Hime_Anyoji_2025.png/revision/latest/scale-to-width-down/250?cb=20250410121127"
       }
     }
   ]
