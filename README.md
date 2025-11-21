@@ -2,6 +2,7 @@
 
 Higher or lower game based on rule34dle but using a more interesting data source. While inspired from other -dles nothing was utilized from them. 
 Basic gameplay is the same as other -dles Select the category that you think will have a higher total number of entries. 
+[Try it out here!](https://gelboorudle.pages.dev)
 
 ## To-Dos 
 - Add images and context for each tag 
@@ -32,4 +33,3 @@ npx serve
 
 # Then open http://localhost:8000
 ```
-
