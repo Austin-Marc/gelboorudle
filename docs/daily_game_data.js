@@ -1,228 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-21T04:16:03.662148+00:00
-// Date: 2025-11-21
+// Generated on: 2025-11-22T04:14:31.217091+00:00
+// Date: 2025-11-22
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-21",
+  "date": "2025-11-22",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0567",
-        "name": "fire_emblem:_genealogy_of_the_holy_war",
-        "proper_name": "Fire Emblem: Genealogy of the Holy War",
-        "category": "copyright",
-        "encrypted_count": "e11kYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/2/2c/FESK_Logo.png/1200px-FESK_Logo.png"
-      },
-      "tag2": {
-        "id": "t0043",
-        "name": "izuna_(blue_archive)",
-        "proper_name": "Izuna",
+        "id": "t0467",
+        "name": "fou_(fate)",
+        "proper_name": "Fou",
         "category": "character",
-        "encrypted_count": "fVBhaQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0299",
-        "name": "king_halo_(umamusume)",
-        "proper_name": "King Halo",
-        "category": "character",
-        "encrypted_count": "fFdhbg==",
-        "copyright": "Uma Musume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/1/1c/Kinghalogame.png/revision/latest/scale-to-width-down/250?cb=20210921101634"
-      },
-      "tag2": {
-        "id": "t0644",
-        "name": "yahata_umiri",
-        "proper_name": "Yahata Umiri",
-        "category": "character",
-        "encrypted_count": "elJuag==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0629",
-        "name": "shiranui_mai",
-        "proper_name": "Shiranui Mai",
-        "category": "character",
-        "encrypted_count": "f1dkb0A=",
-        "image_reference": "https://static.wikia.nocookie.net/herois/images/5/53/Mai_Shiranui_FF-CotW.png/revision/latest/scale-to-width-down/1200?cb=20241112050708&path-prefix=pt-br"
-      },
-      "tag2": {
-        "id": "t0855",
-        "name": "sen_no_kiseki_(series)",
-        "proper_name": "Sen no Kiseki Series",
-        "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "The Legend of Heroes",
-        "material": "Video Game",
-        "image_reference": "https://image.pngaaa.com/464/4421464-middle.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0571",
-        "name": "gintama",
-        "proper_name": "Gintama",
-        "category": "copyright",
-        "encrypted_count": "eFNmYg==",
-        "copyright": "Gintama",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Gintama_English_Logo.png/revision/latest?cb=20210101181027"
-      },
-      "tag2": {
-        "id": "t0365",
-        "name": "aria_(manga)",
-        "proper_name": "Aria",
-        "category": "copyright",
-        "encrypted_count": "fF1kbg==",
-        "copyright": "Aria",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0038",
-        "name": "super_sonico",
-        "proper_name": "Super Sonico",
-        "category": "character",
-        "encrypted_count": "e1dkbQ==",
-        "copyright": "Super Sonico",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Supersonicocharacter.jpg/250px-Supersonicocharacter.jpg"
-      },
-      "tag2": {
-        "id": "t0344",
-        "name": "emiya_kiritsugu",
-        "proper_name": "Emiya Kiritsugu",
-        "category": "character",
-        "encrypted_count": "fFJibw==",
+        "encrypted_count": "fFdkaQ==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0706",
-        "name": "nitroplus",
-        "proper_name": "Nitroplus",
-        "category": "copyright",
-        "encrypted_count": "d1FlbQ==",
-        "copyright": "Nitroplus",
-        "material": "Video Game",
-        "image_reference": "https://www.gematsu.com/wp-content/uploads/2021/09/Company-Logo_Nitroplus-1920x1088.png"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
       },
       "tag2": {
-        "id": "t0394",
-        "name": "lyra_(pokemon)",
-        "proper_name": "Lyra",
+        "id": "t0398",
+        "name": "erica_hartmann",
+        "proper_name": "Erica Hartmann",
         "category": "character",
-        "encrypted_count": "fVZkag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/d/d8/Lyra.png/revision/latest?cb=20160116133943"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0448",
-        "name": "tippy_(gochiusa)",
-        "proper_name": "Tippy",
-        "category": "character",
-        "encrypted_count": "fFFmaQ==",
-        "copyright": "Gochuumon wa Usagi Desu ka?",
+        "encrypted_count": "fF1mbQ==",
+        "copyright": "Strike Witches",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Gochuumon.wa.Usagi.Desu.ka.1024.2048654.webp"
-      },
-      "tag2": {
-        "id": "t0893",
-        "name": "simon_(ttgl)",
-        "proper_name": "Simon",
-        "category": "character",
-        "encrypted_count": "fFNnbw==",
-        "copyright": "Tengen Toppa Gurren Lagann",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/p__/images/d/d6/Simon_the_Digger_(Post-Timeskip).png/revision/latest?cb=20181004055713&path-prefix=protagonist"
+        "image_reference": "https://vignette.wikia.nocookie.net/strikewitches/images/5/56/Strike_Witches-_Erica_Hartmann_1941.jpg/revision/latest?cb=20200320173134"
       }
     },
     {
       "tag1": {
-        "id": "t0720",
-        "name": "yuuki_makoto_(persona_3)",
-        "proper_name": "Yuuki Makoto",
+        "id": "t0168",
+        "name": "castorice_(honkai:_star_rail)",
+        "proper_name": "Castorice",
         "category": "character",
-        "encrypted_count": "elJvbA==",
-        "copyright": "Persona",
+        "encrypted_count": "fF1ubg==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/thumb/7/7b/P3R_Protagonist_Artwork.png/800px-P3R_Protagonist_Artwork.png"
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
       },
       "tag2": {
-        "id": "t0480",
-        "name": "soga_no_tojiko",
-        "proper_name": "Soga no Tojiko",
-        "category": "character",
-        "encrypted_count": "e1dlYg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th13Tojiko.png/revision/latest?cb=20110813200351"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0548",
-        "name": "phantasy_star",
-        "proper_name": "Phantasy Star",
+        "id": "t0283",
+        "name": "mother_(series)",
+        "proper_name": "Mother Series",
         "category": "copyright",
-        "encrypted_count": "eFBgaQ==",
-        "copyright": "Phantasy Star",
+        "encrypted_count": "elZjaA==",
+        "copyright": "Mother Series",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
-      },
-      "tag2": {
-        "id": "t0889",
-        "name": "takakura_ken_(dandadan)",
-        "proper_name": "Takakura Ken",
-        "category": "character",
-        "encrypted_count": "fFJiaQ==",
-        "copyright": "Dandadan",
-        "material": "Manga",
-        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MOTHER_1989_Boxart_%28Nintendo%29.png/1200px-MOTHER_1989_Boxart_%28Nintendo%29.png"
       }
     },
     {
       "tag1": {
-        "id": "t0313",
-        "name": "natsu_(blue_archive)",
-        "proper_name": "Natsu",
+        "id": "t0030",
+        "name": "mahou_shoujo_madoka_magica_(anime)",
+        "proper_name": "Mahou Shoujo Madoka Magica",
+        "category": "copyright",
+        "encrypted_count": "el1vYkQ=",
+        "copyright": "Mahou Shoujo Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/MadokaBD.jpg"
+      },
+      "tag2": {
+        "id": "t0341",
+        "name": "non-human_admiral_(kancolle)",
+        "proper_name": "Non-Human Admiral",
         "category": "character",
-        "encrypted_count": "fFNkaw==",
+        "encrypted_count": "f1FuaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0908",
+        "name": "hanako_(blue_archive)",
+        "proper_name": "Hanako",
+        "category": "character",
+        "encrypted_count": "eFVvbA==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/9/90/Natsu.png"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/9/9c/Hanako.png/399px-Hanako.png"
       },
       "tag2": {
-        "id": "t0049",
-        "name": "gokou_ruri",
-        "proper_name": "Gokou Ruri",
+        "id": "t0643",
+        "name": "kosaka_honoka",
+        "proper_name": "Kosaka Honoka",
         "category": "character",
-        "encrypted_count": "fVxhbA==",
-        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+        "encrypted_count": "eVVnbA==",
+        "copyright": "Love Live!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/oreimo/images/c/cd/Kuroneko_Appearance.png/revision/latest?cb=20240414210944"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaWWcxlRz4wHbM_ZoGliMXb7LE18vs8kMZA&s"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0894",
+        "name": "brendan_(pokemon)",
+        "proper_name": "Brendan",
+        "category": "character",
+        "encrypted_count": "fVVubw==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/c/ce/Brendan_Omega_Ruby_and_Alpha_Sapphire_concept_art.png/revision/latest?cb=20160513212418"
+      },
+      "tag2": {
+        "id": "t0859",
+        "name": "spice_and_wolf",
+        "proper_name": "Spice and Wolf",
+        "category": "copyright",
+        "encrypted_count": "elBgbw==",
+        "copyright": "Spice and Wolf",
+        "material": "Light Novel",
+        "image_reference": "https://images.fanart.tv/fanart/spice-and-wolf-576941a008b12.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
+        "category": "character",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
+      },
+      "tag2": {
+        "id": "t0583",
+        "name": "amami_haruka",
+        "proper_name": "Amami Haruka",
+        "category": "character",
+        "encrypted_count": "e1xjbg==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/1/1a/Normal_Haruka_Amami_Mobage_Transparent.png/revision/latest?cb=20180709223230"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0372",
+        "name": "glaceon",
+        "proper_name": "Glaceon",
+        "category": "character",
+        "encrypted_count": "fV1iaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/Glaceon.png/revision/latest?cb=20170422064259"
+      },
+      "tag2": {
+        "id": "t0939",
+        "name": "shenhe_(genshin_impact)",
+        "proper_name": "Shenhe",
+        "category": "character",
+        "encrypted_count": "eFBvaw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/shenhe-character-portrait-genshin-impact-wiki-guide-200px.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0728",
+        "name": "little_witch_academia",
+        "proper_name": "Little Witch Academia",
+        "category": "copyright",
+        "encrypted_count": "eVZhbA==",
+        "copyright": "Little Witch Academia",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/Little_Witch_Academia_Logo.png/revision/latest?cb=20230313220247"
+      },
+      "tag2": {
+        "id": "t0829",
+        "name": "jougasaki_mika",
+        "proper_name": "Jougasaki Mika",
+        "category": "character",
+        "encrypted_count": "elZjbg==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/d/dd/R_Rare_Mika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107024950"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0885",
+        "name": "male_rover_(wuthering_waves)",
+        "proper_name": "Male Rover",
+        "category": "character",
+        "encrypted_count": "fFVvbg==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Rover.(Male).full.3938446.png"
+      },
+      "tag2": {
+        "id": "t0800",
+        "name": "amate_yuzuriha",
+        "proper_name": "Amate Yuzuriha",
+        "category": "character",
+        "encrypted_count": "elZvbQ==",
+        "copyright": "Unknown",
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0621",
+        "name": "caesar_anthonio_zeppeli",
+        "proper_name": "Caesar Anthonio Zeppeli",
+        "category": "character",
+        "encrypted_count": "elxmaw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/2/23/latest/20200616234147/Caesar_Infobox_Anime.png/540px-Caesar_Infobox_Anime.png"
+      },
+      "tag2": {
+        "id": "t0412",
+        "name": "neuvillette_(genshin_impact)",
+        "proper_name": "Neuvillette",
+        "category": "character",
+        "encrypted_count": "fFBnYg==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshinimpact/images/a/ad/Neuvillette_carte.png/revision/latest?cb=20231105142328&path-prefix=fr"
       }
     }
   ]
