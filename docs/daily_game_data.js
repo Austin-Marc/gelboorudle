@@ -1,90 +1,212 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-23T04:27:15.341986+00:00
-// Date: 2025-11-23
+// Generated on: 2025-11-24T04:28:08.877557+00:00
+// Date: 2025-11-24
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-23",
+  "date": "2025-11-24",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0365",
-        "name": "aria_(manga)",
-        "proper_name": "Aria",
+        "id": "t0429",
+        "name": "pokemon_legends:_z-a",
+        "proper_name": "Pok\u00e9mon Legends: Z-A",
         "category": "copyright",
-        "encrypted_count": "fF1kbg==",
-        "copyright": "Aria",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
+        "encrypted_count": "fVdiaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/4/44/Pokemon_Legends_Z-A.png/revision/latest?cb=20240227152222"
       },
       "tag2": {
-        "id": "t0256",
-        "name": "mihono_bourbon_(umamusume)",
-        "proper_name": "Mihono Bourbon",
-        "category": "character",
-        "encrypted_count": "fFFmbw==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Mihono.Bourbon.600.3657614.jpg"
+        "id": "t0157",
+        "name": "my_little_pony:_friendship_is_magic",
+        "proper_name": "My Little Pony: Friendship Is Magic",
+        "category": "copyright",
+        "encrypted_count": "elJhag==",
+        "copyright": "My Little Pony",
+        "material": "TV Show",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg/640px-My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg.png"
       }
     },
     {
       "tag1": {
-        "id": "t0208",
-        "name": "iroha_(blue_archive)",
-        "proper_name": "Iroha",
+        "id": "t0334",
+        "name": "katsushika_hokusai_(fate)",
+        "proper_name": "Katsushika Hokusai",
         "category": "character",
-        "encrypted_count": "fVRgYw==",
+        "encrypted_count": "fFNgbg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/9/90/S198_Stage1.webp/revision/latest?cb=20220911142141"
+      },
+      "tag2": {
+        "id": "t0321",
+        "name": "pokemon_gsc",
+        "proper_name": "Pokemon Gold and Silver",
+        "category": "copyright",
+        "encrypted_count": "elVjag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/4/4f/Pok\u00e9mon_the_Series_Gold_and_Silver_logo.png/240px-Pok\u00e9mon_the_Series_Gold_and_Silver_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
+      },
+      "tag2": {
+        "id": "t0897",
+        "name": "ryougi_shiki",
+        "proper_name": "Ryougi Shiki",
+        "category": "character",
+        "encrypted_count": "fFJgbQ==",
+        "copyright": "Kara no Kyoukai",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/IMG_0883.png/revision/latest?cb=20171124001349&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0919",
+        "name": "disgaea",
+        "proper_name": "Disgaea",
+        "category": "copyright",
+        "encrypted_count": "d1Fgbg==",
+        "copyright": "Disgaea",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/disgaea/images/3/38/Disgaea-logo.jpg/revision/latest?cb=20080820161217&path-prefix=en"
+      },
+      "tag2": {
+        "id": "t0389",
+        "name": "mega_gardevoir",
+        "proper_name": "Mega Gardevoir",
+        "category": "character",
+        "encrypted_count": "fF1iYg==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/66/d5/17/66d517e6be088e8593678091fe19277a.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0820",
+        "name": "kaedehara_kazuha",
+        "proper_name": "Kaedehara Kazuha",
+        "category": "character",
+        "encrypted_count": "fVxjbQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/a/a5/Kazuha_Karte.png/revision/latest?cb=20211123185236&path-prefix=de"
+      },
+      "tag2": {
+        "id": "t0846",
+        "name": "kirigiri_kyoko",
+        "proper_name": "Kirigiri Kyoko",
+        "category": "character",
+        "encrypted_count": "elVgbg==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0036",
+        "name": "usami_sumireko",
+        "proper_name": "Usami Sumireko",
+        "category": "character",
+        "encrypted_count": "fFJnaA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/d/d8/Th145Sumireko.png/revision/latest?cb=20151127030013"
+      },
+      "tag2": {
+        "id": "t0320",
+        "name": "street_fighter_zero_(series)",
+        "proper_name": "Street Fighter Zero Series",
+        "category": "copyright",
+        "encrypted_count": "fVBhaQ==",
+        "copyright": "Street Fighter",
+        "material": "Video Game",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11a10a01-ac23-4fea-ad5a-b51f53084159/d7emmzp-a5fccda0-1e9b-4213-a884-e8393ac4a9de.png/v1/fill/w_800,h_554/street_fighter_zero_logo_by_ringostarr39_d7emmzp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU0IiwicGF0aCI6IlwvZlwvMTFhMTBhMDEtYWMyMy00ZmVhLWFkNWEtYjUxZjUzMDg0MTU5XC9kN2VtbXpwLWE1ZmNjZGEwLTFlOWItNDIxMy1hODg0LWU4MzkzYWM0YTlkZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wiCZfhEIoUu7WURWTrk1j8qIrUtTR7ibA4zBI_z-EcA"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0042",
+        "name": "shiroko_terror_(blue_archive)",
+        "proper_name": "Shiroko Terror",
+        "category": "character",
+        "encrypted_count": "fVdvbg==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/b/bf/Iroha.png?version=03ef775c67f6cd088ca023ceabf87467"
+        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
       },
       "tag2": {
-        "id": "t0511",
-        "name": "gundam_seed",
-        "proper_name": "Gundam Seed",
-        "category": "copyright",
-        "encrypted_count": "dlVkbw==",
-        "copyright": "Mobile Suit Gundam",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
+        "id": "t0485",
+        "name": "oozora_subaru",
+        "proper_name": "Oozora Subaru",
+        "category": "character",
+        "encrypted_count": "eFBibw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/4/49/Oozora_Subaru_Portrait.png/revision/latest?cb=20200622133539"
       }
     },
     {
       "tag1": {
-        "id": "t0447",
-        "name": "toshinou_kyouko",
-        "proper_name": "Toshinou Kyouko",
+        "id": "t0285",
+        "name": "shiratsuyu_(kancolle)",
+        "proper_name": "Shiratsuyu",
         "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "YuruYuri",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
+        "encrypted_count": "fFFubQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Shiratsuyu.(Kantai.Collection).600.4352729.jpg"
       },
       "tag2": {
-        "id": "t0551",
-        "name": "stone_ocean",
-        "proper_name": "Stone Ocean",
-        "category": "copyright",
-        "encrypted_count": "fVZvbA==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/6/6b/latest/20210404125436/Stone_Ocean_Anime_Logo.png"
+        "id": "t0455",
+        "name": "akuma_homura",
+        "proper_name": "Akuma Homura",
+        "category": "character",
+        "encrypted_count": "fFFhbA==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0581",
-        "name": "asuna_(sao)",
-        "proper_name": "Asuna",
-        "category": "character",
-        "encrypted_count": "eVRnYw==",
-        "copyright": "Sword Art Online",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
+        "id": "t0535",
+        "name": "mahou_shoujo_madoka_magica:_hangyaku_no_monogatari",
+        "proper_name": "Mahou Shoujo Madoka Magica: Hangyaku no Monogatari",
+        "category": "copyright",
+        "encrypted_count": "e1Bhaw==",
+        "copyright": "Mahou Shoujo Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://www.animeclick.it/immagini/manga/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari/cover/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari-cover.jpg"
       },
       "tag2": {
+        "id": "t0912",
+        "name": "miorine_rembran",
+        "proper_name": "Miorine Rembran",
+        "category": "character",
+        "encrypted_count": "eFRmYg==",
+        "copyright": "Mobile Suit Gundam: The Witch from Mercury",
+        "material": "Anime",
+        "image_reference": "https://en.gundam.info/about-gundam/series-pages/witch/gwitch/jp/character/2023/05/205_front_2.png"
+      }
+    },
+    {
+      "tag1": {
         "id": "t0070",
         "name": "koshimizu_sachiko",
         "proper_name": "Koshimizu Sachiko",
@@ -93,136 +215,14 @@ const DAILY_GAME_DATA = {
         "copyright": "The Idolmaster",
         "material": "Video Game",
         "image_reference": "https://project-imas.wiki/images/d/d0/Sachiko_SS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0952",
-        "name": "otomune_kozue",
-        "proper_name": "Kozue Otomune",
-        "category": "character",
-        "encrypted_count": "elJvag==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d1/Kozue_Otomune.png/revision/latest/scale-to-width-down/250?cb=20230210134757"
       },
       "tag2": {
-        "id": "t0599",
-        "name": "monster_musume_no_iru_nichijou",
-        "proper_name": "Monster Musume no Iru Nichijou",
-        "category": "copyright",
-        "encrypted_count": "eVBiYg==",
-        "copyright": "Monster Musume no Iru Nichijou",
-        "material": "Anime",
-        "image_reference": "https://image.pngaaa.com/602/2661602-middle.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0688",
-        "name": "formidable_(azur_lane)",
-        "proper_name": "Formidable",
+        "id": "t0575",
+        "name": "nerissa_ravencroft",
+        "proper_name": "Nerissa Ravencroft",
         "category": "character",
-        "encrypted_count": "el1hbA==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/6/69/Formidable.png"
-      },
-      "tag2": {
-        "id": "t0432",
-        "name": "breath_of_fire",
-        "proper_name": "Breath of Fire",
-        "category": "copyright",
-        "encrypted_count": "fVRmbg==",
-        "copyright": "Breath of Fire",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/capcomdatabase/images/4/49/BoF_Logo.png/revision/latest?cb=20140626001848"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0744",
-        "name": "amamiya_ren",
-        "proper_name": "Amamiya Ren",
-        "category": "character",
-        "encrypted_count": "e1Rnbg==",
-        "copyright": "Persona 5",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/5/53/P5D_Ren_Amamiya_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0795",
-        "name": "sanji_(one_piece)",
-        "proper_name": "Sanji",
-        "category": "character",
-        "encrypted_count": "eFJibw==",
-        "copyright": "One Piece",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0178",
-        "name": "tsukishiro_yanagi",
-        "proper_name": "Tsukishiro Yanagi",
-        "category": "character",
-        "encrypted_count": "fFxubg==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
-      },
-      "tag2": {
-        "id": "t0830",
-        "name": "naganami_(kancolle)",
-        "proper_name": "Naganami",
-        "category": "character",
-        "encrypted_count": "fVZgYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Naganami.(Kantai.Collection).full.2266442.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0248",
-        "name": "kanna_kamui",
-        "proper_name": "Kanna Kamui",
-        "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Miss Kobayashi's Dragon Maid",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png"
-      },
-      "tag2": {
-        "id": "t0691",
-        "name": "rover_(wuthering_waves)",
-        "proper_name": "Rover",
-        "category": "character",
-        "encrypted_count": "eldnYw==",
-        "copyright": "Wuthering Waves",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png/revision/latest?cb=20240420140302"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0942",
-        "name": "bb_(fate)",
-        "proper_name": "BB",
-        "category": "character",
-        "encrypted_count": "eFZlYw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.mana.wiki/grandorder/166_BB_1.png"
-      },
-      "tag2": {
-        "id": "t0761",
-        "name": "neru_(blue_archive)",
-        "proper_name": "Neru",
-        "category": "character",
-        "encrypted_count": "elBiaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/2/24/Neru.png?version=d1e9e4657c08a61cae484524da7a2082"
+        "encrypted_count": "e1Zhaw==",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_pr-img_01.png"
       }
     }
   ]
