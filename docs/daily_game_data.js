@@ -1,200 +1,212 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-25T04:19:17.699012+00:00
-// Date: 2025-11-25
+// Generated on: 2025-11-26T04:18:53.912634+00:00
+// Date: 2025-11-26
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-25",
+  "date": "2025-11-26",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0531",
-        "name": "xiao_(genshin_impact)",
-        "proper_name": "Xiao",
+        "id": "t0433",
+        "name": "n_(pokemon)",
+        "proper_name": "N",
         "category": "character",
-        "encrypted_count": "e1FjYw==",
-        "copyright": "Genshin Impact",
+        "encrypted_count": "fF1ibw==",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/01/N_Black_2_and_White_2.png/revision/latest?cb=20220603233630"
       },
       "tag2": {
-        "id": "t0262",
-        "name": "boko_(girls_und_panzer)",
-        "proper_name": "Boko",
-        "category": "character",
-        "encrypted_count": "fFFvYw==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0828",
-        "name": "nonomi_(blue_archive)",
-        "proper_name": "Nonomi",
-        "category": "character",
-        "encrypted_count": "elRnYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait_nonomi.webp"
-      },
-      "tag2": {
-        "id": "t0274",
-        "name": "sayonara_zetsubou_sensei",
-        "proper_name": "Sayonara, Zetsubou-Sensei",
+        "id": "t0081",
+        "name": "final_fantasy_vii_rebirth",
+        "proper_name": "Final Fantasy VII Rebirth",
         "category": "copyright",
-        "encrypted_count": "fVdjYw==",
-        "copyright": "Sayonara, Zetsubou-Sensei",
+        "encrypted_count": "fVxgaQ==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/75/Boxart_for_Final_Fantasy_VII_Rebirth.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0242",
+        "name": "houjou_satoko",
+        "proper_name": "Houjou Satoko",
+        "category": "character",
+        "encrypted_count": "fVdvYw==",
+        "copyright": "Higurashi When They Cry",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikitide.net/whentheycrywiki/1/16/Alc_sa1a_def_a1_2.png?version=412d4aa183c927277ad2171f039940c1"
+      },
+      "tag2": {
+        "id": "t0269",
+        "name": "fushiguro_megumi",
+        "proper_name": "Fushiguro Megumi",
+        "category": "character",
+        "encrypted_count": "elRkaw==",
+        "copyright": "Jujutsu Kaisen",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/71/A_Sayonara_zetsubou_sensei_logo.png/revision/latest?cb=20150308203430"
+        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8d/Megumi_Fushiguro_(Anime).png/revision/latest?cb=20201213115916&path-prefix=pl"
       }
     },
     {
       "tag1": {
-        "id": "t0334",
-        "name": "katsushika_hokusai_(fate)",
-        "proper_name": "Katsushika Hokusai",
+        "id": "t0400",
+        "name": "aigis_(persona)",
+        "proper_name": "Aigis",
         "category": "character",
-        "encrypted_count": "fFNgbg==",
-        "copyright": "Fate Series",
+        "encrypted_count": "fF1hYg==",
+        "copyright": "Persona",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/9/90/S198_Stage1.webp/revision/latest?cb=20220911142141"
+        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
       },
       "tag2": {
-        "id": "t0291",
-        "name": "hilbert_(pokemon)",
-        "proper_name": "Hilbert",
-        "category": "character",
-        "encrypted_count": "fVJubg==",
-        "copyright": "Pokemon",
+        "id": "t0230",
+        "name": "kid_icarus_uprising",
+        "proper_name": "Kid Icarus: Uprising",
+        "category": "copyright",
+        "encrypted_count": "elVvbw==",
+        "copyright": "Kid Icarus: Uprising",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/Spr_Masters_Hilbert.png/800px-Spr_Masters_Hilbert.png"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdlhz0SDnycIXAyHMifpNYjHFY6xq8cTkg2sR9Ff8zE9PQAbqyap13XnTJ0g4_WFdFg8WvA"
       }
     },
     {
       "tag1": {
-        "id": "t0267",
-        "name": "akizuki_ritsuko",
-        "proper_name": "Akizuki Ritsuko",
+        "id": "t0596",
+        "name": "aki_shizuha",
+        "proper_name": "Aki Shizuha",
         "category": "character",
-        "encrypted_count": "fVVvYg==",
-        "copyright": "The iDOLM@STER",
+        "encrypted_count": "elxuYg==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
+        "image_reference": "https://static.wikia.nocookie.net/the-outsider-who-loved-gensokyo/images/3/3b/Shizuha_Smile.png/revision/latest?cb=20190404011450"
       },
       "tag2": {
-        "id": "t0829",
-        "name": "jougasaki_mika",
-        "proper_name": "Jougasaki Mika",
+        "id": "t0337",
+        "name": "kaenbyou_rin_(cat)",
+        "proper_name": "Kaenbyou Rin",
         "category": "character",
-        "encrypted_count": "elZjbg==",
+        "encrypted_count": "fFBlYg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/b/b2/RinSubAni.png/revision/latest/thumbnail/width/360/height/450?cb=20091025143107"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0217",
+        "name": "piplup",
+        "proper_name": "Piplup",
+        "category": "character",
+        "encrypted_count": "fVFmaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork0393_DLPS.png/1200px-Artwork0393_DLPS.png"
+      },
+      "tag2": {
+        "id": "t0020",
+        "name": "hololive_english",
+        "proper_name": "Hololive English",
+        "category": "copyright",
+        "encrypted_count": "d1Vja0Y=",
+        "copyright": "Hololive English",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0435",
+        "name": "akiyama_mizuki",
+        "proper_name": "Akiyama Mizuki",
+        "category": "character",
+        "encrypted_count": "fFdjbQ==",
         "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/d/dd/R_Rare_Mika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107024950"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0898",
-        "name": "chando_(ado)",
-        "proper_name": "Chando",
-        "category": "character",
-        "encrypted_count": "fFBjbg==",
-        "copyright": "Ado",
-        "material": "Music",
-        "image_reference": "https://cdn.donmai.us/original/94/2a/942a7f049d0af9bc21016fe18c7ed8ea.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
       },
       "tag2": {
-        "id": "t0004",
-        "name": "blue_archive",
-        "proper_name": "Blue Archive",
-        "category": "copyright",
-        "encrypted_count": "fVBibUgC",
-        "copyright": "Blue Archive",
+        "id": "t0251",
+        "name": "kicchou_yachie",
+        "proper_name": "Kicchou Yachie",
+        "category": "character",
+        "encrypted_count": "fFFgbg==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
+        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
       }
     },
     {
       "tag1": {
-        "id": "t0103",
-        "name": "barnaby_brooks_jr.",
-        "proper_name": "Barnaby Brooks Jr.",
+        "id": "t0346",
+        "name": "sumino_takumi",
+        "proper_name": "Sumino Takumi",
         "category": "character",
-        "encrypted_count": "fVFnaw==",
-        "copyright": "Tiger & Bunny",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/tigerbunny/images/4/43/TIGERandBUNNY-Barnaby.png/revision/latest?cb=20200501193300"
+        "encrypted_count": "fVxjbQ==",
+        "copyright": "KonoSuba: God's Blessing on This Wonderful World!",
+        "material": "Light Novel",
+        "image_reference": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw2bb73cab/rightstuf/9781975371135_manga-konosuba-gods-blessing-on-this-wonderful-world-fantastic-days-novel-primary.jpg"
       },
       "tag2": {
-        "id": "t0336",
-        "name": "yukine_chris",
-        "proper_name": "Yukine Chris",
+        "id": "t0823",
+        "name": "fire_emblem:_the_binding_blade",
+        "proper_name": "Fire Emblem: The Binding Blade",
+        "category": "copyright",
+        "encrypted_count": "e1VlaA==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0653",
+        "name": "bakugou_katsuki",
+        "proper_name": "Bakugou Katsuki",
         "category": "character",
-        "encrypted_count": "fVVjYw==",
+        "encrypted_count": "eFxjbw==",
+        "copyright": "My Hero Academia",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/02/BakugoMHAVol13.png"
+      },
+      "tag2": {
+        "id": "t0326",
+        "name": "komi-san_wa_komyushou_desu",
+        "proper_name": "Komi-san wa Komyushou desu",
+        "category": "copyright",
+        "encrypted_count": "elJjYw==",
+        "copyright": "Komi Can't Communicate",
+        "material": "Manga",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b1e4199-b81a-493a-b093-54056d1cc96f/deps4ag-0ec5e548-d953-4454-9e31-f07657e6688a.png/v1/fill/w_512,h_512/komi_san_wa__comyushou_desu__folder_icon_by_nocturnexi_deps4ag-fullview.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0426",
+        "name": "avatar_legends",
+        "proper_name": "Avatar Legends",
+        "category": "copyright",
+        "encrypted_count": "elBvaA==",
+        "copyright": "Avatar: The Last Airbender",
+        "material": "Tabletop Game",
+        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
+      },
+      "tag2": {
+        "id": "t0664",
+        "name": "yamashiro_(kancolle)",
+        "proper_name": "Yamashiro",
+        "category": "character",
+        "encrypted_count": "eldjaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/38/28/85/3828856f31e9ce0c92e1bb306bd82d2b.png"
+        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/6186-1139087745.png"
       }
     },
     {
       "tag1": {
-        "id": "t0526",
-        "name": "girls'_frontline_2:_exilium",
-        "proper_name": "Girls' Frontline 2: Exilium",
-        "category": "copyright",
-        "encrypted_count": "e1Jgbg==",
-        "copyright": "Girls' Frontline 2: Exilium",
-        "material": "Video Game",
-        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
-      },
-      "tag2": {
-        "id": "t0601",
-        "name": "midori_(blue_archive)",
-        "proper_name": "Midori",
-        "category": "character",
-        "encrypted_count": "el1jbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/e/ee/Midori.png?version=aec01d62bf6034e8c2582827b8eb2a2c"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0891",
-        "name": "akagi_(azur_lane)",
-        "proper_name": "Akagi",
-        "category": "character",
-        "encrypted_count": "fFBkaw==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
-      },
-      "tag2": {
-        "id": "t0331",
-        "name": "faust_(project_moon)",
-        "proper_name": "Faust",
-        "category": "character",
-        "encrypted_count": "fFNjaw==",
-        "copyright": "Project Moon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/projectmoonwiki/thumb/4/4c/FaustLCB-Profile.png/240px-FaustLCB-Profile.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0086",
-        "name": "final_fantasy_vi",
-        "proper_name": "Final Fantasy VI",
-        "category": "copyright",
-        "encrypted_count": "elxkbw==",
-        "copyright": "Final Fantasy VI",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
-      },
-      "tag2": {
         "id": "t0517",
         "name": "taihou_(azur_lane)",
         "proper_name": "Taihou",
@@ -203,28 +215,16 @@ const DAILY_GAME_DATA = {
         "copyright": "Azur Lane",
         "material": "Video Game",
         "image_reference": "https://azurlane.netojuu.com/images/3/33/Taihou-chan.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0734",
-        "name": "lily_white",
-        "proper_name": "Lily White",
-        "category": "character",
-        "encrypted_count": "elZuYw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fumo-city/images/7/7a/Lilywhitesbf.png/revision/latest?cb=20241003014301"
       },
       "tag2": {
-        "id": "t0429",
-        "name": "pokemon_legends:_z-a",
-        "proper_name": "Pok\u00e9mon Legends: Z-A",
-        "category": "copyright",
-        "encrypted_count": "fVdiaA==",
-        "copyright": "Pok\u00e9mon",
+        "id": "t0961",
+        "name": "ako_(blue_archive)",
+        "proper_name": "Ako",
+        "category": "character",
+        "encrypted_count": "e1xuaA==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/4/44/Pokemon_Legends_Z-A.png/revision/latest?cb=20240227152222"
+        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait_ako.webp"
       }
     }
   ]
