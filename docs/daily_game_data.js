@@ -1,230 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-11-30T04:28:19.476929+00:00
-// Date: 2025-11-30
+// Generated on: 2025-12-01T04:42:42.202789+00:00
+// Date: 2025-12-01
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-11-30",
+  "date": "2025-12-01",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0338",
-        "name": "mayano_top_gun_(umamusume)",
-        "proper_name": "Mayano Top Gun",
+        "id": "t0611",
+        "name": "puzzle_&_dragons",
+        "proper_name": "Puzzle & Dragons",
+        "category": "copyright",
+        "encrypted_count": "e1xuYw==",
+        "copyright": "Puzzle & Dragons",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Main_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20150516042650"
+      },
+      "tag2": {
+        "id": "t0625",
+        "name": "roronoa_zoro",
+        "proper_name": "Roronoa Zoro",
         "category": "character",
-        "encrypted_count": "fFJnaw==",
-        "copyright": "Umamusume: Pretty Derby",
+        "encrypted_count": "eVBgYw==",
+        "copyright": "One Piece",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Mayano.Top.Gun.full.3657606.png"
+        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20141008195159"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0829",
+        "name": "jougasaki_mika",
+        "proper_name": "Jougasaki Mika",
+        "category": "character",
+        "encrypted_count": "elZjbg==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/d/dd/R_Rare_Mika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107024950"
       },
       "tag2": {
-        "id": "t0707",
-        "name": "steel_ball_run",
-        "proper_name": "Steel Ball Run",
+        "id": "t0132",
+        "name": "jeanne_d'arc_alter_(avenger)_(fate)",
+        "proper_name": "Jeanne D'Arc Alter (Avenger)",
+        "category": "character",
+        "encrypted_count": "eVVhaA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/78/AvengerJeanneAlterStage1nb.png/revision/latest?cb=20211001014408&path-prefix=vi"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0534",
+        "name": "kaban_(kemono_friends)",
+        "proper_name": "Kaban",
+        "category": "character",
+        "encrypted_count": "e1dhbg==",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://www.japari-library.com/images/3/3e/KabanS2.png"
+      },
+      "tag2": {
+        "id": "t0732",
+        "name": "made_in_abyss",
+        "proper_name": "Made in Abyss",
         "category": "copyright",
-        "encrypted_count": "eldjYw==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/4/4f/latest/20250412184658/Steel_Ball_Run_Anime_Logo.png?20250412184658"
+        "encrypted_count": "eFVlaQ==",
+        "copyright": "Made in Abyss",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/madeinabyss/images/c/c4/Made-In-Abyss-Logo.png/revision/latest?cb=20170708222105"
       }
     },
     {
       "tag1": {
-        "id": "t0857",
-        "name": "mahjong_soul",
-        "proper_name": "Mahjong Soul",
+        "id": "t0249",
+        "name": "asakura_toru",
+        "proper_name": "Asakura Toru",
+        "category": "character",
+        "encrypted_count": "fVRjYw==",
+        "image_reference": "https://image.shinycolors.wiki/thumb/2/2d/ToruProfile.png/400px-ToruProfile.png"
+      },
+      "tag2": {
+        "id": "t0893",
+        "name": "simon_(ttgl)",
+        "proper_name": "Simon",
+        "category": "character",
+        "encrypted_count": "fFNnbw==",
+        "copyright": "Tengen Toppa Gurren Lagann",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/p__/images/d/d6/Simon_the_Digger_(Post-Timeskip).png/revision/latest?cb=20181004055713&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0102",
+        "name": "shirogane_naoto",
+        "proper_name": "Shirogane Naoto",
+        "category": "character",
+        "encrypted_count": "fVxiYg==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/0/0e/P4A_Naoto.png/revision/latest?cb=20141207153024"
+      },
+      "tag2": {
+        "id": "t0795",
+        "name": "sanji_(one_piece)",
+        "proper_name": "Sanji",
+        "category": "character",
+        "encrypted_count": "eFJibw==",
+        "copyright": "One Piece",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0511",
+        "name": "gundam_seed",
+        "proper_name": "Gundam Seed",
         "category": "copyright",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Mahjong Soul",
-        "material": "Video Game",
-        "image_reference": "https://riichi.wiki/images/Mahjsoullogo.png"
+        "encrypted_count": "dlVkbw==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
       },
       "tag2": {
-        "id": "t0341",
-        "name": "non-human_admiral_(kancolle)",
-        "proper_name": "Non-Human Admiral",
+        "id": "t0463",
+        "name": "aubrey_(faraway)_(omori)",
+        "proper_name": "Aubrey",
         "category": "character",
-        "encrypted_count": "f1FuaA==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fFZubA==",
+        "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/8/88/DW_Aubrey_Fullbody_Profile.png/revision/latest?cb=20221031041200"
       }
     },
     {
       "tag1": {
-        "id": "t0686",
-        "name": "hiei_(kancolle)",
-        "proper_name": "Hiei",
+        "id": "t0128",
+        "name": "omori_(omori)",
+        "proper_name": "Omori",
         "category": "character",
-        "encrypted_count": "elRubQ==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fVRibA==",
+        "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/c/ce/Group_hug_dw.gif/revision/latest?cb=20220217114528&path-prefix=zh"
       },
       "tag2": {
-        "id": "t0356",
-        "name": "sakura_miku",
-        "proper_name": "Sakura Miku",
+        "id": "t0565",
+        "name": "medusa_(fate)",
+        "proper_name": "Medusa",
         "category": "character",
-        "encrypted_count": "fFNnbg==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://pm1.aminoapps.com/6321/de459a5e34e092632072e93c61dc913a84a12e05_hq.jpg"
+        "encrypted_count": "e1BgaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/62/47/c6/6247c687ccb4fa6323b7c16415278027.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0299",
-        "name": "king_halo_(umamusume)",
-        "proper_name": "King Halo",
+        "id": "t0267",
+        "name": "akizuki_ritsuko",
+        "proper_name": "Akizuki Ritsuko",
         "category": "character",
-        "encrypted_count": "fFdhbg==",
-        "copyright": "Uma Musume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/1/1c/Kinghalogame.png/revision/latest/scale-to-width-down/250?cb=20210921101634"
-      },
-      "tag2": {
-        "id": "t0812",
-        "name": "takatsuki_yayoi",
-        "proper_name": "Takatsuki Yayoi",
-        "category": "character",
-        "encrypted_count": "elBhbA==",
+        "encrypted_count": "fVVvYg==",
         "copyright": "The iDOLM@STER",
         "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/e/e1/MASTER_ARTIST_3_10.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0746",
-        "name": "yelan_(genshin_impact)",
-        "proper_name": "Yelan",
-        "category": "character",
-        "encrypted_count": "elJhYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
+        "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
       },
       "tag2": {
-        "id": "t0314",
-        "name": "aotsuki_eito",
-        "proper_name": "Aotsuki Eito",
+        "id": "t0563",
+        "name": "power_(chainsaw_man)",
+        "proper_name": "Power",
         "category": "character",
-        "encrypted_count": "fVNhbg==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/the-hundred-line/images/b/b3/Eito_Fullbody.png/revision/latest?cb=20250114130334"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0938",
-        "name": "phainon_(honkai:_star_rail)",
-        "proper_name": "Phainon",
-        "category": "character",
-        "encrypted_count": "e1Jhbg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Ordain_of_the_Chrysos_Heir_Phainon.png/revision/latest?cb=20241122123229"
-      },
-      "tag2": {
-        "id": "t0253",
-        "name": "beatrice_(umineko)",
-        "proper_name": "Beatrice",
-        "category": "character",
-        "encrypted_count": "fVVnYg==",
-        "copyright": "Umineko no Naku Koro ni",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0901",
-        "name": "inugami_korone",
-        "proper_name": "Inugami Korone",
-        "category": "character",
-        "encrypted_count": "eFdmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c6/Inugami_Korone_Portrait.png/revision/latest?cb=20200609201058"
-      },
-      "tag2": {
-        "id": "t0197",
-        "name": "trafalgar_law",
-        "proper_name": "Trafalgar Law",
-        "category": "character",
-        "encrypted_count": "elxvaA==",
-        "copyright": "One Piece",
+        "encrypted_count": "eFNjYw==",
+        "copyright": "Chainsaw Man",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240109232516&path-prefix=pt"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/60/Power_Infobox.png/revision/latest?cb=20221018191230&path-prefix=protagonist"
       }
     },
     {
       "tag1": {
-        "id": "t0735",
-        "name": "arlecchino_(genshin_impact)",
-        "proper_name": "Arlecchino",
-        "category": "character",
-        "encrypted_count": "elBjag==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gen-impact/images/4/4a/Carta_de_personaje_Arlecchino.png/revision/latest?cb=20240311102048&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0335",
-        "name": "shadow_the_hedgehog",
-        "proper_name": "Shadow the Hedgehog",
-        "category": "character",
-        "encrypted_count": "fVZkaw==",
-        "copyright": "Sonic the Hedgehog",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/sonic/images/4/45/SRCShadow.png/revision/latest/scale-to-width-down/1200?cb=20251008005300"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0888",
-        "name": "lysithea_von_ordelia",
-        "proper_name": "Lysithea von Ordelia",
-        "category": "character",
-        "encrypted_count": "fF1nbA==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://cdn.fireemblemwiki.org/thumb/7/7f/FETH_Lysithea.png/800px-FETH_Lysithea.png"
-      },
-      "tag2": {
-        "id": "t0376",
-        "name": "vivian_banshee",
-        "proper_name": "Vivian Banshee",
-        "category": "character",
-        "encrypted_count": "fFFhaQ==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0858",
-        "name": "yu-gi-oh!_gx",
-        "proper_name": "Yu-Gi-Oh! GX",
+        "id": "t0748",
+        "name": "the_legend_of_zelda:_twilight_princess",
+        "proper_name": "The Legend of Zelda: Twilight Princess",
         "category": "copyright",
-        "encrypted_count": "eFVjbg==",
-        "copyright": "Yu-Gi-Oh!",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ2fSuWXPeQEHgCTFtB4cTeraW2LcY8bBBDNRhjHv6c3LMh1hB"
+        "encrypted_count": "eVVmaA==",
+        "copyright": "The Legend of Zelda",
+        "material": "Video Game",
+        "image_reference": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/c/c3/TP_White_Logo.png/1200px-TP_White_Logo.png"
       },
       "tag2": {
-        "id": "t0916",
-        "name": "tsukino_usagi",
-        "proper_name": "Tsukino Usagi",
+        "id": "t0077",
+        "name": "higashikata_josuke",
+        "proper_name": "Higashikata Josuke",
         "category": "character",
-        "encrypted_count": "dlVkYg==",
-        "copyright": "Sailor Moon",
+        "encrypted_count": "fVdmbg==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0679",
+        "name": "hoshizora_rin",
+        "proper_name": "Hoshizora Rin",
+        "category": "character",
+        "encrypted_count": "eF1jbg==",
+        "copyright": "Love Live!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/e/e1/Usagi_Tsukino_Sailor_Moon_-_Anime.png/revision/latest?cb=20210217021645"
+        "image_reference": "https://static.wikia.nocookie.net/love-live-fanon/images/7/72/LL-SIF-ASA-Rin.png/revision/latest?cb=20240813083711"
+      },
+      "tag2": {
+        "id": "t0092",
+        "name": "eren_yeager",
+        "proper_name": "Eren Yeager",
+        "category": "character",
+        "encrypted_count": "fV1uYw==",
+        "copyright": "Attack on Titan",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
       }
     }
   ]
