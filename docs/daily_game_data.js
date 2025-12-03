@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-02T04:23:23.455211+00:00
-// Date: 2025-12-02
+// Generated on: 2025-12-03T04:21:51.825868+00:00
+// Date: 2025-12-03
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-02",
+  "date": "2025-12-03",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0252",
-        "name": "kochou_shinobu",
-        "proper_name": "Kochou Shinobu",
+        "id": "t0262",
+        "name": "boko_(girls_und_panzer)",
+        "proper_name": "Boko",
         "category": "character",
-        "encrypted_count": "fVNjaA==",
-        "copyright": "Demon Slayer: Kimetsu no Yaiba",
+        "encrypted_count": "fFFvYw==",
+        "copyright": "Girls und Panzer",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png/revision/latest/scale-to-width-down/1200?cb=20211119011810"
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
       },
       "tag2": {
-        "id": "t0412",
-        "name": "neuvillette_(genshin_impact)",
-        "proper_name": "Neuvillette",
+        "id": "t0492",
+        "name": "joseph_joestar_(young)",
+        "proper_name": "Young Joseph Joestar",
         "category": "character",
-        "encrypted_count": "fFBnYg==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshinimpact/images/a/ad/Neuvillette_carte.png/revision/latest?cb=20231105142328&path-prefix=fr"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0548",
-        "name": "phantasy_star",
-        "proper_name": "Phantasy Star",
-        "category": "copyright",
-        "encrypted_count": "eFBgaQ==",
-        "copyright": "Phantasy Star",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
-      },
-      "tag2": {
-        "id": "t0264",
-        "name": "ram_(re:zero)",
-        "proper_name": "Ram",
-        "category": "character",
-        "encrypted_count": "fVBlYg==",
-        "copyright": "Re:Zero",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/rezero/images/e/ee/Ram_-_Re_Zero_Anime_BD_-_6.png/revision/latest?cb=20160914125706"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0642",
-        "name": "bremerton_(azur_lane)",
-        "proper_name": "Bremerton",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/dd/Bremerton.png/1223px-Bremerton.png"
-      },
-      "tag2": {
-        "id": "t0086",
-        "name": "final_fantasy_vi",
-        "proper_name": "Final Fantasy VI",
-        "category": "copyright",
-        "encrypted_count": "elxkbw==",
-        "copyright": "Final Fantasy VI",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0529",
-        "name": "shiina_taki",
-        "proper_name": "Shiina Taki",
-        "category": "character",
-        "encrypted_count": "e1Rvaw==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikitide.net/houkai2ndwiki/thumb/1/12/Shiina_Taki_Awaken.webp/310px-Shiina_Taki_Awaken.webp.png"
-      },
-      "tag2": {
-        "id": "t0419",
-        "name": "dark_souls_i",
-        "proper_name": "Dark Souls I",
-        "category": "copyright",
-        "encrypted_count": "fVVuYg==",
-        "copyright": "Dark Souls",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Dark_Souls_Cover_Art.jpg/250px-Dark_Souls_Cover_Art.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0123",
-        "name": "falin_touden",
-        "proper_name": "Falin Touden",
-        "category": "character",
-        "encrypted_count": "fVBmbA==",
-        "copyright": "Dungeon Meshi",
+        "encrypted_count": "eFViag==",
+        "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
-      },
-      "tag2": {
-        "id": "t0382",
-        "name": "leaf_(pokemon)",
-        "proper_name": "Leaf",
-        "category": "character",
-        "encrypted_count": "fFxjbw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/3/3b/Leaf_RFVF.png"
+        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0463",
-        "name": "aubrey_(faraway)_(omori)",
-        "proper_name": "Aubrey",
+        "id": "t0094",
+        "name": "eila_ilmatar_juutilainen",
+        "proper_name": "Eila Ilmatar Juutilainen",
         "category": "character",
-        "encrypted_count": "fFZubA==",
+        "encrypted_count": "fVxnbA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
+      },
+      "tag2": {
+        "id": "t0635",
+        "name": "houseki_no_kuni",
+        "proper_name": "Houseki no Kuni",
+        "category": "copyright",
+        "encrypted_count": "e1dnaA==",
+        "copyright": "Houseki no Kuni",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Houseki_no_Kuni.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0311",
+        "name": "makaino_ririmu",
+        "proper_name": "Makaino Ririmu",
+        "category": "character",
+        "encrypted_count": "fFxjaA==",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
+      },
+      "tag2": {
+        "id": "t0633",
+        "name": "love_live!_school_idol_festival",
+        "proper_name": "Love Live! School Idol Festival",
+        "category": "copyright",
+        "encrypted_count": "fVZuakg=",
+        "copyright": "Love Live!",
+        "material": "Video Game",
+        "image_reference": "https://www.kindpng.com/picc/m/102-1023896_love-live-school-idol-festival-logo-hd-png.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0284",
+        "name": "yes!_precure_5",
+        "proper_name": "Yes! Precure 5",
+        "category": "copyright",
+        "encrypted_count": "fVFubQ==",
+        "copyright": "Yes! Precure 5",
+        "material": "Anime",
+        "image_reference": "https://static.wikitide.net/precurewikiwiki/e/ef/Yesfiveenglogo.jpg"
+      },
+      "tag2": {
+        "id": "t0557",
+        "name": "oshino_shinobu",
+        "proper_name": "Oshino Shinobu",
+        "category": "character",
+        "encrypted_count": "eF1iag==",
+        "copyright": "Monogatari Series",
+        "material": "Light Novel",
+        "image_reference": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3Tn37nBnU8-trotYrRJ690Z-_yTEtTw_yNP1pGJs0p73coRZz-4LukF74hUjWw40NbbM38KO7_t25vpTE3DmRnuvrwfKfBQ_AKFc8dBytGDN7tSt7s1bfBeU30u6hE1TdETfQZk-HpkZ/s1600/zY7EiHT.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0938",
+        "name": "phainon_(honkai:_star_rail)",
+        "proper_name": "Phainon",
+        "category": "character",
+        "encrypted_count": "e1Jhbg==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Ordain_of_the_Chrysos_Heir_Phainon.png/revision/latest?cb=20241122123229"
+      },
+      "tag2": {
+        "id": "t0523",
+        "name": "angel_beats!",
+        "proper_name": "Angel Beats!",
+        "category": "copyright",
+        "encrypted_count": "eFRlaw==",
+        "copyright": "Angel Beats!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/dc/Angel-Beats!-Logo.png/revision/latest/scale-to-width-down/300?cb=20150404023825"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
+      },
+      "tag2": {
+        "id": "t0669",
+        "name": "guilty_gear_xrd",
+        "proper_name": "Guilty Gear Xrd",
+        "category": "copyright",
+        "encrypted_count": "eFRhaQ==",
+        "copyright": "Guilty Gear",
+        "material": "Video Game",
+        "image_reference": "https://guiltygear.wiki.gg/images/b/b0/Guilty-Gear-Xrd-Sign-logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0686",
+        "name": "hiei_(kancolle)",
+        "proper_name": "Hiei",
+        "category": "character",
+        "encrypted_count": "elRubQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
+      },
+      "tag2": {
+        "id": "t0214",
+        "name": "mari_(omori)",
+        "proper_name": "Mari",
+        "category": "character",
+        "encrypted_count": "fVZubw==",
         "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/8/88/DW_Aubrey_Fullbody_Profile.png/revision/latest?cb=20221031041200"
-      },
-      "tag2": {
-        "id": "t0019",
-        "name": "final_fantasy",
-        "proper_name": "Final Fantasy",
-        "category": "copyright",
-        "encrypted_count": "f1ZnbkcB",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/d/d1/DW_Mari_Fullbody_Profile.png/revision/latest?cb=20221031040609"
       }
     },
     {
       "tag1": {
-        "id": "t0936",
-        "name": "kiana_kaslana",
-        "proper_name": "Kiana Kaslana",
+        "id": "t0647",
+        "name": "marcille_donato",
+        "proper_name": "Marcille Donato",
         "category": "character",
-        "encrypted_count": "e11nbQ==",
-        "copyright": "Honkai Impact",
-        "material": "Video Game",
-        "image_reference": "https://w0.peakpx.com/wallpaper/700/671/HD-wallpaper-kiana-kaslana-anime-honkai-impact-3rd.jpg"
+        "encrypted_count": "e1Rmag==",
+        "copyright": "Dorohedoro",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0958",
-        "name": "steins;gate",
-        "proper_name": "Steins;Gate",
+        "id": "t0855",
+        "name": "sen_no_kiseki_(series)",
+        "proper_name": "Sen no Kiseki Series",
         "category": "copyright",
-        "encrypted_count": "eFxhbA==",
-        "copyright": "Steins;Gate",
-        "material": "Visual Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        "encrypted_count": "elJlbQ==",
+        "copyright": "The Legend of Heroes",
+        "material": "Video Game",
+        "image_reference": "https://image.pngaaa.com/464/4421464-middle.png"
       }
     },
     {
       "tag1": {
-        "id": "t0593",
-        "name": "sukuna_shinmyoumaru",
-        "proper_name": "Sukuna Shinmyoumaru",
+        "id": "t0572",
+        "name": "boo_tao_(genshin_impact)",
+        "proper_name": "Boo Tao",
         "category": "character",
-        "encrypted_count": "elBjaA==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "fFNvaQ==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://wiki.koumakan.jp/images/shinpiroku/6/6b/ShinmyoumaruULiL.png"
+        "image_reference": "https://static.wikia.nocookie.net/1cc980d7-6ee3-4519-aa66-e8a03e842b26"
       },
       "tag2": {
-        "id": "t0770",
-        "name": "idolmaster_side-m",
-        "proper_name": "The Idolmaster SideM",
-        "category": "copyright",
-        "encrypted_count": "elNuaw==",
-        "copyright": "The Idolmaster",
+        "id": "t0062",
+        "name": "yamakaze_(kancolle)",
+        "proper_name": "Yamakaze",
+        "category": "character",
+        "encrypted_count": "fVZubA==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/imas-sidem/images/d/d9/SideM_logo.png/revision/latest?cb=20180618033749"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
       }
     },
     {
       "tag1": {
-        "id": "t0335",
-        "name": "shadow_the_hedgehog",
-        "proper_name": "Shadow the Hedgehog",
+        "id": "t0071",
+        "name": "nicole_demara",
+        "proper_name": "Nicole Demara",
+        "category": "character",
+        "encrypted_count": "fVJibQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
+      },
+      "tag2": {
+        "id": "t0100",
+        "name": "katyusha_(girls_und_panzer)",
+        "proper_name": "Katyusha",
         "category": "character",
         "encrypted_count": "fVZkaw==",
-        "copyright": "Sonic the Hedgehog",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/sonic/images/4/45/SRCShadow.png/revision/latest/scale-to-width-down/1200?cb=20251008005300"
-      },
-      "tag2": {
-        "id": "t0725",
-        "name": "commander_(azur_lane)",
-        "proper_name": "Commander",
-        "category": "character",
-        "encrypted_count": "fFBkYg==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://wiki.wgcdn.co/images/thumb/7/73/Legends_Commander_Full_Azur_Lane_Azuma.png/440px-Legends_Commander_Full_Azur_Lane_Azuma.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0359",
-        "name": "akai_haato",
-        "proper_name": "Akai Haato",
-        "category": "character",
-        "encrypted_count": "fFxmaA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/f/f6/Akai_Haato_-_Nonstop_Story_Full_Illustration.png/640px-Akai_Haato_-_Nonstop_Story_Full_Illustration.png"
-      },
-      "tag2": {
-        "id": "t0404",
-        "name": "higashiyama_kobeni",
-        "proper_name": "Higashiyama Kobeni",
-        "category": "character",
-        "encrypted_count": "fVZlbQ==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/c/ce/Katyusha.png/revision/latest?cb=20170123061132"
       }
     }
   ]
