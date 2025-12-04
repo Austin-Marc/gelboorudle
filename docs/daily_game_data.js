@@ -1,178 +1,190 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-03T04:21:51.825868+00:00
-// Date: 2025-12-03
+// Generated on: 2025-12-04T04:23:21.810919+00:00
+// Date: 2025-12-04
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0262",
-        "name": "boko_(girls_und_panzer)",
-        "proper_name": "Boko",
+        "id": "t0717",
+        "name": "prinz_eugen_(azur_lane)",
+        "proper_name": "Prinz Eugen",
         "category": "character",
-        "encrypted_count": "fFFvYw==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
+        "encrypted_count": "elNnag==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
       },
       "tag2": {
-        "id": "t0492",
-        "name": "joseph_joestar_(young)",
-        "proper_name": "Young Joseph Joestar",
+        "id": "t0947",
+        "name": "midoriya_izuku",
+        "proper_name": "Izuku Midoriya",
         "category": "character",
-        "encrypted_count": "eFViag==",
-        "copyright": "JoJo's Bizarre Adventure",
+        "encrypted_count": "d1ViaQ==",
+        "copyright": "My Hero Academia",
         "material": "Manga",
-        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/db/Izuku_Midoriya_%28My_Hero_Academia_character%29.png"
       }
     },
     {
       "tag1": {
-        "id": "t0094",
-        "name": "eila_ilmatar_juutilainen",
-        "proper_name": "Eila Ilmatar Juutilainen",
+        "id": "t0160",
+        "name": "toga_himiko",
+        "proper_name": "Toga Himiko",
         "category": "character",
-        "encrypted_count": "fVxnbA==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
-      },
-      "tag2": {
-        "id": "t0635",
-        "name": "houseki_no_kuni",
-        "proper_name": "Houseki no Kuni",
-        "category": "copyright",
-        "encrypted_count": "e1dnaA==",
-        "copyright": "Houseki no Kuni",
+        "encrypted_count": "eFJjaQ==",
+        "copyright": "My Hero Academia",
         "material": "Manga",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Houseki_no_Kuni.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0311",
-        "name": "makaino_ririmu",
-        "proper_name": "Makaino Ririmu",
-        "category": "character",
-        "encrypted_count": "fFxjaA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
+        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
       },
       "tag2": {
-        "id": "t0633",
-        "name": "love_live!_school_idol_festival",
-        "proper_name": "Love Live! School Idol Festival",
-        "category": "copyright",
-        "encrypted_count": "fVZuakg=",
-        "copyright": "Love Live!",
+        "id": "t0050",
+        "name": "octoling_girl",
+        "proper_name": "Octoling Girl",
+        "category": "character",
+        "encrypted_count": "fVNhbQ==",
+        "copyright": "Splatoon",
         "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/102-1023896_love-live-school-idol-festival-logo-hd-png.png"
+        "image_reference": "https://static.wikia.nocookie.net/splatoon/images/c/c9/S3_art_3D_Octoling_Hydra_Splatling.png/revision/latest?cb=20221129201234"
       }
     },
     {
       "tag1": {
-        "id": "t0284",
-        "name": "yes!_precure_5",
-        "proper_name": "Yes! Precure 5",
-        "category": "copyright",
-        "encrypted_count": "fVFubQ==",
-        "copyright": "Yes! Precure 5",
-        "material": "Anime",
-        "image_reference": "https://static.wikitide.net/precurewikiwiki/e/ef/Yesfiveenglogo.jpg"
+        "id": "t0792",
+        "name": "kasane_teto_(utau)",
+        "proper_name": "Kasane Teto",
+        "category": "character",
+        "encrypted_count": "fVNubw==",
+        "copyright": "UTAU",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/utau/images/b/b6/Tetostand.png/revision/latest?cb=20221221222057"
       },
       "tag2": {
-        "id": "t0557",
-        "name": "oshino_shinobu",
-        "proper_name": "Oshino Shinobu",
+        "id": "t0645",
+        "name": "momose_ginko",
+        "proper_name": "Momose Ginko",
         "category": "character",
-        "encrypted_count": "eF1iag==",
-        "copyright": "Monogatari Series",
-        "material": "Light Novel",
-        "image_reference": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3Tn37nBnU8-trotYrRJ690Z-_yTEtTw_yNP1pGJs0p73coRZz-4LukF74hUjWw40NbbM38KO7_t25vpTE3DmRnuvrwfKfBQ_AKFc8dBytGDN7tSt7s1bfBeU30u6hE1TdETfQZk-HpkZ/s1600/zY7EiHT.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0938",
-        "name": "phainon_(honkai:_star_rail)",
-        "proper_name": "Phainon",
-        "category": "character",
-        "encrypted_count": "e1Jhbg==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "elRmbg==",
+        "copyright": "Project Sekai",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Ordain_of_the_Chrysos_Heir_Phainon.png/revision/latest?cb=20241122123229"
-      },
-      "tag2": {
-        "id": "t0523",
-        "name": "angel_beats!",
-        "proper_name": "Angel Beats!",
-        "category": "copyright",
-        "encrypted_count": "eFRlaw==",
-        "copyright": "Angel Beats!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/dc/Angel-Beats!-Logo.png/revision/latest/scale-to-width-down/300?cb=20150404023825"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/f4/Ginko_Momose_2024.webp/revision/latest/scale-to-width-down/268?cb=20240520014334&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0904",
-        "name": "to_heart_2",
-        "proper_name": "To Heart 2",
+        "id": "t0154",
+        "name": "stellive",
+        "proper_name": "Stellive",
         "category": "copyright",
-        "encrypted_count": "eFxvYw==",
-        "copyright": "To Heart",
-        "material": "Visual Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
-      },
-      "tag2": {
-        "id": "t0669",
-        "name": "guilty_gear_xrd",
-        "proper_name": "Guilty Gear Xrd",
-        "category": "copyright",
-        "encrypted_count": "eFRhaQ==",
-        "copyright": "Guilty Gear",
+        "encrypted_count": "fVZhbA==",
+        "copyright": "Stellive",
         "material": "Video Game",
-        "image_reference": "https://guiltygear.wiki.gg/images/b/b0/Guilty-Gear-Xrd-Sign-logo.png"
+        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+      },
+      "tag2": {
+        "id": "t0258",
+        "name": "azusa_(blue_archive)",
+        "proper_name": "Azusa",
+        "category": "character",
+        "encrypted_count": "fFxjaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
       }
     },
     {
       "tag1": {
-        "id": "t0686",
-        "name": "hiei_(kancolle)",
-        "proper_name": "Hiei",
+        "id": "t0788",
+        "name": "hiryuu_(kancolle)",
+        "proper_name": "Hiryuu",
         "category": "character",
-        "encrypted_count": "elRubQ==",
+        "encrypted_count": "fVFnaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
+        "image_reference": "https://yksk.kancollewiki.net/w/images/0/05/Ship_Card_Hiryuu_Damaged.png"
       },
       "tag2": {
-        "id": "t0214",
-        "name": "mari_(omori)",
-        "proper_name": "Mari",
+        "id": "t0142",
+        "name": "common_raccoon_(kemono_friends)",
+        "proper_name": "Common Raccoon",
         "category": "character",
-        "encrypted_count": "fVZubw==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/d/d1/DW_Mari_Fullbody_Profile.png/revision/latest?cb=20221031040609"
+        "encrypted_count": "fF1mbQ==",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://s1.zerochan.net/Common.Raccoon.(Kemono.Friends).600.3421032.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0647",
-        "name": "marcille_donato",
-        "proper_name": "Marcille Donato",
+        "id": "t0688",
+        "name": "formidable_(azur_lane)",
+        "proper_name": "Formidable",
         "category": "character",
-        "encrypted_count": "e1Rmag==",
-        "copyright": "Dorohedoro",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
+        "encrypted_count": "el1hbA==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/6/69/Formidable.png"
       },
       "tag2": {
+        "id": "t0887",
+        "name": "shiomi_kotone",
+        "proper_name": "Shiomi Kotone",
+        "category": "character",
+        "encrypted_count": "fFFubQ==",
+        "copyright": "Kagurazaka's Work",
+        "material": "Anime",
+        "image_reference": "https://megatenwiki.com/images/thumb/8/8e/P3P_Kotone_Shiomi_Artwork.png/640px-P3P_Kotone_Shiomi_Artwork.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0150",
+        "name": "rowlet",
+        "proper_name": "Rowlet",
+        "category": "character",
+        "encrypted_count": "fVZmaA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/f/ff/Rowlet.png/revision/latest?cb=20180622184738&path-prefix=pl"
+      },
+      "tag2": {
+        "id": "t0232",
+        "name": "fire_emblem_echoes:_shadows_of_valentia",
+        "proper_name": "Fire Emblem Echoes: Shadows of Valentia",
+        "category": "copyright",
+        "encrypted_count": "fV1jYg==",
+        "copyright": "Fire Emblem Echoes: Shadows of Valentia",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/c/c9/Fire_Emblem_Echoes_logo.png/400px-Fire_Emblem_Echoes_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0193",
+        "name": "omaru_polka",
+        "proper_name": "Omaru Polka",
+        "category": "character",
+        "encrypted_count": "fVRjbQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://www.previewsworld.com/SiteImage/MainImage/STL314355.jpg"
+      },
+      "tag2": {
+        "id": "t0403",
+        "name": "rotom_phone",
+        "proper_name": "Rotom Phone",
+        "category": "character",
+        "encrypted_count": "fFxlbg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/2/23/Rotom_Phone.png/revision/latest/scale-to-width-down/2000?cb=20200627164134"
+      }
+    },
+    {
+      "tag1": {
         "id": "t0855",
         "name": "sen_no_kiseki_(series)",
         "proper_name": "Sen no Kiseki Series",
@@ -181,50 +193,38 @@ const DAILY_GAME_DATA = {
         "copyright": "The Legend of Heroes",
         "material": "Video Game",
         "image_reference": "https://image.pngaaa.com/464/4421464-middle.png"
+      },
+      "tag2": {
+        "id": "t0784",
+        "name": "akamatsu_kaede",
+        "proper_name": "Akamatsu Kaede",
+        "category": "character",
+        "encrypted_count": "eldhYw==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
       }
     },
     {
       "tag1": {
-        "id": "t0572",
-        "name": "boo_tao_(genshin_impact)",
-        "proper_name": "Boo Tao",
+        "id": "t0652",
+        "name": "shirasaka_koume",
+        "proper_name": "Shirasaka Koume",
         "category": "character",
-        "encrypted_count": "fFNvaQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/1cc980d7-6ee3-4519-aa66-e8a03e842b26"
+        "encrypted_count": "e1dkYw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://pm1.narvii.com/6987/a06dfbcbc8f121386f7c8512ba51acd69fa98ac5r1-766-1064v2_hq.jpg"
       },
       "tag2": {
-        "id": "t0062",
-        "name": "yamakaze_(kancolle)",
-        "proper_name": "Yamakaze",
+        "id": "t0205",
+        "name": "uehara_ayumu",
+        "proper_name": "Uehara Ayumu",
         "category": "character",
-        "encrypted_count": "fVZubA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0071",
-        "name": "nicole_demara",
-        "proper_name": "Nicole Demara",
-        "category": "character",
-        "encrypted_count": "fVJibQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
-      },
-      "tag2": {
-        "id": "t0100",
-        "name": "katyusha_(girls_und_panzer)",
-        "proper_name": "Katyusha",
-        "category": "character",
-        "encrypted_count": "fVZkaw==",
-        "copyright": "Girls und Panzer",
+        "encrypted_count": "el1maQ==",
+        "copyright": "Love Live! Series",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/c/ce/Katyusha.png/revision/latest?cb=20170123061132"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
       }
     }
   ]
