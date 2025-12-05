@@ -1,230 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-04T04:23:21.810919+00:00
-// Date: 2025-12-04
+// Generated on: 2025-12-05T04:22:26.573034+00:00
+// Date: 2025-12-05
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0717",
-        "name": "prinz_eugen_(azur_lane)",
-        "proper_name": "Prinz Eugen",
+        "id": "t0620",
+        "name": "yoko_littner",
+        "proper_name": "Yoko Littner",
         "category": "character",
-        "encrypted_count": "elNnag==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
-      },
-      "tag2": {
-        "id": "t0947",
-        "name": "midoriya_izuku",
-        "proper_name": "Izuku Midoriya",
-        "category": "character",
-        "encrypted_count": "d1ViaQ==",
-        "copyright": "My Hero Academia",
-        "material": "Manga",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/db/Izuku_Midoriya_%28My_Hero_Academia_character%29.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0160",
-        "name": "toga_himiko",
-        "proper_name": "Toga Himiko",
-        "category": "character",
-        "encrypted_count": "eFJjaQ==",
-        "copyright": "My Hero Academia",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
-      },
-      "tag2": {
-        "id": "t0050",
-        "name": "octoling_girl",
-        "proper_name": "Octoling Girl",
-        "category": "character",
-        "encrypted_count": "fVNhbQ==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/splatoon/images/c/c9/S3_art_3D_Octoling_Hydra_Splatling.png/revision/latest?cb=20221129201234"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0792",
-        "name": "kasane_teto_(utau)",
-        "proper_name": "Kasane Teto",
-        "category": "character",
-        "encrypted_count": "fVNubw==",
-        "copyright": "UTAU",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/utau/images/b/b6/Tetostand.png/revision/latest?cb=20221221222057"
-      },
-      "tag2": {
-        "id": "t0645",
-        "name": "momose_ginko",
-        "proper_name": "Momose Ginko",
-        "category": "character",
-        "encrypted_count": "elRmbg==",
-        "copyright": "Project Sekai",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/f4/Ginko_Momose_2024.webp/revision/latest/scale-to-width-down/268?cb=20240520014334&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0154",
-        "name": "stellive",
-        "proper_name": "Stellive",
-        "category": "copyright",
-        "encrypted_count": "fVZhbA==",
-        "copyright": "Stellive",
-        "material": "Video Game",
-        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
-      },
-      "tag2": {
-        "id": "t0258",
-        "name": "azusa_(blue_archive)",
-        "proper_name": "Azusa",
-        "category": "character",
-        "encrypted_count": "fFxjaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0788",
-        "name": "hiryuu_(kancolle)",
-        "proper_name": "Hiryuu",
-        "category": "character",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/0/05/Ship_Card_Hiryuu_Damaged.png"
-      },
-      "tag2": {
-        "id": "t0142",
-        "name": "common_raccoon_(kemono_friends)",
-        "proper_name": "Common Raccoon",
-        "category": "character",
-        "encrypted_count": "fF1mbQ==",
-        "copyright": "Kemono Friends",
+        "encrypted_count": "eVdmYg==",
+        "copyright": "Tengen Toppa Gurren Lagann",
         "material": "Anime",
-        "image_reference": "https://s1.zerochan.net/Common.Raccoon.(Kemono.Friends).600.3421032.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/gurennlagann/images/f/f0/Fsfsdddsfds.png/revision/latest?cb=20131209080110"
+      },
+      "tag2": {
+        "id": "t0073",
+        "name": "jonathan_joestar",
+        "proper_name": "Jonathan Joestar",
+        "category": "character",
+        "encrypted_count": "fVFiaw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
       }
     },
     {
       "tag1": {
-        "id": "t0688",
-        "name": "formidable_(azur_lane)",
-        "proper_name": "Formidable",
+        "id": "t0307",
+        "name": "kudamaki_tsukasa",
+        "proper_name": "Kudamaki Tsukasa",
         "category": "character",
-        "encrypted_count": "el1hbA==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/6/69/Formidable.png"
-      },
-      "tag2": {
-        "id": "t0887",
-        "name": "shiomi_kotone",
-        "proper_name": "Shiomi Kotone",
-        "category": "character",
-        "encrypted_count": "fFFubQ==",
-        "copyright": "Kagurazaka's Work",
+        "encrypted_count": "fFBjaA==",
+        "copyright": "D4DJ",
         "material": "Anime",
-        "image_reference": "https://megatenwiki.com/images/thumb/8/8e/P3P_Kotone_Shiomi_Artwork.png/640px-P3P_Kotone_Shiomi_Artwork.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0150",
-        "name": "rowlet",
-        "proper_name": "Rowlet",
-        "category": "character",
-        "encrypted_count": "fVZmaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/f/ff/Rowlet.png/revision/latest?cb=20180622184738&path-prefix=pl"
+        "image_reference": "https://static.zerochan.net/Kudamaki.Tsukasa.full.3320713.jpg"
       },
       "tag2": {
-        "id": "t0232",
-        "name": "fire_emblem_echoes:_shadows_of_valentia",
-        "proper_name": "Fire Emblem Echoes: Shadows of Valentia",
-        "category": "copyright",
-        "encrypted_count": "fV1jYg==",
-        "copyright": "Fire Emblem Echoes: Shadows of Valentia",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/c/c9/Fire_Emblem_Echoes_logo.png/400px-Fire_Emblem_Echoes_logo.png"
+        "id": "t0643",
+        "name": "kosaka_honoka",
+        "proper_name": "Kosaka Honoka",
+        "category": "character",
+        "encrypted_count": "eVVnbA==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaWWcxlRz4wHbM_ZoGliMXb7LE18vs8kMZA&s"
       }
     },
     {
       "tag1": {
-        "id": "t0193",
-        "name": "omaru_polka",
-        "proper_name": "Omaru Polka",
+        "id": "t0957",
+        "name": "clannad",
+        "proper_name": "Clannad",
+        "category": "copyright",
+        "encrypted_count": "eFZgag==",
+        "copyright": "Clannad",
+        "material": "Visual Novel",
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/dedbbd60c592c7adb64f8ef8f0a025dc.png"
+      },
+      "tag2": {
+        "id": "t0167",
+        "name": "arima_kana",
+        "proper_name": "Arima Kana",
         "category": "character",
-        "encrypted_count": "fVRjbQ==",
-        "copyright": "Hololive Production",
+        "encrypted_count": "fVdmbA==",
+        "copyright": "Kagurazaka Kyouka",
+        "material": "Anime",
+        "image_reference": "https://i.pinimg.com/originals/b8/54/67/b854676be50d9e15483c0aac5c85901b.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0823",
+        "name": "fire_emblem:_the_binding_blade",
+        "proper_name": "Fire Emblem: The Binding Blade",
+        "category": "copyright",
+        "encrypted_count": "e1VlaA==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
+      },
+      "tag2": {
+        "id": "t0749",
+        "name": "vshojo",
+        "proper_name": "VShojo",
+        "category": "copyright",
+        "encrypted_count": "e1dubQ==",
+        "copyright": "VShojo",
         "material": "Virtual Youtubers",
-        "image_reference": "https://www.previewsworld.com/SiteImage/MainImage/STL314355.jpg"
-      },
-      "tag2": {
-        "id": "t0403",
-        "name": "rotom_phone",
-        "proper_name": "Rotom Phone",
-        "category": "character",
-        "encrypted_count": "fFxlbg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/2/23/Rotom_Phone.png/revision/latest/scale-to-width-down/2000?cb=20200627164134"
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/7/70/VShojo_Logo.png/revision/latest?cb=20201219084925&path-prefix=id"
       }
     },
     {
       "tag1": {
-        "id": "t0855",
-        "name": "sen_no_kiseki_(series)",
-        "proper_name": "Sen no Kiseki Series",
+        "id": "t0551",
+        "name": "stone_ocean",
+        "proper_name": "Stone Ocean",
         "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "The Legend of Heroes",
-        "material": "Video Game",
-        "image_reference": "https://image.pngaaa.com/464/4421464-middle.png"
+        "encrypted_count": "fVZvbA==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/6/6b/latest/20210404125436/Stone_Ocean_Anime_Logo.png"
       },
       "tag2": {
-        "id": "t0784",
-        "name": "akamatsu_kaede",
-        "proper_name": "Akamatsu Kaede",
-        "category": "character",
-        "encrypted_count": "eldhYw==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
+        "id": "t0187",
+        "name": "pokemon_journeys",
+        "proper_name": "Pok\u00e9mon Journeys",
+        "category": "copyright",
+        "encrypted_count": "elFkaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0652",
-        "name": "shirasaka_koume",
-        "proper_name": "Shirasaka Koume",
+        "id": "t0449",
+        "name": "azki_(hololive)",
+        "proper_name": "AZKi",
         "category": "character",
-        "encrypted_count": "e1dkYw==",
+        "encrypted_count": "fFJnYg==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://pm1.narvii.com/6987/a06dfbcbc8f121386f7c8512ba51acd69fa98ac5r1-766-1064v2_hq.jpg"
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/9/99/AZKi_-_Portrait_02-2-2.png/580px-AZKi_-_Portrait_02-2-2.png"
       },
       "tag2": {
-        "id": "t0205",
-        "name": "uehara_ayumu",
-        "proper_name": "Uehara Ayumu",
+        "id": "t0451",
+        "name": "albedo_(genshin_impact)",
+        "proper_name": "Albedo",
         "category": "character",
-        "encrypted_count": "el1maQ==",
-        "copyright": "Love Live! Series",
+        "encrypted_count": "fFBlaw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest?cb=20210302092013"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0352",
+        "name": "hibiki_(blue_archive)",
+        "proper_name": "Hibiki",
+        "category": "character",
+        "encrypted_count": "fFxibQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/b/bc/Hibiki.png/266px-Hibiki.png"
+      },
+      "tag2": {
+        "id": "t0027",
+        "name": "danganronpa_(series)",
+        "proper_name": "Danganronpa Series",
+        "category": "copyright",
+        "encrypted_count": "eFBlbkY=",
+        "copyright": "Danganronpa Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0896",
+        "name": "fukumaru_koito",
+        "proper_name": "Fukumaru Koito",
+        "category": "character",
+        "encrypted_count": "fFBmaA==",
+        "copyright": "IdolMaster Shiny Colors",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
+        "image_reference": "https://image.shinycolors.wiki/8/85/KoitoProfile.png"
+      },
+      "tag2": {
+        "id": "t0054",
+        "name": "fate/hollow_ataraxia",
+        "proper_name": "Fate/hollow ataraxia",
+        "category": "copyright",
+        "encrypted_count": "fVxnbQ==",
+        "copyright": "Fate Series",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fate_hollow_ataraxia_game_DVD_cover.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0729",
+        "name": "dungeon_and_fighter",
+        "proper_name": "Dungeon and Fighter",
+        "category": "copyright",
+        "encrypted_count": "e1NnaA==",
+        "copyright": "Dungeon and Fighter",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/32/Dfo_new_logo.jpg"
+      },
+      "tag2": {
+        "id": "t0042",
+        "name": "shiroko_terror_(blue_archive)",
+        "proper_name": "Shiroko Terror",
+        "category": "character",
+        "encrypted_count": "fVdvbg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0444",
+        "name": "akagi_miria",
+        "proper_name": "Akagi Miria",
+        "category": "character",
+        "encrypted_count": "fVRjaw==",
+        "image_reference": "https://static.wikia.nocookie.net/deresute/images/1/12/Miria_N.jpg/revision/latest?cb=20160919163515&path-prefix=it"
+      },
+      "tag2": {
+        "id": "t0564",
+        "name": "mario",
+        "proper_name": "Mario",
+        "category": "character",
+        "encrypted_count": "dlBmag==",
+        "copyright": "Mario",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/it/5/50/Mario_Nintendo.png"
       }
     }
   ]
