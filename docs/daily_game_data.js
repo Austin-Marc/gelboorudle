@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-05T04:22:26.573034+00:00
-// Date: 2025-12-05
+// Generated on: 2025-12-06T04:14:53.130648+00:00
+// Date: 2025-12-06
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-05",
+  "date": "2025-12-06",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0620",
-        "name": "yoko_littner",
-        "proper_name": "Yoko Littner",
-        "category": "character",
-        "encrypted_count": "eVdmYg==",
-        "copyright": "Tengen Toppa Gurren Lagann",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gurennlagann/images/f/f0/Fsfsdddsfds.png/revision/latest?cb=20131209080110"
-      },
-      "tag2": {
-        "id": "t0073",
-        "name": "jonathan_joestar",
-        "proper_name": "Jonathan Joestar",
-        "category": "character",
-        "encrypted_count": "fVFiaw==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0307",
-        "name": "kudamaki_tsukasa",
-        "proper_name": "Kudamaki Tsukasa",
-        "category": "character",
-        "encrypted_count": "fFBjaA==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Kudamaki.Tsukasa.full.3320713.jpg"
-      },
-      "tag2": {
-        "id": "t0643",
-        "name": "kosaka_honoka",
-        "proper_name": "Kosaka Honoka",
-        "category": "character",
-        "encrypted_count": "eVVnbA==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaWWcxlRz4wHbM_ZoGliMXb7LE18vs8kMZA&s"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0957",
-        "name": "clannad",
-        "proper_name": "Clannad",
+        "id": "t0751",
+        "name": "pokemon_(classic_anime)",
+        "proper_name": "Pok\u00e9mon (Classic Anime)",
         "category": "copyright",
-        "encrypted_count": "eFZgag==",
-        "copyright": "Clannad",
-        "material": "Visual Novel",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/dedbbd60c592c7adb64f8ef8f0a025dc.png"
-      },
-      "tag2": {
-        "id": "t0167",
-        "name": "arima_kana",
-        "proper_name": "Arima Kana",
-        "category": "character",
-        "encrypted_count": "fVdmbA==",
-        "copyright": "Kagurazaka Kyouka",
-        "material": "Anime",
-        "image_reference": "https://i.pinimg.com/originals/b8/54/67/b854676be50d9e15483c0aac5c85901b.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0823",
-        "name": "fire_emblem:_the_binding_blade",
-        "proper_name": "Fire Emblem: The Binding Blade",
-        "category": "copyright",
-        "encrypted_count": "e1VlaA==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
-      },
-      "tag2": {
-        "id": "t0749",
-        "name": "vshojo",
-        "proper_name": "VShojo",
-        "category": "copyright",
-        "encrypted_count": "e1dubQ==",
-        "copyright": "VShojo",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/7/70/VShojo_Logo.png/revision/latest?cb=20201219084925&path-prefix=id"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0551",
-        "name": "stone_ocean",
-        "proper_name": "Stone Ocean",
-        "category": "copyright",
-        "encrypted_count": "fVZvbA==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/6/6b/latest/20210404125436/Stone_Ocean_Anime_Logo.png"
-      },
-      "tag2": {
-        "id": "t0187",
-        "name": "pokemon_journeys",
-        "proper_name": "Pok\u00e9mon Journeys",
-        "category": "copyright",
-        "encrypted_count": "elFkaA==",
+        "encrypted_count": "d1NuaA==",
         "copyright": "Pok\u00e9mon",
         "material": "Anime",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
+        "image_reference": "https://i.redd.it/m5jdk1ymvre31.png"
+      },
+      "tag2": {
+        "id": "t0117",
+        "name": "pokemon_rgby",
+        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
+        "category": "copyright",
+        "encrypted_count": "e11mYg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0449",
-        "name": "azki_(hololive)",
-        "proper_name": "AZKi",
+        "id": "t0455",
+        "name": "akuma_homura",
+        "proper_name": "Akuma Homura",
         "category": "character",
-        "encrypted_count": "fFJnYg==",
+        "encrypted_count": "fFFhbA==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
+      },
+      "tag2": {
+        "id": "t0768",
+        "name": "taimanin_(series)",
+        "proper_name": "Taimanin Series",
+        "category": "copyright",
+        "encrypted_count": "fVNjYkk=",
+        "copyright": "Taimanin Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/anime/images/8/80/TA-logo.png/revision/latest?cb=20240303183926&path-prefix=pt-br"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0010",
+        "name": "arknights",
+        "proper_name": "Arknights",
+        "category": "copyright",
+        "encrypted_count": "f1NnaEMG",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Arknights_English_Release_Logo.svg/2560px-Arknights_English_Release_Logo.svg.png"
+      },
+      "tag2": {
+        "id": "t0925",
+        "name": "hiiragi_kagami",
+        "proper_name": "Hiiragi Kagami",
+        "category": "character",
+        "encrypted_count": "eVBnYg==",
+        "copyright": "Lucky Star",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/c/c9/Kagami-san.gif/revision/latest?cb=20120723133124"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0317",
+        "name": "shining_nikki",
+        "proper_name": "Shining Nikki",
+        "category": "copyright",
+        "encrypted_count": "fFNgbw==",
+        "copyright": "Shining Nikki",
+        "material": "Mobile Game",
+        "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
+      },
+      "tag2": {
+        "id": "t0190",
+        "name": "shin_megami_tensei",
+        "proper_name": "Shin Megami Tensei",
+        "category": "copyright",
+        "encrypted_count": "eVZvbw==",
+        "copyright": "Shin Megami Tensei",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/6/66/Shin_Megami_Tensei_logo.svg/800px-Shin_Megami_Tensei_logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0055",
+        "name": "fate/prototype",
+        "proper_name": "Fate/prototype",
+        "category": "copyright",
+        "encrypted_count": "elVnaA==",
+        "copyright": "Fate Series",
+        "material": "Light Novel",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0077",
+        "name": "higashikata_josuke",
+        "proper_name": "Higashikata Josuke",
+        "category": "character",
+        "encrypted_count": "fVdmbg==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0525",
+        "name": "darling_in_the_franxx",
+        "proper_name": "Darling in the Franxx",
+        "category": "copyright",
+        "encrypted_count": "eV1iYw==",
+        "copyright": "Darling in the Franxx",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/fr/8/85/Darling_in_the_Franxx_Logo.png"
+      },
+      "tag2": {
+        "id": "t0346",
+        "name": "sumino_takumi",
+        "proper_name": "Sumino Takumi",
+        "category": "character",
+        "encrypted_count": "fVxjbQ==",
+        "copyright": "KonoSuba: God's Blessing on This Wonderful World!",
+        "material": "Light Novel",
+        "image_reference": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw2bb73cab/rightstuf/9781975371135_manga-konosuba-gods-blessing-on-this-wonderful-world-fantastic-days-novel-primary.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0110",
+        "name": "itadori_yuuji",
+        "proper_name": "Itadori Yuuji",
+        "category": "character",
+        "encrypted_count": "fVJvaw==",
+        "copyright": "Jujutsu Kaisen",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/66/Yuji_Itadori_-_Anime.jpg/revision/latest?cb=20201031200040&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0069",
+        "name": "hiiragi_tsukasa",
+        "proper_name": "Hiiragi Tsukasa",
+        "category": "character",
+        "encrypted_count": "elVgYw==",
+        "copyright": "Lucky Star",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/9/92/Tsukasa-san.gif/revision/latest?cb=20120723133432"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0116",
+        "name": "shadowverse",
+        "proper_name": "Shadowverse",
+        "category": "copyright",
+        "encrypted_count": "fVFmag==",
+        "copyright": "Shadowverse",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/shadowverse/images/f/f9/Top_key_logo.png/revision/latest?cb=20161011045849"
+      },
+      "tag2": {
+        "id": "t0737",
+        "name": "uruha_rushia",
+        "proper_name": "Uruha Rushia",
+        "category": "character",
+        "encrypted_count": "elFgbA==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/9/99/AZKi_-_Portrait_02-2-2.png/580px-AZKi_-_Portrait_02-2-2.png"
-      },
-      "tag2": {
-        "id": "t0451",
-        "name": "albedo_(genshin_impact)",
-        "proper_name": "Albedo",
-        "category": "character",
-        "encrypted_count": "fFBlaw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest?cb=20210302092013"
+        "image_reference": "https://static.wikitide.net/hololivewiki/b/be/Uruha_Rushia_-_Portrait_3D_01-1.png"
       }
     },
     {
       "tag1": {
-        "id": "t0352",
-        "name": "hibiki_(blue_archive)",
-        "proper_name": "Hibiki",
-        "category": "character",
-        "encrypted_count": "fFxibQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/b/bc/Hibiki.png/266px-Hibiki.png"
-      },
-      "tag2": {
-        "id": "t0027",
-        "name": "danganronpa_(series)",
-        "proper_name": "Danganronpa Series",
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
         "category": "copyright",
-        "encrypted_count": "eFBlbkY=",
-        "copyright": "Danganronpa Series",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
+      },
+      "tag2": {
+        "id": "t0689",
+        "name": "edelgard_von_hresvelg",
+        "proper_name": "Edelgard von Hresvelg",
+        "category": "character",
+        "encrypted_count": "e1Fgbw==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/09/Edelgard_Portr\u00e4t.png/revision/latest?cb=20201210092653&path-prefix=de"
       }
     },
     {
       "tag1": {
-        "id": "t0896",
-        "name": "fukumaru_koito",
-        "proper_name": "Fukumaru Koito",
+        "id": "t0674",
+        "name": "iowa_(kancolle)",
+        "proper_name": "Iowa",
         "category": "character",
-        "encrypted_count": "fFBmaA==",
-        "copyright": "IdolMaster Shiny Colors",
-        "material": "Anime",
-        "image_reference": "https://image.shinycolors.wiki/8/85/KoitoProfile.png"
+        "encrypted_count": "elNnbw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/a/a5/Iowa_Full.png/revision/latest?cb=20180817192145"
       },
       "tag2": {
-        "id": "t0054",
-        "name": "fate/hollow_ataraxia",
-        "proper_name": "Fate/hollow ataraxia",
-        "category": "copyright",
-        "encrypted_count": "fVxnbQ==",
-        "copyright": "Fate Series",
-        "material": "Visual Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fate_hollow_ataraxia_game_DVD_cover.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0729",
-        "name": "dungeon_and_fighter",
-        "proper_name": "Dungeon and Fighter",
-        "category": "copyright",
-        "encrypted_count": "e1NnaA==",
-        "copyright": "Dungeon and Fighter",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/32/Dfo_new_logo.jpg"
-      },
-      "tag2": {
-        "id": "t0042",
-        "name": "shiroko_terror_(blue_archive)",
-        "proper_name": "Shiroko Terror",
+        "id": "t0898",
+        "name": "chando_(ado)",
+        "proper_name": "Chando",
         "category": "character",
-        "encrypted_count": "fVdvbg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0444",
-        "name": "akagi_miria",
-        "proper_name": "Akagi Miria",
-        "category": "character",
-        "encrypted_count": "fVRjaw==",
-        "image_reference": "https://static.wikia.nocookie.net/deresute/images/1/12/Miria_N.jpg/revision/latest?cb=20160919163515&path-prefix=it"
-      },
-      "tag2": {
-        "id": "t0564",
-        "name": "mario",
-        "proper_name": "Mario",
-        "category": "character",
-        "encrypted_count": "dlBmag==",
-        "copyright": "Mario",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/it/5/50/Mario_Nintendo.png"
+        "encrypted_count": "fFBjbg==",
+        "copyright": "Ado",
+        "material": "Music",
+        "image_reference": "https://cdn.donmai.us/original/94/2a/942a7f049d0af9bc21016fe18c7ed8ea.jpg"
       }
     }
   ]
