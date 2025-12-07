@@ -1,230 +1,226 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-06T04:14:53.130648+00:00
-// Date: 2025-12-06
+// Generated on: 2025-12-07T04:27:13.702749+00:00
+// Date: 2025-12-07
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-06",
+  "date": "2025-12-07",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0751",
-        "name": "pokemon_(classic_anime)",
-        "proper_name": "Pok\u00e9mon (Classic Anime)",
-        "category": "copyright",
-        "encrypted_count": "d1NuaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://i.redd.it/m5jdk1ymvre31.png"
-      },
-      "tag2": {
-        "id": "t0117",
-        "name": "pokemon_rgby",
-        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
-        "category": "copyright",
-        "encrypted_count": "e11mYg==",
-        "copyright": "Pok\u00e9mon",
+        "id": "t0128",
+        "name": "omori_(omori)",
+        "proper_name": "Omori",
+        "category": "character",
+        "encrypted_count": "fVRibA==",
+        "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0455",
-        "name": "akuma_homura",
-        "proper_name": "Akuma Homura",
-        "category": "character",
-        "encrypted_count": "fFFhbA==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/c/ce/Group_hug_dw.gif/revision/latest?cb=20220217114528&path-prefix=zh"
       },
       "tag2": {
-        "id": "t0768",
-        "name": "taimanin_(series)",
-        "proper_name": "Taimanin Series",
-        "category": "copyright",
-        "encrypted_count": "fVNjYkk=",
-        "copyright": "Taimanin Series",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/anime/images/8/80/TA-logo.png/revision/latest?cb=20240303183926&path-prefix=pt-br"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0010",
-        "name": "arknights",
-        "proper_name": "Arknights",
-        "category": "copyright",
-        "encrypted_count": "f1NnaEMG",
-        "copyright": "Arknights",
+        "id": "t0891",
+        "name": "akagi_(azur_lane)",
+        "proper_name": "Akagi",
+        "category": "character",
+        "encrypted_count": "fFBkaw==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Arknights_English_Release_Logo.svg/2560px-Arknights_English_Release_Logo.svg.png"
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0316",
+        "name": "final_fantasy_viii",
+        "proper_name": "Final Fantasy VIII",
+        "category": "copyright",
+        "encrypted_count": "fVNgaw==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://cdn.finalfantasywiki.com/b/b4/FFVIII_logo.jpg"
       },
       "tag2": {
-        "id": "t0925",
-        "name": "hiiragi_kagami",
-        "proper_name": "Hiiragi Kagami",
-        "category": "character",
-        "encrypted_count": "eVBnYg==",
-        "copyright": "Lucky Star",
+        "id": "t0546",
+        "name": "queen's_blade",
+        "proper_name": "Queen's Blade",
+        "category": "copyright",
+        "encrypted_count": "f1Bna0M=",
+        "copyright": "Queen's Blade",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/c/c9/Kagami-san.gif/revision/latest?cb=20120723133124"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
       }
     },
     {
       "tag1": {
-        "id": "t0317",
-        "name": "shining_nikki",
-        "proper_name": "Shining Nikki",
-        "category": "copyright",
-        "encrypted_count": "fFNgbw==",
-        "copyright": "Shining Nikki",
-        "material": "Mobile Game",
-        "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
-      },
-      "tag2": {
-        "id": "t0190",
-        "name": "shin_megami_tensei",
-        "proper_name": "Shin Megami Tensei",
-        "category": "copyright",
-        "encrypted_count": "eVZvbw==",
-        "copyright": "Shin Megami Tensei",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/6/66/Shin_Megami_Tensei_logo.svg/800px-Shin_Megami_Tensei_logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0055",
-        "name": "fate/prototype",
-        "proper_name": "Fate/prototype",
-        "category": "copyright",
-        "encrypted_count": "elVnaA==",
-        "copyright": "Fate Series",
-        "material": "Light Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-      },
-      "tag2": {
-        "id": "t0077",
-        "name": "higashikata_josuke",
-        "proper_name": "Higashikata Josuke",
+        "id": "t0836",
+        "name": "ump45_(girls'_frontline)",
+        "proper_name": "UMP45",
         "category": "character",
-        "encrypted_count": "fVdmbg==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0525",
-        "name": "darling_in_the_franxx",
-        "proper_name": "Darling in the Franxx",
+        "encrypted_count": "fV1kbA==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omniversal-battlefield/images/2/2d/Ump45.png/revision/latest?cb=20200608224228"
+      },
+      "tag2": {
+        "id": "t0822",
+        "name": "gundam_build_fighters",
+        "proper_name": "Gundam Build Fighters",
         "category": "copyright",
-        "encrypted_count": "eV1iYw==",
-        "copyright": "Darling in the Franxx",
+        "encrypted_count": "eVdlaw==",
+        "copyright": "Gundam",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/fr/8/85/Darling_in_the_Franxx_Logo.png"
-      },
-      "tag2": {
-        "id": "t0346",
-        "name": "sumino_takumi",
-        "proper_name": "Sumino Takumi",
-        "category": "character",
-        "encrypted_count": "fVxjbQ==",
-        "copyright": "KonoSuba: God's Blessing on This Wonderful World!",
-        "material": "Light Novel",
-        "image_reference": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw2bb73cab/rightstuf/9781975371135_manga-konosuba-gods-blessing-on-this-wonderful-world-fantastic-days-novel-primary.jpg"
+        "image_reference": "https://en.gundam.info/series/buildfighters/wp-content/themes/series/images/buildfighters/logo_en.png"
       }
     },
     {
       "tag1": {
-        "id": "t0110",
-        "name": "itadori_yuuji",
-        "proper_name": "Itadori Yuuji",
-        "category": "character",
-        "encrypted_count": "fVJvaw==",
-        "copyright": "Jujutsu Kaisen",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/66/Yuji_Itadori_-_Anime.jpg/revision/latest?cb=20201031200040&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0069",
-        "name": "hiiragi_tsukasa",
-        "proper_name": "Hiiragi Tsukasa",
-        "category": "character",
-        "encrypted_count": "elVgYw==",
-        "copyright": "Lucky Star",
+        "id": "t0025",
+        "name": "girls_und_panzer",
+        "proper_name": "Girls und Panzer",
+        "category": "copyright",
+        "encrypted_count": "eVFuY0g=",
+        "copyright": "Girls und Panzer",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/9/92/Tsukasa-san.gif/revision/latest?cb=20120723133432"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0116",
-        "name": "shadowverse",
-        "proper_name": "Shadowverse",
-        "category": "copyright",
-        "encrypted_count": "fVFmag==",
-        "copyright": "Shadowverse",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/shadowverse/images/f/f9/Top_key_logo.png/revision/latest?cb=20161011045849"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/f0/Girls_und_Panzer_TV_key_visual.png"
       },
       "tag2": {
-        "id": "t0737",
-        "name": "uruha_rushia",
-        "proper_name": "Uruha Rushia",
-        "category": "character",
-        "encrypted_count": "elFgbA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/b/be/Uruha_Rushia_-_Portrait_3D_01-1.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0428",
-        "name": "girls'_frontline_neural_cloud",
-        "proper_name": "Girls' Frontline: Neural Cloud",
+        "id": "t0002",
+        "name": "kantai_collection",
+        "proper_name": "Kantai Collection",
         "category": "copyright",
-        "encrypted_count": "fFJhbQ==",
-        "copyright": "Girls' Frontline: Neural Cloud",
-        "material": "Video Game",
-        "image_reference": "https://uspto.report/TM/98035315/mark.png"
-      },
-      "tag2": {
-        "id": "t0689",
-        "name": "edelgard_von_hresvelg",
-        "proper_name": "Edelgard von Hresvelg",
-        "category": "character",
-        "encrypted_count": "e1Fgbw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/09/Edelgard_Portr\u00e4t.png/revision/latest?cb=20201210092653&path-prefix=de"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0674",
-        "name": "iowa_(kancolle)",
-        "proper_name": "Iowa",
-        "category": "character",
-        "encrypted_count": "elNnbw==",
+        "encrypted_count": "el1lbkYH",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/a/a5/Iowa_Full.png/revision/latest?cb=20180817192145"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/02/Kantai_Collection_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0800",
+        "name": "amate_yuzuriha",
+        "proper_name": "Amate Yuzuriha",
+        "category": "character",
+        "encrypted_count": "elZvbQ==",
+        "copyright": "Unknown",
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
       },
       "tag2": {
-        "id": "t0898",
-        "name": "chando_(ado)",
-        "proper_name": "Chando",
+        "id": "t0819",
+        "name": "kujo_jolyne",
+        "proper_name": "Kujo Jolyne",
         "category": "character",
-        "encrypted_count": "fFBjbg==",
-        "copyright": "Ado",
-        "material": "Music",
-        "image_reference": "https://cdn.donmai.us/original/94/2a/942a7f049d0af9bc21016fe18c7ed8ea.jpg"
+        "encrypted_count": "f1Njag==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/7/74/latest/20210409215727/Jolyne_ASB.png/800px-Jolyne_ASB.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0249",
+        "name": "asakura_toru",
+        "proper_name": "Asakura Toru",
+        "category": "character",
+        "encrypted_count": "fVRjYw==",
+        "image_reference": "https://image.shinycolors.wiki/thumb/2/2d/ToruProfile.png/400px-ToruProfile.png"
+      },
+      "tag2": {
+        "id": "t0073",
+        "name": "jonathan_joestar",
+        "proper_name": "Jonathan Joestar",
+        "category": "character",
+        "encrypted_count": "fVFiaw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0569",
+        "name": "holostars",
+        "proper_name": "Holostars",
+        "category": "copyright",
+        "encrypted_count": "e1diaQ==",
+        "copyright": "Hololive Production",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/b/bb/Logo_-_Holostars.png/799px-Logo_-_Holostars.png?20200525222120"
+      },
+      "tag2": {
+        "id": "t0600",
+        "name": "hecatia_lapislazuli",
+        "proper_name": "Hecatia Lapislazuli",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0477",
+        "name": "mushoku_tensei",
+        "proper_name": "Mushoku Tensei",
+        "category": "copyright",
+        "encrypted_count": "d1VuYg==",
+        "copyright": "Mushoku Tensei",
+        "material": "Light Novel",
+        "image_reference": "https://skitsub.com/style/img/contant/mushoku-tensei/mushokutenseilogo.jpg"
+      },
+      "tag2": {
+        "id": "t0935",
+        "name": "noa_(blue_archive)",
+        "proper_name": "Noa",
+        "category": "character",
+        "encrypted_count": "eFRgaQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Noa_Portrait.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0531",
+        "name": "xiao_(genshin_impact)",
+        "proper_name": "Xiao",
+        "category": "character",
+        "encrypted_count": "e1FjYw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
+      },
+      "tag2": {
+        "id": "t0636",
+        "name": "puyopuyo",
+        "proper_name": "Puyo Puyo",
+        "category": "copyright",
+        "encrypted_count": "eFJgbA==",
+        "copyright": "Puyo Puyo",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/fantendo/images/0/08/Puyo_Puyo_logo.png/revision/latest?cb=20171226110616"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0622",
+        "name": "cammy_white",
+        "proper_name": "Cammy White",
+        "category": "character",
+        "encrypted_count": "d1JjbQ==",
+        "copyright": "Street Fighter",
+        "material": "Video Game",
+        "image_reference": "https://www.writeups.org/wp-content/uploads/Cammy-Street-Fighters-h61-big.jpg"
+      },
+      "tag2": {
+        "id": "t0302",
+        "name": "citlali_(genshin_impact)",
+        "proper_name": "Citlali",
+        "category": "character",
+        "encrypted_count": "fFxjaw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Citlali.full.4224518.jpg"
       }
     }
   ]
