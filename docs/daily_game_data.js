@@ -1,205 +1,32 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-08T04:27:13.717167+00:00
-// Date: 2025-12-08
+// Generated on: 2025-12-09T04:21:57.234916+00:00
+// Date: 2025-12-09
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-08",
+  "date": "2025-12-09",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0382",
-        "name": "leaf_(pokemon)",
-        "proper_name": "Leaf",
+        "id": "t0145",
+        "name": "lize_helesta",
+        "proper_name": "Lize Helesta",
         "category": "character",
-        "encrypted_count": "fFxjbw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/3/3b/Leaf_RFVF.png"
+        "encrypted_count": "fVdvaw==",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/1/13/Lize_Helesta_Portrait.png/revision/latest?cb=20210327042159"
       },
       "tag2": {
-        "id": "t0422",
-        "name": "ultra_series",
-        "proper_name": "Ultra Series",
-        "category": "copyright",
-        "encrypted_count": "fVViYw==",
-        "copyright": "Ultraman",
-        "material": "TV Show",
-        "image_reference": "https://static.wikia.nocookie.net/ultramananthology/images/7/7a/Ultraman_Series_Official_Logo.png/revision/latest?cb=20210118211502"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0824",
-        "name": "hellaverse",
-        "proper_name": "Hellaverse",
-        "category": "copyright",
-        "encrypted_count": "elVlbg==",
-        "copyright": "Hellaverse",
-        "image_reference": "https://d1m9vqlvl3fy94.cloudfront.net/project/attachment/287217/947776hellaverselogo.jpg"
-      },
-      "tag2": {
-        "id": "t0854",
-        "name": "path_to_nowhere",
-        "proper_name": "Path to Nowhere",
-        "category": "copyright",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Path to Nowhere",
-        "material": "Video Game",
-        "image_reference": "https://static.jojowiki.com/images/archive/f/f2/20240126233527!Path_to_Nowhere_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0137",
-        "name": "bea_(pokemon)",
-        "proper_name": "Bea",
+        "id": "t0300",
+        "name": "urakaze_(kancolle)",
+        "proper_name": "Urakaze",
         "category": "character",
-        "encrypted_count": "elJhaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/6b/7e/37/6b7e3723b7b1f832563928a9e4b4f65c.png"
-      },
-      "tag2": {
-        "id": "t0812",
-        "name": "takatsuki_yayoi",
-        "proper_name": "Takatsuki Yayoi",
-        "category": "character",
-        "encrypted_count": "elBhbA==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/e/e1/MASTER_ARTIST_3_10.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0832",
-        "name": "giorno_giovanna",
-        "proper_name": "Giorno Giovanna",
-        "category": "character",
-        "encrypted_count": "fV1hag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/4/4a/latest/20210422070411/Giorno_Giovanna_Infobox_Anime.png/400px-Giorno_Giovanna_Infobox_Anime.png"
-      },
-      "tag2": {
-        "id": "t0479",
-        "name": "northern_ocean_princess",
-        "proper_name": "Northern Ocean Princess",
-        "category": "character",
-        "encrypted_count": "eFZlag==",
-        "image_reference": "https://cdn.donmai.us/original/5c/b6/5cb6821d322f01d1e28cef2b4f00f740.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0753",
-        "name": "mega_man_(classic)",
-        "proper_name": "Mega Man (Classic)",
-        "category": "copyright",
-        "encrypted_count": "eF1kaw==",
-        "copyright": "Mega Man",
-        "material": "Video Game",
-        "image_reference": "https://cdn.megamanwiki.com/0/0c/Wiki_-_Icon_Classic.png"
-      },
-      "tag2": {
-        "id": "t0762",
-        "name": "arcueid_brunestud",
-        "proper_name": "Arcueid Brunestud",
-        "category": "character",
-        "encrypted_count": "elFkbQ==",
-        "copyright": "Tsukihime",
-        "material": "Visual Novel",
-        "image_reference": "https://static.zerochan.net/Arcueid.Brunestud.full.3556278.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0423",
-        "name": "brave_witches",
-        "proper_name": "Brave Witches",
-        "category": "copyright",
-        "encrypted_count": "fVRibA==",
-        "copyright": "Brave Witches",
-        "material": "Anime",
-        "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
-      },
-      "tag2": {
-        "id": "t0735",
-        "name": "arlecchino_(genshin_impact)",
-        "proper_name": "Arlecchino",
-        "category": "character",
-        "encrypted_count": "elBjag==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gen-impact/images/4/4a/Carta_de_personaje_Arlecchino.png/revision/latest?cb=20240311102048&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0340",
-        "name": "kaeya_(genshin_impact)",
-        "proper_name": "Kaeya",
-        "category": "character",
-        "encrypted_count": "fFJhaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8a/Character_Kaeya_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030050&path-prefix=th"
-      },
-      "tag2": {
-        "id": "t0872",
-        "name": "fate/samurai_remnant",
-        "proper_name": "Fate/Samurai Remnant",
-        "category": "copyright",
-        "encrypted_count": "fFdhbQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0875",
-        "name": "osomatsu-kun",
-        "proper_name": "Osomatsu-kun",
-        "category": "copyright",
-        "encrypted_count": "elZjbw==",
-        "copyright": "Osomatsu-kun",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/osomatsukun/images/e/e6/Site-logo.png/revision/latest?cb=20210713152445"
-      },
-      "tag2": {
-        "id": "t0538",
-        "name": "animal_crossing",
-        "proper_name": "Animal Crossing",
-        "category": "copyright",
-        "encrypted_count": "f1Ria0M=",
-        "copyright": "Animal Crossing",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/animalcrossing/images/1/1e/NH-boxart.png/revision/latest?cb=20200102220852"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0687",
-        "name": "ro-500_(kancolle)",
-        "proper_name": "Ro-500",
-        "category": "character",
-        "encrypted_count": "el1kaw==",
+        "encrypted_count": "fFxiYg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ro-500.(Kantai.Collection).600.2131087.jpg"
-      },
-      "tag2": {
-        "id": "t0815",
-        "name": "hakui_koyori",
-        "proper_name": "Hakui Koyori",
-        "category": "character",
-        "encrypted_count": "elRhaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c2/Hakui_Koyori_Portrait.png/revision/latest?cb=20211203043838"
+        "image_reference": "https://static.zerochan.net/Urakaze.(Kantai.Collection).full.4330635.jpg"
       }
     },
     {
@@ -214,14 +41,187 @@ const DAILY_GAME_DATA = {
         "image_reference": "https://rabbithole.wiki.gg/images/e/e6/Site-logo.png"
       },
       "tag2": {
-        "id": "t0853",
-        "name": "mikasa_ackerman",
-        "proper_name": "Mikasa Ackerman",
+        "id": "t0736",
+        "name": "sagisawa_fumika",
+        "proper_name": "Sagisawa Fumika",
         "category": "character",
-        "encrypted_count": "e1djag==",
-        "copyright": "Attack on Titan",
+        "encrypted_count": "elFhbw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/thumb/1/1d/Cinderella_master_031_cover.jpg/1200px-Cinderella_master_031_cover.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0260",
+        "name": "nian_(arknights)",
+        "proper_name": "Nian",
+        "category": "character",
+        "encrypted_count": "fFxgbQ==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
+      },
+      "tag2": {
+        "id": "t0335",
+        "name": "shadow_the_hedgehog",
+        "proper_name": "Shadow the Hedgehog",
+        "category": "character",
+        "encrypted_count": "fVZkaw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonic/images/4/45/SRCShadow.png/revision/latest/scale-to-width-down/1200?cb=20251008005300"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0003",
+        "name": "fate_(series)",
+        "proper_name": "Fate Series",
+        "category": "copyright",
+        "encrypted_count": "fVxhbkkE",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BOWQ1ZDdiMDItYTc2My00ZjZkLWJlMzktYTZmNGY5MWQwODU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0521",
+        "name": "new_super_mario_bros._u_deluxe",
+        "proper_name": "New Super Mario Bros. U Deluxe",
+        "category": "copyright",
+        "encrypted_count": "eFNmag==",
+        "copyright": "Nintendo",
+        "material": "Video Game",
+        "image_reference": "https://mario.wiki.gallery/images/thumb/2/21/NSMBUDX_Logo.png/1200px-NSMBUDX_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0672",
+        "name": "osomatsu-san",
+        "proper_name": "Osomatsu-san",
+        "category": "copyright",
+        "encrypted_count": "e1dkbw==",
+        "copyright": "Osomatsu-san",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png/revision/latest?cb=20231105175401"
+        "image_reference": "https://static.wikia.nocookie.net/osomatsu/images/e/e6/Site-logo.png/revision/latest?cb=20210720132516&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0682",
+        "name": "pokemon_rse",
+        "proper_name": "Pokemon Ruby/Sapphire/Emerald",
+        "category": "copyright",
+        "encrypted_count": "dlxvaA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://logowik.com/content/uploads/images/pokemon-ruby-sapphire8525.logowik.com.webp"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0633",
+        "name": "love_live!_school_idol_festival",
+        "proper_name": "Love Live! School Idol Festival",
+        "category": "copyright",
+        "encrypted_count": "fVZuakg=",
+        "copyright": "Love Live!",
+        "material": "Video Game",
+        "image_reference": "https://www.kindpng.com/picc/m/102-1023896_love-live-school-idol-festival-logo-hd-png.png"
+      },
+      "tag2": {
+        "id": "t0871",
+        "name": "senpai_ga_uzai_kouhai_no_hanashi",
+        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
+        "category": "copyright",
+        "encrypted_count": "f1FuaQ==",
+        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0328",
+        "name": "panty_(psg)",
+        "proper_name": "Panty",
+        "category": "character",
+        "encrypted_count": "elZjbw==",
+        "copyright": "Panty & Stocking with Garterbelt",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
+      },
+      "tag2": {
+        "id": "t0064",
+        "name": "nessa_(pokemon)",
+        "proper_name": "Nessa",
+        "category": "character",
+        "encrypted_count": "e1VmaQ==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Pokemon-Nessa.png/220px-Pokemon-Nessa.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0462",
+        "name": "shigure_ui_(vtuber)",
+        "proper_name": "Shigure Ui",
+        "category": "character",
+        "encrypted_count": "fFFvaw==",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/f/f0/Shigure_Ui_-_Full_Illustration_03.png/93px-Shigure_Ui_-_Full_Illustration_03.png"
+      },
+      "tag2": {
+        "id": "t0903",
+        "name": "twisted_wonderland",
+        "proper_name": "Twisted Wonderland",
+        "category": "copyright",
+        "encrypted_count": "e1xnYg==",
+        "copyright": "Twisted Wonderland",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/736x/96/8e/d1/968ed1c1dc79180402437af995b9e753.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0574",
+        "name": "higuchi_madoka",
+        "proper_name": "Higuchi Madoka",
+        "category": "character",
+        "encrypted_count": "e1FvaA==",
+        "image_reference": "https://image.shinycolors.wiki/9/91/MadokaProfile.png"
+      },
+      "tag2": {
+        "id": "t0636",
+        "name": "puyopuyo",
+        "proper_name": "Puyo Puyo",
+        "category": "copyright",
+        "encrypted_count": "eFJgbA==",
+        "copyright": "Puyo Puyo",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/fantendo/images/0/08/Puyo_Puyo_logo.png/revision/latest?cb=20171226110616"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0910",
+        "name": "momoi_(blue_archive)",
+        "proper_name": "Momoi",
+        "category": "character",
+        "encrypted_count": "e1NvYg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Momoi_Portrait.png/revision/latest?cb=20220420085033"
+      },
+      "tag2": {
+        "id": "t0846",
+        "name": "kirigiri_kyoko",
+        "proper_name": "Kirigiri Kyoko",
+        "category": "character",
+        "encrypted_count": "elVgbg==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
       }
     }
   ]
