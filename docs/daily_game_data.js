@@ -1,227 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-10T04:26:54.337923+00:00
-// Date: 2025-12-10
+// Generated on: 2025-12-11T04:29:01.988117+00:00
+// Date: 2025-12-11
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-10",
+  "date": "2025-12-11",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0837",
-        "name": "shinosawa_hiro",
-        "proper_name": "Shinosawa Hiro",
+        "id": "t0529",
+        "name": "shiina_taki",
+        "proper_name": "Shiina Taki",
         "category": "character",
-        "encrypted_count": "fVNmbA==",
-        "image_reference": "https://project-imas.wiki/images/thumb/4/4b/HiroShinosawa.png/640px-HiroShinosawa.png"
+        "encrypted_count": "e1Rvaw==",
+        "copyright": "Unknown",
+        "material": "Unknown",
+        "image_reference": "https://static.wikitide.net/houkai2ndwiki/thumb/1/12/Shiina_Taki_Awaken.webp/310px-Shiina_Taki_Awaken.webp.png"
       },
       "tag2": {
-        "id": "t0716",
-        "name": "ultimate_madoka",
-        "proper_name": "Ultimate Madoka",
+        "id": "t0094",
+        "name": "eila_ilmatar_juutilainen",
+        "proper_name": "Eila Ilmatar Juutilainen",
         "category": "character",
-        "encrypted_count": "elBmag==",
-        "copyright": "Puella Magi Madoka Magica",
+        "encrypted_count": "fVxnbA==",
+        "copyright": "Girls und Panzer",
         "material": "Anime",
-        "image_reference": "https://mangayo.it/31904-full_default/puella-magi-madoka-magica-ultimate-deluxe-edition-1.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
       }
     },
     {
       "tag1": {
-        "id": "t0218",
-        "name": "mizi_(alien_stage)",
-        "proper_name": "Mizi",
-        "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Alien Stage",
-        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
+        "id": "t0871",
+        "name": "senpai_ga_uzai_kouhai_no_hanashi",
+        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
+        "category": "copyright",
+        "encrypted_count": "f1FuaQ==",
+        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
       },
       "tag2": {
-        "id": "t0844",
-        "name": "kyon",
-        "proper_name": "Kyon",
+        "id": "t0556",
+        "name": "wakaba_mutsumi",
+        "proper_name": "Wakaba Mutsumi",
         "category": "character",
-        "encrypted_count": "elZlaQ==",
-        "copyright": "The Melancholy of Haruhi Suzumiya",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/a0/fd/09/a0fd091b54d8f0cc1207a7d5d8a6ee3e.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0908",
-        "name": "hanako_(blue_archive)",
-        "proper_name": "Hanako",
-        "category": "character",
-        "encrypted_count": "eFVvbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/9/9c/Hanako.png/399px-Hanako.png"
-      },
-      "tag2": {
-        "id": "t0659",
-        "name": "kasumi_(kancolle)",
-        "proper_name": "Kasumi",
-        "category": "character",
-        "encrypted_count": "elFibQ==",
+        "encrypted_count": "e1Vgag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/6b/Kasumi.png/revision/latest?cb=20150606171159&path-prefix=protagonist"
+        "image_reference": "https://anibase.net/files/2fe43d80636dfb7d1e4d535c174a7b68"
       }
     },
     {
       "tag1": {
-        "id": "t0482",
-        "name": "sakura_kyoko_(magical_girl)",
-        "proper_name": "Sakura Kyoko",
+        "id": "t0955",
+        "name": "hieda_no_akyuu",
+        "proper_name": "Hieda no Akyuu",
         "category": "character",
-        "encrypted_count": "eFRhYw==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/madoka/images/2/24/Kyoko_Sakura_Profile.png/revision/latest?cb=20200520131323"
+        "encrypted_count": "eldmag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1105378225.png"
       },
       "tag2": {
-        "id": "t0059",
-        "name": "iori_(blue_archive)",
-        "proper_name": "Iori",
+        "id": "t0124",
+        "name": "alhaitham_(genshin_impact)",
+        "proper_name": "Alhaitham",
         "category": "character",
-        "encrypted_count": "fVBlbg==",
+        "encrypted_count": "fVVgbw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/2f/27/94/2f2794662a6f9ca07076d8fc0fe48f83.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0860",
+        "name": "yu-gi-oh!_duel_monsters",
+        "proper_name": "Yu-Gi-Oh! Duel Monsters",
+        "category": "copyright",
+        "encrypted_count": "d1BmaQ==",
+        "copyright": "Yu-Gi-Oh!",
+        "material": "Anime",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
+      },
+      "tag2": {
+        "id": "t0029",
+        "name": "zenless_zone_zero",
+        "proper_name": "Zenless Zone Zero",
+        "category": "copyright",
+        "encrypted_count": "e1xgb0I=",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Zenless_Zone_Zero_curved_box_logo.svg/250px-Zenless_Zone_Zero_curved_box_logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0620",
+        "name": "yoko_littner",
+        "proper_name": "Yoko Littner",
+        "category": "character",
+        "encrypted_count": "eVdmYg==",
+        "copyright": "Tengen Toppa Gurren Lagann",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/gurennlagann/images/f/f0/Fsfsdddsfds.png/revision/latest?cb=20131209080110"
+      },
+      "tag2": {
+        "id": "t0886",
+        "name": "skadi_the_corrupting_heart_(arknights)",
+        "proper_name": "Skadi the Corrupting Heart",
+        "category": "character",
+        "encrypted_count": "fFdvbA==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cf/Skadi_the_Corrupting_Heart.png/revision/latest?cb=20210501130244"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0917",
+        "name": "asuna_(bunny)_(blue_archive)",
+        "proper_name": "Asuna (Bunny)",
+        "category": "character",
+        "encrypted_count": "eFZgaw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/8/82/Iori_Portrait.png/revision/latest?cb=20220221085942"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/6/66/Asuna_(Bunny_Girl)_00.png/326px-Asuna_(Bunny_Girl)_00.png"
+      },
+      "tag2": {
+        "id": "t0746",
+        "name": "yelan_(genshin_impact)",
+        "proper_name": "Yelan",
+        "category": "character",
+        "encrypted_count": "elJhYw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0402",
-        "name": "sessyoin_kiara",
-        "proper_name": "Sessyoin Kiara",
+        "id": "t0446",
+        "name": "saten_ruiko",
+        "proper_name": "Saten Ruiko",
         "category": "character",
-        "encrypted_count": "fFJgbg==",
-        "copyright": "Fate Grand/Order",
-        "material": "Video game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
+        "encrypted_count": "fVRubg==",
+        "copyright": "Toaru Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
       },
       "tag2": {
-        "id": "t0396",
-        "name": "sonia_(pokemon)",
-        "proper_name": "Sonia",
-        "category": "character",
-        "encrypted_count": "elBmbQ==",
-        "copyright": "Pokemon",
+        "id": "t0706",
+        "name": "nitroplus",
+        "proper_name": "Nitroplus",
+        "category": "copyright",
+        "encrypted_count": "d1FlbQ==",
+        "copyright": "Nitroplus",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/3/3b/Sword_Shield_Sonia.png"
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2021/09/Company-Logo_Nitroplus-1920x1088.png"
       }
     },
     {
       "tag1": {
-        "id": "t0102",
-        "name": "shirogane_naoto",
-        "proper_name": "Shirogane Naoto",
+        "id": "t0642",
+        "name": "bremerton_(azur_lane)",
+        "proper_name": "Bremerton",
         "category": "character",
-        "encrypted_count": "fVxiYg==",
-        "copyright": "Persona",
+        "encrypted_count": "e1Jkbw==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/0/0e/P4A_Naoto.png/revision/latest?cb=20141207153024"
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/dd/Bremerton.png/1223px-Bremerton.png"
       },
       "tag2": {
-        "id": "t0383",
-        "name": "yoru_(chainsaw_man)",
-        "proper_name": "Yoru",
-        "category": "character",
-        "encrypted_count": "fF1mbw==",
-        "copyright": "Chainsaw Man",
+        "id": "t0365",
+        "name": "aria_(manga)",
+        "proper_name": "Aria",
+        "category": "copyright",
+        "encrypted_count": "fF1kbg==",
+        "copyright": "Aria",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b7/Img_cm_yoru_manga.png/revision/latest?cb=20231025061200&path-prefix=pt-br"
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
       }
     },
     {
       "tag1": {
-        "id": "t0489",
-        "name": "street_fighter_6",
-        "proper_name": "Street Fighter 6",
-        "category": "copyright",
-        "encrypted_count": "dlJjaA==",
-        "copyright": "Street Fighter",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/streetfighter/images/4/47/Street_fighter_6_logo.png/revision/latest?cb=20220603151920"
-      },
-      "tag2": {
-        "id": "t0873",
-        "name": "rabbit_hole_(vocaloid)",
-        "proper_name": "Rabbit Hole",
-        "category": "copyright",
-        "encrypted_count": "fFFmYw==",
+        "id": "t0356",
+        "name": "sakura_miku",
+        "proper_name": "Sakura Miku",
+        "category": "character",
+        "encrypted_count": "fFNnbg==",
         "copyright": "Vocaloid",
         "material": "Music Software",
-        "image_reference": "https://rabbithole.wiki.gg/images/e/e6/Site-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0009",
-        "name": "idolmaster",
-        "proper_name": "The Idolmaster",
-        "category": "copyright",
-        "encrypted_count": "fFNhakEB",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        "image_reference": "https://pm1.aminoapps.com/6321/de459a5e34e092632072e93c61dc913a84a12e05_hq.jpg"
       },
       "tag2": {
-        "id": "t0093",
-        "name": "pecorine_(princess_connect!)",
-        "proper_name": "Peorine",
+        "id": "t0895",
+        "name": "diarmuid_ua_duibhne_(fate)",
+        "proper_name": "Diarmuid Ua Duibhne",
         "category": "character",
-        "encrypted_count": "fVxgYw==",
-        "copyright": "Princess Connect!",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png/revision/latest?cb=20180219083648"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0044",
-        "name": "marie_(splatoon)",
-        "proper_name": "Marie",
-        "category": "character",
-        "encrypted_count": "elNubw==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S_Marie_render_2.png"
-      },
-      "tag2": {
-        "id": "t0043",
-        "name": "izuna_(blue_archive)",
-        "proper_name": "Izuna",
-        "category": "character",
-        "encrypted_count": "fVBhaQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0101",
-        "name": "kotomine_kirei",
-        "proper_name": "Kotomine Kirei",
-        "category": "character",
-        "encrypted_count": "fVdiaQ==",
+        "encrypted_count": "fFBmaw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/a/aa/Kotomine_kirei.png/revision/latest?cb=20141019084245"
+        "image_reference": "https://static.wikia.nocookie.net/factvsfiction/images/2/28/Diarmuid.png/revision/latest?cb=20160116010006"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0803",
+        "name": "suite_precure",
+        "proper_name": "Suite Precure",
+        "category": "copyright",
+        "encrypted_count": "elNkbQ==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Suite_pretty_cure_logo.jpg/revision/latest/scale-to-width-down/300?cb=20150213050340"
       },
       "tag2": {
-        "id": "t0070",
-        "name": "koshimizu_sachiko",
-        "proper_name": "Koshimizu Sachiko",
+        "id": "t0225",
+        "name": "kiyohime_(fate)",
+        "proper_name": "Kiyohime",
         "category": "character",
-        "encrypted_count": "fVdvaw==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "fVRgYg==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/d/d0/Sachiko_SS.png"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
       }
     }
   ]
