@@ -1,227 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-12T04:27:24.510208+00:00
-// Date: 2025-12-12
+// Generated on: 2025-12-13T04:18:47.893375+00:00
+// Date: 2025-12-13
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-12",
+  "date": "2025-12-13",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0838",
-        "name": "hestia_(danmachi)",
-        "proper_name": "Hestia",
-        "category": "character",
-        "encrypted_count": "e1Rmbg==",
-        "copyright": "DanMachi",
+        "id": "t0324",
+        "name": "tate_no_yuusha_no_nariagari",
+        "proper_name": "Tate no Yuusha no Nariagari",
+        "category": "copyright",
+        "encrypted_count": "fVNjaQ==",
+        "copyright": "Tate no Yuusha no Nariagari",
         "material": "Light Novel",
-        "image_reference": "https://static.zerochan.net/Hestia.(DanMachi).full.2789461.png"
+        "image_reference": "https://vectorseek.com/wp-content/uploads/2023/11/Tate-no-Yuusha-no-Nariagari-Logo-Vector.svg-.png"
       },
       "tag2": {
-        "id": "t0585",
-        "name": "kawaragi_momoka",
-        "proper_name": "Kawaragi Momoka",
-        "category": "character",
-        "encrypted_count": "elxnaA==",
-        "copyright": "D4DJ",
+        "id": "t0499",
+        "name": "mahou_shoujo_lyrical_nanoha_a's",
+        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
+        "category": "copyright",
+        "encrypted_count": "eFFjbg==",
+        "copyright": "Magical Girl Lyrical Nanoha",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Kawaragi.Momoka.full.4222907.jpg"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
       }
     },
     {
       "tag1": {
-        "id": "t0004",
-        "name": "blue_archive",
-        "proper_name": "Blue Archive",
-        "category": "copyright",
-        "encrypted_count": "fVBibUgC",
-        "copyright": "Blue Archive",
+        "id": "t0773",
+        "name": "ishmael_(project_moon)",
+        "proper_name": "Ishmael",
+        "category": "character",
+        "encrypted_count": "elVlbA==",
+        "copyright": "Project Moon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
+        "image_reference": "https://cdn.donmai.us/720x720/79/cd/79cd551dc8403cc82cc0ce2f61546382.webp"
       },
       "tag2": {
-        "id": "t0092",
-        "name": "eren_yeager",
-        "proper_name": "Eren Yeager",
-        "category": "character",
-        "encrypted_count": "fV1uYw==",
-        "copyright": "Attack on Titan",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
+        "id": "t0876",
+        "name": "infinity_nikki",
+        "proper_name": "Infinity Nikki",
+        "category": "copyright",
+        "encrypted_count": "fFdgag==",
+        "copyright": "Infinity Nikki",
+        "material": "Video Game",
+        "image_reference": "https://infinitynikki.wiki/assets/logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0326",
-        "name": "komi-san_wa_komyushou_desu",
-        "proper_name": "Komi-san wa Komyushou desu",
+        "id": "t0712",
+        "name": "wo-class_aircraft_carrier",
+        "proper_name": "Wo-Class Aircraft Carrier",
+        "category": "character",
+        "encrypted_count": "fVNnbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://img10.reactor.cc/pics/post/Kantai-Collection-Anime-Wo-Class-Aircraft-Carrier-Kantai-Collection-2839849.png"
+      },
+      "tag2": {
+        "id": "t0402",
+        "name": "sessyoin_kiara",
+        "proper_name": "Sessyoin Kiara",
+        "category": "character",
+        "encrypted_count": "fFJgbg==",
+        "copyright": "Fate Grand/Order",
+        "material": "Video game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0731",
+        "name": "phantom_blood",
+        "proper_name": "Phantom Blood",
         "category": "copyright",
-        "encrypted_count": "elJjYw==",
-        "copyright": "Komi Can't Communicate",
+        "encrypted_count": "f1NjbQ==",
+        "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b1e4199-b81a-493a-b093-54056d1cc96f/deps4ag-0ec5e548-d953-4454-9e31-f07657e6688a.png/v1/fill/w_512,h_512/komi_san_wa__comyushou_desu__folder_icon_by_nocturnexi_deps4ag-fullview.png"
+        "image_reference": "https://static.jojowiki.com/images/b/b4/latest/20200325022741/Phantom_Blood_Logo.png"
       },
       "tag2": {
-        "id": "t0519",
-        "name": "hakos_baelz",
-        "proper_name": "Hakos Baelz",
+        "id": "t0128",
+        "name": "omori_(omori)",
+        "proper_name": "Omori",
         "category": "character",
-        "encrypted_count": "e1JmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/68/Hakos_Baelz_3D.png/revision/latest?cb=20240901181420"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0423",
-        "name": "brave_witches",
-        "proper_name": "Brave Witches",
-        "category": "copyright",
         "encrypted_count": "fVRibA==",
-        "copyright": "Brave Witches",
-        "material": "Anime",
-        "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/c/ce/Group_hug_dw.gif/revision/latest?cb=20220217114528&path-prefix=zh"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0158",
+        "name": "amber_(genshin_impact)",
+        "proper_name": "Amber",
+        "category": "character",
+        "encrypted_count": "fVJmYw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest?cb=20220725204839"
       },
       "tag2": {
-        "id": "t0170",
-        "name": "serika_(blue_archive)",
-        "proper_name": "Serika",
+        "id": "t0375",
+        "name": "hilda_valentine_goneril",
+        "proper_name": "Hilda Valentine Goneril",
         "category": "character",
-        "encrypted_count": "fF1vbA==",
+        "encrypted_count": "fVBgYw==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/c/c6/Hilda_Portr\u00e4t.png/revision/latest?cb=20201210095142&path-prefix=de"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0460",
+        "name": "awa_subaru",
+        "proper_name": "Awa Subaru",
+        "category": "character",
+        "encrypted_count": "fFdlbw==",
+        "copyright": "Girls Band Cry",
+        "material": "Anime",
+        "image_reference": "https://external-preview.redd.it/McQKncRvPg9PgZzuZT2aJOs6zyuoVsQUkm9xKNW1yxs.jpg?width=1080&crop=smart&auto=webp&s=d1ee8796a59e9dfa172c9d4e35e2e149802c8734"
+      },
+      "tag2": {
+        "id": "t0852",
+        "name": "arch_bishop_(ragnarok_online)",
+        "proper_name": "Arch Bishop",
+        "category": "character",
+        "encrypted_count": "fVJibQ==",
+        "copyright": "Ragnarok Online",
+        "material": "Video Game",
+        "image_reference": "https://gamepedia.cursecdn.com/ragnarok_gamepedia_en/2/20/Character_Archbishop.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0793",
+        "name": "jane_doe_(zenless_zone_zero)",
+        "proper_name": "Jane Doe",
+        "category": "character",
+        "encrypted_count": "elZiag==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Agent_Jane_Doe_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240712062618"
+      },
+      "tag2": {
+        "id": "t0097",
+        "name": "kikyou_(blue_archive)",
+        "proper_name": "Kikyou",
+        "category": "character",
+        "encrypted_count": "fVRubg==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/68195-1831388089.png"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/8/84/Kikyou_Portrait.png/revision/latest?cb=20231122112635"
       }
     },
     {
       "tag1": {
-        "id": "t0945",
-        "name": "hololive_dev_is",
-        "proper_name": "HoloLive DEV_IS",
-        "category": "copyright",
-        "encrypted_count": "e11uaA==",
-        "copyright": "Hololive",
-        "image_reference": "https://kai-you.net/press/img/hololive-DEV_IS-TEASER-0-29-screenshot-1.png"
-      },
-      "tag2": {
-        "id": "t0367",
-        "name": "warcraft",
-        "proper_name": "Warcraft",
-        "category": "copyright",
-        "encrypted_count": "fFxnbg==",
-        "copyright": "Warcraft",
-        "material": "Video Game",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0749",
-        "name": "vshojo",
-        "proper_name": "VShojo",
-        "category": "copyright",
-        "encrypted_count": "e1dubQ==",
-        "copyright": "VShojo",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/7/70/VShojo_Logo.png/revision/latest?cb=20201219084925&path-prefix=id"
-      },
-      "tag2": {
-        "id": "t0706",
-        "name": "nitroplus",
-        "proper_name": "Nitroplus",
-        "category": "copyright",
-        "encrypted_count": "d1FlbQ==",
-        "copyright": "Nitroplus",
-        "material": "Video Game",
-        "image_reference": "https://www.gematsu.com/wp-content/uploads/2021/09/Company-Logo_Nitroplus-1920x1088.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0119",
-        "name": "maria-sama_ga_miteru",
-        "proper_name": "Maria-sama ga Miteru",
-        "category": "copyright",
-        "encrypted_count": "fVFmbA==",
-        "copyright": "Maria-sama ga Miteru",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/animeland-index/images/6/6a/Maria_sama_ga_miteru.jpg/revision/latest?cb=20220526195420&path-prefix=fr"
-      },
-      "tag2": {
-        "id": "t0042",
-        "name": "shiroko_terror_(blue_archive)",
-        "proper_name": "Shiroko Terror",
+        "id": "t0400",
+        "name": "aigis_(persona)",
+        "proper_name": "Aigis",
         "category": "character",
-        "encrypted_count": "fVdvbg==",
+        "encrypted_count": "fF1hYg==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
+      },
+      "tag2": {
+        "id": "t0446",
+        "name": "saten_ruiko",
+        "proper_name": "Saten Ruiko",
+        "category": "character",
+        "encrypted_count": "fVRubg==",
+        "copyright": "Toaru Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0039",
+        "name": "mordred_(fate/apocrypha)",
+        "proper_name": "Mordred",
+        "category": "character",
+        "encrypted_count": "e1ZlbA==",
+        "copyright": "Fate/Apocrypha",
+        "material": "anime",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest/scale-to-width/360?cb=20220910153017"
+      },
+      "tag2": {
+        "id": "t0666",
+        "name": "mutsuki_(blue_archive)",
+        "proper_name": "Mutsuki",
+        "category": "character",
+        "encrypted_count": "e1Rkbg==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/0/0b/Mutsuki.png?version=2e993a16b7a3dc23ac5e15685f9e4c9f"
       }
     },
     {
       "tag1": {
-        "id": "t0247",
-        "name": "laios_touden",
-        "proper_name": "Laios Touden",
-        "category": "character",
-        "encrypted_count": "fFNmbw==",
-        "image_reference": "https://static.wikitide.net/thefinalrumblewiki/8/82/Laius_Thorden.png"
-      },
-      "tag2": {
-        "id": "t0833",
-        "name": "silver_wolf_(honkai:_star_rail)",
-        "proper_name": "Silver Wolf",
-        "category": "character",
-        "encrypted_count": "fVxlYg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/06/07/Honkai-Star-Rail-Silver-Wolf-Ascension-Trace-materials.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0549",
-        "name": "x-men",
-        "proper_name": "X-Men",
+        "id": "t0681",
+        "name": "super_robot_wars",
+        "proper_name": "Super Robot Wars",
         "category": "copyright",
-        "encrypted_count": "eFdmYw==",
-        "copyright": "X-Men",
-        "material": "Comic",
-        "image_reference": "https://logopoppin.com/wp-content/uploads/2023/08/X-Men-logo-iteration-1969.webp"
+        "encrypted_count": "eFJhag==",
+        "copyright": "Super Robot Wars",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/superrobotwars/images/5/58/Super_Robot_Wars.png/revision/latest?cb=20171219155107"
       },
       "tag2": {
-        "id": "t0805",
-        "name": "toradora!",
-        "proper_name": "Toradora!",
-        "category": "copyright",
-        "encrypted_count": "elNiaw==",
-        "copyright": "Toradora!",
-        "material": "Light Novel",
-        "image_reference": "https://image.librewiki.net/thumb/d/d1/Toradora!_Logo.svg/1200px-Toradora!_Logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0943",
-        "name": "hk416_(girls'_frontline)",
-        "proper_name": "HK416",
+        "id": "t0909",
+        "name": "mordred_(fate)",
+        "proper_name": "Mordred",
         "category": "character",
-        "encrypted_count": "eFVlbQ==",
-        "copyright": "Girls' Frontline",
+        "encrypted_count": "eFViYg==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://gf.rus.wiki/media/uploads/gf.rus.wiki-hk416-hk4161.png"
-      },
-      "tag2": {
-        "id": "t0914",
-        "name": "fujishima_megumi",
-        "proper_name": "Fujishima Megumi",
-        "category": "character",
-        "encrypted_count": "e1ZlaQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/45/Megumi_Fujishima.png/revision/latest?cb=20230210135213&path-prefix=es"
+        "image_reference": "https://i.pinimg.com/originals/d9/13/56/d91356ac5b500a9cbeb4dfcb5c0f2a66.png"
       }
     }
   ]
