@@ -1,120 +1,32 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-15T04:33:11.672359+00:00
-// Date: 2025-12-15
+// Generated on: 2025-12-16T04:29:27.411031+00:00
+// Date: 2025-12-16
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-15",
+  "date": "2025-12-16",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0612",
-        "name": "yahari_ore_no_seishun_lovecome_wa_machigatteiru.",
-        "proper_name": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
-        "category": "copyright",
-        "encrypted_count": "eFBhaw==",
-        "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/43/5a/6d/435a6dc4d67daa09531dd2cb4a0595dd.jpg"
+        "id": "t0572",
+        "name": "boo_tao_(genshin_impact)",
+        "proper_name": "Boo Tao",
+        "category": "character",
+        "encrypted_count": "fFNvaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/1cc980d7-6ee3-4519-aa66-e8a03e842b26"
       },
       "tag2": {
-        "id": "t0083",
-        "name": "alice_gear_aegis",
-        "proper_name": "Alice Gear Aegis",
-        "category": "copyright",
-        "encrypted_count": "fVFhag==",
-        "copyright": "Alice Gear Aegis",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/alicegearaegis/images/0/00/Alice_Gear_Aegis_Expansion_Key_Visual.png/revision/latest?cb=20230322170433"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0705",
-        "name": "irys_(hololive)",
-        "proper_name": "Irys",
+        "id": "t0701",
+        "name": "stocking_(psg)",
+        "proper_name": "Stocking",
         "category": "character",
-        "encrypted_count": "elFnaQ==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6c/IRyS_Portrait.jpg/revision/latest?cb=20210707044450"
-      },
-      "tag2": {
-        "id": "t0908",
-        "name": "hanako_(blue_archive)",
-        "proper_name": "Hanako",
-        "category": "character",
-        "encrypted_count": "eFVvbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/9/9c/Hanako.png/399px-Hanako.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0130",
-        "name": "sunny_milk",
-        "proper_name": "Sunny Milk",
-        "category": "character",
-        "encrypted_count": "fFNiaw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/2/22/Sunny-milk-FW.png?20101108015940"
-      },
-      "tag2": {
-        "id": "t0547",
-        "name": "dokidoki!_precure",
-        "proper_name": "Dokidoki! Precure",
-        "category": "copyright",
-        "encrypted_count": "eFZjaA==",
-        "copyright": "Precure",
+        "encrypted_count": "eFFjaA==",
+        "copyright": "Panty & Stocking with Garterbelt",
         "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrf6u-538d0742-2dbd-4af1-8a2f-3905c35af6bd.png/v1/fill/w_1174,h_486/dokidoki_precure_logo_by_ffprecurespain_defrf6u-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDg2IiwicGF0aCI6IlwvZlwvZDZhYmMzOTAtODUwOS00ZmE0LTk4NjctMzk4ZGQ0ODA0NjNjXC9kZWZyZjZ1LTUzOGQwNzQyLTJkYmQtNGFmMS04YTJmLTM5MDVjMzVhZjZiZC5wbmciLCJ3aWR0aCI6Ijw9MTE3NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tyTE0XTJZfyE1vrH2mqrFiRcjVpMZy_sf0EnhqFE4iU"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0339",
-        "name": "unzan",
-        "proper_name": "Unzan",
-        "category": "character",
-        "encrypted_count": "fFdvbw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/Anime-Kumoi-Ichirin-Touhou-Project-Unzan-4343995.png"
-      },
-      "tag2": {
-        "id": "t0576",
-        "name": "basil_(omori)",
-        "proper_name": "Basil",
-        "category": "character",
-        "encrypted_count": "e1ZkaQ==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/fc/DW_Basil_Fullbody_Profile.png/revision/latest?cb=20220909122311"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0593",
-        "name": "sukuna_shinmyoumaru",
-        "proper_name": "Sukuna Shinmyoumaru",
-        "category": "character",
-        "encrypted_count": "elBjaA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://wiki.koumakan.jp/images/shinpiroku/6/6b/ShinmyoumaruULiL.png"
-      },
-      "tag2": {
-        "id": "t0267",
-        "name": "akizuki_ritsuko",
-        "proper_name": "Akizuki Ritsuko",
-        "category": "character",
-        "encrypted_count": "fVVvYg==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
       }
     },
     {
@@ -129,100 +41,190 @@ const DAILY_GAME_DATA = {
         "image_reference": "https://anibase.net/files/9c255b349e46f9a689fdc5f6574199f5/320"
       },
       "tag2": {
-        "id": "t0251",
-        "name": "kicchou_yachie",
-        "proper_name": "Kicchou Yachie",
-        "category": "character",
-        "encrypted_count": "fFFgbg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0640",
-        "name": "akiyama_yukari",
-        "proper_name": "Akiyama Yukari",
-        "category": "character",
-        "encrypted_count": "e1RkYw==",
-        "image_reference": "https://vignette.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png/revision/latest?cb=20170124073104"
-      },
-      "tag2": {
-        "id": "t0154",
-        "name": "stellive",
-        "proper_name": "Stellive",
+        "id": "t0280",
+        "name": "project_voltage",
+        "proper_name": "Project Voltage",
         "category": "copyright",
-        "encrypted_count": "fVZhbA==",
-        "copyright": "Stellive",
+        "encrypted_count": "fVdnYg==",
+        "copyright": "Project Voltage",
         "material": "Video Game",
-        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230905142316/Logo_Project_Voltage.png/600px-Logo_Project_Voltage.png"
       }
     },
     {
       "tag1": {
-        "id": "t0022",
-        "name": "kirisame_marisa",
-        "proper_name": "Kirisame Marisa",
+        "id": "t0062",
+        "name": "yamakaze_(kancolle)",
+        "proper_name": "Yamakaze",
         "category": "character",
-        "encrypted_count": "eFdhaEA=",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/2/29/Th20Marisa.png/revision/latest?cb=20250505062007"
-      },
-      "tag2": {
-        "id": "t0407",
-        "name": "lyn_(fire_emblem)",
-        "proper_name": "Lyn",
-        "category": "character",
-        "encrypted_count": "fVBmbg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/3/3a/FEA_Lyn.png/1200px-FEA_Lyn.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0149",
-        "name": "oboro_(kancolle)",
-        "proper_name": "Oboro",
-        "category": "character",
-        "encrypted_count": "fFJvag==",
+        "encrypted_count": "fVZubA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://w7.pngwing.com/pngs/738/261/png-transparent-kantai-collection-battleship-wiki-japanese-destroyer-oboro-kantai-miscellaneous-computer-wallpaper-fictional-character.png"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
       },
       "tag2": {
-        "id": "t0571",
-        "name": "gintama",
-        "proper_name": "Gintama",
-        "category": "copyright",
-        "encrypted_count": "eFNmYg==",
-        "copyright": "Gintama",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Gintama_English_Logo.png/revision/latest?cb=20210101181027"
+        "id": "t0073",
+        "name": "jonathan_joestar",
+        "proper_name": "Jonathan Joestar",
+        "category": "character",
+        "encrypted_count": "fVFiaw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
       }
     },
     {
       "tag1": {
-        "id": "t0694",
-        "name": "cookie_run",
-        "proper_name": "Cookie Run",
-        "category": "copyright",
-        "encrypted_count": "e1ZmaA==",
-        "copyright": "Cookie Run",
+        "id": "t0531",
+        "name": "xiao_(genshin_impact)",
+        "proper_name": "Xiao",
+        "category": "character",
+        "encrypted_count": "e1FjYw==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Cookie_Run_series_logo.png/revision/latest/scale-to-width-down/1200?cb=20211123144049"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
       },
       "tag2": {
-        "id": "t0877",
-        "name": "atelier_ryza_1",
-        "proper_name": "Atelier Ryza 1",
+        "id": "t0930",
+        "name": "tekken",
+        "proper_name": "Tekken",
         "category": "copyright",
-        "encrypted_count": "fFFuag==",
-        "copyright": "Atelier Ryza",
+        "encrypted_count": "f1VibUA=",
+        "copyright": "Tekken",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/03/Tekken-Emblem.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0009",
+        "name": "idolmaster",
+        "proper_name": "The Idolmaster",
+        "category": "copyright",
+        "encrypted_count": "fFNhakEB",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0546",
+        "name": "queen's_blade",
+        "proper_name": "Queen's Blade",
+        "category": "copyright",
+        "encrypted_count": "f1Bna0M=",
+        "copyright": "Queen's Blade",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0463",
+        "name": "aubrey_(faraway)_(omori)",
+        "proper_name": "Aubrey",
+        "category": "character",
+        "encrypted_count": "fFZubA==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/8/88/DW_Aubrey_Fullbody_Profile.png/revision/latest?cb=20221031041200"
+      },
+      "tag2": {
+        "id": "t0756",
+        "name": "inazuma_eleven",
+        "proper_name": "Inazuma Eleven",
+        "category": "copyright",
+        "encrypted_count": "d1xnbQ==",
+        "copyright": "Inazuma Eleven",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/inazuma/images/7/70/Logo_japon\u00e9s_de_IE.PNG/revision/latest?cb=20191114162736&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0891",
+        "name": "akagi_(azur_lane)",
+        "proper_name": "Akagi",
+        "category": "character",
+        "encrypted_count": "fFBkaw==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
+      },
+      "tag2": {
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
+        "category": "copyright",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
+        "material": "Video Game",
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0911",
+        "name": "morrigan_aensland",
+        "proper_name": "Morrigan Aensland",
+        "category": "character",
+        "encrypted_count": "f1RnbEU=",
+        "copyright": "Darkstalkers",
+        "material": "Video Game",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/morrigan_90.png"
+      },
+      "tag2": {
+        "id": "t0502",
+        "name": "matou_sakura",
+        "proper_name": "Matou Sakura",
+        "category": "character",
+        "encrypted_count": "eFNhag==",
+        "copyright": "Fate Series",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Sakura_FGO.png/revision/latest?cb=20171107173330&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0564",
+        "name": "mario",
+        "proper_name": "Mario",
+        "category": "character",
+        "encrypted_count": "dlBmag==",
+        "copyright": "Mario",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/it/5/50/Mario_Nintendo.png"
+      },
+      "tag2": {
+        "id": "t0539",
+        "name": "hasumi_(blue_archive)",
+        "proper_name": "Hasumi",
+        "category": "character",
+        "encrypted_count": "eFRmaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Hasumi_Portrait.png/revision/latest?cb=20220423095508"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0584",
+        "name": "futatsuiwa_mamizou",
+        "proper_name": "Futatsuiwa Mamizou",
+        "category": "character",
+        "encrypted_count": "eldgag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/f/f3/Th13.5Mamizou.png/revision/latest?cb=20130607232748&path-prefix=pt"
+      },
+      "tag2": {
+        "id": "t0235",
+        "name": "kara_no_kyoukai",
+        "proper_name": "Kara no Kyoukai",
+        "category": "copyright",
+        "encrypted_count": "fVZvaA==",
+        "copyright": "Kara no Kyoukai",
+        "material": "Light Novel",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/f/f0/KnK_logo.png/revision/latest?cb=20130716091824"
       }
     }
   ]
