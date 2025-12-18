@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-17T04:26:40.919561+00:00
-// Date: 2025-12-17
+// Generated on: 2025-12-18T04:27:50.540441+00:00
+// Date: 2025-12-18
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-17",
+  "date": "2025-12-18",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0869",
-        "name": "inui_toko",
-        "proper_name": "Inui Toko",
+        "id": "t0062",
+        "name": "yamakaze_(kancolle)",
+        "proper_name": "Yamakaze",
         "category": "character",
-        "encrypted_count": "fFFibA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
-      },
-      "tag2": {
-        "id": "t0025",
-        "name": "girls_und_panzer",
-        "proper_name": "Girls und Panzer",
-        "category": "copyright",
-        "encrypted_count": "eVFuY0g=",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/f0/Girls_und_Panzer_TV_key_visual.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0892",
-        "name": "hero_(omori)",
-        "proper_name": "Hero",
-        "category": "character",
-        "encrypted_count": "fFZhbQ==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
-      },
-      "tag2": {
-        "id": "t0748",
-        "name": "the_legend_of_zelda:_twilight_princess",
-        "proper_name": "The Legend of Zelda: Twilight Princess",
-        "category": "copyright",
-        "encrypted_count": "eVVmaA==",
-        "copyright": "The Legend of Zelda",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/c/c3/TP_White_Logo.png/1200px-TP_White_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0515",
-        "name": "sakamata_chloe",
-        "proper_name": "Sakamata Chloe",
-        "category": "character",
-        "encrypted_count": "eFBgbQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/61/Sakamata_Chloe_-_Portrait_01.png/800px-Sakamata_Chloe_-_Portrait_01.png"
-      },
-      "tag2": {
-        "id": "t0818",
-        "name": "cu_chulainn_(lancer)_(fate)",
-        "proper_name": "Cu Chulainn (Lancer)",
-        "category": "character",
-        "encrypted_count": "fVJnbw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fateanother-ii/images/3/32/LancerCuChuGOStage1.png/revision/latest/scale-to-width-down/1200?cb=20210607112610"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0867",
-        "name": "twilight_(spy_x_family)",
-        "proper_name": "Twilight",
-        "category": "character",
-        "encrypted_count": "fVxhaw==",
-        "copyright": "Spy x Family",
-        "material": "Manga",
-        "image_reference": "https://wallpapercave.com/wp/wp11980407.jpg"
-      },
-      "tag2": {
-        "id": "t0101",
-        "name": "kotomine_kirei",
-        "proper_name": "Kotomine Kirei",
-        "category": "character",
-        "encrypted_count": "fVdiaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/a/aa/Kotomine_kirei.png/revision/latest?cb=20141019084245"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0390",
-        "name": "takane_lui",
-        "proper_name": "Takane Lui",
-        "category": "character",
-        "encrypted_count": "fFNnbA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/Takane_Lui_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20211202201955"
-      },
-      "tag2": {
-        "id": "t0672",
-        "name": "osomatsu-san",
-        "proper_name": "Osomatsu-san",
-        "category": "copyright",
-        "encrypted_count": "e1dkbw==",
-        "copyright": "Osomatsu-san",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/osomatsu/images/e/e6/Site-logo.png/revision/latest?cb=20210720132516&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0959",
-        "name": "synthesizer_v",
-        "proper_name": "Synthesizer V",
-        "category": "copyright",
-        "encrypted_count": "e1Vhbg==",
-        "copyright": "Synthesizer V",
-        "material": "Music Software",
-        "image_reference": "https://moegirl.uk/images/1/1a/Synthesizer_V_R2_logo.png"
-      },
-      "tag2": {
-        "id": "t0587",
-        "name": "reze_(chainsaw_man)",
-        "proper_name": "Reze",
-        "category": "character",
-        "encrypted_count": "e1xnaA==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/1/19/Reze_Infobox.png/revision/latest?cb=20230420070115"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0897",
-        "name": "ryougi_shiki",
-        "proper_name": "Ryougi Shiki",
-        "category": "character",
-        "encrypted_count": "fFJgbQ==",
-        "copyright": "Kara no Kyoukai",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/IMG_0883.png/revision/latest?cb=20171124001349&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0644",
-        "name": "yahata_umiri",
-        "proper_name": "Yahata Umiri",
-        "category": "character",
-        "encrypted_count": "elJuag==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0630",
-        "name": "letty_whiterock",
-        "proper_name": "Letty Whiterock",
-        "category": "character",
-        "encrypted_count": "el1gaw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/6315/c24bd14b452c00397597058250a72032e0353200_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0423",
-        "name": "brave_witches",
-        "proper_name": "Brave Witches",
-        "category": "copyright",
-        "encrypted_count": "fVRibA==",
-        "copyright": "Brave Witches",
-        "material": "Anime",
-        "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0415",
-        "name": "kasumi_kai_ni_(kancolle)",
-        "proper_name": "Kasumi Kai Ni",
-        "category": "character",
-        "encrypted_count": "f1NiaQ==",
+        "encrypted_count": "fVZubA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/f/f3/Ship_Card_Kasumi_Kai_Ni.png/218px-Ship_Card_Kasumi_Kai_Ni.png"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
       },
       "tag2": {
-        "id": "t0308",
-        "name": "momosuzu_nene",
-        "proper_name": "Momosuzu Nene",
+        "id": "t0377",
+        "name": "sendai_kai_ni_(kancolle)",
+        "proper_name": "Sendai Kai Ni",
         "category": "character",
-        "encrypted_count": "fFxiag==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/7/74/Momosuzu_Nene_-_Full_Illustration_02.png/640px-Momosuzu_Nene_-_Full_Illustration_02.png"
+        "encrypted_count": "f1duYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/c/ce/Sendai_Kai_Ni_Full.png/revision/latest/scale-to-width-down/284?cb=20180817193836"
       }
     },
     {
       "tag1": {
-        "id": "t0219",
-        "name": "admire_vega_(umamusume)",
-        "proper_name": "Admire Vega",
+        "id": "t0955",
+        "name": "hieda_no_akyuu",
+        "proper_name": "Hieda no Akyuu",
         "category": "character",
-        "encrypted_count": "fFJibw==",
-        "copyright": "Umamusume: Pretty Derby",
+        "encrypted_count": "eldmag==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Admire.Vega.full.3896993.jpg"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1105378225.png"
       },
       "tag2": {
-        "id": "t0685",
-        "name": "yugiri_tsuzuri",
-        "proper_name": "Yugiri Tsuzuri",
+        "id": "t0262",
+        "name": "boko_(girls_und_panzer)",
+        "proper_name": "Boko",
         "category": "character",
-        "encrypted_count": "fV1nbw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "fFFvYw==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0759",
+        "name": "djeeta_(granblue_fantasy)",
+        "proper_name": "Djeeta",
+        "category": "character",
+        "encrypted_count": "eldkbg==",
+        "copyright": "Granblue Fantasy",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/7/73/Tsuzuri_Yugiri_2024.png/revision/latest/scale-to-width-down/1200?cb=20240615060116"
+        "image_reference": "https://static.wikia.nocookie.net/granblue-fantasy-versus/images/a/a9/Djeeta.png/revision/latest?cb=20200309164257"
+      },
+      "tag2": {
+        "id": "t0229",
+        "name": "nichijou",
+        "proper_name": "Nichijou",
+        "category": "copyright",
+        "encrypted_count": "elVgbg==",
+        "copyright": "Nichijou",
+        "material": "Anime",
+        "image_reference": "https://nichijou.wiki.gg/images/e/e6/Site-logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0234",
+        "name": "final_fantasy_vii_ever_crisis",
+        "proper_name": "Final Fantasy VII: Ever Crisis",
+        "category": "copyright",
+        "encrypted_count": "fVRiYg==",
+        "copyright": "Final Fantasy VII: Ever Crisis",
+        "material": "Video Game",
+        "image_reference": "https://www.rpgfan.com/wp-content/uploads/2021/02/Final-Fantasy-VII-Ever-Crisis-Logo-001-1134x720.jpg"
+      },
+      "tag2": {
+        "id": "t0209",
+        "name": "lum",
+        "proper_name": "Lum",
+        "category": "character",
+        "encrypted_count": "elVvaw==",
+        "copyright": "Urusei Yatsura",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/urusei/images/8/80/Lum_wikia.jpg/revision/latest?cb=20210717072234"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0698",
+        "name": "selene_(pokemon)",
+        "proper_name": "Selene",
+        "category": "character",
+        "encrypted_count": "e1JkaA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/2/2a/Ultra_Sun_Ultra_Moon_Selene.png"
+      },
+      "tag2": {
+        "id": "t0408",
+        "name": "skyla_(pokemon)",
+        "proper_name": "Skyla",
+        "category": "character",
+        "encrypted_count": "e1Fgbg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/d/d2/Spr_Masters_Skyla.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0340",
+        "name": "kaeya_(genshin_impact)",
+        "proper_name": "Kaeya",
+        "category": "character",
+        "encrypted_count": "fFJhaA==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8a/Character_Kaeya_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030050&path-prefix=th"
+      },
+      "tag2": {
+        "id": "t0669",
+        "name": "guilty_gear_xrd",
+        "proper_name": "Guilty Gear Xrd",
+        "category": "copyright",
+        "encrypted_count": "eFRhaQ==",
+        "copyright": "Guilty Gear",
+        "material": "Video Game",
+        "image_reference": "https://guiltygear.wiki.gg/images/b/b0/Guilty-Gear-Xrd-Sign-logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0202",
+        "name": "elizabeth_bathory_(fate)",
+        "proper_name": "Elizabeth Bathory",
+        "category": "character",
+        "encrypted_count": "fVZjaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/2/29/S018_Stage1.webp/revision/latest?cb=20220910082212"
+      },
+      "tag2": {
+        "id": "t0557",
+        "name": "oshino_shinobu",
+        "proper_name": "Oshino Shinobu",
+        "category": "character",
+        "encrypted_count": "eF1iag==",
+        "copyright": "Monogatari Series",
+        "material": "Light Novel",
+        "image_reference": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3Tn37nBnU8-trotYrRJ690Z-_yTEtTw_yNP1pGJs0p73coRZz-4LukF74hUjWw40NbbM38KO7_t25vpTE3DmRnuvrwfKfBQ_AKFc8dBytGDN7tSt7s1bfBeU30u6hE1TdETfQZk-HpkZ/s1600/zY7EiHT.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0861",
+        "name": "medicine_melancholy",
+        "proper_name": "Medicine Melancholy",
+        "category": "character",
+        "encrypted_count": "fVBubg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://en.touhouwiki.net/images/e/ea/Th09MedicineMelancholy.png"
+      },
+      "tag2": {
+        "id": "t0172",
+        "name": "illustrious_(azur_lane)",
+        "proper_name": "Illustrious",
+        "category": "character",
+        "encrypted_count": "fVdhbg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/3/39/Illustrious.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0129",
+        "name": "i-58_(kancolle)",
+        "proper_name": "I-58",
+        "category": "character",
+        "encrypted_count": "fF1gaw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/9/96/Ship_Card_I-58.png/218px-Ship_Card_I-58.png"
+      },
+      "tag2": {
+        "id": "t0132",
+        "name": "jeanne_d'arc_alter_(avenger)_(fate)",
+        "proper_name": "Jeanne D'Arc Alter (Avenger)",
+        "category": "character",
+        "encrypted_count": "eVVhaA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/78/AvengerJeanneAlterStage1nb.png/revision/latest?cb=20211001014408&path-prefix=vi"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0130",
+        "name": "sunny_milk",
+        "proper_name": "Sunny Milk",
+        "category": "character",
+        "encrypted_count": "fFNiaw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://en.touhouwiki.net/images/2/22/Sunny-milk-FW.png?20101108015940"
+      },
+      "tag2": {
+        "id": "t0687",
+        "name": "ro-500_(kancolle)",
+        "proper_name": "Ro-500",
+        "category": "character",
+        "encrypted_count": "el1kaw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Ro-500.(Kantai.Collection).600.2131087.jpg"
       }
     }
   ]
