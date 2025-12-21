@@ -1,228 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-20T04:19:01.435414+00:00
-// Date: 2025-12-20
+// Generated on: 2025-12-21T04:31:08.202199+00:00
+// Date: 2025-12-21
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-20",
+  "date": "2025-12-21",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0176",
-        "name": "raora_panthera",
-        "proper_name": "Raora Panthera",
+        "id": "t0242",
+        "name": "houjou_satoko",
+        "proper_name": "Houjou Satoko",
         "category": "character",
-        "encrypted_count": "fVRmaA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
+        "encrypted_count": "fVdvYw==",
+        "copyright": "Higurashi When They Cry",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikitide.net/whentheycrywiki/1/16/Alc_sa1a_def_a1_2.png?version=412d4aa183c927277ad2171f039940c1"
       },
       "tag2": {
-        "id": "t0540",
-        "name": "shishiro_botan",
-        "proper_name": "Shishiro Botan",
-        "category": "character",
-        "encrypted_count": "e1Nnbw==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_02.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0734",
-        "name": "lily_white",
-        "proper_name": "Lily White",
-        "category": "character",
-        "encrypted_count": "elZuYw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fumo-city/images/7/7a/Lilywhitesbf.png/revision/latest?cb=20241003014301"
-      },
-      "tag2": {
-        "id": "t0428",
-        "name": "girls'_frontline_neural_cloud",
-        "proper_name": "Girls' Frontline: Neural Cloud",
+        "id": "t0671",
+        "name": "dungeons_&_dragons",
+        "proper_name": "Dungeons & Dragons",
         "category": "copyright",
-        "encrypted_count": "fFJhbQ==",
-        "copyright": "Girls' Frontline: Neural Cloud",
-        "material": "Video Game",
-        "image_reference": "https://uspto.report/TM/98035315/mark.png"
+        "encrypted_count": "e1RvaA==",
+        "copyright": "Dungeons & Dragons",
+        "material": "Tabletop Game",
+        "image_reference": "https://logo-marque.com/wp-content/uploads/2022/01/Dungeons-Dragons-Logo-2008-2014.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0782",
-        "name": "medusa_(rider)_(fate)",
-        "proper_name": "Medusa (Rider)",
+        "id": "t0404",
+        "name": "higashiyama_kobeni",
+        "proper_name": "Higashiyama Kobeni",
         "category": "character",
-        "encrypted_count": "e1BiYw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/vsbattles/images/d/dc/Fate_Grand_Order_Rider_Medusa.png/revision/latest?cb=20180103064846"
+        "encrypted_count": "fVZlbQ==",
+        "copyright": "Chainsaw Man",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
       },
       "tag2": {
-        "id": "t0255",
-        "name": "fujita_kotone",
-        "proper_name": "Fujita Kotone",
+        "id": "t0869",
+        "name": "inui_toko",
+        "proper_name": "Inui Toko",
         "category": "character",
-        "encrypted_count": "fFxlbw==",
-        "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/7f/Kotone_Portrait.png/revision/latest?cb=20240306193455"
+        "encrypted_count": "fFFibA==",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0603",
-        "name": "kikuchi_makoto",
-        "proper_name": "Kikuchi Makoto",
+        "id": "t0008",
+        "name": "genshin_impact",
+        "proper_name": "Genshin Impact",
+        "category": "copyright",
+        "encrypted_count": "fFNla0gA",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2602/30935168a0f21b6710dc2bd7bb37c23ed937fb9fa747d84c.png"
+      },
+      "tag2": {
+        "id": "t0237",
+        "name": "snk",
+        "proper_name": "Shingeki no Kyojin",
+        "category": "copyright",
+        "encrypted_count": "fFNubUU=",
+        "copyright": "Attack on Titan",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0545",
+        "name": "pripara",
+        "proper_name": "Pripara",
+        "category": "copyright",
+        "encrypted_count": "eFZgbw==",
+        "copyright": "Pripara",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pripara/images/b/b9/Pripara_logo.png/revision/latest/scale-to-width-down/180?cb=20190729130335"
+      },
+      "tag2": {
+        "id": "t0662",
+        "name": "kiryuuin_satsuki",
+        "proper_name": "Kiryuuin Satsuki",
         "category": "character",
-        "encrypted_count": "e1JiYw==",
+        "encrypted_count": "eF1nYg==",
+        "copyright": "Kill la Kill",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/kill-la-kill/images/0/01/Satsuki_Kiryuin(1).png/revision/latest?cb=20170301220730&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0488",
+        "name": "nikki_(series)",
+        "proper_name": "Nikki Series",
+        "category": "copyright",
+        "encrypted_count": "eFZmaA==",
+        "copyright": "Nikki Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
+      },
+      "tag2": {
+        "id": "t0435",
+        "name": "akiyama_mizuki",
+        "proper_name": "Akiyama Mizuki",
+        "category": "character",
+        "encrypted_count": "fFdjbQ==",
         "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/d/d1/Normal_Makoto_Kikuchi_Mobage_Transparent.png/revision/latest?cb=20190202042832"
-      },
-      "tag2": {
-        "id": "t0089",
-        "name": "ruby_rose",
-        "proper_name": "Ruby Rose",
-        "category": "character",
-        "encrypted_count": "e1ZkbQ==",
-        "copyright": "RWBY",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rwby/images/9/9b/RubyRose-V8C14.png/revision/latest?cb=20241205032544"
+        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
       }
     },
     {
       "tag1": {
-        "id": "t0341",
-        "name": "non-human_admiral_(kancolle)",
-        "proper_name": "Non-Human Admiral",
+        "id": "t0396",
+        "name": "sonia_(pokemon)",
+        "proper_name": "Sonia",
         "category": "character",
-        "encrypted_count": "f1FuaA==",
+        "encrypted_count": "elBmbQ==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/3/3b/Sword_Shield_Sonia.png"
+      },
+      "tag2": {
+        "id": "t0658",
+        "name": "silence_suzuka_(umamusume)",
+        "proper_name": "Silence Suzuka",
+        "category": "character",
+        "encrypted_count": "eldgYg==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/uma-musume-pretty-derby/images/c/c1/Silence_Suzuka_(Stage).png/revision/latest?cb=20220724182241"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0586",
+        "name": "ooi_(kancolle)",
+        "proper_name": "Ooi",
+        "category": "character",
+        "encrypted_count": "eldgag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
+        "image_reference": "https://static.zerochan.net/Ooi.(Kantai.Collection).1024.4416436.webp"
       },
       "tag2": {
-        "id": "t0877",
-        "name": "atelier_ryza_1",
-        "proper_name": "Atelier Ryza 1",
-        "category": "copyright",
-        "encrypted_count": "fFFuag==",
-        "copyright": "Atelier Ryza",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
+        "id": "t0640",
+        "name": "akiyama_yukari",
+        "proper_name": "Akiyama Yukari",
+        "category": "character",
+        "encrypted_count": "e1RkYw==",
+        "image_reference": "https://vignette.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png/revision/latest?cb=20170124073104"
       }
     },
     {
       "tag1": {
-        "id": "t0184",
-        "name": "phase_connect",
-        "proper_name": "Phase Connect",
+        "id": "t0535",
+        "name": "mahou_shoujo_madoka_magica:_hangyaku_no_monogatari",
+        "proper_name": "Mahou Shoujo Madoka Magica: Hangyaku no Monogatari",
         "category": "copyright",
-        "encrypted_count": "fV1uaA==",
-        "copyright": "Phase Connect",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/phase_connect___logo.png"
-      },
-      "tag2": {
-        "id": "t0169",
-        "name": "hagiwara_yukiho",
-        "proper_name": "Hagiwara Yukiho",
-        "category": "character",
-        "encrypted_count": "fVBgbQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/4/45/MASTER_ARTIST_4_11.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0559",
-        "name": "anchovy_(girls_und_panzer)",
-        "proper_name": "Anchovy",
-        "category": "character",
-        "encrypted_count": "e1xiaw==",
-        "copyright": "Girls und Panzer",
+        "encrypted_count": "e1Bhaw==",
+        "copyright": "Mahou Shoujo Madoka Magica",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/7/79/Anchovy.png/revision/latest?cb=20170123061720"
+        "image_reference": "https://www.animeclick.it/immagini/manga/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari/cover/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari-cover.jpg"
       },
       "tag2": {
-        "id": "t0181",
-        "name": "jinx_(league_of_legends)",
-        "proper_name": "Jinx",
+        "id": "t0701",
+        "name": "stocking_(psg)",
+        "proper_name": "Stocking",
         "category": "character",
-        "encrypted_count": "elZmYw==",
-        "copyright": "League of Legends",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
+        "encrypted_count": "eFFjaA==",
+        "copyright": "Panty & Stocking with Garterbelt",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
       }
     },
     {
       "tag1": {
-        "id": "t0667",
-        "name": "yurucamp",
-        "proper_name": "Yuru Camp",
+        "id": "t0617",
+        "name": "lobotomy_corporation",
+        "proper_name": "Lobotomy Corporation",
         "category": "copyright",
-        "encrypted_count": "e1JhYg==",
-        "copyright": "Yuru Camp",
-        "material": "Anime",
-        "image_reference": "https://logowik.com/content/uploads/images/yuru-camp1673.logowik.com.webp"
+        "encrypted_count": "elxnaw==",
+        "copyright": "Lobotomy Corporation",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/tetisketunia/images/2/2f/L._Corp.png/revision/latest?cb=20230526190738&path-prefix=es"
       },
       "tag2": {
-        "id": "t0463",
-        "name": "aubrey_(faraway)_(omori)",
-        "proper_name": "Aubrey",
+        "id": "t0892",
+        "name": "hero_(omori)",
+        "proper_name": "Hero",
         "category": "character",
-        "encrypted_count": "fFZubA==",
+        "encrypted_count": "fFZhbQ==",
         "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/8/88/DW_Aubrey_Fullbody_Profile.png/revision/latest?cb=20221031041200"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
       }
     },
     {
       "tag1": {
-        "id": "t0513",
-        "name": "arona_(blue_archive)",
-        "proper_name": "Arona",
+        "id": "t0934",
+        "name": "yukihana_lamy",
+        "proper_name": "Yukihana Lamy",
         "category": "character",
-        "encrypted_count": "eFJmbw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/e/e6/Arona.png/266px-Arona.png"
+        "encrypted_count": "eFZmbA==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/68/Yukihana_Lamy_-_Portrait_01.png/1200px-Yukihana_Lamy_-_Portrait_01.png"
       },
       "tag2": {
-        "id": "t0307",
-        "name": "kudamaki_tsukasa",
-        "proper_name": "Kudamaki Tsukasa",
+        "id": "t0789",
+        "name": "tatsumaki",
+        "proper_name": "Tatsumaki",
         "category": "character",
-        "encrypted_count": "fFBjaA==",
-        "copyright": "D4DJ",
+        "encrypted_count": "eVJgag==",
+        "copyright": "One Punch Man",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Kudamaki.Tsukasa.full.3320713.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0672",
-        "name": "osomatsu-san",
-        "proper_name": "Osomatsu-san",
-        "category": "copyright",
-        "encrypted_count": "e1dkbw==",
-        "copyright": "Osomatsu-san",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/osomatsu/images/e/e6/Site-logo.png/revision/latest?cb=20210720132516&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0287",
-        "name": "satsuki_(kancolle)",
-        "proper_name": "Satsuki",
-        "category": "character",
-        "encrypted_count": "fFJgaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
+        "image_reference": "https://vignette.wikia.nocookie.net/onepunchman/images/d/d2/Tatsumaki_Manga.png/revision/latest?cb=20190907232753"
       }
     }
   ]
