@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-21T04:31:08.202199+00:00
-// Date: 2025-12-21
+// Generated on: 2025-12-22T04:33:16.484403+00:00
+// Date: 2025-12-22
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-21",
+  "date": "2025-12-22",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0242",
-        "name": "houjou_satoko",
-        "proper_name": "Houjou Satoko",
+        "id": "t0172",
+        "name": "illustrious_(azur_lane)",
+        "proper_name": "Illustrious",
         "category": "character",
-        "encrypted_count": "fVdvYw==",
-        "copyright": "Higurashi When They Cry",
+        "encrypted_count": "fVdhbg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/3/39/Illustrious.png"
+      },
+      "tag2": {
+        "id": "t0677",
+        "name": "meltryllis_(fate)",
+        "proper_name": "Meltryllis",
+        "category": "character",
+        "encrypted_count": "elxiaA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/e/e9/Meltryllis.png/revision/latest?cb=20121214101028"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0203",
+        "name": "changli_(wuthering_waves)",
+        "proper_name": "Changli",
+        "category": "character",
+        "encrypted_count": "fF1uYg==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Changli_Introduction.png/revision/latest?cb=20240518045554"
+      },
+      "tag2": {
+        "id": "t0742",
+        "name": "exusiai_(arknights)",
+        "proper_name": "Exusiai",
+        "category": "character",
+        "encrypted_count": "elBiaA==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/24/Exusiai.png/revision/latest?cb=20190623025141"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0230",
+        "name": "kid_icarus_uprising",
+        "proper_name": "Kid Icarus: Uprising",
+        "category": "copyright",
+        "encrypted_count": "elVvbw==",
+        "copyright": "Kid Icarus: Uprising",
+        "material": "Video Game",
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdlhz0SDnycIXAyHMifpNYjHFY6xq8cTkg2sR9Ff8zE9PQAbqyap13XnTJ0g4_WFdFg8WvA"
+      },
+      "tag2": {
+        "id": "t0912",
+        "name": "miorine_rembran",
+        "proper_name": "Miorine Rembran",
+        "category": "character",
+        "encrypted_count": "eFRmYg==",
+        "copyright": "Mobile Suit Gundam: The Witch from Mercury",
+        "material": "Anime",
+        "image_reference": "https://en.gundam.info/about-gundam/series-pages/witch/gwitch/jp/character/2023/05/205_front_2.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0646",
+        "name": "octoling_player_character",
+        "proper_name": "Octoling Player Character",
+        "category": "character",
+        "encrypted_count": "e1VkbQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/Octo_Expansion_multiplayer_gear.jpg/1200px-Octo_Expansion_multiplayer_gear.jpg"
+      },
+      "tag2": {
+        "id": "t0859",
+        "name": "spice_and_wolf",
+        "proper_name": "Spice and Wolf",
+        "category": "copyright",
+        "encrypted_count": "elBgbw==",
+        "copyright": "Spice and Wolf",
+        "material": "Light Novel",
+        "image_reference": "https://images.fanart.tv/fanart/spice-and-wolf-576941a008b12.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0227",
+        "name": "futari_wa_precure",
+        "proper_name": "Futari wa Precure",
+        "category": "copyright",
+        "encrypted_count": "elZlYw==",
+        "copyright": "Futari wa Precure",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0361",
+        "name": "miyafuji_yoshika",
+        "proper_name": "Miyafuji Yoshika",
+        "category": "character",
+        "encrypted_count": "fVVhag==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Miyafuji.Yoshika.full.1053900.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0724",
+        "name": "kishin_sagume",
+        "proper_name": "Kishin Sagume",
+        "category": "character",
+        "encrypted_count": "elZkbg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5a/TH15Sagume.png/revision/latest?cb=20150908222725"
+      },
+      "tag2": {
+        "id": "t0056",
+        "name": "modao_zushi",
+        "proper_name": "Mo Dao Zu Shi",
+        "category": "copyright",
+        "encrypted_count": "fVFibA==",
+        "copyright": "Mo Dao Zu Shi",
+        "material": "Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/e/e8/One_of_the_official_posters_for_Mo_Dao_Zu_Shi_by_Tencent.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0253",
+        "name": "beatrice_(umineko)",
+        "proper_name": "Beatrice",
+        "category": "character",
+        "encrypted_count": "fVVnYg==",
+        "copyright": "Umineko no Naku Koro ni",
         "material": "Visual Novel",
-        "image_reference": "https://static.wikitide.net/whentheycrywiki/1/16/Alc_sa1a_def_a1_2.png?version=412d4aa183c927277ad2171f039940c1"
+        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
       },
       "tag2": {
-        "id": "t0671",
-        "name": "dungeons_&_dragons",
-        "proper_name": "Dungeons & Dragons",
-        "category": "copyright",
-        "encrypted_count": "e1RvaA==",
-        "copyright": "Dungeons & Dragons",
-        "material": "Tabletop Game",
-        "image_reference": "https://logo-marque.com/wp-content/uploads/2022/01/Dungeons-Dragons-Logo-2008-2014.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0404",
-        "name": "higashiyama_kobeni",
-        "proper_name": "Higashiyama Kobeni",
+        "id": "t0111",
+        "name": "iskandar_(fate)",
+        "proper_name": "Iskandar",
         "category": "character",
-        "encrypted_count": "fVZlbQ==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
-      },
-      "tag2": {
-        "id": "t0869",
-        "name": "inui_toko",
-        "proper_name": "Inui Toko",
-        "category": "character",
-        "encrypted_count": "fFFibA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0008",
-        "name": "genshin_impact",
-        "proper_name": "Genshin Impact",
-        "category": "copyright",
-        "encrypted_count": "fFNla0gA",
-        "copyright": "Genshin Impact",
+        "encrypted_count": "fVRuYg==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2602/30935168a0f21b6710dc2bd7bb37c23ed937fb9fa747d84c.png"
-      },
-      "tag2": {
-        "id": "t0237",
-        "name": "snk",
-        "proper_name": "Shingeki no Kyojin",
-        "category": "copyright",
-        "encrypted_count": "fFNubUU=",
-        "copyright": "Attack on Titan",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo.png"
+        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
       }
     },
     {
       "tag1": {
-        "id": "t0545",
-        "name": "pripara",
-        "proper_name": "Pripara",
-        "category": "copyright",
-        "encrypted_count": "eFZgbw==",
-        "copyright": "Pripara",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pripara/images/b/b9/Pripara_logo.png/revision/latest/scale-to-width-down/180?cb=20190729130335"
-      },
-      "tag2": {
-        "id": "t0662",
-        "name": "kiryuuin_satsuki",
-        "proper_name": "Kiryuuin Satsuki",
+        "id": "t0578",
+        "name": "musashi_(kancolle)",
+        "proper_name": "Musashi",
         "category": "character",
-        "encrypted_count": "eF1nYg==",
-        "copyright": "Kill la Kill",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/kill-la-kill/images/0/01/Satsuki_Kiryuin(1).png/revision/latest?cb=20170301220730&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0488",
-        "name": "nikki_(series)",
-        "proper_name": "Nikki Series",
-        "category": "copyright",
-        "encrypted_count": "eFZmaA==",
-        "copyright": "Nikki Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
-      },
-      "tag2": {
-        "id": "t0435",
-        "name": "akiyama_mizuki",
-        "proper_name": "Akiyama Mizuki",
-        "category": "character",
-        "encrypted_count": "fFdjbQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0396",
-        "name": "sonia_(pokemon)",
-        "proper_name": "Sonia",
-        "category": "character",
-        "encrypted_count": "elBmbQ==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/3/3b/Sword_Shield_Sonia.png"
-      },
-      "tag2": {
-        "id": "t0658",
-        "name": "silence_suzuka_(umamusume)",
-        "proper_name": "Silence Suzuka",
-        "category": "character",
-        "encrypted_count": "eldgYg==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/uma-musume-pretty-derby/images/c/c1/Silence_Suzuka_(Stage).png/revision/latest?cb=20220724182241"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0586",
-        "name": "ooi_(kancolle)",
-        "proper_name": "Ooi",
-        "category": "character",
-        "encrypted_count": "eldgag==",
+        "encrypted_count": "e1Rhbg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Ooi.(Kantai.Collection).1024.4416436.webp"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/73/Musashi_Full.webp/revision/latest?cb=20221203120134&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0640",
-        "name": "akiyama_yukari",
-        "proper_name": "Akiyama Yukari",
+        "id": "t0122",
+        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
+        "proper_name": "Elysia",
         "category": "character",
-        "encrypted_count": "e1RkYw==",
-        "image_reference": "https://vignette.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png/revision/latest?cb=20170124073104"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0535",
-        "name": "mahou_shoujo_madoka_magica:_hangyaku_no_monogatari",
-        "proper_name": "Mahou Shoujo Madoka Magica: Hangyaku no Monogatari",
-        "category": "copyright",
-        "encrypted_count": "e1Bhaw==",
-        "copyright": "Mahou Shoujo Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://www.animeclick.it/immagini/manga/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari/cover/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari-cover.jpg"
-      },
-      "tag2": {
-        "id": "t0701",
-        "name": "stocking_(psg)",
-        "proper_name": "Stocking",
-        "category": "character",
-        "encrypted_count": "eFFjaA==",
-        "copyright": "Panty & Stocking with Garterbelt",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0617",
-        "name": "lobotomy_corporation",
-        "proper_name": "Lobotomy Corporation",
-        "category": "copyright",
-        "encrypted_count": "elxnaw==",
-        "copyright": "Lobotomy Corporation",
+        "encrypted_count": "fVVgYw==",
+        "copyright": "Honkai Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/tetisketunia/images/2/2f/L._Corp.png/revision/latest?cb=20230526190738&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0892",
-        "name": "hero_(omori)",
-        "proper_name": "Hero",
-        "category": "character",
-        "encrypted_count": "fFZhbQ==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
       }
     },
     {
       "tag1": {
-        "id": "t0934",
-        "name": "yukihana_lamy",
-        "proper_name": "Yukihana Lamy",
+        "id": "t0118",
+        "name": "my_little_pony",
+        "proper_name": "My Little Pony",
+        "category": "copyright",
+        "encrypted_count": "e1Vvbw==",
+        "copyright": "My Little Pony",
+        "material": "TV Show",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/04/My-Little-Pony-Logo-2016.png"
+      },
+      "tag2": {
+        "id": "t0332",
+        "name": "luigi",
+        "proper_name": "Luigi",
         "category": "character",
-        "encrypted_count": "eFZmbA==",
-        "copyright": "Hololive",
+        "encrypted_count": "eldnaA==",
+        "copyright": "Nintendo",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/nintendo/images/0/0a/MP10_Luigi.png/revision/latest?cb=20170626025223&path-prefix=en"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0145",
+        "name": "lize_helesta",
+        "proper_name": "Lize Helesta",
+        "category": "character",
+        "encrypted_count": "fVdvaw==",
+        "copyright": "Nijisanji",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/68/Yukihana_Lamy_-_Portrait_01.png/1200px-Yukihana_Lamy_-_Portrait_01.png"
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/1/13/Lize_Helesta_Portrait.png/revision/latest?cb=20210327042159"
       },
       "tag2": {
-        "id": "t0789",
-        "name": "tatsumaki",
-        "proper_name": "Tatsumaki",
+        "id": "t0898",
+        "name": "chando_(ado)",
+        "proper_name": "Chando",
         "category": "character",
-        "encrypted_count": "eVJgag==",
-        "copyright": "One Punch Man",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepunchman/images/d/d2/Tatsumaki_Manga.png/revision/latest?cb=20190907232753"
+        "encrypted_count": "fFBjbg==",
+        "copyright": "Ado",
+        "material": "Music",
+        "image_reference": "https://cdn.donmai.us/original/94/2a/942a7f049d0af9bc21016fe18c7ed8ea.jpg"
       }
     }
   ]
