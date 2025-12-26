@@ -1,229 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-25T04:31:30.187504+00:00
-// Date: 2025-12-25
+// Generated on: 2025-12-26T04:28:41.816203+00:00
+// Date: 2025-12-26
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-25",
+  "date": "2025-12-26",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0157",
-        "name": "my_little_pony:_friendship_is_magic",
-        "proper_name": "My Little Pony: Friendship Is Magic",
+        "id": "t0421",
+        "name": "hidamari_sketch",
+        "proper_name": "Hidamari Sketch",
         "category": "copyright",
-        "encrypted_count": "elJhag==",
-        "copyright": "My Little Pony",
-        "material": "TV Show",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg/640px-My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg.png"
-      },
-      "tag2": {
-        "id": "t0113",
-        "name": "bloodborne",
-        "proper_name": "Bloodborne",
-        "category": "copyright",
-        "encrypted_count": "fVBubg==",
-        "copyright": "Bloodborne",
-        "material": "Video Game",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Bloodborne-Logo.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0456",
-        "name": "tachibana_kanade",
-        "proper_name": "Tachibana Kanade",
-        "category": "character",
-        "encrypted_count": "f1Zi",
-        "copyright": "Angel Beats!",
+        "encrypted_count": "fVFhaA==",
+        "copyright": "Hidamari Sketch",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/angelbeats/images/d/d4/Kanade_anime.png/revision/latest/scale-to-width-down/1200?cb=20190414062510"
+        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
       },
       "tag2": {
-        "id": "t0566",
-        "name": "transformers",
-        "proper_name": "Transformers",
-        "category": "copyright",
-        "encrypted_count": "eFRmbg==",
-        "copyright": "Transformers",
-        "image_reference": "https://vignette.wikia.nocookie.net/transformers-film-series/images/6/69/Transformers_(Logo).png/revision/latest?cb=20160331061907"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0071",
-        "name": "nicole_demara",
-        "proper_name": "Nicole Demara",
+        "id": "t0447",
+        "name": "toshinou_kyouko",
+        "proper_name": "Toshinou Kyouko",
         "category": "character",
-        "encrypted_count": "fVJibQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
-      },
-      "tag2": {
-        "id": "t0361",
-        "name": "miyafuji_yoshika",
-        "proper_name": "Miyafuji Yoshika",
-        "category": "character",
-        "encrypted_count": "fVVhag==",
-        "copyright": "Strike Witches",
+        "encrypted_count": "fFxkbg==",
+        "copyright": "YuruYuri",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Miyafuji.Yoshika.full.1053900.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
       }
     },
     {
       "tag1": {
-        "id": "t0154",
-        "name": "stellive",
-        "proper_name": "Stellive",
-        "category": "copyright",
-        "encrypted_count": "fVZhbA==",
-        "copyright": "Stellive",
+        "id": "t0111",
+        "name": "iskandar_(fate)",
+        "proper_name": "Iskandar",
+        "category": "character",
+        "encrypted_count": "fVRuYg==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
       },
       "tag2": {
-        "id": "t0486",
-        "name": "cynthia_(pokemon)",
-        "proper_name": "Cynthia",
+        "id": "t0831",
+        "name": "mydei_(honkai:_star_rail)",
+        "proper_name": "Mydei",
         "category": "character",
-        "encrypted_count": "f1RnYkc=",
-        "copyright": "Pokemon",
+        "encrypted_count": "fVNhaQ==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/nintendo/images/c/c3/CynthiaBDSP.png/revision/latest?cb=20220120105612&path-prefix=en"
+        "image_reference": "https://staticg.sportskeeda.com/editor/2025/02/ea940-17395394049968-1920.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0746",
-        "name": "yelan_(genshin_impact)",
-        "proper_name": "Yelan",
+        "id": "t0274",
+        "name": "sayonara_zetsubou_sensei",
+        "proper_name": "Sayonara, Zetsubou-Sensei",
+        "category": "copyright",
+        "encrypted_count": "fVdjYw==",
+        "copyright": "Sayonara, Zetsubou-Sensei",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/71/A_Sayonara_zetsubou_sensei_logo.png/revision/latest?cb=20150308203430"
+      },
+      "tag2": {
+        "id": "t0493",
+        "name": "klee_(genshin_impact)",
+        "proper_name": "Klee",
         "category": "character",
-        "encrypted_count": "elJhYw==",
+        "encrypted_count": "eFxnaA==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
-      },
-      "tag2": {
-        "id": "t0691",
-        "name": "rover_(wuthering_waves)",
-        "proper_name": "Rover",
-        "category": "character",
-        "encrypted_count": "eldnYw==",
-        "copyright": "Wuthering Waves",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png/revision/latest?cb=20240420140302"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/2/25/Personagem_Klee_Cart\u00e3o.jpg/revision/latest?cb=20210325003340&path-prefix=pt-br"
       }
     },
     {
       "tag1": {
-        "id": "t0100",
-        "name": "katyusha_(girls_und_panzer)",
-        "proper_name": "Katyusha",
+        "id": "t0260",
+        "name": "nian_(arknights)",
+        "proper_name": "Nian",
         "category": "character",
-        "encrypted_count": "fVZkaw==",
-        "copyright": "Girls und Panzer",
+        "encrypted_count": "fFxgbQ==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
+      },
+      "tag2": {
+        "id": "t0192",
+        "name": "nia_teppelin",
+        "proper_name": "Nia Teppelin",
+        "category": "character",
+        "encrypted_count": "fVdlaA==",
+        "copyright": "Tengen Toppa Gurren Lagann",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/c/ce/Katyusha.png/revision/latest?cb=20170123061132"
-      },
-      "tag2": {
-        "id": "t0512",
-        "name": "archer_(fate)",
-        "proper_name": "Archer",
-        "category": "character",
-        "encrypted_count": "eFRjaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
+        "image_reference": "https://vignette2.wikia.nocookie.net/gurennlagann/images/6/60/Nialove.jpg/revision/latest?cb=20131125032633"
       }
     },
     {
       "tag1": {
-        "id": "t0034",
-        "name": "florence_nightingale_(fate)",
-        "proper_name": "Florence Nightingale",
+        "id": "t0211",
+        "name": "lucario",
+        "proper_name": "Lucario",
         "category": "character",
-        "encrypted_count": "elZmYg==",
-        "copyright": "Fate Series",
+        "encrypted_count": "elJiaA==",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/51/BerserkerFloranceStage3.png/revision/latest?cb=20170217232053"
+        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
       },
       "tag2": {
-        "id": "t0507",
-        "name": "watanabe_you",
-        "proper_name": "Watanabe You",
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
+        "category": "copyright",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
+        "material": "Video Game",
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0218",
+        "name": "mizi_(alien_stage)",
+        "proper_name": "Mizi",
         "category": "character",
-        "encrypted_count": "d1FnaQ==",
+        "encrypted_count": "fFJuYg==",
+        "copyright": "Alien Stage",
+        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
+      },
+      "tag2": {
+        "id": "t0781",
+        "name": "kiso_(kancolle)",
+        "proper_name": "Kiso",
+        "category": "character",
+        "encrypted_count": "fVNjbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Kiso.(Kantai.Collection).full.1763723.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0383",
+        "name": "yoru_(chainsaw_man)",
+        "proper_name": "Yoru",
+        "category": "character",
+        "encrypted_count": "fF1mbw==",
+        "copyright": "Chainsaw Man",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b7/Img_cm_yoru_manga.png/revision/latest?cb=20231025061200&path-prefix=pt-br"
+      },
+      "tag2": {
+        "id": "t0291",
+        "name": "hilbert_(pokemon)",
+        "proper_name": "Hilbert",
+        "category": "character",
+        "encrypted_count": "fVJubg==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/Spr_Masters_Hilbert.png/800px-Spr_Masters_Hilbert.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0051",
+        "name": "cyberpunk:_edgerunners",
+        "proper_name": "Cyberpunk: Edgerunners",
+        "category": "copyright",
+        "encrypted_count": "elJlbQ==",
+        "copyright": "Cyberpunk: Edgerunners",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg/revision/latest?cb=20220801170122"
+      },
+      "tag2": {
+        "id": "t0388",
+        "name": "kunikida_hanamaru",
+        "proper_name": "Kunikida Hanamaru",
+        "category": "character",
+        "encrypted_count": "elFibg==",
         "copyright": "Love Live! Sunshine!!",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Watanabe.You.full.2918010.png"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/c/c1/Sunshine%21%21_infobox_-_Kunikida_Hanamaru.png/revision/latest?cb=20170402074009"
       }
     },
     {
       "tag1": {
-        "id": "t0846",
-        "name": "kirigiri_kyoko",
-        "proper_name": "Kirigiri Kyoko",
-        "category": "character",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
-      },
-      "tag2": {
-        "id": "t0266",
-        "name": "kirima_syaro",
-        "proper_name": "Kirima Syaro",
-        "category": "character",
-        "encrypted_count": "fVZmbA==",
-        "copyright": "Gochuumon wa Usagi Desu ka?",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gochuumon-wa-usagi-desu-ka/images/f/f0/Kirima_syaro_render_by_poppyoreos-d7zaxlr.png/revision/latest?cb=20151024212114&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0672",
-        "name": "osomatsu-san",
-        "proper_name": "Osomatsu-san",
+        "id": "t0671",
+        "name": "dungeons_&_dragons",
+        "proper_name": "Dungeons & Dragons",
         "category": "copyright",
-        "encrypted_count": "e1dkbw==",
-        "copyright": "Osomatsu-san",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/osomatsu/images/e/e6/Site-logo.png/revision/latest?cb=20210720132516&path-prefix=es"
+        "encrypted_count": "e1RvaA==",
+        "copyright": "Dungeons & Dragons",
+        "material": "Tabletop Game",
+        "image_reference": "https://logo-marque.com/wp-content/uploads/2022/01/Dungeons-Dragons-Logo-2008-2014.jpg"
       },
       "tag2": {
-        "id": "t0622",
-        "name": "cammy_white",
-        "proper_name": "Cammy White",
+        "id": "t0126",
+        "name": "kirito",
+        "proper_name": "Kirito",
         "category": "character",
-        "encrypted_count": "d1JjbQ==",
-        "copyright": "Street Fighter",
-        "material": "Video Game",
-        "image_reference": "https://www.writeups.org/wp-content/uploads/Cammy-Street-Fighters-h61-big.jpg"
+        "encrypted_count": "fVJjbw==",
+        "copyright": "Sword Art Online",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Kirito_Sword_Art_Online.png"
       }
     },
     {
       "tag1": {
-        "id": "t0457",
-        "name": "frisk_(undertale)",
-        "proper_name": "Frisk",
-        "category": "character",
-        "encrypted_count": "fVRmag==",
-        "copyright": "Undertale",
+        "id": "t0597",
+        "name": "flower_knight_girl",
+        "proper_name": "Flower Knight Girl",
+        "category": "copyright",
+        "encrypted_count": "e1FmYg==",
+        "copyright": "Flower Knight Girl",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/undertale/images/a/a7/Undertale_frisk_front_by_ldinos-d9ywr9e.png/revision/latest?cb=20170105221708&path-prefix=es"
+        "image_reference": "https://flower-knight-girl.com/shared/img/top/main_logo.png"
       },
       "tag2": {
-        "id": "t0510",
-        "name": "watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!",
-        "proper_name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-        "category": "copyright",
-        "encrypted_count": "eFBlbg==",
-        "copyright": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/7d/ce/f7/7dcef7efe40b9739963376bb23afa323.jpg"
+        "id": "t0170",
+        "name": "serika_(blue_archive)",
+        "proper_name": "Serika",
+        "category": "character",
+        "encrypted_count": "fF1vbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/68195-1831388089.png"
       }
     }
   ]
