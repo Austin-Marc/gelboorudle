@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-26T04:28:41.816203+00:00
-// Date: 2025-12-26
+// Generated on: 2025-12-27T04:26:07.246412+00:00
+// Date: 2025-12-27
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-26",
+  "date": "2025-12-27",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0421",
-        "name": "hidamari_sketch",
-        "proper_name": "Hidamari Sketch",
+        "id": "t0488",
+        "name": "nikki_(series)",
+        "proper_name": "Nikki Series",
         "category": "copyright",
-        "encrypted_count": "fVFhaA==",
-        "copyright": "Hidamari Sketch",
-        "material": "Anime",
-        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
+        "encrypted_count": "eFZmaA==",
+        "copyright": "Nikki Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
       },
       "tag2": {
-        "id": "t0447",
-        "name": "toshinou_kyouko",
-        "proper_name": "Toshinou Kyouko",
+        "id": "t0169",
+        "name": "hagiwara_yukiho",
+        "proper_name": "Hagiwara Yukiho",
         "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "YuruYuri",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
+        "encrypted_count": "fVBgbQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/4/45/MASTER_ARTIST_4_11.png"
       }
     },
     {
       "tag1": {
-        "id": "t0111",
-        "name": "iskandar_(fate)",
-        "proper_name": "Iskandar",
+        "id": "t0478",
+        "name": "komaeda_nagito",
+        "proper_name": "Nagito Komaeda",
         "category": "character",
-        "encrypted_count": "fVRuYg==",
-        "copyright": "Fate Series",
+        "encrypted_count": "eFFnbg==",
+        "copyright": "Danganronpa",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/7/7d/Nagito_Komaeda_Illustration.png/revision/latest?cb=20180210181740&path-prefix=fr"
       },
       "tag2": {
-        "id": "t0831",
-        "name": "mydei_(honkai:_star_rail)",
-        "proper_name": "Mydei",
+        "id": "t0454",
+        "name": "hishikawa_rikka",
+        "proper_name": "Hishikawa Rikka",
         "category": "character",
-        "encrypted_count": "fVNhaQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://staticg.sportskeeda.com/editor/2025/02/ea940-17395394049968-1920.jpg"
+        "encrypted_count": "fFFubA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/prettycure/images/a/a7/Curediamondmain.jpg/revision/latest?cb=20121226035824"
       }
     },
     {
       "tag1": {
-        "id": "t0274",
-        "name": "sayonara_zetsubou_sensei",
-        "proper_name": "Sayonara, Zetsubou-Sensei",
-        "category": "copyright",
-        "encrypted_count": "fVdjYw==",
-        "copyright": "Sayonara, Zetsubou-Sensei",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/71/A_Sayonara_zetsubou_sensei_logo.png/revision/latest?cb=20150308203430"
-      },
-      "tag2": {
-        "id": "t0493",
-        "name": "klee_(genshin_impact)",
-        "proper_name": "Klee",
+        "id": "t0647",
+        "name": "marcille_donato",
+        "proper_name": "Marcille Donato",
         "category": "character",
-        "encrypted_count": "eFxnaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/2/25/Personagem_Klee_Cart\u00e3o.jpg/revision/latest?cb=20210325003340&path-prefix=pt-br"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0260",
-        "name": "nian_(arknights)",
-        "proper_name": "Nian",
-        "category": "character",
-        "encrypted_count": "fFxgbQ==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
-      },
-      "tag2": {
-        "id": "t0192",
-        "name": "nia_teppelin",
-        "proper_name": "Nia Teppelin",
-        "category": "character",
-        "encrypted_count": "fVdlaA==",
-        "copyright": "Tengen Toppa Gurren Lagann",
-        "material": "Anime",
-        "image_reference": "https://vignette2.wikia.nocookie.net/gurennlagann/images/6/60/Nialove.jpg/revision/latest?cb=20131125032633"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0211",
-        "name": "lucario",
-        "proper_name": "Lucario",
-        "category": "character",
-        "encrypted_count": "elJiaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
-      },
-      "tag2": {
-        "id": "t0428",
-        "name": "girls'_frontline_neural_cloud",
-        "proper_name": "Girls' Frontline: Neural Cloud",
-        "category": "copyright",
-        "encrypted_count": "fFJhbQ==",
-        "copyright": "Girls' Frontline: Neural Cloud",
-        "material": "Video Game",
-        "image_reference": "https://uspto.report/TM/98035315/mark.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0218",
-        "name": "mizi_(alien_stage)",
-        "proper_name": "Mizi",
-        "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Alien Stage",
-        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
-      },
-      "tag2": {
-        "id": "t0781",
-        "name": "kiso_(kancolle)",
-        "proper_name": "Kiso",
-        "category": "character",
-        "encrypted_count": "fVNjbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Kiso.(Kantai.Collection).full.1763723.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0383",
-        "name": "yoru_(chainsaw_man)",
-        "proper_name": "Yoru",
-        "category": "character",
-        "encrypted_count": "fF1mbw==",
-        "copyright": "Chainsaw Man",
+        "encrypted_count": "e1Rmag==",
+        "copyright": "Dorohedoro",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b7/Img_cm_yoru_manga.png/revision/latest?cb=20231025061200&path-prefix=pt-br"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0291",
-        "name": "hilbert_(pokemon)",
-        "proper_name": "Hilbert",
+        "id": "t0453",
+        "name": "carmine_(pokemon)",
+        "proper_name": "Carmine",
         "category": "character",
-        "encrypted_count": "fVJubg==",
+        "encrypted_count": "fFJuag==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/Spr_Masters_Hilbert.png/800px-Spr_Masters_Hilbert.png"
+        "image_reference": "https://archives.bulbagarden.net/media/upload/e/e6/Scarlet_Violet_Carmine.png"
       }
     },
     {
       "tag1": {
-        "id": "t0051",
-        "name": "cyberpunk:_edgerunners",
-        "proper_name": "Cyberpunk: Edgerunners",
-        "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "Cyberpunk: Edgerunners",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg/revision/latest?cb=20220801170122"
-      },
-      "tag2": {
-        "id": "t0388",
-        "name": "kunikida_hanamaru",
-        "proper_name": "Kunikida Hanamaru",
+        "id": "t0935",
+        "name": "noa_(blue_archive)",
+        "proper_name": "Noa",
         "category": "character",
-        "encrypted_count": "elFibg==",
-        "copyright": "Love Live! Sunshine!!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/c/c1/Sunshine%21%21_infobox_-_Kunikida_Hanamaru.png/revision/latest?cb=20170402074009"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0671",
-        "name": "dungeons_&_dragons",
-        "proper_name": "Dungeons & Dragons",
-        "category": "copyright",
-        "encrypted_count": "e1RvaA==",
-        "copyright": "Dungeons & Dragons",
-        "material": "Tabletop Game",
-        "image_reference": "https://logo-marque.com/wp-content/uploads/2022/01/Dungeons-Dragons-Logo-2008-2014.jpg"
-      },
-      "tag2": {
-        "id": "t0126",
-        "name": "kirito",
-        "proper_name": "Kirito",
-        "category": "character",
-        "encrypted_count": "fVJjbw==",
-        "copyright": "Sword Art Online",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Kirito_Sword_Art_Online.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0597",
-        "name": "flower_knight_girl",
-        "proper_name": "Flower Knight Girl",
-        "category": "copyright",
-        "encrypted_count": "e1FmYg==",
-        "copyright": "Flower Knight Girl",
-        "material": "Video Game",
-        "image_reference": "https://flower-knight-girl.com/shared/img/top/main_logo.png"
-      },
-      "tag2": {
-        "id": "t0170",
-        "name": "serika_(blue_archive)",
-        "proper_name": "Serika",
-        "category": "character",
-        "encrypted_count": "fF1vbA==",
+        "encrypted_count": "eFRgaQ==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/68195-1831388089.png"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Noa_Portrait.png"
+      },
+      "tag2": {
+        "id": "t0250",
+        "name": "wa2000_(girls'_frontline)",
+        "proper_name": "WA2000",
+        "category": "character",
+        "encrypted_count": "fFJlYg==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/girls-frontline/images/5/54/WA2000_S.png/revision/latest?cb=20240716105711&path-prefix=ru"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0680",
+        "name": "kal'tsit_(arknights)",
+        "proper_name": "Kal'tsit",
+        "category": "character",
+        "encrypted_count": "elFmaw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
+      },
+      "tag2": {
+        "id": "t0023",
+        "name": "nijisanji",
+        "proper_name": "Nijisanji",
+        "category": "copyright",
+        "encrypted_count": "eVNhbEg=",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/73/Nijisanji_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221027135628"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0497",
+        "name": "little_busters!",
+        "proper_name": "Little Busters!",
+        "category": "copyright",
+        "encrypted_count": "eFxgYw==",
+        "copyright": "Little Busters!",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/littlebusters/images/e/e6/Site-logo.png/revision/latest?cb=20210713161239"
+      },
+      "tag2": {
+        "id": "t0173",
+        "name": "hex_maniac_(pokemon_xy)",
+        "proper_name": "Hex Maniac",
+        "category": "character",
+        "encrypted_count": "eVVvYg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/07/HexManiac.png/revision/latest?cb=20211128202648"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0165",
+        "name": "z1_leberecht_maass_(kancolle)",
+        "proper_name": "Z1 Leberecht Maass",
+        "category": "character",
+        "encrypted_count": "fVRhbA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
+      },
+      "tag2": {
+        "id": "t0223",
+        "name": "matsuura_kanan",
+        "proper_name": "Matsuura Kanan",
+        "category": "character",
+        "encrypted_count": "e1Rhag==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0369",
+        "name": "vegeta",
+        "proper_name": "Vegeta",
+        "category": "character",
+        "encrypted_count": "elRnbg==",
+        "copyright": "Dragon Ball",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/dragonballfighterz/images/4/4f/Vegeta_Artwork.png/revision/latest?cb=20180902173806"
+      },
+      "tag2": {
+        "id": "t0225",
+        "name": "kiyohime_(fate)",
+        "proper_name": "Kiyohime",
+        "category": "character",
+        "encrypted_count": "fVRgYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0384",
+        "name": "chitanda_eru",
+        "proper_name": "Chitanda Eru",
+        "category": "character",
+        "encrypted_count": "fFxibA==",
+        "copyright": "Hyouka",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/hyouka/images/0/0f/Chitanda_eru.jpg/revision/latest/scale-to-width-down/1200?cb=20161113165236&path-prefix=vi"
+      },
+      "tag2": {
+        "id": "t0943",
+        "name": "hk416_(girls'_frontline)",
+        "proper_name": "HK416",
+        "category": "character",
+        "encrypted_count": "eFVlbQ==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://gf.rus.wiki/media/uploads/gf.rus.wiki-hk416-hk4161.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0109",
+        "name": "weiss_schnee",
+        "proper_name": "Weiss Schnee",
+        "category": "character",
+        "encrypted_count": "elNkbQ==",
+        "copyright": "RWBY",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png/revision/latest?cb=20241205032544"
+      },
+      "tag2": {
+        "id": "t0769",
+        "name": "doki_doki_literature_club",
+        "proper_name": "Doki Doki Literature Club!",
+        "category": "copyright",
+        "encrypted_count": "e1Jlbw==",
+        "copyright": "Doki Doki Literature Club!",
+        "material": "Video Game",
+        "image_reference": "https://micronations.wiki/images/en/images/images/thumb/d/dd/Doki_Doki_Literature_Club_DS_logo.svg/2560px-Doki_Doki_Literature_Club_DS_logo.svg.png"
       }
     }
   ]
