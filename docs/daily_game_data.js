@@ -1,226 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2025-12-28T04:38:03.935526+00:00
-// Date: 2025-12-28
+// Generated on: 2025-12-29T04:42:12.084685+00:00
+// Date: 2025-12-29
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2025-12-28",
+  "date": "2025-12-29",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0779",
-        "name": "anyoji_hime",
-        "proper_name": "Anyoji Hime",
-        "category": "character",
-        "encrypted_count": "fVduaA==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/fb/Hime_Anyoji_2025.png/revision/latest/scale-to-width-down/250?cb=20250410121127"
+        "id": "t0695",
+        "name": "phantasy_star_online_2",
+        "proper_name": "Phantasy Star Online 2",
+        "category": "copyright",
+        "encrypted_count": "e1VgbQ==",
+        "copyright": "Phantasy Star Online 2",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/48/Phantasy_star_online_2_logo.png"
       },
       "tag2": {
-        "id": "t0860",
-        "name": "yu-gi-oh!_duel_monsters",
-        "proper_name": "Yu-Gi-Oh! Duel Monsters",
+        "id": "t0496",
+        "name": "sono_bisque_doll_wa_koi_wo_suru",
+        "proper_name": "Sono Bisque Doll wa Koi wo Suru",
         "category": "copyright",
-        "encrypted_count": "d1BmaQ==",
-        "copyright": "Yu-Gi-Oh!",
+        "encrypted_count": "dlJkaw==",
+        "copyright": "Sono Bisque Doll wa Koi wo Suru",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/2/2f/Sono_Bisque_Doll_wa_Koi_wo_Suru%2C_Volume_1.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0647",
+        "name": "marcille_donato",
+        "proper_name": "Marcille Donato",
+        "category": "character",
+        "encrypted_count": "e1Rmag==",
+        "copyright": "Dorohedoro",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0706",
+        "name": "nitroplus",
+        "proper_name": "Nitroplus",
+        "category": "copyright",
+        "encrypted_count": "d1FlbQ==",
+        "copyright": "Nitroplus",
+        "material": "Video Game",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2021/09/Company-Logo_Nitroplus-1920x1088.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0052",
+        "name": "zero_no_tsukaima",
+        "proper_name": "Zero no Tsukaima",
+        "category": "copyright",
+        "encrypted_count": "e1xnYg==",
+        "copyright": "Zero no Tsukaima",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/ZnT_novel01.png"
+      },
+      "tag2": {
+        "id": "t0755",
+        "name": "cevio",
+        "proper_name": "CeVIO",
+        "category": "copyright",
+        "encrypted_count": "fV1iYw==",
+        "copyright": "CeVIO",
+        "material": "Music Software",
+        "image_reference": "https://cevio.jp/wp-content/uploads/2020/11/CeVIOAI_LOGO_data.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0197",
+        "name": "trafalgar_law",
+        "proper_name": "Trafalgar Law",
+        "category": "character",
+        "encrypted_count": "elxvaA==",
+        "copyright": "One Piece",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240109232516&path-prefix=pt"
+      },
+      "tag2": {
+        "id": "t0549",
+        "name": "x-men",
+        "proper_name": "X-Men",
+        "category": "copyright",
+        "encrypted_count": "eFdmYw==",
+        "copyright": "X-Men",
+        "material": "Comic",
+        "image_reference": "https://logopoppin.com/wp-content/uploads/2023/08/X-Men-logo-iteration-1969.webp"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0357",
+        "name": "accelerator_(toaru_majutsu_no_index)",
+        "proper_name": "Accelerator",
+        "category": "character",
+        "encrypted_count": "fFBlag==",
+        "copyright": "Toaru Majutsu no Index",
+        "material": "Light Novel",
+        "image_reference": "https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/9/96/Accelerator_Novel.jpg/revision/latest?cb=20160121115001"
+      },
+      "tag2": {
+        "id": "t0455",
+        "name": "akuma_homura",
+        "proper_name": "Akuma Homura",
+        "category": "character",
+        "encrypted_count": "fFFhbA==",
+        "copyright": "Puella Magi Madoka Magica",
         "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
+        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0498",
-        "name": "dead_or_alive",
-        "proper_name": "Dead or Alive",
-        "category": "copyright",
-        "encrypted_count": "fFVib0A=",
-        "copyright": "Dead or Alive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/deadoralive/images/c/c9/Logo.png/revision/latest?cb=20080525033719"
+        "id": "t0121",
+        "name": "aisaka_taiga",
+        "proper_name": "Aisaka Taiga",
+        "category": "character",
+        "encrypted_count": "fVNhYw==",
+        "copyright": "Toradora!",
+        "material": "Light Novel",
+        "image_reference": "https://anibase.net/files/076c0373d3a43576ada022e81b5be19c/360"
       },
       "tag2": {
-        "id": "t0526",
-        "name": "girls'_frontline_2:_exilium",
-        "proper_name": "Girls' Frontline 2: Exilium",
-        "category": "copyright",
-        "encrypted_count": "e1Jgbg==",
-        "copyright": "Girls' Frontline 2: Exilium",
+        "id": "t0351",
+        "name": "gengar",
+        "proper_name": "Gengar",
+        "category": "character",
+        "encrypted_count": "fVdibA==",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/4/47/0094Gengar.png/1200px-0094Gengar.png"
       }
     },
     {
       "tag1": {
-        "id": "t0258",
-        "name": "azusa_(blue_archive)",
-        "proper_name": "Azusa",
+        "id": "t0960",
+        "name": "itsumi_erika",
+        "proper_name": "Itsumi Erika",
         "category": "character",
-        "encrypted_count": "fFxjaw==",
+        "encrypted_count": "e1Fnaw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
+        "image_reference": "https://cdn.donmai.us/original/a3/59/__itsumi_erika_and_erika_blue_archive_and_1_more_drawn_by_kamishima_kanon__a359e862a02aac5f44d1c09454a21999.jpg"
       },
       "tag2": {
-        "id": "t0772",
-        "name": "pokemon_adventures",
-        "proper_name": "Pok\u00e9mon Adventures",
+        "id": "t0598",
+        "name": "len'en",
+        "proper_name": "Len'en",
         "category": "copyright",
-        "encrypted_count": "elJuaQ==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Manga",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/5/55/Pokemon_Adventures_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0277",
-        "name": "oshiro_project:re",
-        "proper_name": "Oshiro Project: Re",
-        "category": "copyright",
-        "encrypted_count": "fVRjaQ==",
-        "copyright": "Oshiro Project: Re",
+        "encrypted_count": "e1ZiaA==",
+        "copyright": "Len'en",
         "material": "Video Game",
-        "image_reference": "https://play-lh.googleusercontent.com/mZqL67H8JkcYvkTYS1ZFA2ZswkmlAJeo4XjEZZUCfvw5JXiBLhp9ExrXKiigv0gfzSE=w526-h296-rw"
-      },
-      "tag2": {
-        "id": "t0514",
-        "name": "darjeeling_(girls_und_panzer)",
-        "proper_name": "Darjeeling",
-        "category": "character",
-        "encrypted_count": "eFFhbA==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime"
+        "image_reference": "https://lenen.wiki.gg/images/Site-logo.png?b36d97"
       }
     },
     {
       "tag1": {
-        "id": "t0959",
-        "name": "synthesizer_v",
-        "proper_name": "Synthesizer V",
-        "category": "copyright",
-        "encrypted_count": "e1Vhbg==",
-        "copyright": "Synthesizer V",
-        "material": "Music Software",
-        "image_reference": "https://moegirl.uk/images/1/1a/Synthesizer_V_R2_logo.png"
-      },
-      "tag2": {
-        "id": "t0298",
-        "name": "hayami_kanade",
-        "proper_name": "Hayami Kanade",
+        "id": "t0459",
+        "name": "shinonome_ena",
+        "proper_name": "Shinonome Ena",
         "category": "character",
-        "encrypted_count": "fF1kaw==",
-        "copyright": "IdolMaster Cinderella Girls",
+        "encrypted_count": "fFZgYw==",
+        "copyright": "D4DJ",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/cinderella-girls/images/d/d1/200037R-Hayami-Kanade-Cool.png/revision/latest?cb=20180905181124"
+        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
+      },
+      "tag2": {
+        "id": "t0801",
+        "name": "sakurauchi_riko",
+        "proper_name": "Sakurauchi Riko",
+        "category": "character",
+        "encrypted_count": "eF1kaw==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/llsif/images/e/e7/Riko787.jpg/revision/latest?cb=20161223004658"
       }
     },
     {
       "tag1": {
-        "id": "t0027",
-        "name": "danganronpa_(series)",
-        "proper_name": "Danganronpa Series",
-        "category": "copyright",
-        "encrypted_count": "eFBlbkY=",
-        "copyright": "Danganronpa Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
-      },
-      "tag2": {
-        "id": "t0878",
-        "name": "death_note",
-        "proper_name": "Death Note",
-        "category": "copyright",
-        "encrypted_count": "fVZjag==",
-        "copyright": "Death Note",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2023/12/Death-Note-Logo.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0241",
-        "name": "angelina_(arknights)",
-        "proper_name": "Angelina",
+        "id": "t0096",
+        "name": "mash_kyrielight_(demi-servant)",
+        "proper_name": "Mash Kyrielight",
         "category": "character",
-        "encrypted_count": "fF1nbA==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/9/9b/Angelina.png/revision/latest?cb=20190620082323"
-      },
-      "tag2": {
-        "id": "t0818",
-        "name": "cu_chulainn_(lancer)_(fate)",
-        "proper_name": "Cu Chulainn (Lancer)",
-        "category": "character",
-        "encrypted_count": "fVJnbw==",
+        "encrypted_count": "f1Bmbw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fateanother-ii/images/3/32/LancerCuChuGOStage1.png/revision/latest/scale-to-width-down/1200?cb=20210607112610"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0084",
-        "name": "urusei_yatsura",
-        "proper_name": "Urusei Yatsura",
-        "category": "copyright",
-        "encrypted_count": "elJhaQ==",
-        "copyright": "Urusei Yatsura",
+        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
+      },
+      "tag2": {
+        "id": "t0307",
+        "name": "kudamaki_tsukasa",
+        "proper_name": "Kudamaki Tsukasa",
+        "category": "character",
+        "encrypted_count": "fFBjaA==",
+        "copyright": "D4DJ",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
-      },
-      "tag2": {
-        "id": "t0525",
-        "name": "darling_in_the_franxx",
-        "proper_name": "Darling in the Franxx",
-        "category": "copyright",
-        "encrypted_count": "eV1iYw==",
-        "copyright": "Darling in the Franxx",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/fr/8/85/Darling_in_the_Franxx_Logo.png"
+        "image_reference": "https://static.zerochan.net/Kudamaki.Tsukasa.full.3320713.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0389",
-        "name": "mega_gardevoir",
-        "proper_name": "Mega Gardevoir",
+        "id": "t0105",
+        "name": "nakano_yotsuba",
+        "proper_name": "Nakano Yotsuba",
         "category": "character",
-        "encrypted_count": "fF1iYg==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/66/d5/17/66d517e6be088e8593678091fe19277a.png"
+        "encrypted_count": "fVJhbg==",
+        "copyright": "The Quintessential Quintuplets",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701"
       },
       "tag2": {
-        "id": "t0615",
-        "name": "touqi_guaitan",
-        "proper_name": "Touqi Guaitan",
+        "id": "t0918",
+        "name": "spider-man_(series)",
+        "proper_name": "Spider-Man Series",
         "category": "copyright",
-        "encrypted_count": "e1ZkbQ==",
-        "copyright": "Touqi Guaitan",
-        "image_reference": "https://static.wikia.nocookie.net/touqi-guaitan/images/e/e6/Site-logo.png/revision/latest?cb=20241228194321"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0177",
-        "name": "wei_wuxian",
-        "proper_name": "Wei Wuxian",
-        "category": "character",
-        "encrypted_count": "fVVlaQ==",
-        "copyright": "Mo Dao Zu Shi",
-        "material": "Novel",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mdzs_wwx_1.png"
-      },
-      "tag2": {
-        "id": "t0591",
-        "name": "belle_(zenless_zone_zero)",
-        "proper_name": "Belle",
-        "category": "character",
-        "encrypted_count": "elNlbg==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6e/Agent_Belle_Portrait.png/revision/latest?cb=20240707002545"
+        "encrypted_count": "eVdhaQ==",
+        "copyright": "Spider-Man Series",
+        "material": "Comic",
+        "image_reference": "https://static.wikia.nocookie.net/eliteproductions/images/a/a5/SpiderMan_Series_Logo_NEW.jpg/revision/latest/scale-to-width-down/1200?cb=20220201130842"
       }
     }
   ]
