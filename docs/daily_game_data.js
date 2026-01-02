@@ -1,12 +1,210 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-01T04:41:25.832493+00:00
-// Date: 2026-01-01
+// Generated on: 2026-01-02T04:33:36.195550+00:00
+// Date: 2026-01-02
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-01",
+  "date": "2026-01-02",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
+    {
+      "tag1": {
+        "id": "t0137",
+        "name": "bea_(pokemon)",
+        "proper_name": "Bea",
+        "category": "character",
+        "encrypted_count": "elJhaA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/6b/7e/37/6b7e3723b7b1f832563928a9e4b4f65c.png"
+      },
+      "tag2": {
+        "id": "t0334",
+        "name": "katsushika_hokusai_(fate)",
+        "proper_name": "Katsushika Hokusai",
+        "category": "character",
+        "encrypted_count": "fFNgbg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/9/90/S198_Stage1.webp/revision/latest?cb=20220911142141"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0928",
+        "name": "rensouhou-chan",
+        "proper_name": "Rensouhou-chan",
+        "category": "character",
+        "encrypted_count": "e11jaA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://pm1.narvii.com/6354/7519811fa279795bd39dd0a3a2437bdc061fbaaa_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0066",
+        "name": "cyrene_(honkai:_star_rail)",
+        "proper_name": "Cyrene",
+        "category": "character",
+        "encrypted_count": "fVdhbw==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Character_Cyrene_Introduction.png/revision/latest/scale-to-width/360?cb=20250909040027"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0270",
+        "name": "izumi_sagiri",
+        "proper_name": "Izumi Sagiri",
+        "category": "character",
+        "encrypted_count": "fVNvbA==",
+        "copyright": "Eromanga Sensei",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/eromanga/images/1/19/Sagiri_Izumi_anime.jpg/revision/latest?cb=20211121182256"
+      },
+      "tag2": {
+        "id": "t0582",
+        "name": "takao_(kancolle)",
+        "proper_name": "Takao",
+        "category": "character",
+        "encrypted_count": "e1Fuag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/f/ff/Takao_Full.png/revision/latest?cb=20210612202442"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0934",
+        "name": "yukihana_lamy",
+        "proper_name": "Yukihana Lamy",
+        "category": "character",
+        "encrypted_count": "eFZmbA==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/68/Yukihana_Lamy_-_Portrait_01.png/1200px-Yukihana_Lamy_-_Portrait_01.png"
+      },
+      "tag2": {
+        "id": "t0815",
+        "name": "hakui_koyori",
+        "proper_name": "Hakui Koyori",
+        "category": "character",
+        "encrypted_count": "elRhaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c2/Hakui_Koyori_Portrait.png/revision/latest?cb=20211203043838"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0655",
+        "name": "dandadan",
+        "proper_name": "Dandadan",
+        "category": "copyright",
+        "encrypted_count": "eFRibQ==",
+        "copyright": "Dandadan",
+        "material": "Manga",
+        "image_reference": "https://i.pinimg.com/originals/eb/33/ad/eb33adb6aaaa06b225c4e8cb5e389ec7.png"
+      },
+      "tag2": {
+        "id": "t0579",
+        "name": "heartcatch_precure!",
+        "proper_name": "Heartcatch Precure!",
+        "category": "copyright",
+        "encrypted_count": "eFZnbg==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/de5shxw-01a69a49-e4f7-4987-b7b7-d4eda00bd7f8.png/v1/fill/w_1600,h_911/heartcatch_pretty_cure_logo_by_joshuat1306_de5shxw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kZTVzaHh3LTAxYTY5YTQ5LWU0ZjctNDk4Ny1iN2I3LWQ0ZWRhMDBiZDdmOC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CVHZAac5yav0HgjR_KGO1Yy9qGk64nAIG56xG-3f6g0"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0878",
+        "name": "death_note",
+        "proper_name": "Death Note",
+        "category": "copyright",
+        "encrypted_count": "fVZjag==",
+        "copyright": "Death Note",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/12/Death-Note-Logo.jpg"
+      },
+      "tag2": {
+        "id": "t0003",
+        "name": "fate_(series)",
+        "proper_name": "Fate Series",
+        "category": "copyright",
+        "encrypted_count": "fVxhbkkE",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BOWQ1ZDdiMDItYTc2My00ZjZkLWJlMzktYTZmNGY5MWQwODU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0742",
+        "name": "exusiai_(arknights)",
+        "proper_name": "Exusiai",
+        "category": "character",
+        "encrypted_count": "elBiaA==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/24/Exusiai.png/revision/latest?cb=20190623025141"
+      },
+      "tag2": {
+        "id": "t0162",
+        "name": "satonaka_chie",
+        "proper_name": "Satonaka Chie",
+        "category": "character",
+        "encrypted_count": "elVhaw==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0006",
+        "name": "fate/grand_order",
+        "proper_name": "Fate/Grand Order",
+        "category": "copyright",
+        "encrypted_count": "fFNva0gF",
+        "copyright": "Fate/Grand Order",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/3e/FGOBabylonia.jpg"
+      },
+      "tag2": {
+        "id": "t0367",
+        "name": "warcraft",
+        "proper_name": "Warcraft",
+        "category": "copyright",
+        "encrypted_count": "fFxnbg==",
+        "copyright": "Warcraft",
+        "material": "Video Game",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0695",
+        "name": "phantasy_star_online_2",
+        "proper_name": "Phantasy Star Online 2",
+        "category": "copyright",
+        "encrypted_count": "e1VgbQ==",
+        "copyright": "Phantasy Star Online 2",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/48/Phantasy_star_online_2_logo.png"
+      },
+      "tag2": {
+        "id": "t0588",
+        "name": "sendai_(kancolle)",
+        "proper_name": "Sendai",
+        "category": "character",
+        "encrypted_count": "elxnaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/11498-20131651.png"
+      }
+    },
     {
       "tag1": {
         "id": "t0461",
@@ -19,212 +217,14 @@ const DAILY_GAME_DATA = {
         "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/d/d1/Agent_Burnice_White_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240930234702"
       },
       "tag2": {
-        "id": "t0360",
-        "name": "male_byleth_(fire_emblem)",
-        "proper_name": "Byleth (Male)",
+        "id": "t0459",
+        "name": "shinonome_ena",
+        "proper_name": "Shinonome Ena",
         "category": "character",
-        "encrypted_count": "el1uYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0404",
-        "name": "higashiyama_kobeni",
-        "proper_name": "Higashiyama Kobeni",
-        "category": "character",
-        "encrypted_count": "fVZlbQ==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
-      },
-      "tag2": {
-        "id": "t0573",
-        "name": "nilou_(genshin_impact)",
-        "proper_name": "Nilou",
-        "category": "character",
-        "encrypted_count": "e1FgaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0064",
-        "name": "nessa_(pokemon)",
-        "proper_name": "Nessa",
-        "category": "character",
-        "encrypted_count": "e1VmaQ==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Pokemon-Nessa.png/220px-Pokemon-Nessa.png"
-      },
-      "tag2": {
-        "id": "t0420",
-        "name": "mega_man_zx",
-        "proper_name": "Mega Man ZX",
-        "category": "copyright",
-        "encrypted_count": "fV1iaQ==",
-        "copyright": "Mega Man",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Mega_Man_ZX_logo.gif/revision/latest?cb=20110726202034"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0752",
-        "name": "mobile_suit_gundam",
-        "proper_name": "Mobile Suit Gundam",
-        "category": "copyright",
-        "encrypted_count": "eFNibA==",
-        "copyright": "Mobile Suit Gundam",
+        "encrypted_count": "fFZgYw==",
+        "copyright": "D4DJ",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png/revision/latest?cb=20190720061056"
-      },
-      "tag2": {
-        "id": "t0721",
-        "name": "wakasagihime",
-        "proper_name": "Wakasagihime",
-        "category": "character",
-        "encrypted_count": "fVxvbA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/3262-1482788206.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0252",
-        "name": "kochou_shinobu",
-        "proper_name": "Kochou Shinobu",
-        "category": "character",
-        "encrypted_count": "fVNjaA==",
-        "copyright": "Demon Slayer: Kimetsu no Yaiba",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png/revision/latest/scale-to-width-down/1200?cb=20211119011810"
-      },
-      "tag2": {
-        "id": "t0210",
-        "name": "darkness_(konosuba)",
-        "proper_name": "Darkness",
-        "category": "character",
-        "encrypted_count": "elZnbg==",
-        "copyright": "KonoSuba",
-        "material": "Light Novel",
-        "image_reference": "https://vignette.wikia.nocookie.net/konofan/images/7/7a/DarknessModel.png/revision/latest?cb=20200302090208"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0722",
-        "name": "ishtar_(fate)",
-        "proper_name": "Ishtar",
-        "category": "character",
-        "encrypted_count": "e1Rkbg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/FGO-Ishtar.jpg"
-      },
-      "tag2": {
-        "id": "t0411",
-        "name": "hanekawa_tsubasa",
-        "proper_name": "Hanekawa Tsubasa",
-        "category": "character",
-        "encrypted_count": "fVdhbA==",
-        "copyright": "Monogatari Series",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/bakemonogatari1645/images/b/be/Bakehane.png/revision/latest/scale-to-width-down/1200?cb=20181125055426"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0936",
-        "name": "kiana_kaslana",
-        "proper_name": "Kiana Kaslana",
-        "category": "character",
-        "encrypted_count": "e11nbQ==",
-        "copyright": "Honkai Impact",
-        "material": "Video Game",
-        "image_reference": "https://w0.peakpx.com/wallpaper/700/671/HD-wallpaper-kiana-kaslana-anime-honkai-impact-3rd.jpg"
-      },
-      "tag2": {
-        "id": "t0664",
-        "name": "yamashiro_(kancolle)",
-        "proper_name": "Yamashiro",
-        "category": "character",
-        "encrypted_count": "eldjaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/6186-1139087745.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0860",
-        "name": "yu-gi-oh!_duel_monsters",
-        "proper_name": "Yu-Gi-Oh! Duel Monsters",
-        "category": "copyright",
-        "encrypted_count": "d1BmaQ==",
-        "copyright": "Yu-Gi-Oh!",
-        "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
-      },
-      "tag2": {
-        "id": "t0433",
-        "name": "n_(pokemon)",
-        "proper_name": "N",
-        "category": "character",
-        "encrypted_count": "fF1ibw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/01/N_Black_2_and_White_2.png/revision/latest?cb=20220603233630"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0935",
-        "name": "noa_(blue_archive)",
-        "proper_name": "Noa",
-        "category": "character",
-        "encrypted_count": "eFRgaQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Noa_Portrait.png"
-      },
-      "tag2": {
-        "id": "t0222",
-        "name": "mostima_(arknights)",
-        "proper_name": "Mostima",
-        "category": "character",
-        "encrypted_count": "fF1vYw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/3/31/Mostima.png/revision/latest?cb=20200520090244"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0920",
-        "name": "black_rock_shooter",
-        "proper_name": "Black Rock Shooter",
-        "category": "copyright",
-        "encrypted_count": "eFFnaQ==",
-        "copyright": "Black Rock Shooter",
-        "material": "Anime",
-        "image_reference": "https://logowik.com/content/uploads/images/black-rock-shooter2321.logowik.com.webp"
-      },
-      "tag2": {
-        "id": "t0295",
-        "name": "nikki_(nikki)",
-        "proper_name": "Nikki",
-        "category": "character",
-        "encrypted_count": "fFJmaQ==",
-        "copyright": "Nikki",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/heroe/images/1/14/Nikki_SN_sprite39.png/revision/latest?cb=20220723070732&path-prefix=es"
+        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
       }
     }
   ]
