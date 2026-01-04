@@ -1,228 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-03T04:25:54.812880+00:00
-// Date: 2026-01-03
+// Generated on: 2026-01-04T04:42:08.796033+00:00
+// Date: 2026-01-04
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-03",
+  "date": "2026-01-04",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0328",
-        "name": "panty_(psg)",
-        "proper_name": "Panty",
+        "id": "t0403",
+        "name": "rotom_phone",
+        "proper_name": "Rotom Phone",
         "category": "character",
-        "encrypted_count": "elZjbw==",
-        "copyright": "Panty & Stocking with Garterbelt",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
-      },
-      "tag2": {
-        "id": "t0111",
-        "name": "iskandar_(fate)",
-        "proper_name": "Iskandar",
-        "category": "character",
-        "encrypted_count": "fVRuYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0434",
-        "name": "futami_mami",
-        "proper_name": "Futami Mami",
-        "category": "character",
-        "encrypted_count": "fFxvYg==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/4/46/Mami_Futami_2nd_Vision_Normal.png/revision/latest?cb=20200608040131"
-      },
-      "tag2": {
-        "id": "t0515",
-        "name": "sakamata_chloe",
-        "proper_name": "Sakamata Chloe",
-        "category": "character",
-        "encrypted_count": "eFBgbQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/61/Sakamata_Chloe_-_Portrait_01.png/800px-Sakamata_Chloe_-_Portrait_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0257",
-        "name": "senjougahara_hitagi",
-        "proper_name": "Senjougahara Hitagi",
-        "category": "character",
-        "encrypted_count": "fVZuaQ==",
-        "copyright": "Monogatari Series",
-        "material": "Anime",
-        "image_reference": "https://1.bp.blogspot.com/-Su1PAdKQzao/WHHpgH_v2QI/AAAAAAAABMg/wvAO-6iJMp0n84RNYlC1aye6wSBeH9vuwCEw/s1600/Hitagi_bake_designs.jpg"
-      },
-      "tag2": {
-        "id": "t0606",
-        "name": "serena_(pokemon)",
-        "proper_name": "Serena",
-        "category": "character",
-        "encrypted_count": "dlZnbg==",
+        "encrypted_count": "fFxlbg==",
         "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/7/7f/Serena_(anime_XY)_3.png/revision/latest?cb=20150527212218"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0484",
-        "name": "clownpiece",
-        "proper_name": "Clownpiece",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/2/23/Rotom_Phone.png/revision/latest/scale-to-width-down/2000?cb=20200627164134"
+      },
+      "tag2": {
+        "id": "t0584",
+        "name": "futatsuiwa_mamizou",
+        "proper_name": "Futatsuiwa Mamizou",
         "category": "character",
-        "encrypted_count": "e11lbA==",
+        "encrypted_count": "eldgag==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/53/TH15Clownpiece.png/revision/latest?cb=20150926164947"
-      },
-      "tag2": {
-        "id": "t0310",
-        "name": "kokona_(blue_archive)",
-        "proper_name": "Kokona",
-        "category": "character",
-        "encrypted_count": "fF1vaA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/3/3b/Kokona_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20250515072948"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/f/f3/Th13.5Mamizou.png/revision/latest?cb=20130607232748&path-prefix=pt"
       }
     },
     {
       "tag1": {
-        "id": "t0086",
-        "name": "final_fantasy_vi",
-        "proper_name": "Final Fantasy VI",
+        "id": "t0870",
+        "name": "final_fantasy_vii_advent_children",
+        "proper_name": "Final Fantasy VII: Advent Children",
         "category": "copyright",
-        "encrypted_count": "elxkbw==",
-        "copyright": "Final Fantasy VI",
+        "encrypted_count": "fFxlaQ==",
+        "copyright": "Final Fantasy VII",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/Ffviiaclogo.jpg/revision/latest?cb=20181221213823"
       },
       "tag2": {
-        "id": "t0921",
-        "name": "gloria_(pokemon)",
-        "proper_name": "Gloria",
+        "id": "t0452",
+        "name": "ump9_(girls'_frontline)",
+        "proper_name": "UMP9",
         "category": "character",
-        "encrypted_count": "eVFuaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2b/latest/20220314054856/Gloria.png/1200px-Gloria.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0290",
-        "name": "asuna_(school_uniform)_(blue_archive)",
-        "proper_name": "Asuna (School Uniform)",
-        "category": "character",
-        "encrypted_count": "f1JmYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/0/01/Asuna_(School_Uniform).png/399px-Asuna_(School_Uniform).png"
-      },
-      "tag2": {
-        "id": "t0728",
-        "name": "little_witch_academia",
-        "proper_name": "Little Witch Academia",
-        "category": "copyright",
-        "encrypted_count": "eVZhbA==",
-        "copyright": "Little Witch Academia",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/Little_Witch_Academia_Logo.png/revision/latest?cb=20230313220247"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0185",
-        "name": "hazbin_hotel",
-        "proper_name": "Hazbin Hotel",
-        "category": "copyright",
-        "encrypted_count": "fVZnaw==",
-        "copyright": "Hazbin Hotel",
-        "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
-      },
-      "tag2": {
-        "id": "t0540",
-        "name": "shishiro_botan",
-        "proper_name": "Shishiro Botan",
-        "category": "character",
-        "encrypted_count": "e1Nnbw==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_02.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0457",
-        "name": "frisk_(undertale)",
-        "proper_name": "Frisk",
-        "category": "character",
-        "encrypted_count": "fVRmag==",
-        "copyright": "Undertale",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/undertale/images/a/a7/Undertale_frisk_front_by_ldinos-d9ywr9e.png/revision/latest?cb=20170105221708&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0479",
-        "name": "northern_ocean_princess",
-        "proper_name": "Northern Ocean Princess",
-        "category": "character",
-        "encrypted_count": "eFZlag==",
-        "image_reference": "https://cdn.donmai.us/original/5c/b6/5cb6821d322f01d1e28cef2b4f00f740.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0836",
-        "name": "ump45_(girls'_frontline)",
-        "proper_name": "UMP45",
-        "category": "character",
-        "encrypted_count": "fV1kbA==",
+        "encrypted_count": "fFBvaw==",
         "copyright": "Girls' Frontline",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omniversal-battlefield/images/2/2d/Ump45.png/revision/latest?cb=20200608224228"
-      },
-      "tag2": {
-        "id": "t0521",
-        "name": "new_super_mario_bros._u_deluxe",
-        "proper_name": "New Super Mario Bros. U Deluxe",
-        "category": "copyright",
-        "encrypted_count": "eFNmag==",
-        "copyright": "Nintendo",
-        "material": "Video Game",
-        "image_reference": "https://mario.wiki.gallery/images/thumb/2/21/NSMBUDX_Logo.png/1200px-NSMBUDX_Logo.png"
+        "image_reference": "https://static.zerochan.net/UMP9.(Girls.Frontline).full.3776038.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0200",
-        "name": "tsunomaki_watame",
-        "proper_name": "Tsunomaki Watame",
-        "category": "character",
-        "encrypted_count": "fVRmaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
+        "id": "t0568",
+        "name": "kamitsubaki_studio",
+        "proper_name": "Kamitsubaki Studio",
+        "category": "copyright",
+        "encrypted_count": "e1dnbw==",
+        "copyright": "Kamitsubaki Studio",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/01/Company-Logo_KAMITSUBAKI-STUDIO.png"
       },
       "tag2": {
-        "id": "t0854",
-        "name": "path_to_nowhere",
-        "proper_name": "Path to Nowhere",
+        "id": "t0635",
+        "name": "houseki_no_kuni",
+        "proper_name": "Houseki no Kuni",
         "category": "copyright",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Path to Nowhere",
+        "encrypted_count": "e1dnaA==",
+        "copyright": "Houseki no Kuni",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Houseki_no_Kuni.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0581",
+        "name": "asuna_(sao)",
+        "proper_name": "Asuna",
+        "category": "character",
+        "encrypted_count": "eVRnYw==",
+        "copyright": "Sword Art Online",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
+      },
+      "tag2": {
+        "id": "t0874",
+        "name": "dragon_ball_(classic)",
+        "proper_name": "Dragon Ball (Classic)",
+        "category": "copyright",
+        "encrypted_count": "fVRnbQ==",
+        "copyright": "Dragon Ball",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/81/Dragonball_Anime-Serie_Original-Logo.svg/revision/latest?cb=20190209043952"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0418",
+        "name": "mizuno_ami",
+        "proper_name": "Mizuno Ami",
+        "category": "character",
+        "encrypted_count": "eldhYg==",
+        "copyright": "Sailor Moon",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
+      },
+      "tag2": {
+        "id": "t0680",
+        "name": "kal'tsit_(arknights)",
+        "proper_name": "Kal'tsit",
+        "category": "character",
+        "encrypted_count": "elFmaw==",
+        "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://static.jojowiki.com/images/archive/f/f2/20240126233527!Path_to_Nowhere_Logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0494",
+        "name": "amane_kanata",
+        "proper_name": "Amane Kanata",
+        "category": "character",
+        "encrypted_count": "eFFlbQ==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/3/36/Amane_Kanata_-_Portrait_01.png/1200px-Amane_Kanata_-_Portrait_01.png"
+      },
+      "tag2": {
+        "id": "t0077",
+        "name": "higashikata_josuke",
+        "proper_name": "Higashikata Josuke",
+        "category": "character",
+        "encrypted_count": "fVdmbg==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0174",
+        "name": "dimitri_alexandre_blaiddyd",
+        "proper_name": "Dimitri Alexandre Blaiddyd",
+        "category": "character",
+        "encrypted_count": "fVFhaQ==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
+      },
+      "tag2": {
+        "id": "t0496",
+        "name": "sono_bisque_doll_wa_koi_wo_suru",
+        "proper_name": "Sono Bisque Doll wa Koi wo Suru",
+        "category": "copyright",
+        "encrypted_count": "dlJkaw==",
+        "copyright": "Sono Bisque Doll wa Koi wo Suru",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/2/2f/Sono_Bisque_Doll_wa_Koi_wo_Suru%2C_Volume_1.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0906",
+        "name": "aru_(blue_archive)",
+        "proper_name": "Aru",
+        "category": "character",
+        "encrypted_count": "eFZvYg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Aru_Portrait.png/revision/latest?cb=20220420065116"
+      },
+      "tag2": {
+        "id": "t0883",
+        "name": "gertrud_barkhorn",
+        "proper_name": "Gertrud Barkhorn",
+        "category": "character",
+        "encrypted_count": "fFJuaw==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strike-witches-espanol/images/9/95/Gee.png/revision/latest?cb=20190505223734&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0910",
+        "name": "momoi_(blue_archive)",
+        "proper_name": "Momoi",
+        "category": "character",
+        "encrypted_count": "e1NvYg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Momoi_Portrait.png/revision/latest?cb=20220420085033"
+      },
+      "tag2": {
+        "id": "t0889",
+        "name": "takakura_ken_(dandadan)",
+        "proper_name": "Takakura Ken",
+        "category": "character",
+        "encrypted_count": "fFJiaQ==",
+        "copyright": "Dandadan",
+        "material": "Manga",
+        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0303",
+        "name": "kiyoshimo_(kancolle)",
+        "proper_name": "Kiyoshimo",
+        "category": "character",
+        "encrypted_count": "fFJvbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
+      },
+      "tag2": {
+        "id": "t0860",
+        "name": "yu-gi-oh!_duel_monsters",
+        "proper_name": "Yu-Gi-Oh! Duel Monsters",
+        "category": "copyright",
+        "encrypted_count": "d1BmaQ==",
+        "copyright": "Yu-Gi-Oh!",
+        "material": "Anime",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
       }
     }
   ]
