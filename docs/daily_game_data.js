@@ -1,230 +1,227 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-06T04:32:34.920931+00:00
-// Date: 2026-01-06
+// Generated on: 2026-01-07T04:33:30.243005+00:00
+// Date: 2026-01-07
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-06",
+  "date": "2026-01-07",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0367",
-        "name": "warcraft",
-        "proper_name": "Warcraft",
-        "category": "copyright",
-        "encrypted_count": "fFxnbg==",
-        "copyright": "Warcraft",
-        "material": "Video Game",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png"
-      },
-      "tag2": {
-        "id": "t0283",
-        "name": "mother_(series)",
-        "proper_name": "Mother Series",
-        "category": "copyright",
-        "encrypted_count": "elZjaA==",
-        "copyright": "Mother Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MOTHER_1989_Boxart_%28Nintendo%29.png/1200px-MOTHER_1989_Boxart_%28Nintendo%29.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0409",
-        "name": "jeanne_d'arc_alter_(swimsuit_berserker)_(fate)",
-        "proper_name": "Jeanne d'Arc Alter (Swimsuit Berserker)",
+        "id": "t0916",
+        "name": "tsukino_usagi",
+        "proper_name": "Tsukino Usagi",
         "category": "character",
-        "encrypted_count": "eldhbQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://pbs.twimg.com/media/F5bt4ELbIAAhnjv.jpg"
-      },
-      "tag2": {
-        "id": "t0861",
-        "name": "medicine_melancholy",
-        "proper_name": "Medicine Melancholy",
-        "category": "character",
-        "encrypted_count": "fVBubg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/e/ea/Th09MedicineMelancholy.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0927",
-        "name": "kijin_seija",
-        "proper_name": "Kijin Seija",
-        "category": "character",
-        "encrypted_count": "e1ZlaA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/thumb/6/67/Th14Seija.png/200px-Th14Seija.png"
-      },
-      "tag2": {
-        "id": "t0610",
-        "name": "fire_emblem:_radiant_dawn",
-        "proper_name": "Fire Emblem: Radiant Dawn",
-        "category": "copyright",
-        "encrypted_count": "eFZkYw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://vignette2.wikia.nocookie.net/fireemblem/images/1/11/Logo_Fire_Emblem_Radiant_Dawn.png/revision/latest?cb=20170222084554&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0289",
-        "name": "seele_vollerei",
-        "proper_name": "Seele Vollerei",
-        "category": "character",
-        "encrypted_count": "fFxvbQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
-      },
-      "tag2": {
-        "id": "t0710",
-        "name": "fire_emblem:_mystery_of_the_emblem",
-        "proper_name": "Fire Emblem: Mystery of the Emblem",
-        "category": "copyright",
-        "encrypted_count": "e1Vvag==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://cdn.fireemblemwiki.org/thumb/1/18/FEMN_logo.png/300px-FEMN_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0787",
-        "name": "kouyoku_senki_exs-tia",
-        "proper_name": "Kouyoku Senki Exs-Tia",
-        "category": "copyright",
-        "encrypted_count": "elBnag==",
-        "copyright": "Kouyoku Senki Exs-Tia",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
-      },
-      "tag2": {
-        "id": "t0266",
-        "name": "kirima_syaro",
-        "proper_name": "Kirima Syaro",
-        "category": "character",
-        "encrypted_count": "fVZmbA==",
-        "copyright": "Gochuumon wa Usagi Desu ka?",
+        "encrypted_count": "dlVkYg==",
+        "copyright": "Sailor Moon",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gochuumon-wa-usagi-desu-ka/images/f/f0/Kirima_syaro_render_by_poppyoreos-d7zaxlr.png/revision/latest?cb=20151024212114&path-prefix=es"
+        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/e/e1/Usagi_Tsukino_Sailor_Moon_-_Anime.png/revision/latest?cb=20210217021645"
+      },
+      "tag2": {
+        "id": "t0028",
+        "name": "precure",
+        "proper_name": "Precure",
+        "category": "copyright",
+        "encrypted_count": "eFNhbEM=",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5c/PrettyCureS1.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0582",
-        "name": "takao_(kancolle)",
-        "proper_name": "Takao",
+        "id": "t0180",
+        "name": "tokitsukaze_(kancolle)",
+        "proper_name": "Tokitsukaze",
         "category": "character",
-        "encrypted_count": "e1Fuag==",
+        "encrypted_count": "fFxgaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/f/ff/Takao_Full.png/revision/latest?cb=20210612202442"
+        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
       },
       "tag2": {
-        "id": "t0231",
-        "name": "tokyo_ghoul",
-        "proper_name": "Tokyo Ghoul",
+        "id": "t0660",
+        "name": "sonic_the_hedgehog",
+        "proper_name": "Sonic the Hedgehog",
+        "category": "character",
+        "encrypted_count": "eFFvbw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonicthehedgehog/images/6/68/Sonic_profil_Sonic-X-Shadow-Generations.png/revision/latest?cb=20240817165317&path-prefix=fr"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0297",
+        "name": "hong_lu_(project_moon)",
+        "proper_name": "Hong Lu",
+        "category": "character",
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
+      },
+      "tag2": {
+        "id": "t0166",
+        "name": "dizzy_(guilty_gear)",
+        "proper_name": "Dizzy",
+        "category": "character",
+        "encrypted_count": "elVjbw==",
+        "copyright": "Guilty Gear",
+        "material": "Video Game",
+        "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0062",
+        "name": "yamakaze_(kancolle)",
+        "proper_name": "Yamakaze",
+        "category": "character",
+        "encrypted_count": "fVZubA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
+      },
+      "tag2": {
+        "id": "t0640",
+        "name": "akiyama_yukari",
+        "proper_name": "Akiyama Yukari",
+        "category": "character",
+        "encrypted_count": "e1RkYw==",
+        "image_reference": "https://vignette.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png/revision/latest?cb=20170124073104"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0584",
+        "name": "futatsuiwa_mamizou",
+        "proper_name": "Futatsuiwa Mamizou",
+        "category": "character",
+        "encrypted_count": "eldgag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/f/f3/Th13.5Mamizou.png/revision/latest?cb=20130607232748&path-prefix=pt"
+      },
+      "tag2": {
+        "id": "t0484",
+        "name": "clownpiece",
+        "proper_name": "Clownpiece",
+        "category": "character",
+        "encrypted_count": "e11lbA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/53/TH15Clownpiece.png/revision/latest?cb=20150926164947"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0945",
+        "name": "hololive_dev_is",
+        "proper_name": "HoloLive DEV_IS",
         "category": "copyright",
-        "encrypted_count": "fVZhaQ==",
-        "copyright": "Tokyo Ghoul",
-        "material": "Manga",
-        "image_reference": "https://bayanbox.ir/view/167939588418032986/tokyo-ghoul-logo-png.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0637",
-        "name": "golden_kamuy",
-        "proper_name": "Golden Kamuy",
-        "category": "copyright",
-        "encrypted_count": "elxnbg==",
-        "copyright": "Golden Kamuy",
-        "material": "Manga",
-        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
-      },
-      "tag2": {
-        "id": "t0309",
-        "name": "midorikawa_nao",
-        "proper_name": "Midorikawa Nao",
-        "category": "character",
-        "encrypted_count": "fFxhbw==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Midorikawa.Nao.full.3242452.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0454",
-        "name": "hishikawa_rikka",
-        "proper_name": "Hishikawa Rikka",
-        "category": "character",
-        "encrypted_count": "fFFubA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/prettycure/images/a/a7/Curediamondmain.jpg/revision/latest?cb=20121226035824"
-      },
-      "tag2": {
-        "id": "t0173",
-        "name": "hex_maniac_(pokemon_xy)",
-        "proper_name": "Hex Maniac",
-        "category": "character",
-        "encrypted_count": "eVVvYg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/07/HexManiac.png/revision/latest?cb=20211128202648"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0211",
-        "name": "lucario",
-        "proper_name": "Lucario",
-        "category": "character",
-        "encrypted_count": "elJiaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
-      },
-      "tag2": {
-        "id": "t0301",
-        "name": "tomoe_gozen_(fate)",
-        "proper_name": "Tomoe Gozen",
-        "category": "character",
-        "encrypted_count": "fVRmaw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/6999/99662f2ac78d6680faaed4cc6b30d0b4757f43dcr1-850-1073v2_hq.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0143",
-        "name": "jougasaki_rika",
-        "proper_name": "Jougasaki Rika",
-        "category": "character",
-        "encrypted_count": "fVNmaQ==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/17/R_Rare_Rika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107025154"
-      },
-      "tag2": {
-        "id": "t0200",
-        "name": "tsunomaki_watame",
-        "proper_name": "Tsunomaki Watame",
-        "category": "character",
-        "encrypted_count": "fVRmaw==",
+        "encrypted_count": "e11uaA==",
         "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
+        "image_reference": "https://kai-you.net/press/img/hololive-DEV_IS-TEASER-0-29-screenshot-1.png"
+      },
+      "tag2": {
+        "id": "t0165",
+        "name": "z1_leberecht_maass_(kancolle)",
+        "proper_name": "Z1 Leberecht Maass",
+        "category": "character",
+        "encrypted_count": "fVRhbA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0910",
+        "name": "momoi_(blue_archive)",
+        "proper_name": "Momoi",
+        "category": "character",
+        "encrypted_count": "e1NvYg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Momoi_Portrait.png/revision/latest?cb=20220420085033"
+      },
+      "tag2": {
+        "id": "t0350",
+        "name": "kamijou_touma",
+        "proper_name": "Kamijou Touma",
+        "category": "character",
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "A Certain Magical Index",
+        "material": "Light Novel",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0212",
+        "name": "fusou_(kancolle)",
+        "proper_name": "Fusou",
+        "category": "character",
+        "encrypted_count": "fFNgbw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Fusou.(Kantai.Collection).full.4129880.jpg"
+      },
+      "tag2": {
+        "id": "t0756",
+        "name": "inazuma_eleven",
+        "proper_name": "Inazuma Eleven",
+        "category": "copyright",
+        "encrypted_count": "d1xnbQ==",
+        "copyright": "Inazuma Eleven",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/inazuma/images/7/70/Logo_japon\u00e9s_de_IE.PNG/revision/latest?cb=20191114162736&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0156",
+        "name": "fire_emblem:_the_sacred_stones",
+        "proper_name": "Fire Emblem: The Sacred Stones",
+        "category": "copyright",
+        "encrypted_count": "elBuaA==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/06/Logo_Fire_Emblem_The_Sacred_Stones.png/revision/latest?cb=20170719171810&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0142",
+        "name": "common_raccoon_(kemono_friends)",
+        "proper_name": "Common Raccoon",
+        "category": "character",
+        "encrypted_count": "fF1mbQ==",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://s1.zerochan.net/Common.Raccoon.(Kemono.Friends).600.3421032.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0331",
+        "name": "faust_(project_moon)",
+        "proper_name": "Faust",
+        "category": "character",
+        "encrypted_count": "fFNjaw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/projectmoonwiki/thumb/4/4c/FaustLCB-Profile.png/240px-FaustLCB-Profile.png"
+      },
+      "tag2": {
+        "id": "t0549",
+        "name": "x-men",
+        "proper_name": "X-Men",
+        "category": "copyright",
+        "encrypted_count": "eFdmYw==",
+        "copyright": "X-Men",
+        "material": "Comic",
+        "image_reference": "https://logopoppin.com/wp-content/uploads/2023/08/X-Men-logo-iteration-1969.webp"
       }
     }
   ]
