@@ -1,229 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-09T04:33:12.837682+00:00
-// Date: 2026-01-09
+// Generated on: 2026-01-10T04:27:37.915190+00:00
+// Date: 2026-01-10
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-09",
+  "date": "2026-01-10",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0420",
-        "name": "mega_man_zx",
-        "proper_name": "Mega Man ZX",
-        "category": "copyright",
-        "encrypted_count": "fV1iaQ==",
-        "copyright": "Mega Man",
+        "id": "t0174",
+        "name": "dimitri_alexandre_blaiddyd",
+        "proper_name": "Dimitri Alexandre Blaiddyd",
+        "category": "character",
+        "encrypted_count": "fVFhaQ==",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Mega_Man_ZX_logo.gif/revision/latest?cb=20110726202034"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
       },
       "tag2": {
-        "id": "t0785",
-        "name": "black_rock_shooter_(character)",
-        "proper_name": "Black Rock Shooter",
+        "id": "t0490",
+        "name": "tartaglia_(genshin_impact)",
+        "proper_name": "Tartaglia",
         "category": "character",
-        "encrypted_count": "eldlbA==",
-        "copyright": "Black Rock Shooter",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/familiar-hda/images/b/b1/Black-Rock-Shooter-black-rock-shooter-vocaloid-30894748-1365-1142.png/revision/latest?cb=20130711194915&path-prefix=es"
+        "encrypted_count": "eVJiag==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png/revision/latest?cb=20201106023840"
       }
     },
     {
       "tag1": {
-        "id": "t0196",
-        "name": "charizard",
-        "proper_name": "Charizard",
-        "category": "character",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
-      },
-      "tag2": {
-        "id": "t0628",
-        "name": "ceres_fauna",
-        "proper_name": "Ceres Fauna",
-        "category": "character",
-        "encrypted_count": "e1ViaQ==",
-        "copyright": "Hololive",
+        "id": "t0020",
+        "name": "hololive_english",
+        "proper_name": "Hololive English",
+        "category": "copyright",
+        "encrypted_count": "d1Vja0Y=",
+        "copyright": "Hololive English",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/a/ab/Ceres_Fauna_-_Portrait_01.png/1200px-Ceres_Fauna_-_Portrait_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0914",
-        "name": "fujishima_megumi",
-        "proper_name": "Fujishima Megumi",
-        "category": "character",
-        "encrypted_count": "e1ZlaQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/45/Megumi_Fujishima.png/revision/latest?cb=20230210135213&path-prefix=es"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
       },
       "tag2": {
-        "id": "t0139",
-        "name": "yoshida_yuuko",
-        "proper_name": "Yoshida Yuuko",
-        "category": "character",
-        "encrypted_count": "fVVvbQ==",
-        "copyright": "Machikado Mazoku",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Yoshida.Yuuko.(Machikado.Mazoku).full.3883983.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0613",
-        "name": "the_hundred_line_-last_defense_academy-",
-        "proper_name": "The Hundred Line -Last Defense Academy-",
+        "id": "t0226",
+        "name": "yuri!!!_on_ice",
+        "proper_name": "Yuri!!! on ICE",
         "category": "copyright",
-        "encrypted_count": "dlZgbw==",
-        "copyright": "The Hundred Line -Last Defense Academy-",
-        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
-      },
-      "tag2": {
-        "id": "t0906",
-        "name": "aru_(blue_archive)",
-        "proper_name": "Aru",
-        "category": "character",
-        "encrypted_count": "eFZvYg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Aru_Portrait.png/revision/latest?cb=20220420065116"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0921",
-        "name": "gloria_(pokemon)",
-        "proper_name": "Gloria",
-        "category": "character",
-        "encrypted_count": "eVFuaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2b/latest/20220314054856/Gloria.png/1200px-Gloria.png"
-      },
-      "tag2": {
-        "id": "t0612",
-        "name": "yahari_ore_no_seishun_lovecome_wa_machigatteiru.",
-        "proper_name": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
-        "category": "copyright",
-        "encrypted_count": "eFBhaw==",
-        "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/43/5a/6d/435a6dc4d67daa09531dd2cb4a0595dd.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0180",
-        "name": "tokitsukaze_(kancolle)",
-        "proper_name": "Tokitsukaze",
-        "category": "character",
-        "encrypted_count": "fFxgaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
-      },
-      "tag2": {
-        "id": "t0724",
-        "name": "kishin_sagume",
-        "proper_name": "Kishin Sagume",
-        "category": "character",
-        "encrypted_count": "elZkbg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5a/TH15Sagume.png/revision/latest?cb=20150908222725"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0827",
-        "name": "hifumi_(blue_archive)",
-        "proper_name": "Hifumi",
-        "category": "character",
-        "encrypted_count": "fV1kbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ajitani.Hifumi.600.3693607.jpg"
-      },
-      "tag2": {
-        "id": "t0103",
-        "name": "barnaby_brooks_jr.",
-        "proper_name": "Barnaby Brooks Jr.",
-        "category": "character",
-        "encrypted_count": "fVFnaw==",
-        "copyright": "Tiger & Bunny",
+        "encrypted_count": "fVdnbA==",
+        "copyright": "Yuri!!! on ICE",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/tigerbunny/images/4/43/TIGERandBUNNY-Barnaby.png/revision/latest?cb=20200501193300"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6YWsFdsN90j7jwUoV9LzaEFb96hoevDz1A--O3VGX_DqgBhW4Zj1pJGBIwN25bKoiUybLw"
       }
     },
     {
       "tag1": {
-        "id": "t0818",
-        "name": "cu_chulainn_(lancer)_(fate)",
-        "proper_name": "Cu Chulainn (Lancer)",
+        "id": "t0608",
+        "name": "kitagawa_marin",
+        "proper_name": "Kitagawa Marin",
         "category": "character",
-        "encrypted_count": "fVJnbw==",
+        "encrypted_count": "eVNlaQ==",
+        "image_reference": "https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/3/3c/Kitagawa_Marin_~_Anime.jpg/revision/latest?cb=20220227174558&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0407",
+        "name": "lyn_(fire_emblem)",
+        "proper_name": "Lyn",
+        "category": "character",
+        "encrypted_count": "fVBmbg==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/3/3a/FEA_Lyn.png/1200px-FEA_Lyn.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0933",
+        "name": "baobhan_sith_(fate)",
+        "proper_name": "Baobhan Sith",
+        "category": "character",
+        "encrypted_count": "e1Jlbg==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fateanother-ii/images/3/32/LancerCuChuGOStage1.png/revision/latest/scale-to-width-down/1200?cb=20210607112610"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S311_Stage1.webp/revision/latest?cb=20220925055326"
       },
       "tag2": {
-        "id": "t0651",
-        "name": "senketsu",
-        "proper_name": "Senketsu",
+        "id": "t0834",
+        "name": "kiryu_coco",
+        "proper_name": "Kiryu Coco",
         "category": "character",
-        "encrypted_count": "eFRgaw==",
-        "copyright": "Kill la Kill",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/kill-la-kill/images/6/64/Senketsu.png/revision/latest/scale-to-width-down/275?cb=20140301064639"
+        "encrypted_count": "fVxjaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/c/ce/Kiryu_Coco_-_Portrait_01.png/1200px-Kiryu_Coco_-_Portrait_01.png"
       }
     },
     {
       "tag1": {
-        "id": "t0289",
-        "name": "seele_vollerei",
-        "proper_name": "Seele Vollerei",
+        "id": "t0416",
+        "name": "high_priest_(ragnarok_online)",
+        "proper_name": "High Priest",
         "category": "character",
-        "encrypted_count": "fFxvbQ==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "fFBgaw==",
+        "copyright": "Ragnarok Online",
         "material": "Video Game",
-        "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
+        "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
       },
       "tag2": {
-        "id": "t0679",
-        "name": "hoshizora_rin",
-        "proper_name": "Hoshizora Rin",
-        "category": "character",
-        "encrypted_count": "eF1jbg==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-fanon/images/7/72/LL-SIF-ASA-Rin.png/revision/latest?cb=20240813083711"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0768",
-        "name": "taimanin_(series)",
-        "proper_name": "Taimanin Series",
+        "id": "t0365",
+        "name": "aria_(manga)",
+        "proper_name": "Aria",
         "category": "copyright",
-        "encrypted_count": "fVNjYkk=",
-        "copyright": "Taimanin Series",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/anime/images/8/80/TA-logo.png/revision/latest?cb=20240303183926&path-prefix=pt-br"
+        "encrypted_count": "fF1kbg==",
+        "copyright": "Aria",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0122",
+        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
+        "proper_name": "Elysia",
+        "category": "character",
+        "encrypted_count": "fVVgYw==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
       },
       "tag2": {
-        "id": "t0291",
-        "name": "hilbert_(pokemon)",
-        "proper_name": "Hilbert",
+        "id": "t0776",
+        "name": "ahri_(league_of_legends)",
+        "proper_name": "Ahri",
         "category": "character",
-        "encrypted_count": "fVJubg==",
-        "copyright": "Pokemon",
+        "encrypted_count": "e1duaA==",
+        "copyright": "League of Legends",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/Spr_Masters_Hilbert.png/800px-Spr_Masters_Hilbert.png"
+        "image_reference": "https://liquipedia.net/commons/images/3/3f/League_Infobox_Ahri.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0074",
+        "name": "sanya_v._litvyak",
+        "proper_name": "Sanya V. Litvyak",
+        "category": "character",
+        "encrypted_count": "fVxkbA==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
+      },
+      "tag2": {
+        "id": "t0253",
+        "name": "beatrice_(umineko)",
+        "proper_name": "Beatrice",
+        "category": "character",
+        "encrypted_count": "fVVnYg==",
+        "copyright": "Umineko no Naku Koro ni",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0802",
+        "name": "haikyuu!!",
+        "proper_name": "Haikyuu!!",
+        "category": "copyright",
+        "encrypted_count": "e1Jmag==",
+        "copyright": "Haikyuu!!",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
+      },
+      "tag2": {
+        "id": "t0949",
+        "name": "hinata_hajime",
+        "proper_name": "Hajime Hinata",
+        "category": "character",
+        "encrypted_count": "e1FjbQ==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Hajime_Hinata.png/revision/latest?cb=20171229205740&path-prefix=ro"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0397",
+        "name": "lyrica_prismriver",
+        "proper_name": "Lyrica Prismriver",
+        "category": "character",
+        "encrypted_count": "fFdubw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+      },
+      "tag2": {
+        "id": "t0594",
+        "name": "bismarck_(kancolle)",
+        "proper_name": "Bismarck",
+        "category": "character",
+        "encrypted_count": "el1vag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Bismarck.(Kantai.Collection).600.2131132.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0926",
+        "name": "nishizumi_maho",
+        "proper_name": "Nishizumi Maho",
+        "category": "character",
+        "encrypted_count": "eFVvaw==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/a/af/Mahoofficial.png/revision/latest?cb=20170124072543"
+      },
+      "tag2": {
+        "id": "t0154",
+        "name": "stellive",
+        "proper_name": "Stellive",
+        "category": "copyright",
+        "encrypted_count": "fVZhbA==",
+        "copyright": "Stellive",
+        "material": "Video Game",
+        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
       }
     }
   ]
