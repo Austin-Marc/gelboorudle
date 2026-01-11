@@ -1,228 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-10T04:27:37.915190+00:00
-// Date: 2026-01-10
+// Generated on: 2026-01-11T04:41:06.404918+00:00
+// Date: 2026-01-11
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-10",
+  "date": "2026-01-11",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0174",
-        "name": "dimitri_alexandre_blaiddyd",
-        "proper_name": "Dimitri Alexandre Blaiddyd",
-        "category": "character",
-        "encrypted_count": "fVFhaQ==",
-        "copyright": "Fire Emblem",
+        "id": "t0609",
+        "name": "library_of_ruina",
+        "proper_name": "Library of Ruina",
+        "category": "copyright",
+        "encrypted_count": "e1VkaA==",
+        "copyright": "Library of Ruina",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
+        "image_reference": "https://libraryofruina.wiki.gg/images/e/e6/Site-logo.png"
       },
       "tag2": {
-        "id": "t0490",
-        "name": "tartaglia_(genshin_impact)",
-        "proper_name": "Tartaglia",
-        "category": "character",
-        "encrypted_count": "eVJiag==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png/revision/latest?cb=20201106023840"
+        "id": "t0931",
+        "name": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka",
+        "proper_name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "category": "copyright",
+        "encrypted_count": "dldvYg==",
+        "copyright": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "material": "Light Novel",
+        "image_reference": "https://images.justwatch.com/poster/162530069/s718/season-2.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0020",
-        "name": "hololive_english",
-        "proper_name": "Hololive English",
-        "category": "copyright",
-        "encrypted_count": "d1Vja0Y=",
-        "copyright": "Hololive English",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
-      },
-      "tag2": {
-        "id": "t0226",
-        "name": "yuri!!!_on_ice",
-        "proper_name": "Yuri!!! on ICE",
-        "category": "copyright",
-        "encrypted_count": "fVdnbA==",
-        "copyright": "Yuri!!! on ICE",
+        "id": "t0147",
+        "name": "rika_(pokemon)",
+        "proper_name": "Rika",
+        "category": "character",
+        "encrypted_count": "fVVibg==",
+        "copyright": "Pokemon",
         "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6YWsFdsN90j7jwUoV9LzaEFb96hoevDz1A--O3VGX_DqgBhW4Zj1pJGBIwN25bKoiUybLw"
+        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/f/fa/Rika.png/revision/latest?cb=20161129170046"
+      },
+      "tag2": {
+        "id": "t0447",
+        "name": "toshinou_kyouko",
+        "proper_name": "Toshinou Kyouko",
+        "category": "character",
+        "encrypted_count": "fFxkbg==",
+        "copyright": "YuruYuri",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
       }
     },
     {
       "tag1": {
-        "id": "t0608",
-        "name": "kitagawa_marin",
-        "proper_name": "Kitagawa Marin",
+        "id": "t0200",
+        "name": "tsunomaki_watame",
+        "proper_name": "Tsunomaki Watame",
         "category": "character",
-        "encrypted_count": "eVNlaQ==",
-        "image_reference": "https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/3/3c/Kitagawa_Marin_~_Anime.jpg/revision/latest?cb=20220227174558&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0407",
-        "name": "lyn_(fire_emblem)",
-        "proper_name": "Lyn",
-        "category": "character",
-        "encrypted_count": "fVBmbg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/3/3a/FEA_Lyn.png/1200px-FEA_Lyn.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0933",
-        "name": "baobhan_sith_(fate)",
-        "proper_name": "Baobhan Sith",
-        "category": "character",
-        "encrypted_count": "e1Jlbg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S311_Stage1.webp/revision/latest?cb=20220925055326"
-      },
-      "tag2": {
-        "id": "t0834",
-        "name": "kiryu_coco",
-        "proper_name": "Kiryu Coco",
-        "category": "character",
-        "encrypted_count": "fVxjaw==",
+        "encrypted_count": "fVRmaw==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/c/ce/Kiryu_Coco_-_Portrait_01.png/1200px-Kiryu_Coco_-_Portrait_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0416",
-        "name": "high_priest_(ragnarok_online)",
-        "proper_name": "High Priest",
-        "category": "character",
-        "encrypted_count": "fFBgaw==",
-        "copyright": "Ragnarok Online",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
       },
       "tag2": {
-        "id": "t0365",
-        "name": "aria_(manga)",
-        "proper_name": "Aria",
-        "category": "copyright",
-        "encrypted_count": "fF1kbg==",
-        "copyright": "Aria",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0122",
-        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
-        "proper_name": "Elysia",
+        "id": "t0465",
+        "name": "shana",
+        "proper_name": "Shana",
         "category": "character",
-        "encrypted_count": "fVVgYw==",
-        "copyright": "Honkai Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
-      },
-      "tag2": {
-        "id": "t0776",
-        "name": "ahri_(league_of_legends)",
-        "proper_name": "Ahri",
-        "category": "character",
-        "encrypted_count": "e1duaA==",
-        "copyright": "League of Legends",
-        "material": "Video Game",
-        "image_reference": "https://liquipedia.net/commons/images/3/3f/League_Infobox_Ahri.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0074",
-        "name": "sanya_v._litvyak",
-        "proper_name": "Sanya V. Litvyak",
-        "category": "character",
-        "encrypted_count": "fVxkbA==",
-        "copyright": "Strike Witches",
+        "encrypted_count": "fVVhYg==",
+        "copyright": "Shakugan no Shana",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
-      },
-      "tag2": {
-        "id": "t0253",
-        "name": "beatrice_(umineko)",
-        "proper_name": "Beatrice",
-        "category": "character",
-        "encrypted_count": "fVVnYg==",
-        "copyright": "Umineko no Naku Koro ni",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
+        "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/6/66/Shana_render2.png/revision/latest?cb=20160302072323"
       }
     },
     {
       "tag1": {
-        "id": "t0802",
-        "name": "haikyuu!!",
-        "proper_name": "Haikyuu!!",
-        "category": "copyright",
-        "encrypted_count": "e1Jmag==",
-        "copyright": "Haikyuu!!",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
+        "id": "t0574",
+        "name": "higuchi_madoka",
+        "proper_name": "Higuchi Madoka",
+        "category": "character",
+        "encrypted_count": "e1FvaA==",
+        "image_reference": "https://image.shinycolors.wiki/9/91/MadokaProfile.png"
       },
       "tag2": {
-        "id": "t0949",
-        "name": "hinata_hajime",
-        "proper_name": "Hajime Hinata",
+        "id": "t0149",
+        "name": "oboro_(kancolle)",
+        "proper_name": "Oboro",
         "category": "character",
-        "encrypted_count": "e1FjbQ==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Hajime_Hinata.png/revision/latest?cb=20171229205740&path-prefix=ro"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
-        "category": "character",
-        "encrypted_count": "fFdubw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
-      },
-      "tag2": {
-        "id": "t0594",
-        "name": "bismarck_(kancolle)",
-        "proper_name": "Bismarck",
-        "category": "character",
-        "encrypted_count": "el1vag==",
+        "encrypted_count": "fFJvag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Bismarck.(Kantai.Collection).600.2131132.jpg"
+        "image_reference": "https://w7.pngwing.com/pngs/738/261/png-transparent-kantai-collection-battleship-wiki-japanese-destroyer-oboro-kantai-miscellaneous-computer-wallpaper-fictional-character.png"
       }
     },
     {
       "tag1": {
-        "id": "t0926",
-        "name": "nishizumi_maho",
-        "proper_name": "Nishizumi Maho",
+        "id": "t0181",
+        "name": "jinx_(league_of_legends)",
+        "proper_name": "Jinx",
         "category": "character",
-        "encrypted_count": "eFVvaw==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/a/af/Mahoofficial.png/revision/latest?cb=20170124072543"
+        "encrypted_count": "elZmYw==",
+        "copyright": "League of Legends",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
       },
       "tag2": {
-        "id": "t0154",
-        "name": "stellive",
-        "proper_name": "Stellive",
-        "category": "copyright",
-        "encrypted_count": "fVZhbA==",
-        "copyright": "Stellive",
+        "id": "t0071",
+        "name": "nicole_demara",
+        "proper_name": "Nicole Demara",
+        "category": "character",
+        "encrypted_count": "fVJibQ==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0331",
+        "name": "faust_(project_moon)",
+        "proper_name": "Faust",
+        "category": "character",
+        "encrypted_count": "fFNjaw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/projectmoonwiki/thumb/4/4c/FaustLCB-Profile.png/240px-FaustLCB-Profile.png"
+      },
+      "tag2": {
+        "id": "t0892",
+        "name": "hero_(omori)",
+        "proper_name": "Hero",
+        "category": "character",
+        "encrypted_count": "fFZhbQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
+        "category": "copyright",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
+        "material": "Video Game",
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
+      },
+      "tag2": {
+        "id": "t0665",
+        "name": "ikari_shinji",
+        "proper_name": "Ikari Shinji",
+        "category": "character",
+        "encrypted_count": "eVZibA==",
+        "copyright": "Neon Genesis Evangelion",
+        "material": "Anime",
+        "image_reference": "https://pm1.narvii.com/6220/4bf1876967db1d33deebc7a76510adbc90f9e96a_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0183",
+        "name": "atlanta_(kancolle)",
+        "proper_name": "Atlanta",
+        "category": "character",
+        "encrypted_count": "fFxiaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/42711-1127415922.png"
+      },
+      "tag2": {
+        "id": "t0644",
+        "name": "yahata_umiri",
+        "proper_name": "Yahata Umiri",
+        "category": "character",
+        "encrypted_count": "elJuag==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0294",
+        "name": "umbreon",
+        "proper_name": "Umbreon",
+        "category": "character",
+        "encrypted_count": "fV1kbA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/9/9f/Umbreon.png/revision/latest?cb=20150823181058&path-prefix=pl"
+      },
+      "tag2": {
+        "id": "t0863",
+        "name": "kitasan_black_(umamusume)",
+        "proper_name": "Kitasan Black",
+        "category": "character",
+        "encrypted_count": "fVBjag==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/7/73/Kitasan_black_anime.png/revision/latest?cb=20210109020442"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0193",
+        "name": "omaru_polka",
+        "proper_name": "Omaru Polka",
+        "category": "character",
+        "encrypted_count": "fVRjbQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://www.previewsworld.com/SiteImage/MainImage/STL314355.jpg"
+      },
+      "tag2": {
+        "id": "t0179",
+        "name": "z3_max_schultz_(kancolle)",
+        "proper_name": "Z3 Max Schultz",
+        "category": "character",
+        "encrypted_count": "fVVibw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/10/Z3.png/revision/latest?cb=20150604195539&path-prefix=protagonist"
       }
     }
   ]
