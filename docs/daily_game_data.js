@@ -1,68 +1,80 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-15T04:33:36.702331+00:00
-// Date: 2026-01-15
+// Generated on: 2026-01-16T04:32:54.892869+00:00
+// Date: 2026-01-16
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-15",
+  "date": "2026-01-16",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0296",
-        "name": "zhu_yuan",
-        "proper_name": "Zhu Yuan",
+        "id": "t0341",
+        "name": "non-human_admiral_(kancolle)",
+        "proper_name": "Non-Human Admiral",
         "category": "character",
-        "encrypted_count": "fFxvYw==",
-        "copyright": "Zenless Zone Zero",
+        "encrypted_count": "f1FuaA==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
+        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
       },
       "tag2": {
-        "id": "t0955",
-        "name": "hieda_no_akyuu",
-        "proper_name": "Hieda no Akyuu",
+        "id": "t0127",
+        "name": "yagami_hayate",
+        "proper_name": "Yagami Hayate",
         "category": "character",
-        "encrypted_count": "eldmag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1105378225.png"
+        "encrypted_count": "fVFnaQ==",
+        "copyright": "Magical Girl Lyrical Nanoha",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/nanoha/images/e/ed/Character_hayate.png/revision/latest?cb=20170327192812"
       }
     },
     {
       "tag1": {
-        "id": "t0689",
-        "name": "edelgard_von_hresvelg",
-        "proper_name": "Edelgard von Hresvelg",
+        "id": "t0181",
+        "name": "jinx_(league_of_legends)",
+        "proper_name": "Jinx",
         "category": "character",
-        "encrypted_count": "e1Fgbw==",
-        "copyright": "Fire Emblem",
+        "encrypted_count": "elZmYw==",
+        "copyright": "League of Legends",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/09/Edelgard_Portr\u00e4t.png/revision/latest?cb=20201210092653&path-prefix=de"
+        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
       },
       "tag2": {
-        "id": "t0329",
-        "name": "asahina_mafuyu",
-        "proper_name": "Asahina Mafuyu",
+        "id": "t0894",
+        "name": "brendan_(pokemon)",
+        "proper_name": "Brendan",
         "category": "character",
-        "encrypted_count": "fFdhag==",
-        "copyright": "Project Sekai: Colorful Stage! feat. Hatsune Miku",
+        "encrypted_count": "fVVubw==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://colorfulstage.com/img/ogtag_twitter.png"
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/c/ce/Brendan_Omega_Ruby_and_Alpha_Sapphire_concept_art.png/revision/latest?cb=20160513212418"
       }
     },
     {
       "tag1": {
-        "id": "t0116",
-        "name": "shadowverse",
-        "proper_name": "Shadowverse",
-        "category": "copyright",
-        "encrypted_count": "fVFmag==",
-        "copyright": "Shadowverse",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/shadowverse/images/f/f9/Top_key_logo.png/revision/latest?cb=20161011045849"
+        "id": "t0306",
+        "name": "kurosawa_dia",
+        "proper_name": "Kurosawa Dia",
+        "category": "character",
+        "encrypted_count": "elJkYg==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/love-live/images/d/db/789Transparent.png/revision/latest?cb=20160601025120&path-prefix=es"
       },
       "tag2": {
+        "id": "t0660",
+        "name": "sonic_the_hedgehog",
+        "proper_name": "Sonic the Hedgehog",
+        "category": "character",
+        "encrypted_count": "eFFvbw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonicthehedgehog/images/6/68/Sonic_profil_Sonic-X-Shadow-Generations.png/revision/latest?cb=20240817165317&path-prefix=fr"
+      }
+    },
+    {
+      "tag1": {
         "id": "t0825",
         "name": "bemani",
         "proper_name": "BEMANI",
@@ -71,158 +83,148 @@ const DAILY_GAME_DATA = {
         "copyright": "BEMANI",
         "material": "Video Game",
         "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e3/BEMANI_alt_logo.png/revision/latest?cb=20240414213707"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0004",
-        "name": "blue_archive",
-        "proper_name": "Blue Archive",
-        "category": "copyright",
-        "encrypted_count": "fVBibUgC",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
       },
       "tag2": {
-        "id": "t0807",
-        "name": "belfast_(azur_lane)",
-        "proper_name": "Belfast",
+        "id": "t0819",
+        "name": "kujo_jolyne",
+        "proper_name": "Kujo Jolyne",
         "category": "character",
-        "encrypted_count": "elJjbA==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/8/86/Belfast.png/revision/latest?cb=20190519143402"
+        "encrypted_count": "f1Njag==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/7/74/latest/20210409215727/Jolyne_ASB.png/800px-Jolyne_ASB.png"
       }
     },
     {
       "tag1": {
-        "id": "t0298",
-        "name": "hayami_kanade",
-        "proper_name": "Hayami Kanade",
+        "id": "t0909",
+        "name": "mordred_(fate)",
+        "proper_name": "Mordred",
         "category": "character",
-        "encrypted_count": "fF1kaw==",
-        "copyright": "IdolMaster Cinderella Girls",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/cinderella-girls/images/d/d1/200037R-Hayami-Kanade-Cool.png/revision/latest?cb=20180905181124"
+        "encrypted_count": "eFViYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/d9/13/56/d91356ac5b500a9cbeb4dfcb5c0f2a66.png"
       },
       "tag2": {
-        "id": "t0278",
-        "name": "arcane:_league_of_legends",
-        "proper_name": "Arcane: League of Legends",
+        "id": "t0881",
+        "name": "final_fantasy_iv",
+        "proper_name": "Final Fantasy IV",
         "category": "copyright",
-        "encrypted_count": "fF1maA==",
-        "copyright": "League of Legends",
-        "material": "TV Show",
-        "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
+        "encrypted_count": "fVxmbA==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://cdn.finalfantasywiki.com/f/fe/FFIV_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
+        "id": "t0365",
+        "name": "aria_(manga)",
+        "proper_name": "Aria",
+        "category": "copyright",
+        "encrypted_count": "fF1kbg==",
+        "copyright": "Aria",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
+      },
+      "tag2": {
+        "id": "t0721",
+        "name": "wakasagihime",
+        "proper_name": "Wakasagihime",
         "category": "character",
-        "encrypted_count": "fFdubw==",
+        "encrypted_count": "fVxvbA==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/3262-1482788206.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0468",
+        "name": "aoki_reika",
+        "proper_name": "Aoki Reika",
+        "category": "character",
+        "encrypted_count": "fFJlaw==",
+        "copyright": "Pretty Cure",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/5/58/Reika_Aoki_Perfil.png/revision/latest?cb=20160918201752&path-prefix=pt-br"
       },
       "tag2": {
-        "id": "t0520",
-        "name": "eevee",
-        "proper_name": "Eevee",
+        "id": "t0379",
+        "name": "female_rover_(wuthering_waves)",
+        "proper_name": "Female Rover",
         "category": "character",
-        "encrypted_count": "eVdiag==",
+        "encrypted_count": "fFFnbw==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Rover.(Female).full.3915197.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0233",
+        "name": "22/7",
+        "proper_name": "22/7",
+        "category": "copyright",
+        "encrypted_count": "fVViYw==",
+        "copyright": "22/7",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/ff/Nanabun_no_Nijuuni.jpg"
+      },
+      "tag2": {
+        "id": "t0074",
+        "name": "sanya_v._litvyak",
+        "proper_name": "Sanya V. Litvyak",
+        "category": "character",
+        "encrypted_count": "fVxkbA==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0256",
+        "name": "mihono_bourbon_(umamusume)",
+        "proper_name": "Mihono Bourbon",
+        "category": "character",
+        "encrypted_count": "fFFmbw==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Mihono.Bourbon.600.3657614.jpg"
+      },
+      "tag2": {
+        "id": "t0267",
+        "name": "akizuki_ritsuko",
+        "proper_name": "Akizuki Ritsuko",
+        "category": "character",
+        "encrypted_count": "fVVvYg==",
+        "copyright": "The iDOLM@STER",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0772",
+        "name": "pokemon_adventures",
+        "proper_name": "Pok\u00e9mon Adventures",
+        "category": "copyright",
+        "encrypted_count": "elJuaQ==",
         "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/f/f2/Eevee.png/revision/latest?cb=20150817112017&path-prefix=pl"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0013",
-        "name": "honkai_(series)",
-        "proper_name": "Honkai Series",
-        "category": "copyright",
-        "encrypted_count": "f1dgbEkC",
-        "copyright": "Honkai Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/da/Honkai_Impact_3rd_logo.png"
+        "material": "Manga",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/5/55/Pokemon_Adventures_logo.png"
       },
       "tag2": {
-        "id": "t0345",
-        "name": "kousaka_kirino",
-        "proper_name": "Kousaka Kirino",
+        "id": "t0369",
+        "name": "vegeta",
+        "proper_name": "Vegeta",
         "category": "character",
-        "encrypted_count": "fVNjbQ==",
-        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
-        "material": "Light Novel",
-        "image_reference": "https://static.zerochan.net/Kousaka.Kirino.full.1735927.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0680",
-        "name": "kal'tsit_(arknights)",
-        "proper_name": "Kal'tsit",
-        "category": "character",
-        "encrypted_count": "elFmaw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
-      },
-      "tag2": {
-        "id": "t0915",
-        "name": "junko_(touhou)",
-        "proper_name": "Junko",
-        "category": "character",
-        "encrypted_count": "e1Fgag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fcs-vs-battle/images/a/a9/Touhou_Project_Junko_Vector.png/revision/latest/scale-to-width-down/1200?cb=20180601120243"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0223",
-        "name": "matsuura_kanan",
-        "proper_name": "Matsuura Kanan",
-        "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Love Live!",
+        "encrypted_count": "elRnbg==",
+        "copyright": "Dragon Ball",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
-      },
-      "tag2": {
-        "id": "t0210",
-        "name": "darkness_(konosuba)",
-        "proper_name": "Darkness",
-        "category": "character",
-        "encrypted_count": "elZnbg==",
-        "copyright": "KonoSuba",
-        "material": "Light Novel",
-        "image_reference": "https://vignette.wikia.nocookie.net/konofan/images/7/7a/DarknessModel.png/revision/latest?cb=20200302090208"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0779",
-        "name": "anyoji_hime",
-        "proper_name": "Anyoji Hime",
-        "category": "character",
-        "encrypted_count": "fVduaA==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/fb/Hime_Anyoji_2025.png/revision/latest/scale-to-width-down/250?cb=20250410121127"
-      },
-      "tag2": {
-        "id": "t0600",
-        "name": "hecatia_lapislazuli",
-        "proper_name": "Hecatia Lapislazuli",
-        "category": "character",
-        "encrypted_count": "elJvag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
+        "image_reference": "https://static.wikia.nocookie.net/dragonballfighterz/images/4/4f/Vegeta_Artwork.png/revision/latest?cb=20180902173806"
       }
     }
   ]
