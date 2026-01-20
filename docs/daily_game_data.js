@@ -1,144 +1,12 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-19T04:44:37.034650+00:00
-// Date: 2026-01-19
+// Generated on: 2026-01-20T04:37:53.465320+00:00
+// Date: 2026-01-20
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-19",
+  "date": "2026-01-20",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
-    {
-      "tag1": {
-        "id": "t0614",
-        "name": "needy_girl_overdose",
-        "proper_name": "Needy Girl Overdose",
-        "category": "copyright",
-        "encrypted_count": "elxhaA==",
-        "copyright": "Needy Girl Overdose",
-        "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/I/91KkAiUigGL._AC_SL1500_.jpg"
-      },
-      "tag2": {
-        "id": "t0078",
-        "name": "hyouka",
-        "proper_name": "Hyouka",
-        "category": "copyright",
-        "encrypted_count": "fVNnbA==",
-        "copyright": "Hyouka",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Hyouka_English_poster.jpg/250px-Hyouka_English_poster.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0202",
-        "name": "elizabeth_bathory_(fate)",
-        "proper_name": "Elizabeth Bathory",
-        "category": "character",
-        "encrypted_count": "fVZjaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/2/29/S018_Stage1.webp/revision/latest?cb=20220910082212"
-      },
-      "tag2": {
-        "id": "t0782",
-        "name": "medusa_(rider)_(fate)",
-        "proper_name": "Medusa (Rider)",
-        "category": "character",
-        "encrypted_count": "e1BiYw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/vsbattles/images/d/dc/Fate_Grand_Order_Rider_Medusa.png/revision/latest?cb=20180103064846"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0399",
-        "name": "saki_(blue_archive)",
-        "proper_name": "Saki",
-        "category": "character",
-        "encrypted_count": "fFFlbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
-      },
-      "tag2": {
-        "id": "t0652",
-        "name": "shirasaka_koume",
-        "proper_name": "Shirasaka Koume",
-        "category": "character",
-        "encrypted_count": "e1dkYw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://pm1.narvii.com/6987/a06dfbcbc8f121386f7c8512ba51acd69fa98ac5r1-766-1064v2_hq.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0323",
-        "name": "working!!",
-        "proper_name": "Working!!",
-        "category": "copyright",
-        "encrypted_count": "fVFkaQ==",
-        "copyright": "Working!!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
-      },
-      "tag2": {
-        "id": "t0002",
-        "name": "kantai_collection",
-        "proper_name": "Kantai Collection",
-        "category": "copyright",
-        "encrypted_count": "el1lbkYH",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/02/Kantai_Collection_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0695",
-        "name": "phantasy_star_online_2",
-        "proper_name": "Phantasy Star Online 2",
-        "category": "copyright",
-        "encrypted_count": "e1VgbQ==",
-        "copyright": "Phantasy Star Online 2",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/48/Phantasy_star_online_2_logo.png"
-      },
-      "tag2": {
-        "id": "t0026",
-        "name": "gundam",
-        "proper_name": "Gundam",
-        "category": "copyright",
-        "encrypted_count": "eVNmaEY=",
-        "copyright": "Gundam",
-        "material": "Anime",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjQ3MmU1M2QtODc5My00MDhkLWEwZmItMGM2ODUzODA2YzY0XkEyXkFqcGc@._V1_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0196",
-        "name": "charizard",
-        "proper_name": "Charizard",
-        "category": "character",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
-      },
-      "tag2": {
-        "id": "t0717",
-        "name": "prinz_eugen_(azur_lane)",
-        "proper_name": "Prinz Eugen",
-        "category": "character",
-        "encrypted_count": "elNnag==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
-      }
-    },
     {
       "tag1": {
         "id": "t0085",
@@ -151,78 +19,212 @@ const DAILY_GAME_DATA = {
         "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/dc/Tales_of_Vesperia_Game_Cover.jpg"
       },
       "tag2": {
-        "id": "t0930",
-        "name": "tekken",
-        "proper_name": "Tekken",
+        "id": "t0344",
+        "name": "emiya_kiritsugu",
+        "proper_name": "Emiya Kiritsugu",
+        "category": "character",
+        "encrypted_count": "fFJibw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0756",
+        "name": "inazuma_eleven",
+        "proper_name": "Inazuma Eleven",
         "category": "copyright",
-        "encrypted_count": "f1VibUA=",
-        "copyright": "Tekken",
+        "encrypted_count": "d1xnbQ==",
+        "copyright": "Inazuma Eleven",
         "material": "Video Game",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/03/Tekken-Emblem.png"
+        "image_reference": "https://static.wikia.nocookie.net/inazuma/images/7/70/Logo_japon\u00e9s_de_IE.PNG/revision/latest?cb=20191114162736&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0367",
+        "name": "warcraft",
+        "proper_name": "Warcraft",
+        "category": "copyright",
+        "encrypted_count": "fFxnbg==",
+        "copyright": "Warcraft",
+        "material": "Video Game",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png"
       }
     },
     {
       "tag1": {
-        "id": "t0103",
-        "name": "barnaby_brooks_jr.",
-        "proper_name": "Barnaby Brooks Jr.",
+        "id": "t0896",
+        "name": "fukumaru_koito",
+        "proper_name": "Fukumaru Koito",
         "category": "character",
-        "encrypted_count": "fVFnaw==",
-        "copyright": "Tiger & Bunny",
+        "encrypted_count": "fFBmaA==",
+        "copyright": "IdolMaster Shiny Colors",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/tigerbunny/images/4/43/TIGERandBUNNY-Barnaby.png/revision/latest?cb=20200501193300"
+        "image_reference": "https://image.shinycolors.wiki/8/85/KoitoProfile.png"
       },
       "tag2": {
-        "id": "t0721",
-        "name": "wakasagihime",
-        "proper_name": "Wakasagihime",
+        "id": "t0850",
+        "name": "w_(arknights)",
+        "proper_name": "W",
         "category": "character",
-        "encrypted_count": "fVxvbA==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "fV1mbw==",
+        "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/3262-1482788206.png"
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/25/W.png/revision/latest?cb=20200501132649"
       }
     },
     {
       "tag1": {
-        "id": "t0638",
-        "name": "d.va_(overwatch)",
-        "proper_name": "D.Va",
-        "category": "character",
-        "encrypted_count": "e1FjbA==",
-        "copyright": "Overwatch",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
+        "id": "t0707",
+        "name": "steel_ball_run",
+        "proper_name": "Steel Ball Run",
+        "category": "copyright",
+        "encrypted_count": "eldjYw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/4/4f/latest/20250412184658/Steel_Ball_Run_Anime_Logo.png?20250412184658"
       },
       "tag2": {
-        "id": "t0062",
-        "name": "yamakaze_(kancolle)",
-        "proper_name": "Yamakaze",
+        "id": "t0858",
+        "name": "yu-gi-oh!_gx",
+        "proper_name": "Yu-Gi-Oh! GX",
+        "category": "copyright",
+        "encrypted_count": "eFVjbg==",
+        "copyright": "Yu-Gi-Oh!",
+        "material": "Anime",
+        "image_reference": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ2fSuWXPeQEHgCTFtB4cTeraW2LcY8bBBDNRhjHv6c3LMh1hB"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0730",
+        "name": "star_wars",
+        "proper_name": "Star Wars",
+        "category": "copyright",
+        "encrypted_count": "e11laA==",
+        "copyright": "Star Wars",
+        "material": "TV Show",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/320px-Star_Wars_Logo.svg.png"
+      },
+      "tag2": {
+        "id": "t0101",
+        "name": "kotomine_kirei",
+        "proper_name": "Kotomine Kirei",
         "category": "character",
-        "encrypted_count": "fVZubA==",
+        "encrypted_count": "fVdiaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/a/aa/Kotomine_kirei.png/revision/latest?cb=20141019084245"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0317",
+        "name": "shining_nikki",
+        "proper_name": "Shining Nikki",
+        "category": "copyright",
+        "encrypted_count": "fFNgbw==",
+        "copyright": "Shining Nikki",
+        "material": "Mobile Game",
+        "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
+      },
+      "tag2": {
+        "id": "t0935",
+        "name": "noa_(blue_archive)",
+        "proper_name": "Noa",
+        "category": "character",
+        "encrypted_count": "eFRgaQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Noa_Portrait.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0055",
+        "name": "fate/prototype",
+        "proper_name": "Fate/prototype",
+        "category": "copyright",
+        "encrypted_count": "elVnaA==",
+        "copyright": "Fate Series",
+        "material": "Light Novel",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0074",
+        "name": "sanya_v._litvyak",
+        "proper_name": "Sanya V. Litvyak",
+        "category": "character",
+        "encrypted_count": "fVxkbA==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0532",
+        "name": "mutsu_(kancolle)",
+        "proper_name": "Mutsu",
+        "category": "character",
+        "encrypted_count": "e1BjYw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
+        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2018/01/74b7b170-f222-400e-942d-3a40dc073a2b.jpg"
+      },
+      "tag2": {
+        "id": "t0077",
+        "name": "higashikata_josuke",
+        "proper_name": "Higashikata Josuke",
+        "category": "character",
+        "encrypted_count": "fVdmbg==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
       }
     },
     {
       "tag1": {
-        "id": "t0837",
-        "name": "shinosawa_hiro",
-        "proper_name": "Shinosawa Hiro",
+        "id": "t0650",
+        "name": "ereshkigal_(fate)",
+        "proper_name": "Ereshkigal",
         "category": "character",
-        "encrypted_count": "fVNmbA==",
-        "image_reference": "https://project-imas.wiki/images/thumb/4/4b/HiroShinosawa.png/640px-HiroShinosawa.png"
+        "encrypted_count": "el1gaA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6799/1433c297dcd8ea75d63f5657adcf6412e4c9326cv2_hq.jpg"
       },
       "tag2": {
-        "id": "t0540",
-        "name": "shishiro_botan",
-        "proper_name": "Shishiro Botan",
+        "id": "t0327",
+        "name": "bleach:_sennen_kessen-hen",
+        "proper_name": "Bleach: Thousand-Year Blood War",
+        "category": "copyright",
+        "encrypted_count": "elNmag==",
+        "copyright": "Bleach",
+        "material": "Anime",
+        "image_reference": "https://latestlogo.com/wp-content/uploads/2024/01/bleach-thousand-year-blood-war-logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0286",
+        "name": "charlotte_(madoka_magica)",
+        "proper_name": "Charlotte",
         "category": "character",
-        "encrypted_count": "e1Nnbw==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_02.png"
+        "encrypted_count": "fFNvYw==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://images.puella-magi.net/b/be/Card_Charlotte.png"
+      },
+      "tag2": {
+        "id": "t0132",
+        "name": "jeanne_d'arc_alter_(avenger)_(fate)",
+        "proper_name": "Jeanne D'Arc Alter (Avenger)",
+        "category": "character",
+        "encrypted_count": "eVVhaA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/78/AvengerJeanneAlterStage1nb.png/revision/latest?cb=20211001014408&path-prefix=vi"
       }
     }
   ]
