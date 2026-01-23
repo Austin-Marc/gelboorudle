@@ -1,229 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-22T04:41:05.574112+00:00
-// Date: 2026-01-22
+// Generated on: 2026-01-23T04:35:39.114964+00:00
+// Date: 2026-01-23
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-22",
+  "date": "2026-01-23",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0600",
-        "name": "hecatia_lapislazuli",
-        "proper_name": "Hecatia Lapislazuli",
+        "id": "t0404",
+        "name": "higashiyama_kobeni",
+        "proper_name": "Higashiyama Kobeni",
         "category": "character",
-        "encrypted_count": "elJvag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
+        "encrypted_count": "fVZlbQ==",
+        "copyright": "Chainsaw Man",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
       },
       "tag2": {
-        "id": "t0174",
-        "name": "dimitri_alexandre_blaiddyd",
-        "proper_name": "Dimitri Alexandre Blaiddyd",
-        "category": "character",
-        "encrypted_count": "fVFhaQ==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
+        "id": "t0707",
+        "name": "steel_ball_run",
+        "proper_name": "Steel Ball Run",
+        "category": "copyright",
+        "encrypted_count": "eldjYw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/4/4f/latest/20250412184658/Steel_Ball_Run_Anime_Logo.png?20250412184658"
       }
     },
     {
       "tag1": {
-        "id": "t0199",
-        "name": "yuki_setsuna",
-        "proper_name": "Yuki Setsuna",
+        "id": "t0370",
+        "name": "unryuu_(kancolle)",
+        "proper_name": "Unryuu",
         "category": "character",
-        "encrypted_count": "e1dmaQ==",
-        "copyright": "Love Live! Series",
+        "encrypted_count": "fFJmaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/2/23/Ship_Card_Unryuu.png"
+      },
+      "tag2": {
+        "id": "t0342",
+        "name": "jintsuu_(kancolle)",
+        "proper_name": "Jintsuu",
+        "category": "character",
+        "encrypted_count": "fFduYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b0/Jintsu_kai2.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0705",
+        "name": "irys_(hololive)",
+        "proper_name": "Irys",
+        "category": "character",
+        "encrypted_count": "elFnaQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6c/IRyS_Portrait.jpg/revision/latest?cb=20210707044450"
+      },
+      "tag2": {
+        "id": "t0528",
+        "name": "splatoon_2",
+        "proper_name": "Splatoon 2",
+        "category": "copyright",
+        "encrypted_count": "eVxjaA==",
+        "copyright": "Splatoon 2",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/Splatoon_2_Splatoon_Base_Logo.png/800px-Splatoon_2_Splatoon_Base_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0811",
+        "name": "reisalin_stout",
+        "proper_name": "Reisalin Stout",
+        "category": "character",
+        "encrypted_count": "e1RvaA==",
+        "copyright": "Atelier Series",
+        "material": "Video Game",
+        "image_reference": "https://atelier.wiki.gg/images/thumb/5/5d/A25_Ryza_Master's_Right-Hand.png/600px-A25_Ryza_Master's_Right-Hand.png"
+      },
+      "tag2": {
+        "id": "t0837",
+        "name": "shinosawa_hiro",
+        "proper_name": "Shinosawa Hiro",
+        "category": "character",
+        "encrypted_count": "fVNmbA==",
+        "image_reference": "https://project-imas.wiki/images/thumb/4/4b/HiroShinosawa.png/640px-HiroShinosawa.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0628",
+        "name": "ceres_fauna",
+        "proper_name": "Ceres Fauna",
+        "category": "character",
+        "encrypted_count": "e1ViaQ==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/a/ab/Ceres_Fauna_-_Portrait_01.png/1200px-Ceres_Fauna_-_Portrait_01.png"
+      },
+      "tag2": {
+        "id": "t0265",
+        "name": "mankanshoku_mako",
+        "proper_name": "Mankanshoku Mako",
+        "category": "character",
+        "encrypted_count": "fVFgYw==",
+        "copyright": "Kill la Kill",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/a/ab/PDP_Profile_Image_-_Setsuna_Yuki.png/revision/latest?cb=20181005192611"
-      },
-      "tag2": {
-        "id": "t0595",
-        "name": "kanna_(blue_archive)",
-        "proper_name": "Kanna",
+        "image_reference": "https://www.pngkey.com/png/detail/790-7906667_mako-mankanshoku-drawings-kill-la-kill-mako-senketsu.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0939",
+        "name": "shenhe_(genshin_impact)",
+        "proper_name": "Shenhe",
         "category": "character",
-        "encrypted_count": "e1Vvag==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/47/Kanna.png?version=09ce58bc6b8b274502da1550c549a7aa"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0325",
-        "name": "danganronpa_3_(anime)",
-        "proper_name": "Danganronpa 3: The End of Hope's Peak High School",
-        "category": "copyright",
-        "encrypted_count": "fFxmbw==",
-        "copyright": "Danganronpa",
-        "material": "Anime",
-        "image_reference": "https://vignette2.wikia.nocookie.net/danganronpa/images/2/2f/Logo_of_Hope%27s_Peak.png/revision/latest/scale-to-width-down/2000?cb=20161227015605"
-      },
-      "tag2": {
-        "id": "t0150",
-        "name": "rowlet",
-        "proper_name": "Rowlet",
-        "category": "character",
-        "encrypted_count": "fVZmaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/f/ff/Rowlet.png/revision/latest?cb=20180622184738&path-prefix=pl"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0186",
-        "name": "ado_(utaite)",
-        "proper_name": "Ado",
-        "category": "copyright",
-        "encrypted_count": "fVVubA==",
-        "copyright": "Ado",
-        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
-      },
-      "tag2": {
-        "id": "t0614",
-        "name": "needy_girl_overdose",
-        "proper_name": "Needy Girl Overdose",
-        "category": "copyright",
-        "encrypted_count": "elxhaA==",
-        "copyright": "Needy Girl Overdose",
-        "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/I/91KkAiUigGL._AC_SL1500_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0014",
-        "name": "idolmaster_cinderella_girls",
-        "proper_name": "Idolmaster Cinderella Girls",
-        "category": "copyright",
-        "encrypted_count": "f1Bma0cB",
-        "copyright": "Idolmaster Cinderella Girls",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Idolmaster_Cinderella_Girls_promo.jpg"
-      },
-      "tag2": {
-        "id": "t0488",
-        "name": "nikki_(series)",
-        "proper_name": "Nikki Series",
-        "category": "copyright",
-        "encrypted_count": "eFZmaA==",
-        "copyright": "Nikki Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0001",
-        "name": "touhou",
-        "proper_name": "Touhou",
-        "category": "copyright",
-        "encrypted_count": "d1VjbkQH",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0715/4f2d148d417cc5876bdfd62734c716c2c82c5017d413df3a.png"
-      },
-      "tag2": {
-        "id": "t0851",
-        "name": "fischl_(genshin_impact)",
-        "proper_name": "Fischl",
-        "category": "character",
-        "encrypted_count": "elVkaA==",
+        "encrypted_count": "eFBvaw==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/c/c3/Character_Fischl_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030048&path-prefix=th"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0564",
-        "name": "mario",
-        "proper_name": "Mario",
-        "category": "character",
-        "encrypted_count": "dlBmag==",
-        "copyright": "Mario",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/it/5/50/Mario_Nintendo.png"
+        "image_reference": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/shenhe-character-portrait-genshin-impact-wiki-guide-200px.png"
       },
       "tag2": {
-        "id": "t0248",
-        "name": "kanna_kamui",
-        "proper_name": "Kanna Kamui",
-        "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Miss Kobayashi's Dragon Maid",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0584",
-        "name": "futatsuiwa_mamizou",
-        "proper_name": "Futatsuiwa Mamizou",
-        "category": "character",
-        "encrypted_count": "eldgag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/f/f3/Th13.5Mamizou.png/revision/latest?cb=20130607232748&path-prefix=pt"
-      },
-      "tag2": {
-        "id": "t0588",
-        "name": "sendai_(kancolle)",
-        "proper_name": "Sendai",
-        "category": "character",
-        "encrypted_count": "elxnaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/11498-20131651.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0577",
-        "name": "mirko",
-        "proper_name": "Mirko",
-        "category": "character",
-        "encrypted_count": "dlZvaw==",
-        "copyright": "My Hero Academia",
-        "material": "Anime",
-        "image_reference": "https://anibase.net/files/700520fd441958ed48e83800b93815f7"
-      },
-      "tag2": {
-        "id": "t0627",
-        "name": "sazanami_(kancolle)",
-        "proper_name": "Sazanami",
-        "category": "character",
-        "encrypted_count": "eldmaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Sazanami.(Kantai.Collection).full.1845445.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0259",
-        "name": "kouzuki_kallen",
-        "proper_name": "Kouzuki Kallen",
-        "category": "character",
-        "encrypted_count": "elFhbw==",
-        "copyright": "Code Geass",
-        "material": "Anime",
-        "image_reference": "https://static.wikitide.net/geasswiki/4/43/Kallen_kouzuki_pilot_resurrection_roze_infobox_color_settei.png"
-      },
-      "tag2": {
-        "id": "t0422",
-        "name": "ultra_series",
-        "proper_name": "Ultra Series",
+        "id": "t0538",
+        "name": "animal_crossing",
+        "proper_name": "Animal Crossing",
         "category": "copyright",
-        "encrypted_count": "fVViYw==",
-        "copyright": "Ultraman",
-        "material": "TV Show",
-        "image_reference": "https://static.wikia.nocookie.net/ultramananthology/images/7/7a/Ultraman_Series_Official_Logo.png/revision/latest?cb=20210118211502"
+        "encrypted_count": "f1Ria0M=",
+        "copyright": "Animal Crossing",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/animalcrossing/images/1/1e/NH-boxart.png/revision/latest?cb=20200102220852"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0183",
+        "name": "atlanta_(kancolle)",
+        "proper_name": "Atlanta",
+        "category": "character",
+        "encrypted_count": "fFxiaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/42711-1127415922.png"
+      },
+      "tag2": {
+        "id": "t0256",
+        "name": "mihono_bourbon_(umamusume)",
+        "proper_name": "Mihono Bourbon",
+        "category": "character",
+        "encrypted_count": "fFFmbw==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Mihono.Bourbon.600.3657614.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0106",
+        "name": "uchiha_sasuke",
+        "proper_name": "Uchiha Sasuke",
+        "category": "character",
+        "encrypted_count": "eFJgbQ==",
+        "copyright": "Naruto",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest/scale-to-width-down/1200?cb=20170716092103"
+      },
+      "tag2": {
+        "id": "t0770",
+        "name": "idolmaster_side-m",
+        "proper_name": "The Idolmaster SideM",
+        "category": "copyright",
+        "encrypted_count": "elNuaw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/imas-sidem/images/d/d9/SideM_logo.png/revision/latest?cb=20180618033749"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0688",
+        "name": "formidable_(azur_lane)",
+        "proper_name": "Formidable",
+        "category": "character",
+        "encrypted_count": "el1hbA==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/6/69/Formidable.png"
+      },
+      "tag2": {
+        "id": "t0461",
+        "name": "burnice_white",
+        "proper_name": "Burnice White",
+        "category": "character",
+        "encrypted_count": "fFJhbg==",
+        "copyright": "Zenlesss Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/d/d1/Agent_Burnice_White_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240930234702"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0731",
+        "name": "phantom_blood",
+        "proper_name": "Phantom Blood",
+        "category": "copyright",
+        "encrypted_count": "f1NjbQ==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/b/b4/latest/20200325022741/Phantom_Blood_Logo.png"
+      },
+      "tag2": {
+        "id": "t0638",
+        "name": "d.va_(overwatch)",
+        "proper_name": "D.Va",
+        "category": "character",
+        "encrypted_count": "e1FjbA==",
+        "copyright": "Overwatch",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
       }
     }
   ]
