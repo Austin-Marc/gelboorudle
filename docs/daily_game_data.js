@@ -1,24 +1,78 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-25T04:45:31.199293+00:00
-// Date: 2026-01-25
+// Generated on: 2026-01-26T04:49:31.224719+00:00
+// Date: 2026-01-26
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-25",
+  "date": "2026-01-26",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0053",
-        "name": "dragon_quest_iii",
-        "proper_name": "Dragon Quest III",
-        "category": "copyright",
-        "encrypted_count": "eFBubg==",
-        "copyright": "Dragon Quest",
-        "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/I/91M8HM0QlDL._AC_UF1000,1000_QL80_.jpg"
+        "id": "t0647",
+        "name": "marcille_donato",
+        "proper_name": "Marcille Donato",
+        "category": "character",
+        "encrypted_count": "e1Rmag==",
+        "copyright": "Dorohedoro",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
       },
       "tag2": {
+        "id": "t0779",
+        "name": "anyoji_hime",
+        "proper_name": "Anyoji Hime",
+        "category": "character",
+        "encrypted_count": "fVduaA==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/fb/Hime_Anyoji_2025.png/revision/latest/scale-to-width-down/250?cb=20250410121127"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0787",
+        "name": "kouyoku_senki_exs-tia",
+        "proper_name": "Kouyoku Senki Exs-Tia",
+        "category": "copyright",
+        "encrypted_count": "elBnag==",
+        "copyright": "Kouyoku Senki Exs-Tia",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
+      },
+      "tag2": {
+        "id": "t0261",
+        "name": "mika_(girls_und_panzer)",
+        "proper_name": "Mika",
+        "category": "character",
+        "encrypted_count": "fF1lbw==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/3/36/Micahofficial.png/revision/latest?cb=20170123122312"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0785",
+        "name": "black_rock_shooter_(character)",
+        "proper_name": "Black Rock Shooter",
+        "category": "character",
+        "encrypted_count": "eldlbA==",
+        "copyright": "Black Rock Shooter",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/familiar-hda/images/b/b1/Black-Rock-Shooter-black-rock-shooter-vocaloid-30894748-1365-1142.png/revision/latest?cb=20130711194915&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0908",
+        "name": "hanako_(blue_archive)",
+        "proper_name": "Hanako",
+        "category": "character",
+        "encrypted_count": "eFVvbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/9/9c/Hanako.png/399px-Hanako.png"
+      }
+    },
+    {
+      "tag1": {
         "id": "t0848",
         "name": "doremy_sweet",
         "proper_name": "Doremy Sweet",
@@ -27,203 +81,148 @@ const DAILY_GAME_DATA = {
         "copyright": "Touhou Project",
         "material": "Video Game",
         "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1354156714.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0684",
-        "name": "uraraka_ochaco",
-        "proper_name": "Uraraka Ochaco",
+      },
+      "tag2": {
+        "id": "t0195",
+        "name": "reizei_mako",
+        "proper_name": "Reizei Mako",
         "category": "character",
-        "encrypted_count": "dl1lbQ==",
-        "copyright": "My Hero Academia",
+        "encrypted_count": "fF1kYw==",
+        "copyright": "Kantai Collection",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/boku-no-hero-academia-italia/images/6/66/Ochaco27s_second_hero_costume_28anime29.png/revision/latest?cb=20210926181953&path-prefix=it"
-      },
-      "tag2": {
-        "id": "t0800",
-        "name": "amate_yuzuriha",
-        "proper_name": "Amate Yuzuriha",
-        "category": "character",
-        "encrypted_count": "elZvbQ==",
-        "copyright": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
+        "image_reference": "https://img10.reactor.cc/pics/post/full/Girls-und-Panzer-Anime-reizei-mako-sazanka-4507628.png"
       }
     },
     {
       "tag1": {
-        "id": "t0072",
-        "name": "anastasia_(idolmaster)",
-        "proper_name": "Anastasia",
+        "id": "t0470",
+        "name": "florian_(pokemon)",
+        "proper_name": "Florian",
         "category": "character",
-        "encrypted_count": "fVFhaA==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "fFJubA==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
+        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20230826015011/Artwork_de_Florian_y_Fuecoco.png/376px-Artwork_de_Florian_y_Fuecoco.png"
       },
       "tag2": {
-        "id": "t0315",
-        "name": "curren_chan_(umamusume)",
-        "proper_name": "Curren Chan",
-        "category": "character",
-        "encrypted_count": "fFFiYg==",
-        "copyright": "Uma Musume Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Curren.Chan.full.3657664.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0498",
-        "name": "dead_or_alive",
-        "proper_name": "Dead or Alive",
+        "id": "t0425",
+        "name": "persona_3_portable",
+        "proper_name": "Persona 3 Portable",
         "category": "copyright",
-        "encrypted_count": "fFVib0A=",
-        "copyright": "Dead or Alive",
+        "encrypted_count": "fFJkaQ==",
+        "copyright": "Persona",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/deadoralive/images/c/c9/Logo.png/revision/latest?cb=20080525033719"
-      },
-      "tag2": {
-        "id": "t0938",
-        "name": "phainon_(honkai:_star_rail)",
-        "proper_name": "Phainon",
-        "category": "character",
-        "encrypted_count": "e1Jhbg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Ordain_of_the_Chrysos_Heir_Phainon.png/revision/latest?cb=20241122123229"
+        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0202",
-        "name": "elizabeth_bathory_(fate)",
-        "proper_name": "Elizabeth Bathory",
+        "id": "t0436",
+        "name": "yi_sang_(project_moon)",
+        "proper_name": "Yi Sang",
         "category": "character",
-        "encrypted_count": "fVZjaQ==",
+        "encrypted_count": "fFBjYw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
+      },
+      "tag2": {
+        "id": "t0080",
+        "name": "baldur's_gate",
+        "proper_name": "Baldur's Gate",
+        "category": "copyright",
+        "encrypted_count": "fVdgbQ==",
+        "copyright": "Baldur's Gate",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/forgottenrealms/images/1/1a/BG3_logo_1.png/revision/latest/scale-to-width-down/1200?cb=20200910182711"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0193",
+        "name": "omaru_polka",
+        "proper_name": "Omaru Polka",
+        "category": "character",
+        "encrypted_count": "fVRjbQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://www.previewsworld.com/SiteImage/MainImage/STL314355.jpg"
+      },
+      "tag2": {
+        "id": "t0581",
+        "name": "asuna_(sao)",
+        "proper_name": "Asuna",
+        "category": "character",
+        "encrypted_count": "eVRnYw==",
+        "copyright": "Sword Art Online",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0678",
+        "name": "murasaki_shion",
+        "proper_name": "Murasaki Shion",
+        "category": "character",
+        "encrypted_count": "e1Riaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/3/3f/Murasaki_Shion_Portrait.png/revision/latest?cb=20200616011940"
+      },
+      "tag2": {
+        "id": "t0296",
+        "name": "zhu_yuan",
+        "proper_name": "Zhu Yuan",
+        "category": "character",
+        "encrypted_count": "fFxvYw==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0842",
+        "name": "futaba_anzu",
+        "proper_name": "Futaba Anzu",
+        "category": "character",
+        "encrypted_count": "elZgbQ==",
+        "copyright": "The iDOLM@STER",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/thumb/c/c3/Cinderella_master_002_cover.jpg/1200px-Cinderella_master_002_cover.jpg"
+      },
+      "tag2": {
+        "id": "t0872",
+        "name": "fate/samurai_remnant",
+        "proper_name": "Fate/Samurai Remnant",
+        "category": "copyright",
+        "encrypted_count": "fFdhbQ==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/2/29/S018_Stage1.webp/revision/latest?cb=20220910082212"
-      },
-      "tag2": {
-        "id": "t0813",
-        "name": "koizumi_hanayo",
-        "proper_name": "Koizumi Hanayo",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-super-sentai/images/2/27/Hanayo_01_01.png/revision/latest?cb=20180827052255"
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
+        "id": "t0406",
+        "name": "princess_daisy",
+        "proper_name": "Princess Daisy",
         "category": "character",
-        "encrypted_count": "fFdubw==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "eFxvYg==",
+        "copyright": "Mario",
         "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+        "image_reference": "https://www.mariowiki.com/images/thumb/a/a9/SuperMarioParty_Daisy.png/1200px-SuperMarioParty_Daisy.png"
       },
       "tag2": {
-        "id": "t0535",
-        "name": "mahou_shoujo_madoka_magica:_hangyaku_no_monogatari",
-        "proper_name": "Mahou Shoujo Madoka Magica: Hangyaku no Monogatari",
-        "category": "copyright",
-        "encrypted_count": "e1Bhaw==",
-        "copyright": "Mahou Shoujo Madoka Magica",
+        "id": "t0127",
+        "name": "yagami_hayate",
+        "proper_name": "Yagami Hayate",
+        "category": "character",
+        "encrypted_count": "fVFnaQ==",
+        "copyright": "Magical Girl Lyrical Nanoha",
         "material": "Anime",
-        "image_reference": "https://www.animeclick.it/immagini/manga/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari/cover/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari-cover.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0553",
-        "name": "hoshimi_miyabi",
-        "proper_name": "Hoshimi Miyabi",
-        "category": "character",
-        "encrypted_count": "e1VjbA==",
-        "copyright": "Aikatsu!",
-        "material": "Anime",
-        "image_reference": "https://i.pinimg.com/originals/a0/2c/e5/a02ce53bc67ef1b7fc6ace7e195b0473.png"
-      },
-      "tag2": {
-        "id": "t0958",
-        "name": "steins;gate",
-        "proper_name": "Steins;Gate",
-        "category": "copyright",
-        "encrypted_count": "eFxhbA==",
-        "copyright": "Steins;Gate",
-        "material": "Visual Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0797",
-        "name": "oguri_cap_(umamusume)",
-        "proper_name": "Oguri Cap",
-        "category": "character",
-        "encrypted_count": "fVBmbw==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/e/e7/Oguri_cap_new.png/revision/latest?cb=20181030225520"
-      },
-      "tag2": {
-        "id": "t0242",
-        "name": "houjou_satoko",
-        "proper_name": "Houjou Satoko",
-        "category": "character",
-        "encrypted_count": "fVdvYw==",
-        "copyright": "Higurashi When They Cry",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikitide.net/whentheycrywiki/1/16/Alc_sa1a_def_a1_2.png?version=412d4aa183c927277ad2171f039940c1"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0863",
-        "name": "kitasan_black_(umamusume)",
-        "proper_name": "Kitasan Black",
-        "category": "character",
-        "encrypted_count": "fVBjag==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/7/73/Kitasan_black_anime.png/revision/latest?cb=20210109020442"
-      },
-      "tag2": {
-        "id": "t0033",
-        "name": "kemono_friends",
-        "proper_name": "Kemono Friends",
-        "category": "copyright",
-        "encrypted_count": "e1xibEg=",
-        "copyright": "Kemono Friends",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kemono_Friends_Anime_Key_Visual_Art.jpg/250px-Kemono_Friends_Anime_Key_Visual_Art.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0459",
-        "name": "shinonome_ena",
-        "proper_name": "Shinonome Ena",
-        "category": "character",
-        "encrypted_count": "fFZgYw==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
-      },
-      "tag2": {
-        "id": "t0317",
-        "name": "shining_nikki",
-        "proper_name": "Shining Nikki",
-        "category": "copyright",
-        "encrypted_count": "fFNgbw==",
-        "copyright": "Shining Nikki",
-        "material": "Mobile Game",
-        "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
+        "image_reference": "https://vignette.wikia.nocookie.net/nanoha/images/e/ed/Character_hayate.png/revision/latest?cb=20170327192812"
       }
     }
   ]
