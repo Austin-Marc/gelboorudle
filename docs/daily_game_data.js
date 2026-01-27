@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-26T04:49:31.224719+00:00
-// Date: 2026-01-26
+// Generated on: 2026-01-27T04:40:13.832934+00:00
+// Date: 2026-01-27
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-26",
+  "date": "2026-01-27",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0647",
-        "name": "marcille_donato",
-        "proper_name": "Marcille Donato",
-        "category": "character",
-        "encrypted_count": "e1Rmag==",
-        "copyright": "Dorohedoro",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0779",
-        "name": "anyoji_hime",
-        "proper_name": "Anyoji Hime",
-        "category": "character",
-        "encrypted_count": "fVduaA==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/fb/Hime_Anyoji_2025.png/revision/latest/scale-to-width-down/250?cb=20250410121127"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0787",
-        "name": "kouyoku_senki_exs-tia",
-        "proper_name": "Kouyoku Senki Exs-Tia",
+        "id": "t0751",
+        "name": "pokemon_(classic_anime)",
+        "proper_name": "Pok\u00e9mon (Classic Anime)",
         "category": "copyright",
-        "encrypted_count": "elBnag==",
-        "copyright": "Kouyoku Senki Exs-Tia",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
-      },
-      "tag2": {
-        "id": "t0261",
-        "name": "mika_(girls_und_panzer)",
-        "proper_name": "Mika",
-        "category": "character",
-        "encrypted_count": "fF1lbw==",
-        "copyright": "Girls und Panzer",
+        "encrypted_count": "d1NuaA==",
+        "copyright": "Pok\u00e9mon",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/3/36/Micahofficial.png/revision/latest?cb=20170123122312"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0785",
-        "name": "black_rock_shooter_(character)",
-        "proper_name": "Black Rock Shooter",
-        "category": "character",
-        "encrypted_count": "eldlbA==",
-        "copyright": "Black Rock Shooter",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/familiar-hda/images/b/b1/Black-Rock-Shooter-black-rock-shooter-vocaloid-30894748-1365-1142.png/revision/latest?cb=20130711194915&path-prefix=es"
+        "image_reference": "https://i.redd.it/m5jdk1ymvre31.png"
       },
       "tag2": {
-        "id": "t0908",
-        "name": "hanako_(blue_archive)",
-        "proper_name": "Hanako",
+        "id": "t0162",
+        "name": "satonaka_chie",
+        "proper_name": "Satonaka Chie",
         "category": "character",
-        "encrypted_count": "eFVvbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/9/9c/Hanako.png/399px-Hanako.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0848",
-        "name": "doremy_sweet",
-        "proper_name": "Doremy Sweet",
-        "category": "character",
-        "encrypted_count": "fVBjYg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1354156714.png"
-      },
-      "tag2": {
-        "id": "t0195",
-        "name": "reizei_mako",
-        "proper_name": "Reizei Mako",
-        "category": "character",
-        "encrypted_count": "fF1kYw==",
-        "copyright": "Kantai Collection",
-        "material": "Anime",
-        "image_reference": "https://img10.reactor.cc/pics/post/full/Girls-und-Panzer-Anime-reizei-mako-sazanka-4507628.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0470",
-        "name": "florian_(pokemon)",
-        "proper_name": "Florian",
-        "category": "character",
-        "encrypted_count": "fFJubA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20230826015011/Artwork_de_Florian_y_Fuecoco.png/376px-Artwork_de_Florian_y_Fuecoco.png"
-      },
-      "tag2": {
-        "id": "t0425",
-        "name": "persona_3_portable",
-        "proper_name": "Persona 3 Portable",
-        "category": "copyright",
-        "encrypted_count": "fFJkaQ==",
+        "encrypted_count": "elVhaw==",
         "copyright": "Persona",
         "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
       }
     },
     {
       "tag1": {
-        "id": "t0436",
-        "name": "yi_sang_(project_moon)",
-        "proper_name": "Yi Sang",
+        "id": "t0830",
+        "name": "naganami_(kancolle)",
+        "proper_name": "Naganami",
         "category": "character",
-        "encrypted_count": "fFBjYw==",
-        "copyright": "Project Moon",
+        "encrypted_count": "fVZgYg==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
+        "image_reference": "https://static.zerochan.net/Naganami.(Kantai.Collection).full.2266442.jpg"
       },
       "tag2": {
-        "id": "t0080",
-        "name": "baldur's_gate",
-        "proper_name": "Baldur's Gate",
+        "id": "t0741",
+        "name": "nozomi_(blue_archive)",
+        "proper_name": "Nozomi",
+        "category": "character",
+        "encrypted_count": "elBnaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/0/0b/Nozomi.png?version=5b03c5a5d159b8b68eb6287e9738dace"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0022",
+        "name": "kirisame_marisa",
+        "proper_name": "Kirisame Marisa",
+        "category": "character",
+        "encrypted_count": "eFdhaEA=",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/2/29/Th20Marisa.png/revision/latest?cb=20250505062007"
+      },
+      "tag2": {
+        "id": "t0570",
+        "name": "fullmetal_alchemist",
+        "proper_name": "Fullmetal Alchemist",
         "category": "copyright",
-        "encrypted_count": "fVdgbQ==",
-        "copyright": "Baldur's Gate",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/forgottenrealms/images/1/1a/BG3_logo_1.png/revision/latest/scale-to-width-down/1200?cb=20200910182711"
+        "encrypted_count": "eVVubg==",
+        "copyright": "Fullmetal Alchemist",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/a/a6/FMA_logo.jpg/revision/latest?cb=20130923075031"
       }
     },
     {
       "tag1": {
-        "id": "t0193",
-        "name": "omaru_polka",
-        "proper_name": "Omaru Polka",
-        "category": "character",
-        "encrypted_count": "fVRjbQ==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://www.previewsworld.com/SiteImage/MainImage/STL314355.jpg"
-      },
-      "tag2": {
-        "id": "t0581",
-        "name": "asuna_(sao)",
-        "proper_name": "Asuna",
-        "category": "character",
-        "encrypted_count": "eVRnYw==",
-        "copyright": "Sword Art Online",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0678",
-        "name": "murasaki_shion",
-        "proper_name": "Murasaki Shion",
-        "category": "character",
-        "encrypted_count": "e1Riaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/3/3f/Murasaki_Shion_Portrait.png/revision/latest?cb=20200616011940"
-      },
-      "tag2": {
-        "id": "t0296",
-        "name": "zhu_yuan",
-        "proper_name": "Zhu Yuan",
-        "category": "character",
-        "encrypted_count": "fFxvYw==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0842",
-        "name": "futaba_anzu",
-        "proper_name": "Futaba Anzu",
-        "category": "character",
-        "encrypted_count": "elZgbQ==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/c/c3/Cinderella_master_002_cover.jpg/1200px-Cinderella_master_002_cover.jpg"
-      },
-      "tag2": {
-        "id": "t0872",
-        "name": "fate/samurai_remnant",
-        "proper_name": "Fate/Samurai Remnant",
+        "id": "t0524",
+        "name": "dragon_ball_super",
+        "proper_name": "Dragon Ball Super",
         "category": "copyright",
-        "encrypted_count": "fFdhbQ==",
+        "encrypted_count": "f1dlakY=",
+        "copyright": "Dragon Ball",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d0/Dragon_Ball_Super_Vector_Logo.svg/revision/latest?cb=20190306223754"
+      },
+      "tag2": {
+        "id": "t0645",
+        "name": "momose_ginko",
+        "proper_name": "Momose Ginko",
+        "category": "character",
+        "encrypted_count": "elRmbg==",
+        "copyright": "Project Sekai",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/f4/Ginko_Momose_2024.webp/revision/latest/scale-to-width-down/268?cb=20240520014334&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0184",
+        "name": "phase_connect",
+        "proper_name": "Phase Connect",
+        "category": "copyright",
+        "encrypted_count": "fV1uaA==",
+        "copyright": "Phase Connect",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/phase_connect___logo.png"
+      },
+      "tag2": {
+        "id": "t0539",
+        "name": "hasumi_(blue_archive)",
+        "proper_name": "Hasumi",
+        "category": "character",
+        "encrypted_count": "eFRmaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Hasumi_Portrait.png/revision/latest?cb=20220423095508"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0962",
+        "name": "anya_(spy_x_family)",
+        "proper_name": "Anya Forger",
+        "category": "character",
+        "encrypted_count": "eV1maQ==",
+        "copyright": "Spy x Family",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/spy-x-family/images/f/ff/Anya_Forger_Anime.png/revision/latest?cb=20220611184611&path-prefix=fr"
+      },
+      "tag2": {
+        "id": "t0016",
+        "name": "love_live!",
+        "proper_name": "Love Live!",
+        "category": "copyright",
+        "encrypted_count": "f1NjbEAH",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b9/Love_Live%21_promotional_image.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0944",
+        "name": "pokemon_frlg",
+        "proper_name": "Pokemon FireRed and LeafGreen",
+        "category": "copyright",
+        "encrypted_count": "eVdkaA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d98e9d8-a584-4ca2-99ed-decc4d5e5e3b/dbar2e9-159cad99-8f7a-4ad0-b79f-08030df1d35a.png/v1/fill/w_1192,h_670/pokemon_fire_red__leaf_green_logo_youtube_by_the_trainer_ruby_dbar2e9-pre.png"
+      },
+      "tag2": {
+        "id": "t0595",
+        "name": "kanna_(blue_archive)",
+        "proper_name": "Kanna",
+        "category": "character",
+        "encrypted_count": "e1Vvag==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/47/Kanna.png?version=09ce58bc6b8b274502da1550c549a7aa"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0505",
+        "name": "cu_chulainn_(fate)",
+        "proper_name": "Cu Chulainn",
+        "category": "character",
+        "encrypted_count": "eFVmYg==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
+      },
+      "tag2": {
+        "id": "t0528",
+        "name": "splatoon_2",
+        "proper_name": "Splatoon 2",
+        "category": "copyright",
+        "encrypted_count": "eVxjaA==",
+        "copyright": "Splatoon 2",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/Splatoon_2_Splatoon_Base_Logo.png/800px-Splatoon_2_Splatoon_Base_Logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0406",
-        "name": "princess_daisy",
-        "proper_name": "Princess Daisy",
+        "id": "t0961",
+        "name": "ako_(blue_archive)",
+        "proper_name": "Ako",
         "category": "character",
-        "encrypted_count": "eFxvYg==",
-        "copyright": "Mario",
+        "encrypted_count": "e1xuaA==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://www.mariowiki.com/images/thumb/a/a9/SuperMarioParty_Daisy.png/1200px-SuperMarioParty_Daisy.png"
+        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait_ako.webp"
       },
       "tag2": {
-        "id": "t0127",
-        "name": "yagami_hayate",
-        "proper_name": "Yagami Hayate",
+        "id": "t0737",
+        "name": "uruha_rushia",
+        "proper_name": "Uruha Rushia",
         "category": "character",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Magical Girl Lyrical Nanoha",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/nanoha/images/e/ed/Character_hayate.png/revision/latest?cb=20170327192812"
+        "encrypted_count": "elFgbA==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/b/be/Uruha_Rushia_-_Portrait_3D_01-1.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0176",
+        "name": "raora_panthera",
+        "proper_name": "Raora Panthera",
+        "category": "character",
+        "encrypted_count": "fVRmaA==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
+      },
+      "tag2": {
+        "id": "t0350",
+        "name": "kamijou_touma",
+        "proper_name": "Kamijou Touma",
+        "category": "character",
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "A Certain Magical Index",
+        "material": "Light Novel",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
       }
     }
   ]
