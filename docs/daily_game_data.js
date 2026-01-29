@@ -1,230 +1,227 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-01-28T04:37:42.715945+00:00
-// Date: 2026-01-28
+// Generated on: 2026-01-29T05:01:26.267129+00:00
+// Date: 2026-01-29
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-01-28",
+  "date": "2026-01-29",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0644",
-        "name": "yahata_umiri",
-        "proper_name": "Yahata Umiri",
-        "category": "character",
-        "encrypted_count": "elJuag==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
+        "id": "t0613",
+        "name": "the_hundred_line_-last_defense_academy-",
+        "proper_name": "The Hundred Line -Last Defense Academy-",
+        "category": "copyright",
+        "encrypted_count": "dlZgbw==",
+        "copyright": "The Hundred Line -Last Defense Academy-",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
       },
       "tag2": {
-        "id": "t0921",
-        "name": "gloria_(pokemon)",
-        "proper_name": "Gloria",
+        "id": "t0443",
+        "name": "tsumiki_mikan",
+        "proper_name": "Tsumiki Mikan",
         "category": "character",
-        "encrypted_count": "eVFuaA==",
-        "copyright": "Pokemon",
+        "encrypted_count": "fFxiYw==",
+        "copyright": "Danganronpa",
         "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2b/latest/20220314054856/Gloria.png/1200px-Gloria.png"
+        "image_reference": "https://i.pinimg.com/736x/8d/d6/86/8dd686f3d14630bd560ec334b981be25.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0470",
-        "name": "florian_(pokemon)",
-        "proper_name": "Florian",
-        "category": "character",
-        "encrypted_count": "fFJubA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20230826015011/Artwork_de_Florian_y_Fuecoco.png/376px-Artwork_de_Florian_y_Fuecoco.png"
-      },
-      "tag2": {
-        "id": "t0517",
-        "name": "taihou_(azur_lane)",
-        "proper_name": "Taihou",
-        "category": "character",
-        "encrypted_count": "eFdnbw==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/3/33/Taihou-chan.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0766",
-        "name": "zero_two_(darling_in_the_franxx)",
-        "proper_name": "Zero Two",
-        "category": "character",
-        "encrypted_count": "e1xuaw==",
-        "copyright": "Darling in the Franxx",
+        "id": "t0571",
+        "name": "gintama",
+        "proper_name": "Gintama",
+        "category": "copyright",
+        "encrypted_count": "eFNmYg==",
+        "copyright": "Gintama",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/darling-in-the-franxx/images/7/72/Zero_Dwa.png/revision/latest?cb=20180428173801&path-prefix=pl"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Gintama_English_Logo.png/revision/latest?cb=20210101181027"
       },
       "tag2": {
-        "id": "t0157",
-        "name": "my_little_pony:_friendship_is_magic",
-        "proper_name": "My Little Pony: Friendship Is Magic",
-        "category": "copyright",
-        "encrypted_count": "elJhag==",
-        "copyright": "My Little Pony",
-        "material": "TV Show",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg/640px-My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg.png"
+        "id": "t0885",
+        "name": "male_rover_(wuthering_waves)",
+        "proper_name": "Male Rover",
+        "category": "character",
+        "encrypted_count": "fFVvbg==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Rover.(Male).full.3938446.png"
       }
     },
     {
       "tag1": {
-        "id": "t0222",
-        "name": "mostima_(arknights)",
-        "proper_name": "Mostima",
+        "id": "t0071",
+        "name": "nicole_demara",
+        "proper_name": "Nicole Demara",
         "category": "character",
-        "encrypted_count": "fF1vYw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/3/31/Mostima.png/revision/latest?cb=20200520090244"
-      },
-      "tag2": {
-        "id": "t0806",
-        "name": "minecraft",
-        "proper_name": "Minecraft",
-        "category": "copyright",
-        "encrypted_count": "elRhbw==",
-        "copyright": "Minecraft",
-        "material": "Video Game",
-        "image_reference": "https://www.symbols.com/images/symbol/1/2891_minecraft-wiki-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0948",
-        "name": "eula_(genshin_impact)",
-        "proper_name": "Eula",
-        "category": "character",
-        "encrypted_count": "eFNkaw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Eula_Character_Card.png/revision/latest?cb=20230302031310"
-      },
-      "tag2": {
-        "id": "t0057",
-        "name": "boku_wa_tomodachi_ga_sukunai",
-        "proper_name": "Boku wa Tomodachi ga Sukunai",
-        "category": "copyright",
-        "encrypted_count": "elNgbQ==",
-        "copyright": "Boku wa Tomodachi ga Sukunai",
-        "material": "Light Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BMmJlNTQ1MDEtY2I2NS00OWQxLWI1NzQtYzAyNjhkMTRlNTcyXkEyXkFqcGc@._V1_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0021",
-        "name": "hakurei_reimu",
-        "proper_name": "Hakurei Reimu",
-        "category": "character",
-        "encrypted_count": "eVBgbUE=",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/a/ae/Th20Reimu.png/revision/latest?cb=20250505061952"
-      },
-      "tag2": {
-        "id": "t0703",
-        "name": "gojou_satoru",
-        "proper_name": "Gojou Satoru",
-        "category": "character",
-        "encrypted_count": "e1VvYg==",
-        "copyright": "Jujutsu Kaisen",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Gojou.Satoru.full.3974287.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0116",
-        "name": "shadowverse",
-        "proper_name": "Shadowverse",
-        "category": "copyright",
-        "encrypted_count": "fVFmag==",
-        "copyright": "Shadowverse",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/shadowverse/images/f/f9/Top_key_logo.png/revision/latest?cb=20161011045849"
-      },
-      "tag2": {
-        "id": "t0229",
-        "name": "nichijou",
-        "proper_name": "Nichijou",
-        "category": "copyright",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Nichijou",
-        "material": "Anime",
-        "image_reference": "https://nichijou.wiki.gg/images/e/e6/Site-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0058",
-        "name": "narmaya_(granblue_fantasy)",
-        "proper_name": "Narmaya",
-        "category": "character",
-        "encrypted_count": "fV1iYw==",
-        "copyright": "Granblue Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://gbf.wiki/images/thumb/f/fc/Npc_zoom_3040063000_01.png/480px-Npc_zoom_3040063000_01.png"
-      },
-      "tag2": {
-        "id": "t0513",
-        "name": "arona_(blue_archive)",
-        "proper_name": "Arona",
-        "category": "character",
-        "encrypted_count": "eFJmbw==",
+        "encrypted_count": "fVJibQ==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/e/e6/Arona.png/266px-Arona.png"
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
+      },
+      "tag2": {
+        "id": "t0504",
+        "name": "ooyodo_(kancolle)",
+        "proper_name": "Ooyodo",
+        "category": "character",
+        "encrypted_count": "e1BnbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game"
       }
     },
     {
       "tag1": {
-        "id": "t0914",
-        "name": "fujishima_megumi",
-        "proper_name": "Fujishima Megumi",
-        "category": "character",
-        "encrypted_count": "e1ZlaQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/45/Megumi_Fujishima.png/revision/latest?cb=20230210135213&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0384",
-        "name": "chitanda_eru",
-        "proper_name": "Chitanda Eru",
-        "category": "character",
-        "encrypted_count": "fFxibA==",
+        "id": "t0078",
+        "name": "hyouka",
+        "proper_name": "Hyouka",
+        "category": "copyright",
+        "encrypted_count": "fVNnbA==",
         "copyright": "Hyouka",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/hyouka/images/0/0f/Chitanda_eru.jpg/revision/latest/scale-to-width-down/1200?cb=20161113165236&path-prefix=vi"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Hyouka_English_poster.jpg/250px-Hyouka_English_poster.jpg"
+      },
+      "tag2": {
+        "id": "t0870",
+        "name": "final_fantasy_vii_advent_children",
+        "proper_name": "Final Fantasy VII: Advent Children",
+        "category": "copyright",
+        "encrypted_count": "fFxlaQ==",
+        "copyright": "Final Fantasy VII",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/Ffviiaclogo.jpg/revision/latest?cb=20181221213823"
       }
     },
     {
       "tag1": {
-        "id": "t0353",
-        "name": "merlin_prismriver",
-        "proper_name": "Merlin Prismriver",
+        "id": "t0306",
+        "name": "kurosawa_dia",
+        "proper_name": "Kurosawa Dia",
         "category": "character",
-        "encrypted_count": "fFFkaw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://pm1.aminoapps.com/6373/c4ea5075242be120a6e74045d9f3259bca213a98_hq.jpg"
+        "encrypted_count": "elJkYg==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/love-live/images/d/db/789Transparent.png/revision/latest?cb=20160601025120&path-prefix=es"
       },
       "tag2": {
-        "id": "t0900",
-        "name": "female_byleth_(fire_emblem)",
-        "proper_name": "Byleth (Female)",
+        "id": "t0865",
+        "name": "rotom",
+        "proper_name": "Rotom",
         "category": "character",
-        "encrypted_count": "eVdmbQ==",
-        "copyright": "Fire Emblem",
+        "encrypted_count": "eldhbA==",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
+        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a5/latest/20160604220739/Rotom.png/1200px-Rotom.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0278",
+        "name": "arcane:_league_of_legends",
+        "proper_name": "Arcane: League of Legends",
+        "category": "copyright",
+        "encrypted_count": "fF1maA==",
+        "copyright": "League of Legends",
+        "material": "TV Show",
+        "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
+      },
+      "tag2": {
+        "id": "t0856",
+        "name": "metal_gear_(series)",
+        "proper_name": "Metal Gear Series",
+        "category": "copyright",
+        "encrypted_count": "el1uag==",
+        "copyright": "Metal Gear Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/konamiverse/images/6/60/Metal_Gear_Series_Logo_a.png/revision/latest/scale-to-width-down/350?cb=20190803173003"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0958",
+        "name": "steins;gate",
+        "proper_name": "Steins;Gate",
+        "category": "copyright",
+        "encrypted_count": "eFxhbA==",
+        "copyright": "Steins;Gate",
+        "material": "Visual Novel",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0832",
+        "name": "giorno_giovanna",
+        "proper_name": "Giorno Giovanna",
+        "category": "character",
+        "encrypted_count": "fV1hag==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/4/4a/latest/20210422070411/Giorno_Giovanna_Infobox_Anime.png/400px-Giorno_Giovanna_Infobox_Anime.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0714",
+        "name": "verniy_(kancolle)",
+        "proper_name": "Verniy",
+        "category": "character",
+        "encrypted_count": "elRuaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/5/5e/Ship_Card_Verniy.png/218px-Ship_Card_Verniy.png"
+      },
+      "tag2": {
+        "id": "t0224",
+        "name": "kumano_(kancolle)",
+        "proper_name": "Kumano",
+        "category": "character",
+        "encrypted_count": "fFxlbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/9/9e/Kumano_Kan.jpg/revision/latest/scale-to-width-down/317?cb=20220811111454"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0508",
+        "name": "kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~",
+        "proper_name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "category": "copyright",
+        "encrypted_count": "dlJkaA==",
+        "copyright": "Kaguya-sama wa Kokurasetai",
+        "material": "Manga"
+      },
+      "tag2": {
+        "id": "t0752",
+        "name": "mobile_suit_gundam",
+        "proper_name": "Mobile Suit Gundam",
+        "category": "copyright",
+        "encrypted_count": "eFNibA==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png/revision/latest?cb=20190720061056"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0141",
+        "name": "hoto_cocoa",
+        "proper_name": "Hoto Cocoa",
+        "category": "character",
+        "encrypted_count": "fVFkag==",
+        "copyright": "GochiUsa",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/gochuumon-wa-usagi-desu-ka/images/4/45/Hoto_cocoa_render_by_poppyoreos-d7zaxf6.png/revision/latest?cb=20151024201559&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0759",
+        "name": "djeeta_(granblue_fantasy)",
+        "proper_name": "Djeeta",
+        "category": "character",
+        "encrypted_count": "eldkbg==",
+        "copyright": "Granblue Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/granblue-fantasy-versus/images/a/a9/Djeeta.png/revision/latest?cb=20200309164257"
       }
     }
   ]
