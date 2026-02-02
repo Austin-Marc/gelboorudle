@@ -1,230 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-02-01T05:18:44.636247+00:00
-// Date: 2026-02-01
+// Generated on: 2026-02-02T05:19:55.051458+00:00
+// Date: 2026-02-02
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0012",
-        "name": "azur_lane",
-        "proper_name": "Azur Lane",
-        "category": "copyright",
-        "encrypted_count": "f1BvbEYI",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BN2JlOGM2MWUtNjhkNi00NmY2LWE3ODYtZDQ2YTc5ZGExMmNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-      },
-      "tag2": {
-        "id": "t0011",
-        "name": "umamusume",
-        "proper_name": "Umamusume",
-        "category": "copyright",
-        "encrypted_count": "f1BkaEkA",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/Umamusume_Pretty_Derby_game_cover.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0204",
-        "name": "sheryl_nome",
-        "proper_name": "Sheryl Nome",
+        "id": "t0447",
+        "name": "toshinou_kyouko",
+        "proper_name": "Toshinou Kyouko",
         "category": "character",
-        "encrypted_count": "fVBvaA==",
-        "copyright": "Macross",
+        "encrypted_count": "fFxkbg==",
+        "copyright": "YuruYuri",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/macross/images/e/e1/Sheryl_Nome.jpg/revision/latest?cb=20090430231804&path-prefix=de"
+        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
       },
       "tag2": {
-        "id": "t0391",
-        "name": "yahagi_(kancolle)",
-        "proper_name": "Yahagi",
+        "id": "t0793",
+        "name": "jane_doe_(zenless_zone_zero)",
+        "proper_name": "Jane Doe",
         "category": "character",
-        "encrypted_count": "fFFvag==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "elZiag==",
+        "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yahagi.(Kantai.Collection).full.4307028.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Agent_Jane_Doe_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240712062618"
       }
     },
     {
       "tag1": {
-        "id": "t0582",
-        "name": "takao_(kancolle)",
-        "proper_name": "Takao",
-        "category": "character",
-        "encrypted_count": "e1Fuag==",
-        "copyright": "Kantai Collection",
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
+        "category": "copyright",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/f/ff/Takao_Full.png/revision/latest?cb=20210612202442"
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
       },
       "tag2": {
-        "id": "t0421",
-        "name": "hidamari_sketch",
-        "proper_name": "Hidamari Sketch",
+        "id": "t0213",
+        "name": "satou_kazuma",
+        "proper_name": "Kazuma Satou",
+        "category": "character",
+        "encrypted_count": "fVdubQ==",
+        "copyright": "KonoSuba",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/44/Kazuma_Sato.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0632",
+        "name": "deltarune",
+        "proper_name": "Deltarune",
         "category": "copyright",
+        "encrypted_count": "e1Vkbg==",
+        "copyright": "Deltarune",
+        "material": "Video Game",
+        "image_reference": "https://ninos.kiddle.co/images/thumb/4/43/Deltarune_vector_logo.svg/799px-Deltarune_vector_logo.svg.png"
+      },
+      "tag2": {
+        "id": "t0476",
+        "name": "inazuma_eleven_go",
+        "proper_name": "Inazuma Eleven Go",
+        "category": "copyright",
+        "encrypted_count": "eVdkag==",
+        "copyright": "Inazuma Eleven",
+        "material": "Video Game",
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/b7995b75332722ca39fea2066973e3fc.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0275",
+        "name": "muv-luv",
+        "proper_name": "Muv-Luv",
+        "category": "copyright",
+        "encrypted_count": "fV1mbQ==",
+        "copyright": "Muv-Luv",
+        "material": "Visual Novel",
+        "image_reference": "https://image.librewiki.net/thumb/2/29/Muv-Luv_logo.png/1200px-Muv-Luv_logo.png"
+      },
+      "tag2": {
+        "id": "t0723",
+        "name": "narukami_yu",
+        "proper_name": "Narukami Yu",
+        "category": "character",
+        "encrypted_count": "elxiaw==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://blazblue.wiki/images/2/2e/BlazBlue_Cross_Tag_Battle_Yu_Narukami_Main.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0578",
+        "name": "musashi_(kancolle)",
+        "proper_name": "Musashi",
+        "category": "character",
+        "encrypted_count": "e1Rhbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/73/Musashi_Full.webp/revision/latest?cb=20221203120134&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0072",
+        "name": "anastasia_(idolmaster)",
+        "proper_name": "Anastasia",
+        "category": "character",
         "encrypted_count": "fVFhaA==",
-        "copyright": "Hidamari Sketch",
-        "material": "Anime",
-        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
       }
     },
     {
       "tag1": {
-        "id": "t0043",
-        "name": "izuna_(blue_archive)",
-        "proper_name": "Izuna",
+        "id": "t0462",
+        "name": "shigure_ui_(vtuber)",
+        "proper_name": "Shigure Ui",
         "category": "character",
-        "encrypted_count": "fVBhaQ==",
+        "encrypted_count": "fFFvaw==",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/f/f0/Shigure_Ui_-_Full_Illustration_03.png/93px-Shigure_Ui_-_Full_Illustration_03.png"
+      },
+      "tag2": {
+        "id": "t0515",
+        "name": "sakamata_chloe",
+        "proper_name": "Sakamata Chloe",
+        "category": "character",
+        "encrypted_count": "eFBgbQ==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/61/Sakamata_Chloe_-_Portrait_01.png/800px-Sakamata_Chloe_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0950",
+        "name": "asashio_(kancolle)",
+        "proper_name": "Asashio",
+        "category": "character",
+        "encrypted_count": "e1xlbA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-963719350.png"
+      },
+      "tag2": {
+        "id": "t0889",
+        "name": "takakura_ken_(dandadan)",
+        "proper_name": "Takakura Ken",
+        "category": "character",
+        "encrypted_count": "fFJiaQ==",
+        "copyright": "Dandadan",
+        "material": "Manga",
+        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0466",
+        "name": "clorinde_(genshin_impact)",
+        "proper_name": "Clorinde",
+        "category": "character",
+        "encrypted_count": "fFBiaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Clorinde_Introduction_Card.png/revision/latest?cb=20240422100307"
+      },
+      "tag2": {
+        "id": "t0539",
+        "name": "hasumi_(blue_archive)",
+        "proper_name": "Hasumi",
+        "category": "character",
+        "encrypted_count": "eFRmaw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
-      },
-      "tag2": {
-        "id": "t0612",
-        "name": "yahari_ore_no_seishun_lovecome_wa_machigatteiru.",
-        "proper_name": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Hasumi_Portrait.png/revision/latest?cb=20220423095508"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0871",
+        "name": "senpai_ga_uzai_kouhai_no_hanashi",
+        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
         "category": "copyright",
-        "encrypted_count": "eFBhaw==",
-        "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/43/5a/6d/435a6dc4d67daa09531dd2cb4a0595dd.jpg"
+        "encrypted_count": "f1FuaQ==",
+        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
+      },
+      "tag2": {
+        "id": "t0678",
+        "name": "murasaki_shion",
+        "proper_name": "Murasaki Shion",
+        "category": "character",
+        "encrypted_count": "e1Riaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/3/3f/Murasaki_Shion_Portrait.png/revision/latest?cb=20200616011940"
       }
     },
     {
       "tag1": {
-        "id": "t0659",
-        "name": "kasumi_(kancolle)",
-        "proper_name": "Kasumi",
+        "id": "t0136",
+        "name": "mercy_(overwatch)",
+        "proper_name": "Mercy",
         "category": "character",
-        "encrypted_count": "elFibQ==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "eldvaQ==",
+        "copyright": "Overwatch",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/6b/Kasumi.png/revision/latest?cb=20150606171159&path-prefix=protagonist"
+        "image_reference": "https://static.wikia.nocookie.net/overwatch/images/7/75/Mercy-ow2.png/revision/latest?cb=20201122032817"
       },
       "tag2": {
-        "id": "t0646",
-        "name": "octoling_player_character",
-        "proper_name": "Octoling Player Character",
+        "id": "t0711",
+        "name": "fuwawa_abyssgard",
+        "proper_name": "Fuwawa Abyssgard",
         "category": "character",
-        "encrypted_count": "e1VkbQ==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/Octo_Expansion_multiplayer_gear.jpg/1200px-Octo_Expansion_multiplayer_gear.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
-        "category": "character",
-        "encrypted_count": "fFdubw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
-      },
-      "tag2": {
-        "id": "t0847",
-        "name": "emilia_(re:zero)",
-        "proper_name": "Emilia",
-        "category": "character",
-        "encrypted_count": "e1RibQ==",
-        "copyright": "Re:Zero - Starting Life in Another World",
-        "material": "Light Novel",
-        "image_reference": "https://rare-gallery.com/mocahbig/1347718-Emilia-ReZEROReZERO-Starting-Life-In-Another-World-.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0565",
-        "name": "medusa_(fate)",
-        "proper_name": "Medusa",
-        "category": "character",
-        "encrypted_count": "e1BgaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/62/47/c6/6247c687ccb4fa6323b7c16415278027.jpg"
-      },
-      "tag2": {
-        "id": "t0438",
-        "name": "tamamo_cat_(fate)",
-        "proper_name": "Tamamo Cat",
-        "category": "character",
-        "encrypted_count": "fFBibA==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0700",
-        "name": "atago_(azur_lane)",
-        "proper_name": "Atago",
-        "category": "character",
-        "encrypted_count": "el1jbQ==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Atago.full.2425019.png"
-      },
-      "tag2": {
-        "id": "t0902",
-        "name": "meiko_(vocaloid)",
-        "proper_name": "MEIKO",
-        "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/7/77/MEIKO_V3.png/revision/latest?cb=20140117094450"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0161",
-        "name": "haru_urara_(umamusume)",
-        "proper_name": "Haru Urara",
-        "category": "character",
-        "encrypted_count": "fFNkbQ==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Haru.Urara.full.3657738.png"
-      },
-      "tag2": {
-        "id": "t0203",
-        "name": "changli_(wuthering_waves)",
-        "proper_name": "Changli",
-        "category": "character",
-        "encrypted_count": "fF1uYg==",
-        "copyright": "Wuthering Waves",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Changli_Introduction.png/revision/latest?cb=20240518045554"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0085",
-        "name": "tales_of_vesperia",
-        "proper_name": "Tales of Vesperia",
-        "category": "copyright",
-        "encrypted_count": "elZnaQ==",
-        "copyright": "Tales Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/dc/Tales_of_Vesperia_Game_Cover.jpg"
-      },
-      "tag2": {
-        "id": "t0769",
-        "name": "doki_doki_literature_club",
-        "proper_name": "Doki Doki Literature Club!",
-        "category": "copyright",
-        "encrypted_count": "e1Jlbw==",
-        "copyright": "Doki Doki Literature Club!",
-        "material": "Video Game",
-        "image_reference": "https://micronations.wiki/images/en/images/images/thumb/d/dd/Doki_Doki_Literature_Club_DS_logo.svg/2560px-Doki_Doki_Literature_Club_DS_logo.svg.png"
+        "encrypted_count": "eldibA==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/ca/Fuwawa_Abyssgard_3D.png/revision/latest?cb=20240902203521"
       }
     }
   ]
