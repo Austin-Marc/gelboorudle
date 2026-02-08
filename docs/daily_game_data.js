@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-02-07T05:00:49.959978+00:00
-// Date: 2026-02-07
+// Generated on: 2026-02-08T05:20:05.716263+00:00
+// Date: 2026-02-08
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0790",
-        "name": "takarada_rikka",
-        "proper_name": "Takarada Rikka",
+        "id": "t0029",
+        "name": "zenless_zone_zero",
+        "proper_name": "Zenless Zone Zero",
+        "category": "copyright",
+        "encrypted_count": "e1xgb0I=",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Zenless_Zone_Zero_curved_box_logo.svg/250px-Zenless_Zone_Zero_curved_box_logo.svg.png"
+      },
+      "tag2": {
+        "id": "t0094",
+        "name": "eila_ilmatar_juutilainen",
+        "proper_name": "Eila Ilmatar Juutilainen",
         "category": "character",
-        "encrypted_count": "e1Jgbw==",
-        "copyright": "SSSS.Gridman",
+        "encrypted_count": "fVxnbA==",
+        "copyright": "Girls und Panzer",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
-      },
-      "tag2": {
-        "id": "t0865",
-        "name": "rotom",
-        "proper_name": "Rotom",
-        "category": "character",
-        "encrypted_count": "eldhbA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a5/latest/20160604220739/Rotom.png/1200px-Rotom.png"
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
       }
     },
     {
       "tag1": {
-        "id": "t0372",
-        "name": "glaceon",
-        "proper_name": "Glaceon",
+        "id": "t0144",
+        "name": "kaburagi_t._kotetsu",
+        "proper_name": "Kaburagi T. Kotetsu",
         "category": "character",
-        "encrypted_count": "fV1iaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/Glaceon.png/revision/latest?cb=20170422064259"
+        "encrypted_count": "fVdgbQ==",
+        "copyright": "Tiger & Bunny",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/1/1b/KotetsuTiger.png"
       },
       "tag2": {
-        "id": "t0299",
-        "name": "king_halo_(umamusume)",
-        "proper_name": "King Halo",
-        "category": "character",
-        "encrypted_count": "fFdhbg==",
-        "copyright": "Uma Musume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/1/1c/Kinghalogame.png/revision/latest/scale-to-width-down/250?cb=20210921101634"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0767",
-        "name": "alice's_adventures_in_wonderland",
-        "proper_name": "Alice's Adventures in Wonderland",
+        "id": "t0154",
+        "name": "stellive",
+        "proper_name": "Stellive",
         "category": "copyright",
-        "encrypted_count": "e1dubQ==",
-        "copyright": "Alice's Adventures in Wonderland",
-        "material": "Novel",
-        "image_reference": "https://logodix.com/logo/867893.jpg"
-      },
-      "tag2": {
-        "id": "t0552",
-        "name": "denji_(chainsaw_man)",
-        "proper_name": "Denji",
-        "category": "character",
-        "encrypted_count": "eFdgaA==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/e/e8/Denji_anime.png/revision/latest?cb=20221018185742&path-prefix=es"
+        "encrypted_count": "fVZhbA==",
+        "copyright": "Stellive",
+        "material": "Video Game",
+        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0467",
-        "name": "fou_(fate)",
-        "proper_name": "Fou",
+        "id": "t0530",
+        "name": "suzuran_(arknights)",
+        "proper_name": "Suzuran",
         "category": "character",
-        "encrypted_count": "fFdkaQ==",
+        "encrypted_count": "e1Nlag==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cc/Suzuran.png/revision/latest?cb=20200711010008"
+      },
+      "tag2": {
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0654",
+        "name": "xenoblade_chronicles_3",
+        "proper_name": "Xenoblade Chronicles 3",
+        "category": "copyright",
+        "encrypted_count": "e11hag==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/5/52/Xenoblade_Chronicles_3_HQ_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221119001600"
+      },
+      "tag2": {
+        "id": "t0276",
+        "name": "kanon",
+        "proper_name": "Kanon",
+        "category": "copyright",
+        "encrypted_count": "fVRlYg==",
+        "copyright": "Kanon",
+        "material": "Visual Novel",
+        "image_reference": "https://images.wikia.com/kanon/images/b/bc/Wiki.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0476",
+        "name": "inazuma_eleven_go",
+        "proper_name": "Inazuma Eleven Go",
+        "category": "copyright",
+        "encrypted_count": "eVdkag==",
+        "copyright": "Inazuma Eleven",
+        "material": "Video Game",
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/b7995b75332722ca39fea2066973e3fc.png"
+      },
+      "tag2": {
+        "id": "t0384",
+        "name": "chitanda_eru",
+        "proper_name": "Chitanda Eru",
+        "category": "character",
+        "encrypted_count": "fFxibA==",
+        "copyright": "Hyouka",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/hyouka/images/0/0f/Chitanda_eru.jpg/revision/latest/scale-to-width-down/1200?cb=20161113165236&path-prefix=vi"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0546",
+        "name": "queen's_blade",
+        "proper_name": "Queen's Blade",
+        "category": "copyright",
+        "encrypted_count": "f1Bna0M=",
+        "copyright": "Queen's Blade",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
+      },
+      "tag2": {
+        "id": "t0393",
+        "name": "tamamo_cross_(umamusume)",
+        "proper_name": "Tamamo Cross",
+        "category": "character",
+        "encrypted_count": "fFVvbw==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Tamamo.Cross.full.3657591.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0502",
+        "name": "matou_sakura",
+        "proper_name": "Matou Sakura",
+        "category": "character",
+        "encrypted_count": "eFNhag==",
         "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Sakura_FGO.png/revision/latest?cb=20171107173330&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0473",
-        "name": "dodoco_(genshin_impact)",
-        "proper_name": "Dodoco",
+        "id": "t0032",
+        "name": "flandre_scarlet",
+        "proper_name": "Flandre Scarlet",
         "category": "character",
-        "encrypted_count": "f11lbg==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/7/75/Dodoco.png/revision/latest?cb=20220327125113&path-prefix=th"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0196",
-        "name": "charizard",
-        "proper_name": "Charizard",
-        "category": "character",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
-      },
-      "tag2": {
-        "id": "t0855",
-        "name": "sen_no_kiseki_(series)",
-        "proper_name": "Sen no Kiseki Series",
-        "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "The Legend of Heroes",
-        "material": "Video Game",
-        "image_reference": "https://image.pngaaa.com/464/4421464-middle.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0337",
-        "name": "kaenbyou_rin_(cat)",
-        "proper_name": "Kaenbyou Rin",
-        "category": "character",
-        "encrypted_count": "fFBlYg==",
+        "encrypted_count": "e1djaEM=",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/b/b2/RinSubAni.png/revision/latest/thumbnail/width/360/height/450?cb=20091025143107"
-      },
-      "tag2": {
-        "id": "t0567",
-        "name": "fire_emblem:_genealogy_of_the_holy_war",
-        "proper_name": "Fire Emblem: Genealogy of the Holy War",
-        "category": "copyright",
-        "encrypted_count": "e11kYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/2/2c/FESK_Logo.png/1200px-FESK_Logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/fcs-vs-battle/images/e/ef/Flandre_Scarlet_Vector.png/revision/latest/scale-to-width-down/370?cb=20200521120624"
       }
     },
     {
       "tag1": {
-        "id": "t0872",
-        "name": "fate/samurai_remnant",
-        "proper_name": "Fate/Samurai Remnant",
-        "category": "copyright",
-        "encrypted_count": "fFdhbQ==",
-        "copyright": "Fate Series",
+        "id": "t0688",
+        "name": "formidable_(azur_lane)",
+        "proper_name": "Formidable",
+        "category": "character",
+        "encrypted_count": "el1hbA==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
+        "image_reference": "https://azurlane.netojuu.com/images/6/69/Formidable.png"
       },
       "tag2": {
-        "id": "t0092",
-        "name": "eren_yeager",
-        "proper_name": "Eren Yeager",
+        "id": "t0038",
+        "name": "super_sonico",
+        "proper_name": "Super Sonico",
         "category": "character",
-        "encrypted_count": "fV1uYw==",
-        "copyright": "Attack on Titan",
+        "encrypted_count": "e1dkbQ==",
+        "copyright": "Super Sonico",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Supersonicocharacter.jpg/250px-Supersonicocharacter.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0117",
-        "name": "pokemon_rgby",
-        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
-        "category": "copyright",
-        "encrypted_count": "e11mYg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
+        "id": "t0298",
+        "name": "hayami_kanade",
+        "proper_name": "Hayami Kanade",
+        "category": "character",
+        "encrypted_count": "fF1kaw==",
+        "copyright": "IdolMaster Cinderella Girls",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/cinderella-girls/images/d/d1/200037R-Hayami-Kanade-Cool.png/revision/latest?cb=20180905181124"
       },
       "tag2": {
-        "id": "t0232",
-        "name": "fire_emblem_echoes:_shadows_of_valentia",
-        "proper_name": "Fire Emblem Echoes: Shadows of Valentia",
-        "category": "copyright",
-        "encrypted_count": "fV1jYg==",
-        "copyright": "Fire Emblem Echoes: Shadows of Valentia",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/c/c9/Fire_Emblem_Echoes_logo.png/400px-Fire_Emblem_Echoes_logo.png"
+        "id": "t0838",
+        "name": "hestia_(danmachi)",
+        "proper_name": "Hestia",
+        "category": "character",
+        "encrypted_count": "e1Rmbg==",
+        "copyright": "DanMachi",
+        "material": "Light Novel",
+        "image_reference": "https://static.zerochan.net/Hestia.(DanMachi).full.2789461.png"
       }
     },
     {
       "tag1": {
-        "id": "t0352",
-        "name": "hibiki_(blue_archive)",
-        "proper_name": "Hibiki",
+        "id": "t0883",
+        "name": "gertrud_barkhorn",
+        "proper_name": "Gertrud Barkhorn",
         "category": "character",
-        "encrypted_count": "fFxibQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/b/bc/Hibiki.png/266px-Hibiki.png"
+        "encrypted_count": "fFJuaw==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strike-witches-espanol/images/9/95/Gee.png/revision/latest?cb=20190505223734&path-prefix=es"
       },
       "tag2": {
-        "id": "t0251",
-        "name": "kicchou_yachie",
-        "proper_name": "Kicchou Yachie",
+        "id": "t0500",
+        "name": "kasodani_kyouko",
+        "proper_name": "Kasodani Kyouko",
         "category": "character",
-        "encrypted_count": "fFFgbg==",
+        "encrypted_count": "e1NnbA==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0399",
-        "name": "saki_(blue_archive)",
-        "proper_name": "Saki",
-        "category": "character",
-        "encrypted_count": "fFFlbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
-      },
-      "tag2": {
-        "id": "t0426",
-        "name": "avatar_legends",
-        "proper_name": "Avatar Legends",
-        "category": "copyright",
-        "encrypted_count": "elBvaA==",
-        "copyright": "Avatar: The Last Airbender",
-        "material": "Tabletop Game",
-        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
+        "image_reference": "https://cdn.donmai.us/original/12/27/__kasodani_kyouko_touhou_drawn_by_dairi__1227d63d9dffa3f9e8e6fb34b063a87b.png?download=1"
       }
     }
   ]
