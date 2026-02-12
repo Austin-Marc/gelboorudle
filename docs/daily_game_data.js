@@ -1,198 +1,146 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-02-11T05:22:52.556962+00:00
-// Date: 2026-02-11
+// Generated on: 2026-02-12T05:21:13.922474+00:00
+// Date: 2026-02-12
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0174",
-        "name": "dimitri_alexandre_blaiddyd",
-        "proper_name": "Dimitri Alexandre Blaiddyd",
+        "id": "t0886",
+        "name": "skadi_the_corrupting_heart_(arknights)",
+        "proper_name": "Skadi the Corrupting Heart",
         "category": "character",
-        "encrypted_count": "fVFhaQ==",
-        "copyright": "Fire Emblem",
+        "encrypted_count": "fFdvbA==",
+        "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cf/Skadi_the_Corrupting_Heart.png/revision/latest?cb=20210501130244"
       },
       "tag2": {
-        "id": "t0574",
-        "name": "higuchi_madoka",
-        "proper_name": "Higuchi Madoka",
+        "id": "t0254",
+        "name": "evelyn_chevalier",
+        "proper_name": "Evelyn Chevalier",
         "category": "character",
-        "encrypted_count": "e1FvaA==",
-        "image_reference": "https://image.shinycolors.wiki/9/91/MadokaProfile.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0887",
-        "name": "shiomi_kotone",
-        "proper_name": "Shiomi Kotone",
-        "category": "character",
-        "encrypted_count": "fFFubQ==",
-        "copyright": "Kagurazaka's Work",
-        "material": "Anime",
-        "image_reference": "https://megatenwiki.com/images/thumb/8/8e/P3P_Kotone_Shiomi_Artwork.png/640px-P3P_Kotone_Shiomi_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0120",
-        "name": "yuzu_(blue_archive)",
-        "proper_name": "Yuzu",
-        "category": "character",
-        "encrypted_count": "fVVnYw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "fF1uYw==",
+        "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/a/ac/Yuzu_Portrait.png/revision/latest?cb=20220420090226"
+        "image_reference": "https://static.wikitide.net/hoyodexwiki/4/45/Evelyn_Chevalier_(ZZ-MU).png"
       }
     },
     {
       "tag1": {
-        "id": "t0385",
-        "name": "yang_xiao_long",
-        "proper_name": "Yang Xiao Long",
+        "id": "t0206",
+        "name": "blue_oak",
+        "proper_name": "Blue Oak",
         "category": "character",
-        "encrypted_count": "elVlaA==",
-        "copyright": "RWBY",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rwby/images/8/89/Yang-v8-infobox.png/revision/latest/scale-to-width-down/1200?cb=20200726010350"
-      },
-      "tag2": {
-        "id": "t0348",
-        "name": "ranma-chan",
-        "proper_name": "Ranma-chan",
-        "category": "character",
-        "encrypted_count": "eVVkaQ==",
-        "copyright": "Ranma \u00bd",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/ranma/images/d/dd/Saotome_Ranma_%E2%99%80_%28Anime_2024%29.png/revision/latest?cb=20240718055725"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0364",
-        "name": "black_survival",
-        "proper_name": "Black Survival",
-        "category": "copyright",
-        "encrypted_count": "fFxibw==",
-        "copyright": "Black Survival",
+        "encrypted_count": "fF1nYg==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/227-2274467_black-survival-game-logo-hd-png-download.png"
+        "image_reference": "https://comicvine.gamespot.com/a/uploads/square_medium/11/114183/5216642-243px-heartgold_soulsilver_blue.png"
       },
       "tag2": {
-        "id": "t0889",
-        "name": "takakura_ken_(dandadan)",
-        "proper_name": "Takakura Ken",
+        "id": "t0746",
+        "name": "yelan_(genshin_impact)",
+        "proper_name": "Yelan",
         "category": "character",
-        "encrypted_count": "fFJiaQ==",
-        "copyright": "Dandadan",
-        "material": "Manga",
-        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0191",
-        "name": "sylveon",
-        "proper_name": "Sylveon",
-        "category": "character",
-        "encrypted_count": "elVgYg==",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "elJhYw==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemonopedia/images/b/b2/Shiny2.png/revision/latest?cb=20141109112421&path-prefix=pl"
-      },
-      "tag2": {
-        "id": "t0492",
-        "name": "joseph_joestar_(young)",
-        "proper_name": "Young Joseph Joestar",
-        "category": "character",
-        "encrypted_count": "eFViag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
+        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0728",
-        "name": "little_witch_academia",
-        "proper_name": "Little Witch Academia",
-        "category": "copyright",
-        "encrypted_count": "eVZhbA==",
-        "copyright": "Little Witch Academia",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/Little_Witch_Academia_Logo.png/revision/latest?cb=20230313220247"
-      },
-      "tag2": {
-        "id": "t0450",
-        "name": "hachimiya_meguru",
-        "proper_name": "Hachimiya Meguru",
+        "id": "t0515",
+        "name": "sakamata_chloe",
+        "proper_name": "Sakamata Chloe",
         "category": "character",
-        "encrypted_count": "fVRmbw==",
-        "copyright": "IdolMaster Shiny Colors",
+        "encrypted_count": "eFBgbQ==",
+        "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://image.shinycolors.wiki/4/4b/MeguruProfile.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0263",
-        "name": "ashigara_(kancolle)",
-        "proper_name": "Ashigara",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/61/Sakamata_Chloe_-_Portrait_01.png/800px-Sakamata_Chloe_-_Portrait_01.png"
+      },
+      "tag2": {
+        "id": "t0907",
+        "name": "kitakami_(kancolle)",
+        "proper_name": "Kitakami",
         "category": "character",
-        "encrypted_count": "fFJubA==",
+        "encrypted_count": "e1RibA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/c/c6/Ship_Card_Ashigara.png/218px-Ship_Card_Ashigara.png"
-      },
-      "tag2": {
-        "id": "t0954",
-        "name": "izumi_konata",
-        "proper_name": "Konata Izumi",
-        "category": "character",
-        "encrypted_count": "eVNmbA==",
-        "copyright": "Lucky Star",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/7/73/Konata-san.gif/revision/latest?cb=20120723133321"
+        "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/8/83/Kitakami_(Kantai_Collection)_Render_01.png/revision/latest?cb=20250502044836"
       }
     },
     {
       "tag1": {
-        "id": "t0795",
-        "name": "sanji_(one_piece)",
-        "proper_name": "Sanji",
+        "id": "t0490",
+        "name": "tartaglia_(genshin_impact)",
+        "proper_name": "Tartaglia",
         "category": "character",
-        "encrypted_count": "eFJibw==",
-        "copyright": "One Piece",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
+        "encrypted_count": "eVJiag==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png/revision/latest?cb=20201106023840"
       },
       "tag2": {
-        "id": "t0869",
-        "name": "inui_toko",
-        "proper_name": "Inui Toko",
+        "id": "t0380",
+        "name": "michishio_(kancolle)",
+        "proper_name": "Michishio",
         "category": "character",
-        "encrypted_count": "fFFibA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
+        "encrypted_count": "fFdgag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
       }
     },
     {
       "tag1": {
-        "id": "t0068",
-        "name": "shimada_arisu",
-        "proper_name": "Shimada Arisu",
+        "id": "t0391",
+        "name": "yahagi_(kancolle)",
+        "proper_name": "Yahagi",
         "category": "character",
-        "encrypted_count": "fVBubQ==",
-        "copyright": "Girls Und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/a/a6/Arisu_Shimada_Render_01.png/revision/latest/scale-to-width-down/206?cb=20240316075811"
+        "encrypted_count": "fFFvag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Yahagi.(Kantai.Collection).full.4307028.jpg"
       },
       "tag2": {
+        "id": "t0285",
+        "name": "shiratsuyu_(kancolle)",
+        "proper_name": "Shiratsuyu",
+        "category": "character",
+        "encrypted_count": "fFFubQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Shiratsuyu.(Kantai.Collection).600.4352729.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0355",
+        "name": "isokaze_(kancolle)",
+        "proper_name": "Isokaze",
+        "category": "character",
+        "encrypted_count": "fFJkYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Isokaze.(Kantai.Collection).full.2420339.png"
+      },
+      "tag2": {
+        "id": "t0118",
+        "name": "my_little_pony",
+        "proper_name": "My Little Pony",
+        "category": "copyright",
+        "encrypted_count": "e1Vvbw==",
+        "copyright": "My Little Pony",
+        "material": "TV Show",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/04/My-Little-Pony-Logo-2016.png"
+      }
+    },
+    {
+      "tag1": {
         "id": "t0953",
         "name": "aqua_(konosuba)",
         "proper_name": "Aqua",
@@ -201,28 +149,82 @@ const DAILY_GAME_DATA = {
         "copyright": "KonoSuba",
         "material": "Light Novel",
         "image_reference": "https://vignette.wikia.nocookie.net/konosuba/images/d/db/Aqua_-_Anime.png/revision/latest?cb=20170127234540&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0252",
+        "name": "kochou_shinobu",
+        "proper_name": "Kochou Shinobu",
+        "category": "character",
+        "encrypted_count": "fVNjaA==",
+        "copyright": "Demon Slayer: Kimetsu no Yaiba",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png/revision/latest/scale-to-width-down/1200?cb=20211119011810"
       }
     },
     {
       "tag1": {
-        "id": "t0814",
-        "name": "miyako_(blue_archive)",
-        "proper_name": "Miyako",
-        "category": "character",
-        "encrypted_count": "fVxjaw==",
-        "copyright": "Blue Archive",
+        "id": "t0747",
+        "name": "devil_may_cry_(series)",
+        "proper_name": "Devil May Cry Series",
+        "category": "copyright",
+        "encrypted_count": "e1BibA==",
+        "copyright": "Devil May Cry Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/3/3e/Miyako.png/266px-Miyako.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Logo_of_the_Devil_May_Cry_series.png/375px-Logo_of_the_Devil_May_Cry_series.png"
       },
       "tag2": {
-        "id": "t0677",
-        "name": "meltryllis_(fate)",
-        "proper_name": "Meltryllis",
+        "id": "t0626",
+        "name": "shiranui_(kancolle)",
+        "proper_name": "Shiranui",
         "category": "character",
-        "encrypted_count": "elxiaA==",
-        "copyright": "Fate Series",
+        "encrypted_count": "elJkaQ==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/e/e9/Meltryllis.png/revision/latest?cb=20121214101028"
+        "image_reference": "https://i.pinimg.com/736x/a4/09/63/a4096367108d3f3fd39fbe4c3ca1bb30.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0925",
+        "name": "hiiragi_kagami",
+        "proper_name": "Hiiragi Kagami",
+        "category": "character",
+        "encrypted_count": "eVBnYg==",
+        "copyright": "Lucky Star",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/c/c9/Kagami-san.gif/revision/latest?cb=20120723133124"
+      },
+      "tag2": {
+        "id": "t0511",
+        "name": "gundam_seed",
+        "proper_name": "Gundam Seed",
+        "category": "copyright",
+        "encrypted_count": "dlVkbw==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0582",
+        "name": "takao_(kancolle)",
+        "proper_name": "Takao",
+        "category": "character",
+        "encrypted_count": "e1Fuag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/f/ff/Takao_Full.png/revision/latest?cb=20210612202442"
+      },
+      "tag2": {
+        "id": "t0841",
+        "name": "natsuiro_matsuri",
+        "proper_name": "Natsuiro Matsuri",
+        "category": "character",
+        "encrypted_count": "elVhbQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/bg_Natsuiro-Matsuri_01.png"
       }
     }
   ]
