@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-02-14T05:04:25.980204+00:00
-// Date: 2026-02-14
+// Generated on: 2026-02-15T05:15:17.194210+00:00
+// Date: 2026-02-15
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0770",
-        "name": "idolmaster_side-m",
-        "proper_name": "The Idolmaster SideM",
-        "category": "copyright",
-        "encrypted_count": "elNuaw==",
-        "copyright": "The Idolmaster",
+        "id": "t0885",
+        "name": "male_rover_(wuthering_waves)",
+        "proper_name": "Male Rover",
+        "category": "character",
+        "encrypted_count": "fFVvbg==",
+        "copyright": "Wuthering Waves",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/imas-sidem/images/d/d9/SideM_logo.png/revision/latest?cb=20180618033749"
+        "image_reference": "https://static.zerochan.net/Rover.(Male).full.3938446.png"
       },
       "tag2": {
-        "id": "t0532",
-        "name": "mutsu_(kancolle)",
-        "proper_name": "Mutsu",
+        "id": "t0044",
+        "name": "marie_(splatoon)",
+        "proper_name": "Marie",
         "category": "character",
-        "encrypted_count": "e1BjYw==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "elNubw==",
+        "copyright": "Splatoon",
         "material": "Video Game",
-        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2018/01/74b7b170-f222-400e-942d-3a40dc073a2b.jpg"
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S_Marie_render_2.png"
       }
     },
     {
       "tag1": {
-        "id": "t0092",
-        "name": "eren_yeager",
-        "proper_name": "Eren Yeager",
+        "id": "t0349",
+        "name": "laffey_(azur_lane)",
+        "proper_name": "Laffey",
         "category": "character",
-        "encrypted_count": "fV1uYw==",
-        "copyright": "Attack on Titan",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
+        "encrypted_count": "fFxnbg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/2/2a/Laffey.png"
       },
       "tag2": {
-        "id": "t0478",
-        "name": "komaeda_nagito",
-        "proper_name": "Nagito Komaeda",
+        "id": "t0943",
+        "name": "hk416_(girls'_frontline)",
+        "proper_name": "HK416",
         "category": "character",
-        "encrypted_count": "eFFnbg==",
-        "copyright": "Danganronpa",
+        "encrypted_count": "eFVlbQ==",
+        "copyright": "Girls' Frontline",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/7/7d/Nagito_Komaeda_Illustration.png/revision/latest?cb=20180210181740&path-prefix=fr"
+        "image_reference": "https://gf.rus.wiki/media/uploads/gf.rus.wiki-hk416-hk4161.png"
       }
     },
     {
       "tag1": {
-        "id": "t0697",
-        "name": "sephiroth",
-        "proper_name": "Sephiroth",
+        "id": "t0305",
+        "name": "twin_turbo_(umamusume)",
+        "proper_name": "Twin Turbo",
         "category": "character",
-        "encrypted_count": "e1Rnag==",
-        "copyright": "Final Fantasy",
+        "encrypted_count": "fFBjaA==",
+        "copyright": "Uma Musume: Pretty Derby",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/1/17/Sephiroth_FFVII_Remake_render.png/revision/latest?cb=20200210184912&path-prefix=pt-br"
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/4/46/Twin_Turbo_%28Race%29.png/revision/latest?cb=20240728220739"
       },
       "tag2": {
-        "id": "t0253",
-        "name": "beatrice_(umineko)",
-        "proper_name": "Beatrice",
+        "id": "t0221",
+        "name": "nagisa_(blue_archive)",
+        "proper_name": "Nagisa",
         "category": "character",
-        "encrypted_count": "fVVnYg==",
-        "copyright": "Umineko no Naku Koro ni",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
+        "encrypted_count": "fFxkag==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://anibase.net/files/fb589f518d8061b9dca4353fcf8ab473"
       }
     },
     {
       "tag1": {
-        "id": "t0913",
-        "name": "hoshii_miki",
-        "proper_name": "Hoshii Miki",
+        "id": "t0892",
+        "name": "hero_(omori)",
+        "proper_name": "Hero",
         "category": "character",
-        "encrypted_count": "eFNlaw==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "fFZhbQ==",
+        "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/millionlive/images/3/3f/Miki_Hoshii_infobox.png/revision/latest/scale-to-width-down/278?cb=20180414125723"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
       },
       "tag2": {
-        "id": "t0180",
-        "name": "tokitsukaze_(kancolle)",
-        "proper_name": "Tokitsukaze",
+        "id": "t0601",
+        "name": "midori_(blue_archive)",
+        "proper_name": "Midori",
         "category": "character",
-        "encrypted_count": "fFxgaQ==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "el1jbA==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/e/ee/Midori.png?version=aec01d62bf6034e8c2582827b8eb2a2c"
       }
     },
     {
       "tag1": {
-        "id": "t0444",
-        "name": "akagi_miria",
-        "proper_name": "Akagi Miria",
+        "id": "t0792",
+        "name": "kasane_teto_(utau)",
+        "proper_name": "Kasane Teto",
         "category": "character",
-        "encrypted_count": "fVRjaw==",
-        "image_reference": "https://static.wikia.nocookie.net/deresute/images/1/12/Miria_N.jpg/revision/latest?cb=20160919163515&path-prefix=it"
+        "encrypted_count": "fVNubw==",
+        "copyright": "UTAU",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/utau/images/b/b6/Tetostand.png/revision/latest?cb=20221221222057"
       },
       "tag2": {
-        "id": "t0136",
-        "name": "mercy_(overwatch)",
-        "proper_name": "Mercy",
+        "id": "t0438",
+        "name": "tamamo_cat_(fate)",
+        "proper_name": "Tamamo Cat",
         "category": "character",
-        "encrypted_count": "eldvaQ==",
-        "copyright": "Overwatch",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/overwatch/images/7/75/Mercy-ow2.png/revision/latest?cb=20201122032817"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0962",
-        "name": "anya_(spy_x_family)",
-        "proper_name": "Anya Forger",
-        "category": "character",
-        "encrypted_count": "eV1maQ==",
-        "copyright": "Spy x Family",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/spy-x-family/images/f/ff/Anya_Forger_Anime.png/revision/latest?cb=20220611184611&path-prefix=fr"
-      },
-      "tag2": {
-        "id": "t0719",
-        "name": "mococo_abyssgard",
-        "proper_name": "Mococo Abyssgard",
-        "category": "character",
-        "encrypted_count": "elZhaw==",
-        "copyright": "N/A",
-        "material": "N/A",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2021/07/Mococo-Abyssgard_pr-img_03.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0650",
-        "name": "ereshkigal_(fate)",
-        "proper_name": "Ereshkigal",
-        "category": "character",
-        "encrypted_count": "el1gaA==",
+        "encrypted_count": "fFBibA==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/6799/1433c297dcd8ea75d63f5657adcf6412e4c9326cv2_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0539",
-        "name": "hasumi_(blue_archive)",
-        "proper_name": "Hasumi",
-        "category": "character",
-        "encrypted_count": "eFRmaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Hasumi_Portrait.png/revision/latest?cb=20220423095508"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
       }
     },
     {
       "tag1": {
-        "id": "t0374",
-        "name": "sinclair_(project_moon)",
-        "proper_name": "Sinclair",
-        "category": "character",
-        "encrypted_count": "fFJnaw==",
-        "copyright": "Project Moon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest?cb=20230228041304"
-      },
-      "tag2": {
-        "id": "t0211",
-        "name": "lucario",
-        "proper_name": "Lucario",
-        "category": "character",
-        "encrypted_count": "elJiaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0188",
-        "name": "mega_man_zero_(series)",
-        "proper_name": "Mega Man Zero Series",
+        "id": "t0113",
+        "name": "bloodborne",
+        "proper_name": "Bloodborne",
         "category": "copyright",
-        "encrypted_count": "elRvbg==",
-        "copyright": "Mega Man",
+        "encrypted_count": "fVBubg==",
+        "copyright": "Bloodborne",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Bloodborne-Logo.jpg"
       },
       "tag2": {
-        "id": "t0588",
-        "name": "sendai_(kancolle)",
-        "proper_name": "Sendai",
-        "category": "character",
-        "encrypted_count": "elxnaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/11498-20131651.png"
+        "id": "t0752",
+        "name": "mobile_suit_gundam",
+        "proper_name": "Mobile Suit Gundam",
+        "category": "copyright",
+        "encrypted_count": "eFNibA==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png/revision/latest?cb=20190720061056"
       }
     },
     {
       "tag1": {
-        "id": "t0592",
-        "name": "toki_(bunny)_(blue_archive)",
-        "proper_name": "Toki (Bunny)",
+        "id": "t0630",
+        "name": "letty_whiterock",
+        "proper_name": "Letty Whiterock",
         "category": "character",
-        "encrypted_count": "e1dmbg==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "el1gaw==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Toki_Bunny_Girl_Portrait.png/revision/latest?cb=20230426103415"
+        "image_reference": "https://pm1.narvii.com/6315/c24bd14b452c00397597058250a72032e0353200_hq.jpg"
       },
       "tag2": {
-        "id": "t0834",
-        "name": "kiryu_coco",
-        "proper_name": "Kiryu Coco",
+        "id": "t0276",
+        "name": "kanon",
+        "proper_name": "Kanon",
+        "category": "copyright",
+        "encrypted_count": "fVRlYg==",
+        "copyright": "Kanon",
+        "material": "Visual Novel",
+        "image_reference": "https://images.wikia.com/kanon/images/b/bc/Wiki.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0210",
+        "name": "darkness_(konosuba)",
+        "proper_name": "Darkness",
         "category": "character",
-        "encrypted_count": "fVxjaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/c/ce/Kiryu_Coco_-_Portrait_01.png/1200px-Kiryu_Coco_-_Portrait_01.png"
+        "encrypted_count": "elZnbg==",
+        "copyright": "KonoSuba",
+        "material": "Light Novel",
+        "image_reference": "https://vignette.wikia.nocookie.net/konofan/images/7/7a/DarknessModel.png/revision/latest?cb=20200302090208"
+      },
+      "tag2": {
+        "id": "t0925",
+        "name": "hiiragi_kagami",
+        "proper_name": "Hiiragi Kagami",
+        "category": "character",
+        "encrypted_count": "eVBnYg==",
+        "copyright": "Lucky Star",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/c/c9/Kagami-san.gif/revision/latest?cb=20120723133124"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0182",
+        "name": "kamado_nezuko",
+        "proper_name": "Kamado Nezuko",
+        "category": "character",
+        "encrypted_count": "eldnaw==",
+        "copyright": "Demon Slayer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Nezuko_anime.png/revision/latest?cb=20211119014953"
+      },
+      "tag2": {
+        "id": "t0564",
+        "name": "mario",
+        "proper_name": "Mario",
+        "category": "character",
+        "encrypted_count": "dlBmag==",
+        "copyright": "Mario",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/it/5/50/Mario_Nintendo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0291",
+        "name": "hilbert_(pokemon)",
+        "proper_name": "Hilbert",
+        "category": "character",
+        "encrypted_count": "fVJubg==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/Spr_Masters_Hilbert.png/800px-Spr_Masters_Hilbert.png"
+      },
+      "tag2": {
+        "id": "t0691",
+        "name": "rover_(wuthering_waves)",
+        "proper_name": "Rover",
+        "category": "character",
+        "encrypted_count": "eldnYw==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png/revision/latest?cb=20240420140302"
       }
     }
   ]
