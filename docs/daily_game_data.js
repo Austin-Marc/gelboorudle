@@ -1,230 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-02-19T05:17:46.436384+00:00
-// Date: 2026-02-19
+// Generated on: 2026-02-20T05:12:41.476101+00:00
+// Date: 2026-02-20
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0962",
-        "name": "anya_(spy_x_family)",
-        "proper_name": "Anya Forger",
+        "id": "t0585",
+        "name": "kawaragi_momoka",
+        "proper_name": "Kawaragi Momoka",
         "category": "character",
-        "encrypted_count": "eV1maQ==",
-        "copyright": "Spy x Family",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/spy-x-family/images/f/ff/Anya_Forger_Anime.png/revision/latest?cb=20220611184611&path-prefix=fr"
+        "encrypted_count": "elxnaA==",
+        "copyright": "D4DJ",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Kawaragi.Momoka.full.4222907.jpg"
       },
       "tag2": {
-        "id": "t0244",
-        "name": "lana_(pokemon)",
-        "proper_name": "Lana",
+        "id": "t0895",
+        "name": "diarmuid_ua_duibhne_(fate)",
+        "proper_name": "Diarmuid Ua Duibhne",
+        "category": "character",
+        "encrypted_count": "fFBmaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/factvsfiction/images/2/28/Diarmuid.png/revision/latest?cb=20160116010006"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0570",
+        "name": "fullmetal_alchemist",
+        "proper_name": "Fullmetal Alchemist",
+        "category": "copyright",
+        "encrypted_count": "eVVubg==",
+        "copyright": "Fullmetal Alchemist",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/a/a6/FMA_logo.jpg/revision/latest?cb=20130923075031"
+      },
+      "tag2": {
+        "id": "t0389",
+        "name": "mega_gardevoir",
+        "proper_name": "Mega Gardevoir",
+        "category": "character",
+        "encrypted_count": "fF1iYg==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/66/d5/17/66d517e6be088e8593678091fe19277a.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0629",
+        "name": "shiranui_mai",
+        "proper_name": "Shiranui Mai",
+        "category": "character",
+        "encrypted_count": "f1dkb0A=",
+        "image_reference": "https://static.wikia.nocookie.net/herois/images/5/53/Mai_Shiranui_FF-CotW.png/revision/latest/scale-to-width-down/1200?cb=20241112050708&path-prefix=pt-br"
+      },
+      "tag2": {
+        "id": "t0668",
+        "name": "monster_girl_encyclopedia",
+        "proper_name": "Monster Girl Encyclopedia",
+        "category": "copyright",
+        "encrypted_count": "eFFiaw==",
+        "copyright": "Monster Girl Encyclopedia",
+        "material": "Manga",
+        "image_reference": "https://m.media-amazon.com/images/I/81oYIfoDzFL._AC_UF1000"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0079",
+        "name": "zeta_gundam",
+        "proper_name": "Mobile Suit Zeta Gundam",
+        "category": "copyright",
+        "encrypted_count": "elFnbg==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BNTRlYzIwYmYtMzUzYy00YmFmLTllMjItOWYzYmNmYjQ2YmI5XkEyXkFqcGc@._V1_.jpg"
+      },
+      "tag2": {
+        "id": "t0549",
+        "name": "x-men",
+        "proper_name": "X-Men",
+        "category": "copyright",
+        "encrypted_count": "eFdmYw==",
+        "copyright": "X-Men",
+        "material": "Comic",
+        "image_reference": "https://logopoppin.com/wp-content/uploads/2023/08/X-Men-logo-iteration-1969.webp"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0928",
+        "name": "rensouhou-chan",
+        "proper_name": "Rensouhou-chan",
+        "category": "character",
+        "encrypted_count": "e11jaA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://pm1.narvii.com/6354/7519811fa279795bd39dd0a3a2437bdc061fbaaa_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0365",
+        "name": "aria_(manga)",
+        "proper_name": "Aria",
+        "category": "copyright",
+        "encrypted_count": "fF1kbg==",
+        "copyright": "Aria",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0813",
+        "name": "koizumi_hanayo",
+        "proper_name": "Koizumi Hanayo",
         "category": "character",
         "encrypted_count": "e1Jkbw==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live-super-sentai/images/2/27/Hanayo_01_01.png/revision/latest?cb=20180827052255"
+      },
+      "tag2": {
+        "id": "t0064",
+        "name": "nessa_(pokemon)",
+        "proper_name": "Nessa",
+        "category": "character",
+        "encrypted_count": "e1VmaQ==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Pokemon-Nessa.png/220px-Pokemon-Nessa.png"
       }
     },
     {
       "tag1": {
-        "id": "t0796",
-        "name": "misty_(pokemon)",
-        "proper_name": "Misty",
-        "category": "character",
-        "encrypted_count": "f1duakc=",
-        "copyright": "Pokemon",
+        "id": "t0084",
+        "name": "urusei_yatsura",
+        "proper_name": "Urusei Yatsura",
+        "category": "copyright",
+        "encrypted_count": "elJhaQ==",
+        "copyright": "Urusei Yatsura",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
       },
       "tag2": {
-        "id": "t0903",
-        "name": "twisted_wonderland",
-        "proper_name": "Twisted Wonderland",
-        "category": "copyright",
-        "encrypted_count": "e1xnYg==",
-        "copyright": "Twisted Wonderland",
+        "id": "t0542",
+        "name": "shiori_novella",
+        "proper_name": "Shiori Novella",
+        "category": "character",
+        "encrypted_count": "e1FmYw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/736x/96/8e/d1/968ed1c1dc79180402437af995b9e753.jpg"
+        "image_reference": "https://static.wikitide.net/hololivewiki/0/03/Shiori_Novella_-_Portrait_01.png"
       }
     },
     {
       "tag1": {
-        "id": "t0567",
-        "name": "fire_emblem:_genealogy_of_the_holy_war",
-        "proper_name": "Fire Emblem: Genealogy of the Holy War",
-        "category": "copyright",
-        "encrypted_count": "e11kYg==",
-        "copyright": "Fire Emblem",
+        "id": "t0131",
+        "name": "ayanami_(azur_lane)",
+        "proper_name": "Ayanami",
+        "category": "character",
+        "encrypted_count": "fVdkag==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/2/2c/FESK_Logo.png/1200px-FESK_Logo.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/bhlx/images/0/0a/Ayanami.png/revision/latest?cb=20190519143145"
       },
       "tag2": {
-        "id": "t0889",
-        "name": "takakura_ken_(dandadan)",
-        "proper_name": "Takakura Ken",
+        "id": "t0110",
+        "name": "itadori_yuuji",
+        "proper_name": "Itadori Yuuji",
         "category": "character",
-        "encrypted_count": "fFJiaQ==",
-        "copyright": "Dandadan",
+        "encrypted_count": "fVJvaw==",
+        "copyright": "Jujutsu Kaisen",
         "material": "Manga",
-        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
+        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/66/Yuji_Itadori_-_Anime.jpg/revision/latest?cb=20201031200040&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0231",
-        "name": "tokyo_ghoul",
-        "proper_name": "Tokyo Ghoul",
+        "id": "t0860",
+        "name": "yu-gi-oh!_duel_monsters",
+        "proper_name": "Yu-Gi-Oh! Duel Monsters",
         "category": "copyright",
-        "encrypted_count": "fVZhaQ==",
-        "copyright": "Tokyo Ghoul",
-        "material": "Manga",
-        "image_reference": "https://bayanbox.ir/view/167939588418032986/tokyo-ghoul-logo-png.png"
+        "encrypted_count": "d1BmaQ==",
+        "copyright": "Yu-Gi-Oh!",
+        "material": "Anime",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
       },
       "tag2": {
-        "id": "t0380",
-        "name": "michishio_(kancolle)",
-        "proper_name": "Michishio",
+        "id": "t0832",
+        "name": "giorno_giovanna",
+        "proper_name": "Giorno Giovanna",
         "category": "character",
-        "encrypted_count": "fFdgag==",
+        "encrypted_count": "fV1hag==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/4/4a/latest/20210422070411/Giorno_Giovanna_Infobox_Anime.png/400px-Giorno_Giovanna_Infobox_Anime.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0781",
+        "name": "kiso_(kancolle)",
+        "proper_name": "Kiso",
+        "category": "character",
+        "encrypted_count": "fVNjbQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0921",
-        "name": "gloria_(pokemon)",
-        "proper_name": "Gloria",
-        "category": "character",
-        "encrypted_count": "eVFuaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2b/latest/20220314054856/Gloria.png/1200px-Gloria.png"
+        "image_reference": "https://static.zerochan.net/Kiso.(Kantai.Collection).full.1763723.jpg"
       },
       "tag2": {
-        "id": "t0697",
-        "name": "sephiroth",
-        "proper_name": "Sephiroth",
-        "category": "character",
-        "encrypted_count": "e1Rnag==",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/1/17/Sephiroth_FFVII_Remake_render.png/revision/latest?cb=20200210184912&path-prefix=pt-br"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0771",
-        "name": "cyberpunk_(series)",
-        "proper_name": "Cyberpunk Series",
+        "id": "t0709",
+        "name": "machikado_mazoku",
+        "proper_name": "Machikado Mazoku",
         "category": "copyright",
-        "encrypted_count": "e1Jlaw==",
-        "copyright": "Cyberpunk",
-        "material": "Video Game",
-        "image_reference": "https://wallpaperaccess.com/full/3594200.jpg"
-      },
-      "tag2": {
-        "id": "t0318",
-        "name": "promare",
-        "proper_name": "Promare",
-        "category": "copyright",
-        "encrypted_count": "fVRvYw==",
-        "copyright": "Promare",
+        "encrypted_count": "elNubg==",
+        "copyright": "Machikado Mazoku",
         "material": "Anime",
-        "image_reference": "https://i0.kym-cdn.com/photos/images/original/001/270/904/f6a.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0955",
-        "name": "hieda_no_akyuu",
-        "proper_name": "Hieda no Akyuu",
-        "category": "character",
-        "encrypted_count": "eldmag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1105378225.png"
-      },
-      "tag2": {
-        "id": "t0763",
-        "name": "yuubari_(kancolle)",
-        "proper_name": "Yuubari",
-        "category": "character",
-        "encrypted_count": "fV1kaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yuubari.(Kantai.Collection).full.2131376.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0151",
-        "name": "miyu_edelfelt",
-        "proper_name": "Miyu Edelfelt",
-        "category": "character",
-        "encrypted_count": "elRjaA==",
-        "copyright": "Fate Series",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/typemoon/images/3/37/Miyu_Edelfelt_(Fate_Kaleid_-_Uniforme).png/revision/latest?cb=20200808040558&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0417",
-        "name": "akitsu_maru_(kancolle)",
-        "proper_name": "Akitsu Maru",
-        "category": "character",
-        "encrypted_count": "fFdubg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b3/166_3.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0160",
-        "name": "toga_himiko",
-        "proper_name": "Toga Himiko",
-        "category": "character",
-        "encrypted_count": "eFJjaQ==",
-        "copyright": "My Hero Academia",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
-      },
-      "tag2": {
-        "id": "t0957",
-        "name": "clannad",
-        "proper_name": "Clannad",
-        "category": "copyright",
-        "encrypted_count": "eFZgag==",
-        "copyright": "Clannad",
-        "material": "Visual Novel",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/dedbbd60c592c7adb64f8ef8f0a025dc.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0841",
-        "name": "natsuiro_matsuri",
-        "proper_name": "Natsuiro Matsuri",
-        "category": "character",
-        "encrypted_count": "elVhbQ==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/bg_Natsuiro-Matsuri_01.png"
-      },
-      "tag2": {
-        "id": "t0437",
-        "name": "tighnari_(genshin_impact)",
-        "proper_name": "Tighnari",
-        "category": "character",
-        "encrypted_count": "fFFkaQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Tighnari_Full_Wish.png/revision/latest?cb=20220824042927"
+        "image_reference": "https://images.seeklogo.com/logo-png/46/1/machikado-mazoku-logo-png_seeklogo-463180.png"
       }
     }
   ]
