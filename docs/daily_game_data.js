@@ -1,230 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-02-24T05:17:25.830496+00:00
-// Date: 2026-02-24
+// Generated on: 2026-02-25T05:19:29.562979+00:00
+// Date: 2026-02-25
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0753",
-        "name": "mega_man_(classic)",
-        "proper_name": "Mega Man (Classic)",
-        "category": "copyright",
-        "encrypted_count": "eF1kaw==",
-        "copyright": "Mega Man",
+        "id": "t0260",
+        "name": "nian_(arknights)",
+        "proper_name": "Nian",
+        "category": "character",
+        "encrypted_count": "fFxgbQ==",
+        "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://cdn.megamanwiki.com/0/0c/Wiki_-_Icon_Classic.png"
+        "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
       },
       "tag2": {
-        "id": "t0813",
-        "name": "koizumi_hanayo",
-        "proper_name": "Koizumi Hanayo",
+        "id": "t0444",
+        "name": "akagi_miria",
+        "proper_name": "Akagi Miria",
         "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Love Live!",
+        "encrypted_count": "fVRjaw==",
+        "image_reference": "https://static.wikia.nocookie.net/deresute/images/1/12/Miria_N.jpg/revision/latest?cb=20160919163515&path-prefix=it"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0748",
+        "name": "the_legend_of_zelda:_twilight_princess",
+        "proper_name": "The Legend of Zelda: Twilight Princess",
+        "category": "copyright",
+        "encrypted_count": "eVVmaA==",
+        "copyright": "The Legend of Zelda",
+        "material": "Video Game",
+        "image_reference": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/c/c3/TP_White_Logo.png/1200px-TP_White_Logo.png"
+      },
+      "tag2": {
+        "id": "t0309",
+        "name": "midorikawa_nao",
+        "proper_name": "Midorikawa Nao",
+        "category": "character",
+        "encrypted_count": "fFxhbw==",
+        "copyright": "D4DJ",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-super-sentai/images/2/27/Hanayo_01_01.png/revision/latest?cb=20180827052255"
+        "image_reference": "https://static.zerochan.net/Midorikawa.Nao.full.3242452.png"
       }
     },
     {
       "tag1": {
-        "id": "t0430",
-        "name": "emil_chronicle_online",
-        "proper_name": "Emil Chronicle Online",
+        "id": "t0004",
+        "name": "blue_archive",
+        "proper_name": "Blue Archive",
         "category": "copyright",
-        "encrypted_count": "fFJubw==",
-        "copyright": "Emil Chronicle Online",
+        "encrypted_count": "fVBibUgC",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://cdn.mobygames.com/covers/9924119-emil-chronicle-online-windows-front-cover.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
       },
       "tag2": {
-        "id": "t0635",
-        "name": "houseki_no_kuni",
-        "proper_name": "Houseki no Kuni",
+        "id": "t0236",
+        "name": "azumanga_daioh",
+        "proper_name": "Azumanga Daioh",
         "category": "copyright",
-        "encrypted_count": "e1dnaA==",
-        "copyright": "Houseki no Kuni",
+        "encrypted_count": "f1RgaA==",
+        "copyright": "Azumanga Daioh",
         "material": "Manga",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Houseki_no_Kuni.jpg"
+        "image_reference": "https://static.wikitide.net/bearboneswiki/f/f3/Azumanga_Daioh_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0889",
-        "name": "takakura_ken_(dandadan)",
-        "proper_name": "Takakura Ken",
+        "id": "t0164",
+        "name": "elysia_(miss_pink_elf)_(honkai_impact)",
+        "proper_name": "Elysia (Miss Pink Elf)",
         "category": "character",
-        "encrypted_count": "fFJiaQ==",
-        "copyright": "Dandadan",
-        "material": "Manga",
-        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
+        "encrypted_count": "fFNvaQ==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4c/Elf_Elysia.png/revision/latest?cb=20220916070416"
       },
       "tag2": {
-        "id": "t0951",
-        "name": "dio_brando",
-        "proper_name": "Dio Brando",
+        "id": "t0399",
+        "name": "saki_(blue_archive)",
+        "proper_name": "Saki",
         "category": "character",
-        "encrypted_count": "eFdvYw==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/0/0a/latest/20210424101455/DIO_Normal_SC_Infobox_Anime.png/800px-DIO_Normal_SC_Infobox_Anime.png"
+        "encrypted_count": "fFFlbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
       }
     },
     {
       "tag1": {
-        "id": "t0284",
-        "name": "yes!_precure_5",
-        "proper_name": "Yes! Precure 5",
+        "id": "t0084",
+        "name": "urusei_yatsura",
+        "proper_name": "Urusei Yatsura",
         "category": "copyright",
-        "encrypted_count": "fVFubQ==",
-        "copyright": "Yes! Precure 5",
+        "encrypted_count": "elJhaQ==",
+        "copyright": "Urusei Yatsura",
         "material": "Anime",
-        "image_reference": "https://static.wikitide.net/precurewikiwiki/e/ef/Yesfiveenglogo.jpg"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
       },
       "tag2": {
-        "id": "t0774",
-        "name": "uzumaki_naruto",
-        "proper_name": "Uzumaki Naruto",
+        "id": "t0297",
+        "name": "hong_lu_(project_moon)",
+        "proper_name": "Hong Lu",
         "category": "character",
-        "encrypted_count": "f1VmakM=",
-        "copyright": "Naruto",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png/"
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
       }
     },
     {
       "tag1": {
-        "id": "t0620",
-        "name": "yoko_littner",
-        "proper_name": "Yoko Littner",
+        "id": "t0371",
+        "name": "lilith_(darkstalkers)",
+        "proper_name": "Lilith",
         "category": "character",
-        "encrypted_count": "eVdmYg==",
-        "copyright": "Tengen Toppa Gurren Lagann",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gurennlagann/images/f/f0/Fsfsdddsfds.png/revision/latest?cb=20131209080110"
+        "encrypted_count": "elZvaQ==",
+        "copyright": "Darkstalkers",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
       },
       "tag2": {
-        "id": "t0187",
-        "name": "pokemon_journeys",
-        "proper_name": "Pok\u00e9mon Journeys",
+        "id": "t0803",
+        "name": "suite_precure",
+        "proper_name": "Suite Precure",
         "category": "copyright",
-        "encrypted_count": "elFkaA==",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "elNkbQ==",
+        "copyright": "Precure",
         "material": "Anime",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Suite_pretty_cure_logo.jpg/revision/latest/scale-to-width-down/300?cb=20150213050340"
       }
     },
     {
       "tag1": {
-        "id": "t0929",
-        "name": "caelus_(honkai:_star_rail)",
-        "proper_name": "Caelus",
+        "id": "t0716",
+        "name": "ultimate_madoka",
+        "proper_name": "Ultimate Madoka",
         "category": "character",
-        "encrypted_count": "e1RgaQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Caelus.600.3864625.jpg"
+        "encrypted_count": "elBmag==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://mangayo.it/31904-full_default/puella-magi-madoka-magica-ultimate-deluxe-edition-1.jpg"
       },
       "tag2": {
-        "id": "t0353",
-        "name": "merlin_prismriver",
-        "proper_name": "Merlin Prismriver",
-        "category": "character",
-        "encrypted_count": "fFFkaw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://pm1.aminoapps.com/6373/c4ea5075242be120a6e74045d9f3259bca213a98_hq.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0558",
-        "name": "red_(pokemon)",
-        "proper_name": "Red",
-        "category": "character",
-        "encrypted_count": "e1xvbQ==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/4/40/Red_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.png/revision/latest?cb=20220701232612"
-      },
-      "tag2": {
-        "id": "t0506",
-        "name": "shirogane_noel",
-        "proper_name": "Shirogane Noel",
-        "category": "character",
-        "encrypted_count": "eFJkaA==",
+        "id": "t0007",
+        "name": "hololive",
+        "proper_name": "Hololive",
+        "category": "copyright",
+        "encrypted_count": "fFNibEAH",
         "copyright": "Hololive Production",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/d/d1/Shirogane_Noel_3D.png/revision/latest?cb=20240901173516"
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/f/fc/Hololive_production_Logo.png/revision/latest/scale-to-width-down/1200?cb=20200703020700"
       }
     },
     {
       "tag1": {
-        "id": "t0766",
-        "name": "zero_two_(darling_in_the_franxx)",
-        "proper_name": "Zero Two",
+        "id": "t0853",
+        "name": "mikasa_ackerman",
+        "proper_name": "Mikasa Ackerman",
         "category": "character",
-        "encrypted_count": "e1xuaw==",
-        "copyright": "Darling in the Franxx",
+        "encrypted_count": "e1djag==",
+        "copyright": "Attack on Titan",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/darling-in-the-franxx/images/7/72/Zero_Dwa.png/revision/latest?cb=20180428173801&path-prefix=pl"
+        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png/revision/latest?cb=20231105175401"
       },
       "tag2": {
-        "id": "t0290",
-        "name": "asuna_(school_uniform)_(blue_archive)",
-        "proper_name": "Asuna (School Uniform)",
+        "id": "t0122",
+        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
+        "proper_name": "Elysia",
         "category": "character",
-        "encrypted_count": "f1JmYw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "fVVgYw==",
+        "copyright": "Honkai Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/0/01/Asuna_(School_Uniform).png/399px-Asuna_(School_Uniform).png"
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
       }
     },
     {
       "tag1": {
-        "id": "t0474",
-        "name": "seia_(blue_archive)",
-        "proper_name": "Seia",
+        "id": "t0700",
+        "name": "atago_(azur_lane)",
+        "proper_name": "Atago",
         "category": "character",
-        "encrypted_count": "eFdhYg==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "el1jbQ==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/46/Seia.png?version=fbe732a3685f04d8148ab32bce834791"
+        "image_reference": "https://static.zerochan.net/Atago.full.2425019.png"
       },
       "tag2": {
-        "id": "t0327",
-        "name": "bleach:_sennen_kessen-hen",
-        "proper_name": "Bleach: Thousand-Year Blood War",
+        "id": "t0755",
+        "name": "cevio",
+        "proper_name": "CeVIO",
         "category": "copyright",
-        "encrypted_count": "elNmag==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://latestlogo.com/wp-content/uploads/2024/01/bleach-thousand-year-blood-war-logo.png"
+        "encrypted_count": "fV1iYw==",
+        "copyright": "CeVIO",
+        "material": "Music Software",
+        "image_reference": "https://cevio.jp/wp-content/uploads/2020/11/CeVIOAI_LOGO_data.png"
       }
     },
     {
       "tag1": {
-        "id": "t0934",
-        "name": "yukihana_lamy",
-        "proper_name": "Yukihana Lamy",
-        "category": "character",
-        "encrypted_count": "eFZmbA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/68/Yukihana_Lamy_-_Portrait_01.png/1200px-Yukihana_Lamy_-_Portrait_01.png"
+        "id": "t0880",
+        "name": "senran_kagura_shoujo-tachi_no_shin'ei",
+        "proper_name": "Senran Kagura: Shoujo-tachi no Shin'ei",
+        "category": "copyright",
+        "encrypted_count": "eFxl",
+        "copyright": "Senran Kagura",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cc/Senran_Kagura.png/revision/latest?cb=20210114042723"
       },
       "tag2": {
-        "id": "t0897",
-        "name": "ryougi_shiki",
-        "proper_name": "Ryougi Shiki",
+        "id": "t0712",
+        "name": "wo-class_aircraft_carrier",
+        "proper_name": "Wo-Class Aircraft Carrier",
         "category": "character",
-        "encrypted_count": "fFJgbQ==",
-        "copyright": "Kara no Kyoukai",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/IMG_0883.png/revision/latest?cb=20171124001349&path-prefix=protagonist"
+        "encrypted_count": "fVNnbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://img10.reactor.cc/pics/post/Kantai-Collection-Anime-Wo-Class-Aircraft-Carrier-Kantai-Collection-2839849.png"
       }
     }
   ]
