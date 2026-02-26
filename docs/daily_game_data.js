@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-02-25T05:19:29.562979+00:00
-// Date: 2026-02-25
+// Generated on: 2026-02-26T05:16:20.134315+00:00
+// Date: 2026-02-26
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0260",
-        "name": "nian_(arknights)",
-        "proper_name": "Nian",
+        "id": "t0745",
+        "name": "haruno_sakura",
+        "proper_name": "Haruno Sakura",
         "category": "character",
-        "encrypted_count": "fFxgbQ==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
-      },
-      "tag2": {
-        "id": "t0444",
-        "name": "akagi_miria",
-        "proper_name": "Akagi Miria",
-        "category": "character",
-        "encrypted_count": "fVRjaw==",
-        "image_reference": "https://static.wikia.nocookie.net/deresute/images/1/12/Miria_N.jpg/revision/latest?cb=20160919163515&path-prefix=it"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0748",
-        "name": "the_legend_of_zelda:_twilight_princess",
-        "proper_name": "The Legend of Zelda: Twilight Princess",
-        "category": "copyright",
-        "encrypted_count": "eVVmaA==",
-        "copyright": "The Legend of Zelda",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/c/c3/TP_White_Logo.png/1200px-TP_White_Logo.png"
-      },
-      "tag2": {
-        "id": "t0309",
-        "name": "midorikawa_nao",
-        "proper_name": "Midorikawa Nao",
-        "category": "character",
-        "encrypted_count": "fFxhbw==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Midorikawa.Nao.full.3242452.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0004",
-        "name": "blue_archive",
-        "proper_name": "Blue Archive",
-        "category": "copyright",
-        "encrypted_count": "fVBibUgC",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
-      },
-      "tag2": {
-        "id": "t0236",
-        "name": "azumanga_daioh",
-        "proper_name": "Azumanga Daioh",
-        "category": "copyright",
-        "encrypted_count": "f1RgaA==",
-        "copyright": "Azumanga Daioh",
+        "encrypted_count": "f1RnbUA=",
+        "copyright": "Naruto",
         "material": "Manga",
-        "image_reference": "https://static.wikitide.net/bearboneswiki/f/f3/Azumanga_Daioh_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0164",
-        "name": "elysia_(miss_pink_elf)_(honkai_impact)",
-        "proper_name": "Elysia (Miss Pink Elf)",
-        "category": "character",
-        "encrypted_count": "fFNvaQ==",
-        "copyright": "Honkai Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4c/Elf_Elysia.png/revision/latest?cb=20220916070416"
+        "image_reference": "https://vignette.wikia.nocookie.net/naruto/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160531055927&path-prefix=pl"
       },
       "tag2": {
-        "id": "t0399",
-        "name": "saki_(blue_archive)",
-        "proper_name": "Saki",
-        "category": "character",
-        "encrypted_count": "fFFlbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
+        "id": "t0918",
+        "name": "spider-man_(series)",
+        "proper_name": "Spider-Man Series",
+        "category": "copyright",
+        "encrypted_count": "eVdhaQ==",
+        "copyright": "Spider-Man Series",
+        "material": "Comic",
+        "image_reference": "https://static.wikia.nocookie.net/eliteproductions/images/a/a5/SpiderMan_Series_Logo_NEW.jpg/revision/latest/scale-to-width-down/1200?cb=20220201130842"
       }
     },
     {
       "tag1": {
-        "id": "t0084",
-        "name": "urusei_yatsura",
-        "proper_name": "Urusei Yatsura",
-        "category": "copyright",
-        "encrypted_count": "elJhaQ==",
-        "copyright": "Urusei Yatsura",
+        "id": "t0801",
+        "name": "sakurauchi_riko",
+        "proper_name": "Sakurauchi Riko",
+        "category": "character",
+        "encrypted_count": "eF1kaw==",
+        "copyright": "Love Live!",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/llsif/images/e/e7/Riko787.jpg/revision/latest?cb=20161223004658"
       },
       "tag2": {
-        "id": "t0297",
-        "name": "hong_lu_(project_moon)",
-        "proper_name": "Hong Lu",
+        "id": "t0821",
+        "name": "graf_zeppelin_(kancolle)",
+        "proper_name": "Graf Zeppelin",
         "category": "character",
-        "encrypted_count": "fFNjbA==",
-        "copyright": "Project Moon",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0371",
-        "name": "lilith_(darkstalkers)",
-        "proper_name": "Lilith",
-        "category": "character",
-        "encrypted_count": "elZvaQ==",
-        "copyright": "Darkstalkers",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
-      },
-      "tag2": {
-        "id": "t0803",
-        "name": "suite_precure",
-        "proper_name": "Suite Precure",
-        "category": "copyright",
-        "encrypted_count": "elNkbQ==",
-        "copyright": "Precure",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Suite_pretty_cure_logo.jpg/revision/latest/scale-to-width-down/300?cb=20150213050340"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0716",
-        "name": "ultimate_madoka",
-        "proper_name": "Ultimate Madoka",
-        "category": "character",
-        "encrypted_count": "elBmag==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://mangayo.it/31904-full_default/puella-magi-madoka-magica-ultimate-deluxe-edition-1.jpg"
-      },
-      "tag2": {
-        "id": "t0007",
-        "name": "hololive",
-        "proper_name": "Hololive",
-        "category": "copyright",
-        "encrypted_count": "fFNibEAH",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/f/fc/Hololive_production_Logo.png/revision/latest/scale-to-width-down/1200?cb=20200703020700"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0853",
-        "name": "mikasa_ackerman",
-        "proper_name": "Mikasa Ackerman",
-        "category": "character",
-        "encrypted_count": "e1djag==",
-        "copyright": "Attack on Titan",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png/revision/latest?cb=20231105175401"
-      },
-      "tag2": {
-        "id": "t0122",
-        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
-        "proper_name": "Elysia",
-        "category": "character",
-        "encrypted_count": "fVVgYw==",
-        "copyright": "Honkai Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0700",
-        "name": "atago_(azur_lane)",
-        "proper_name": "Atago",
-        "category": "character",
-        "encrypted_count": "el1jbQ==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Atago.full.2425019.png"
-      },
-      "tag2": {
-        "id": "t0755",
-        "name": "cevio",
-        "proper_name": "CeVIO",
-        "category": "copyright",
-        "encrypted_count": "fV1iYw==",
-        "copyright": "CeVIO",
-        "material": "Music Software",
-        "image_reference": "https://cevio.jp/wp-content/uploads/2020/11/CeVIOAI_LOGO_data.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0880",
-        "name": "senran_kagura_shoujo-tachi_no_shin'ei",
-        "proper_name": "Senran Kagura: Shoujo-tachi no Shin'ei",
-        "category": "copyright",
-        "encrypted_count": "eFxl",
-        "copyright": "Senran Kagura",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cc/Senran_Kagura.png/revision/latest?cb=20210114042723"
-      },
-      "tag2": {
-        "id": "t0712",
-        "name": "wo-class_aircraft_carrier",
-        "proper_name": "Wo-Class Aircraft Carrier",
-        "category": "character",
-        "encrypted_count": "fVNnbQ==",
+        "encrypted_count": "fVxkYw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/Kantai-Collection-Anime-Wo-Class-Aircraft-Carrier-Kantai-Collection-2839849.png"
+        "image_reference": "https://static.zerochan.net/Graf.Zeppelin.(Kantai.Collection).full.1974176.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0909",
+        "name": "mordred_(fate)",
+        "proper_name": "Mordred",
+        "category": "character",
+        "encrypted_count": "eFViYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/d9/13/56/d91356ac5b500a9cbeb4dfcb5c0f2a66.png"
+      },
+      "tag2": {
+        "id": "t0009",
+        "name": "idolmaster",
+        "proper_name": "The Idolmaster",
+        "category": "copyright",
+        "encrypted_count": "fFNhakEB",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0212",
+        "name": "fusou_(kancolle)",
+        "proper_name": "Fusou",
+        "category": "character",
+        "encrypted_count": "fFNgbw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Fusou.(Kantai.Collection).full.4129880.jpg"
+      },
+      "tag2": {
+        "id": "t0790",
+        "name": "takarada_rikka",
+        "proper_name": "Takarada Rikka",
+        "category": "character",
+        "encrypted_count": "e1Jgbw==",
+        "copyright": "SSSS.Gridman",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0443",
+        "name": "tsumiki_mikan",
+        "proper_name": "Tsumiki Mikan",
+        "category": "character",
+        "encrypted_count": "fFxiYw==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/736x/8d/d6/86/8dd686f3d14630bd560ec334b981be25.jpg"
+      },
+      "tag2": {
+        "id": "t0298",
+        "name": "hayami_kanade",
+        "proper_name": "Hayami Kanade",
+        "category": "character",
+        "encrypted_count": "fF1kaw==",
+        "copyright": "IdolMaster Cinderella Girls",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/cinderella-girls/images/d/d1/200037R-Hayami-Kanade-Cool.png/revision/latest?cb=20180905181124"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0621",
+        "name": "caesar_anthonio_zeppeli",
+        "proper_name": "Caesar Anthonio Zeppeli",
+        "category": "character",
+        "encrypted_count": "elxmaw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/2/23/latest/20200616234147/Caesar_Infobox_Anime.png/540px-Caesar_Infobox_Anime.png"
+      },
+      "tag2": {
+        "id": "t0552",
+        "name": "denji_(chainsaw_man)",
+        "proper_name": "Denji",
+        "category": "character",
+        "encrypted_count": "eFdgaA==",
+        "copyright": "Chainsaw Man",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/e/e8/Denji_anime.png/revision/latest?cb=20221018185742&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0802",
+        "name": "haikyuu!!",
+        "proper_name": "Haikyuu!!",
+        "category": "copyright",
+        "encrypted_count": "e1Jmag==",
+        "copyright": "Haikyuu!!",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
+      },
+      "tag2": {
+        "id": "t0664",
+        "name": "yamashiro_(kancolle)",
+        "proper_name": "Yamashiro",
+        "category": "character",
+        "encrypted_count": "eldjaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/6186-1139087745.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0901",
+        "name": "inugami_korone",
+        "proper_name": "Inugami Korone",
+        "category": "character",
+        "encrypted_count": "eFdmYg==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c6/Inugami_Korone_Portrait.png/revision/latest?cb=20200609201058"
+      },
+      "tag2": {
+        "id": "t0083",
+        "name": "alice_gear_aegis",
+        "proper_name": "Alice Gear Aegis",
+        "category": "copyright",
+        "encrypted_count": "fVFhag==",
+        "copyright": "Alice Gear Aegis",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/alicegearaegis/images/0/00/Alice_Gear_Aegis_Expansion_Key_Visual.png/revision/latest?cb=20230322170433"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0851",
+        "name": "fischl_(genshin_impact)",
+        "proper_name": "Fischl",
+        "category": "character",
+        "encrypted_count": "elVkaA==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/c/c3/Character_Fischl_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030048&path-prefix=th"
+      },
+      "tag2": {
+        "id": "t0190",
+        "name": "shin_megami_tensei",
+        "proper_name": "Shin Megami Tensei",
+        "category": "copyright",
+        "encrypted_count": "eVZvbw==",
+        "copyright": "Shin Megami Tensei",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/6/66/Shin_Megami_Tensei_logo.svg/800px-Shin_Megami_Tensei_logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0644",
+        "name": "yahata_umiri",
+        "proper_name": "Yahata Umiri",
+        "category": "character",
+        "encrypted_count": "elJuag==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
+      },
+      "tag2": {
+        "id": "t0545",
+        "name": "pripara",
+        "proper_name": "Pripara",
+        "category": "copyright",
+        "encrypted_count": "eFZgbw==",
+        "copyright": "Pripara",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pripara/images/b/b9/Pripara_logo.png/revision/latest/scale-to-width-down/180?cb=20190729130335"
       }
     }
   ]
