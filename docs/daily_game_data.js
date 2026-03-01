@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-02-28T04:48:27.846968+00:00
-// Date: 2026-02-28
+// Generated on: 2026-03-01T05:14:22.088387+00:00
+// Date: 2026-03-01
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0227",
-        "name": "futari_wa_precure",
-        "proper_name": "Futari wa Precure",
+        "id": "t0726",
+        "name": "idolmaster_1",
+        "proper_name": "The Idolmaster",
         "category": "copyright",
-        "encrypted_count": "elZlYw==",
-        "copyright": "Futari wa Precure",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0797",
-        "name": "oguri_cap_(umamusume)",
-        "proper_name": "Oguri Cap",
-        "category": "character",
-        "encrypted_count": "fVBmbw==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/e/e7/Oguri_cap_new.png/revision/latest?cb=20181030225520"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0531",
-        "name": "xiao_(genshin_impact)",
-        "proper_name": "Xiao",
-        "category": "character",
-        "encrypted_count": "e1FjYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
-      },
-      "tag2": {
-        "id": "t0557",
-        "name": "oshino_shinobu",
-        "proper_name": "Oshino Shinobu",
-        "category": "character",
-        "encrypted_count": "eF1iag==",
-        "copyright": "Monogatari Series",
-        "material": "Light Novel",
-        "image_reference": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3Tn37nBnU8-trotYrRJ690Z-_yTEtTw_yNP1pGJs0p73coRZz-4LukF74hUjWw40NbbM38KO7_t25vpTE3DmRnuvrwfKfBQ_AKFc8dBytGDN7tSt7s1bfBeU30u6hE1TdETfQZk-HpkZ/s1600/zY7EiHT.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0430",
-        "name": "emil_chronicle_online",
-        "proper_name": "Emil Chronicle Online",
-        "category": "copyright",
-        "encrypted_count": "fFJubw==",
-        "copyright": "Emil Chronicle Online",
-        "material": "Video Game",
-        "image_reference": "https://cdn.mobygames.com/covers/9924119-emil-chronicle-online-windows-front-cover.jpg"
-      },
-      "tag2": {
-        "id": "t0117",
-        "name": "pokemon_rgby",
-        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
-        "category": "copyright",
-        "encrypted_count": "e11mYg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0914",
-        "name": "fujishima_megumi",
-        "proper_name": "Fujishima Megumi",
-        "category": "character",
-        "encrypted_count": "e1ZlaQ==",
+        "encrypted_count": "elRkbA==",
         "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/45/Megumi_Fujishima.png/revision/latest?cb=20230210135213&path-prefix=es"
+        "image_reference": "https://cdn.wikiwiki.jp/to/w/idolmaster/FrontPage/::ref/logo_the_idolmaster.png?rev=5a915d03e828445793207cd3caa7d286&t=20180804233405"
       },
       "tag2": {
-        "id": "t0636",
-        "name": "puyopuyo",
-        "proper_name": "Puyo Puyo",
-        "category": "copyright",
-        "encrypted_count": "eFJgbA==",
-        "copyright": "Puyo Puyo",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/fantendo/images/0/08/Puyo_Puyo_logo.png/revision/latest?cb=20171226110616"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0872",
-        "name": "fate/samurai_remnant",
-        "proper_name": "Fate/Samurai Remnant",
-        "category": "copyright",
-        "encrypted_count": "fFdhbQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
-      },
-      "tag2": {
-        "id": "t0096",
-        "name": "mash_kyrielight_(demi-servant)",
-        "proper_name": "Mash Kyrielight",
+        "id": "t0448",
+        "name": "tippy_(gochiusa)",
+        "proper_name": "Tippy",
         "category": "character",
-        "encrypted_count": "f1Bmbw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0062",
-        "name": "yamakaze_(kancolle)",
-        "proper_name": "Yamakaze",
-        "category": "character",
-        "encrypted_count": "fVZubA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
-      },
-      "tag2": {
-        "id": "t0760",
-        "name": "tsushima_yoshiko",
-        "proper_name": "Tsushima Yoshiko",
-        "category": "character",
-        "encrypted_count": "eVduaw==",
-        "copyright": "Love Live!",
+        "encrypted_count": "fFFmaQ==",
+        "copyright": "Gochuumon wa Usagi Desu ka?",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/44/Tsushima_Yoshiko_ALL_STARS.png/revision/latest?cb=20200323032830&path-prefix=es"
+        "image_reference": "https://static.zerochan.net/Gochuumon.wa.Usagi.Desu.ka.1024.2048654.webp"
       }
     },
     {
       "tag1": {
-        "id": "t0241",
-        "name": "angelina_(arknights)",
-        "proper_name": "Angelina",
+        "id": "t0928",
+        "name": "rensouhou-chan",
+        "proper_name": "Rensouhou-chan",
         "category": "character",
-        "encrypted_count": "fF1nbA==",
+        "encrypted_count": "e11jaA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://pm1.narvii.com/6354/7519811fa279795bd39dd0a3a2437bdc061fbaaa_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0767",
+        "name": "alice's_adventures_in_wonderland",
+        "proper_name": "Alice's Adventures in Wonderland",
+        "category": "copyright",
+        "encrypted_count": "e1dubQ==",
+        "copyright": "Alice's Adventures in Wonderland",
+        "material": "Novel",
+        "image_reference": "https://logodix.com/logo/867893.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0542",
+        "name": "shiori_novella",
+        "proper_name": "Shiori Novella",
+        "category": "character",
+        "encrypted_count": "e1FmYw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/hololivewiki/0/03/Shiori_Novella_-_Portrait_01.png"
+      },
+      "tag2": {
+        "id": "t0789",
+        "name": "tatsumaki",
+        "proper_name": "Tatsumaki",
+        "category": "character",
+        "encrypted_count": "eVJgag==",
+        "copyright": "One Punch Man",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/onepunchman/images/d/d2/Tatsumaki_Manga.png/revision/latest?cb=20190907232753"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0738",
+        "name": "hikari_(blue_archive)",
+        "proper_name": "Hikari",
+        "category": "character",
+        "encrypted_count": "elBkaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/13/Hikari_Portrait.png/revision/latest?cb=20240412140144"
+      },
+      "tag2": {
+        "id": "t0803",
+        "name": "suite_precure",
+        "proper_name": "Suite Precure",
+        "category": "copyright",
+        "encrypted_count": "elNkbQ==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Suite_pretty_cure_logo.jpg/revision/latest/scale-to-width-down/300?cb=20150213050340"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0731",
+        "name": "phantom_blood",
+        "proper_name": "Phantom Blood",
+        "category": "copyright",
+        "encrypted_count": "f1NjbQ==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/b/b4/latest/20200325022741/Phantom_Blood_Logo.png"
+      },
+      "tag2": {
+        "id": "t0757",
+        "name": "ganaha_hibiki",
+        "proper_name": "Ganaha Hibiki",
+        "category": "character",
+        "encrypted_count": "elxmYg==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/5/56/Hibiki_Ganaha_2nd_Vision_Normal.png/revision/latest?cb=20200608041955"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0560",
+        "name": "kisaragi_chihaya",
+        "proper_name": "Kisaragi Chihaya",
+        "category": "character",
+        "encrypted_count": "e1xjbw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/11/Chihaya_Kisaragi_2nd_Vision_Normal.png/revision/latest?cb=20180806222028"
+      },
+      "tag2": {
+        "id": "t0878",
+        "name": "death_note",
+        "proper_name": "Death Note",
+        "category": "copyright",
+        "encrypted_count": "fVZjag==",
+        "copyright": "Death Note",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/12/Death-Note-Logo.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0134",
+        "name": "dusk_(arknights)",
+        "proper_name": "Dusk",
+        "category": "character",
+        "encrypted_count": "fVZiYw==",
         "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/9/9b/Angelina.png/revision/latest?cb=20190620082323"
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/5/5d/Dusk.png/revision/latest?cb=20210205132501"
       },
       "tag2": {
-        "id": "t0497",
-        "name": "little_busters!",
-        "proper_name": "Little Busters!",
-        "category": "copyright",
-        "encrypted_count": "eFxgYw==",
-        "copyright": "Little Busters!",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/littlebusters/images/e/e6/Site-logo.png/revision/latest?cb=20210713161239"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0812",
-        "name": "takatsuki_yayoi",
-        "proper_name": "Takatsuki Yayoi",
+        "id": "t0677",
+        "name": "meltryllis_(fate)",
+        "proper_name": "Meltryllis",
         "category": "character",
-        "encrypted_count": "elBhbA==",
-        "copyright": "The iDOLM@STER",
+        "encrypted_count": "elxiaA==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/e/e1/MASTER_ARTIST_3_10.jpg"
-      },
-      "tag2": {
-        "id": "t0306",
-        "name": "kurosawa_dia",
-        "proper_name": "Kurosawa Dia",
-        "category": "character",
-        "encrypted_count": "elJkYg==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/love-live/images/d/db/789Transparent.png/revision/latest?cb=20160601025120&path-prefix=es"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/e/e9/Meltryllis.png/revision/latest?cb=20121214101028"
       }
     },
     {
       "tag1": {
-        "id": "t0732",
-        "name": "made_in_abyss",
-        "proper_name": "Made in Abyss",
-        "category": "copyright",
-        "encrypted_count": "eFVlaQ==",
-        "copyright": "Made in Abyss",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/madeinabyss/images/c/c4/Made-In-Abyss-Logo.png/revision/latest?cb=20170708222105"
+        "id": "t0301",
+        "name": "tomoe_gozen_(fate)",
+        "proper_name": "Tomoe Gozen",
+        "category": "character",
+        "encrypted_count": "fVRmaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6999/99662f2ac78d6680faaed4cc6b30d0b4757f43dcr1-850-1073v2_hq.jpg"
       },
       "tag2": {
-        "id": "t0931",
-        "name": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka",
-        "proper_name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-        "category": "copyright",
-        "encrypted_count": "dldvYg==",
-        "copyright": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-        "material": "Light Novel",
-        "image_reference": "https://images.justwatch.com/poster/162530069/s718/season-2.jpg"
+        "id": "t0572",
+        "name": "boo_tao_(genshin_impact)",
+        "proper_name": "Boo Tao",
+        "category": "character",
+        "encrypted_count": "fFNvaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/1cc980d7-6ee3-4519-aa66-e8a03e842b26"
       }
     },
     {
       "tag1": {
-        "id": "t0898",
-        "name": "chando_(ado)",
-        "proper_name": "Chando",
-        "category": "character",
-        "encrypted_count": "fFBjbg==",
-        "copyright": "Ado",
-        "material": "Music",
-        "image_reference": "https://cdn.donmai.us/original/94/2a/942a7f049d0af9bc21016fe18c7ed8ea.jpg"
+        "id": "t0750",
+        "name": "marvel_rivals",
+        "proper_name": "Marvel Rivals",
+        "category": "copyright",
+        "encrypted_count": "el1jaw==",
+        "copyright": "Marvel",
+        "material": "Comic",
+        "image_reference": "https://marvelrivals.wiki.gg/images/e/e6/Site-logo.png"
       },
       "tag2": {
-        "id": "t0809",
-        "name": "chloe_von_einzbern",
-        "proper_name": "Chloe von Einzbern",
+        "id": "t0753",
+        "name": "mega_man_(classic)",
+        "proper_name": "Mega Man (Classic)",
+        "category": "copyright",
+        "encrypted_count": "eF1kaw==",
+        "copyright": "Mega Man",
+        "material": "Video Game",
+        "image_reference": "https://cdn.megamanwiki.com/0/0c/Wiki_-_Icon_Classic.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0376",
+        "name": "vivian_banshee",
+        "proper_name": "Vivian Banshee",
         "category": "character",
-        "encrypted_count": "e11gYw==",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/7b/Kuro_2wei.png/revision/latest?cb=20161006151250"
+        "encrypted_count": "fFFhaQ==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0344",
+        "name": "emiya_kiritsugu",
+        "proper_name": "Emiya Kiritsugu",
+        "category": "character",
+        "encrypted_count": "fFJibw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
       }
     }
   ]
