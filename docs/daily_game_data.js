@@ -1,226 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-03T05:10:48.298420+00:00
-// Date: 2026-03-03
+// Generated on: 2026-03-04T05:04:08.596904+00:00
+// Date: 2026-03-04
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-03",
+  "date": "2026-03-04",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0629",
-        "name": "shiranui_mai",
-        "proper_name": "Shiranui Mai",
+        "id": "t0329",
+        "name": "asahina_mafuyu",
+        "proper_name": "Asahina Mafuyu",
         "category": "character",
-        "encrypted_count": "f1dkb0A=",
-        "image_reference": "https://static.wikia.nocookie.net/herois/images/5/53/Mai_Shiranui_FF-CotW.png/revision/latest/scale-to-width-down/1200?cb=20241112050708&path-prefix=pt-br"
+        "encrypted_count": "fFdhag==",
+        "copyright": "Project Sekai: Colorful Stage! feat. Hatsune Miku",
+        "material": "Video Game",
+        "image_reference": "https://colorfulstage.com/img/ogtag_twitter.png"
       },
       "tag2": {
-        "id": "t0263",
-        "name": "ashigara_(kancolle)",
-        "proper_name": "Ashigara",
+        "id": "t0062",
+        "name": "yamakaze_(kancolle)",
+        "proper_name": "Yamakaze",
         "category": "character",
-        "encrypted_count": "fFJubA==",
+        "encrypted_count": "fVZubA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/c/c6/Ship_Card_Ashigara.png/218px-Ship_Card_Ashigara.png"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
       }
     },
     {
       "tag1": {
-        "id": "t0528",
-        "name": "splatoon_2",
-        "proper_name": "Splatoon 2",
-        "category": "copyright",
-        "encrypted_count": "eVxjaA==",
-        "copyright": "Splatoon 2",
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
+        "category": "character",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/Splatoon_2_Splatoon_Base_Logo.png/800px-Splatoon_2_Splatoon_Base_Logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
       },
       "tag2": {
-        "id": "t0791",
-        "name": "sangonomiya_kokomi",
-        "proper_name": "Sangonomiya Kokomi",
+        "id": "t0603",
+        "name": "kikuchi_makoto",
+        "proper_name": "Kikuchi Makoto",
         "category": "character",
-        "encrypted_count": "elZmaQ==",
-        "copyright": "Genshin Impact",
+        "encrypted_count": "e1JiYw==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20230429082521&path-prefix=de"
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/d/d1/Normal_Makoto_Kikuchi_Mobage_Transparent.png/revision/latest?cb=20190202042832"
       }
     },
     {
       "tag1": {
-        "id": "t0530",
-        "name": "suzuran_(arknights)",
-        "proper_name": "Suzuran",
+        "id": "t0491",
+        "name": "kumoi_ichirin",
+        "proper_name": "Kumoi Ichirin",
         "category": "character",
-        "encrypted_count": "e1Nlag==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cc/Suzuran.png/revision/latest?cb=20200711010008"
-      },
-      "tag2": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
-        "category": "character",
-        "encrypted_count": "fFdubw==",
+        "encrypted_count": "el1uYg==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1470363202.png"
+      },
+      "tag2": {
+        "id": "t0251",
+        "name": "kicchou_yachie",
+        "proper_name": "Kicchou Yachie",
+        "category": "character",
+        "encrypted_count": "fFFgbg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
       }
     },
     {
       "tag1": {
-        "id": "t0398",
-        "name": "erica_hartmann",
-        "proper_name": "Erica Hartmann",
+        "id": "t0265",
+        "name": "mankanshoku_mako",
+        "proper_name": "Mankanshoku Mako",
         "category": "character",
-        "encrypted_count": "fF1mbQ==",
-        "copyright": "Strike Witches",
+        "encrypted_count": "fVFgYw==",
+        "copyright": "Kill la Kill",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/strikewitches/images/5/56/Strike_Witches-_Erica_Hartmann_1941.jpg/revision/latest?cb=20200320173134"
+        "image_reference": "https://www.pngkey.com/png/detail/790-7906667_mako-mankanshoku-drawings-kill-la-kill-mako-senketsu.png"
       },
       "tag2": {
-        "id": "t0139",
-        "name": "yoshida_yuuko",
-        "proper_name": "Yoshida Yuuko",
+        "id": "t0069",
+        "name": "hiiragi_tsukasa",
+        "proper_name": "Hiiragi Tsukasa",
         "category": "character",
-        "encrypted_count": "fVVvbQ==",
-        "copyright": "Machikado Mazoku",
+        "encrypted_count": "elVgYw==",
+        "copyright": "Lucky Star",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Yoshida.Yuuko.(Machikado.Mazoku).full.3883983.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/9/92/Tsukasa-san.gif/revision/latest?cb=20120723133432"
       }
     },
     {
       "tag1": {
-        "id": "t0167",
-        "name": "arima_kana",
-        "proper_name": "Arima Kana",
+        "id": "t0606",
+        "name": "serena_(pokemon)",
+        "proper_name": "Serena",
         "category": "character",
-        "encrypted_count": "fVdmbA==",
-        "copyright": "Kagurazaka Kyouka",
-        "material": "Anime",
-        "image_reference": "https://i.pinimg.com/originals/b8/54/67/b854676be50d9e15483c0aac5c85901b.png"
-      },
-      "tag2": {
-        "id": "t0125",
-        "name": "ethan_(pokemon)",
-        "proper_name": "Ethan",
-        "category": "character",
-        "encrypted_count": "fVJlbg==",
+        "encrypted_count": "dlZnbg==",
         "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/Ethan_(Pok\u00e9mon_Masters).png/revision/latest?cb=20220818005918&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0240",
-        "name": "fennec_(kemono_friends)",
-        "proper_name": "Fennec",
-        "category": "character",
-        "encrypted_count": "fFNnaQ==",
-        "copyright": "Kemono Friends",
         "material": "Anime",
-        "image_reference": "https://www.japari-library.com/images/8/8b/Fennec_FoxOriginal.png"
+        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/7/7f/Serena_(anime_XY)_3.png/revision/latest?cb=20150527212218"
       },
       "tag2": {
-        "id": "t0873",
-        "name": "rabbit_hole_(vocaloid)",
-        "proper_name": "Rabbit Hole",
-        "category": "copyright",
-        "encrypted_count": "fFFmYw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://rabbithole.wiki.gg/images/e/e6/Site-logo.png"
+        "id": "t0914",
+        "name": "fujishima_megumi",
+        "proper_name": "Fujishima Megumi",
+        "category": "character",
+        "encrypted_count": "e1ZlaQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/45/Megumi_Fujishima.png/revision/latest?cb=20230210135213&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0394",
-        "name": "lyra_(pokemon)",
-        "proper_name": "Lyra",
+        "id": "t0297",
+        "name": "hong_lu_(project_moon)",
+        "proper_name": "Hong Lu",
         "category": "character",
-        "encrypted_count": "fVZkag==",
-        "copyright": "Pokemon",
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Project Moon",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/d/d8/Lyra.png/revision/latest?cb=20160116133943"
+        "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
       },
       "tag2": {
-        "id": "t0288",
-        "name": "mogami_(kancolle)",
-        "proper_name": "Mogami",
+        "id": "t0543",
+        "name": "tokai_teio_(umamusume)",
+        "proper_name": "Tokai Teio",
         "category": "character",
-        "encrypted_count": "fFFjbg==",
+        "encrypted_count": "elJhbA==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/umamusume/images/3/3b/TokaiTeio_Uniform.png/revision/latest/scale-to-width-down/226?cb=20180425085144"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0303",
+        "name": "kiyoshimo_(kancolle)",
+        "proper_name": "Kiyoshimo",
+        "category": "character",
+        "encrypted_count": "fFJvbg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/5/5b/Ship_Card_Mogami_Kai_Ni.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0119",
-        "name": "maria-sama_ga_miteru",
-        "proper_name": "Maria-sama ga Miteru",
-        "category": "copyright",
-        "encrypted_count": "fVFmbA==",
-        "copyright": "Maria-sama ga Miteru",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/animeland-index/images/6/6a/Maria_sama_ga_miteru.jpg/revision/latest?cb=20220526195420&path-prefix=fr"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
       },
       "tag2": {
-        "id": "t0027",
-        "name": "danganronpa_(series)",
-        "proper_name": "Danganronpa Series",
-        "category": "copyright",
-        "encrypted_count": "eFBlbkY=",
-        "copyright": "Danganronpa Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0146",
-        "name": "nia_(xenoblade)",
-        "proper_name": "Nia",
+        "id": "t0415",
+        "name": "kasumi_kai_ni_(kancolle)",
+        "proper_name": "Kasumi Kai Ni",
         "category": "character",
-        "encrypted_count": "fVxiYw==",
-        "copyright": "Xenoblade Chronicles",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
-      },
-      "tag2": {
-        "id": "t0370",
-        "name": "unryuu_(kancolle)",
-        "proper_name": "Unryuu",
-        "category": "character",
-        "encrypted_count": "fFJmaA==",
+        "encrypted_count": "f1NiaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/2/23/Ship_Card_Unryuu.png"
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/f/f3/Ship_Card_Kasumi_Kai_Ni.png/218px-Ship_Card_Kasumi_Kai_Ni.png"
       }
     },
     {
       "tag1": {
-        "id": "t0762",
-        "name": "arcueid_brunestud",
-        "proper_name": "Arcueid Brunestud",
+        "id": "t0439",
+        "name": "cheval_grand_(umamusume)",
+        "proper_name": "Cheval Grand",
         "category": "character",
-        "encrypted_count": "elFkbQ==",
-        "copyright": "Tsukihime",
-        "material": "Visual Novel",
-        "image_reference": "https://static.zerochan.net/Arcueid.Brunestud.full.3556278.jpg"
+        "encrypted_count": "fFZnaQ==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/6/64/Cheval_Grand_%28Race%29.png/revision/latest?cb=20240728193832"
       },
       "tag2": {
-        "id": "t0837",
-        "name": "shinosawa_hiro",
-        "proper_name": "Shinosawa Hiro",
+        "id": "t0269",
+        "name": "fushiguro_megumi",
+        "proper_name": "Fushiguro Megumi",
         "category": "character",
-        "encrypted_count": "fVNmbA==",
-        "image_reference": "https://project-imas.wiki/images/thumb/4/4b/HiroShinosawa.png/640px-HiroShinosawa.png"
+        "encrypted_count": "elRkaw==",
+        "copyright": "Jujutsu Kaisen",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8d/Megumi_Fushiguro_(Anime).png/revision/latest?cb=20201213115916&path-prefix=pl"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0546",
+        "name": "queen's_blade",
+        "proper_name": "Queen's Blade",
+        "category": "copyright",
+        "encrypted_count": "f1Bna0M=",
+        "copyright": "Queen's Blade",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
+      },
+      "tag2": {
+        "id": "t0741",
+        "name": "nozomi_(blue_archive)",
+        "proper_name": "Nozomi",
+        "category": "character",
+        "encrypted_count": "elBnaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/0/0b/Nozomi.png?version=5b03c5a5d159b8b68eb6287e9738dace"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0360",
+        "name": "male_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Male)",
+        "category": "character",
+        "encrypted_count": "el1uYg==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
+      },
+      "tag2": {
+        "id": "t0706",
+        "name": "nitroplus",
+        "proper_name": "Nitroplus",
+        "category": "copyright",
+        "encrypted_count": "d1FlbQ==",
+        "copyright": "Nitroplus",
+        "material": "Video Game",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2021/09/Company-Logo_Nitroplus-1920x1088.png"
       }
     }
   ]
