@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-10T05:05:24.074991+00:00
-// Date: 2026-03-10
+// Generated on: 2026-03-11T05:06:49.647231+00:00
+// Date: 2026-03-11
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0668",
-        "name": "monster_girl_encyclopedia",
-        "proper_name": "Monster Girl Encyclopedia",
+        "id": "t0311",
+        "name": "makaino_ririmu",
+        "proper_name": "Makaino Ririmu",
+        "category": "character",
+        "encrypted_count": "fFxjaA==",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
+      },
+      "tag2": {
+        "id": "t0754",
+        "name": "gegege_no_kitarou",
+        "proper_name": "GeGeGe no Kitarou",
         "category": "copyright",
-        "encrypted_count": "eFFiaw==",
-        "copyright": "Monster Girl Encyclopedia",
+        "encrypted_count": "e1RlYg==",
+        "copyright": "GeGeGe no Kitarou",
+        "material": "Anime",
+        "image_reference": "https://images.launchbox-app.com/82f56e88-1d89-4c7f-95d4-b5ffdf87c0be.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0380",
+        "name": "michishio_(kancolle)",
+        "proper_name": "Michishio",
+        "category": "character",
+        "encrypted_count": "fFdgag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
+      },
+      "tag2": {
+        "id": "t0118",
+        "name": "my_little_pony",
+        "proper_name": "My Little Pony",
+        "category": "copyright",
+        "encrypted_count": "e1Vvbw==",
+        "copyright": "My Little Pony",
+        "material": "TV Show",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/04/My-Little-Pony-Logo-2016.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0558",
+        "name": "red_(pokemon)",
+        "proper_name": "Red",
+        "category": "character",
+        "encrypted_count": "e1xvbQ==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/4/40/Red_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.png/revision/latest?cb=20220701232612"
+      },
+      "tag2": {
+        "id": "t0233",
+        "name": "22/7",
+        "proper_name": "22/7",
+        "category": "copyright",
+        "encrypted_count": "fVViYw==",
+        "copyright": "22/7",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/ff/Nanabun_no_Nijuuni.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0160",
+        "name": "toga_himiko",
+        "proper_name": "Toga Himiko",
+        "category": "character",
+        "encrypted_count": "eFJjaQ==",
+        "copyright": "My Hero Academia",
         "material": "Manga",
-        "image_reference": "https://m.media-amazon.com/images/I/81oYIfoDzFL._AC_UF1000"
+        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
       },
       "tag2": {
-        "id": "t0275",
-        "name": "muv-luv",
-        "proper_name": "Muv-Luv",
-        "category": "copyright",
-        "encrypted_count": "fV1mbQ==",
-        "copyright": "Muv-Luv",
-        "material": "Visual Novel",
-        "image_reference": "https://image.librewiki.net/thumb/2/29/Muv-Luv_logo.png/1200px-Muv-Luv_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0527",
-        "name": "macross_frontier",
-        "proper_name": "Macross Frontier",
-        "category": "copyright",
-        "encrypted_count": "eFdnag==",
-        "copyright": "Macross Frontier",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/macross/images/4/4d/Logo_Macross_Frontier.svg/revision/latest?cb=20130403214204"
-      },
-      "tag2": {
-        "id": "t0207",
-        "name": "aoba_(kancolle)",
-        "proper_name": "Aoba",
+        "id": "t0763",
+        "name": "yuubari_(kancolle)",
+        "proper_name": "Yuubari",
         "category": "character",
-        "encrypted_count": "fFJgYw==",
+        "encrypted_count": "fV1kaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/4/42/Aoba.png/revision/latest?cb=20140504163245&path-prefix=protagonist"
+        "image_reference": "https://static.zerochan.net/Yuubari.(Kantai.Collection).full.2131376.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0081",
-        "name": "final_fantasy_vii_rebirth",
-        "proper_name": "Final Fantasy VII Rebirth",
-        "category": "copyright",
-        "encrypted_count": "fVxgaQ==",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/75/Boxart_for_Final_Fantasy_VII_Rebirth.png"
+        "id": "t0832",
+        "name": "giorno_giovanna",
+        "proper_name": "Giorno Giovanna",
+        "category": "character",
+        "encrypted_count": "fV1hag==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/4/4a/latest/20210422070411/Giorno_Giovanna_Infobox_Anime.png/400px-Giorno_Giovanna_Infobox_Anime.png"
       },
       "tag2": {
-        "id": "t0393",
-        "name": "tamamo_cross_(umamusume)",
-        "proper_name": "Tamamo Cross",
+        "id": "t0544",
+        "name": "ash_ketchum",
+        "proper_name": "Ash Ketchum",
         "category": "character",
-        "encrypted_count": "fFVvbw==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Tamamo.Cross.full.3657591.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0405",
-        "name": "gran_(granblue_fantasy)",
-        "proper_name": "Gran",
-        "category": "character",
-        "encrypted_count": "fFNjbA==",
-        "copyright": "Granblue Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/granblue/images/3/33/FighterM.png/revision/latest?cb=20210313172546"
-      },
-      "tag2": {
-        "id": "t0051",
-        "name": "cyberpunk:_edgerunners",
-        "proper_name": "Cyberpunk: Edgerunners",
-        "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "Cyberpunk: Edgerunners",
+        "encrypted_count": "f1RgY0g=",
+        "copyright": "Pok\u00e9mon",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg/revision/latest?cb=20220801170122"
+        "image_reference": "https://static.wikia.nocookie.net/pokemony/images/c/cd/Ash_JN.png/revision/latest?cb=20200723225043&path-prefix=pl"
       }
     },
     {
       "tag1": {
-        "id": "t0508",
-        "name": "kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~",
-        "proper_name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "id": "t0423",
+        "name": "brave_witches",
+        "proper_name": "Brave Witches",
         "category": "copyright",
-        "encrypted_count": "dlJkaA==",
-        "copyright": "Kaguya-sama wa Kokurasetai",
-        "material": "Manga"
+        "encrypted_count": "fVRibA==",
+        "copyright": "Brave Witches",
+        "material": "Anime",
+        "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
       },
       "tag2": {
-        "id": "t0656",
-        "name": "sparkle_(honkai:_star_rail)",
-        "proper_name": "Sparkle",
+        "id": "t0744",
+        "name": "amamiya_ren",
+        "proper_name": "Amamiya Ren",
         "category": "character",
-        "encrypted_count": "el1hbQ==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "e1Rnbg==",
+        "copyright": "Persona 5",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
+        "image_reference": "https://megatenwiki.com/images/5/53/P5D_Ren_Amamiya_Artwork.png"
       }
     },
     {
       "tag1": {
-        "id": "t0149",
-        "name": "oboro_(kancolle)",
-        "proper_name": "Oboro",
-        "category": "character",
-        "encrypted_count": "fFJvag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://w7.pngwing.com/pngs/738/261/png-transparent-kantai-collection-battleship-wiki-japanese-destroyer-oboro-kantai-miscellaneous-computer-wallpaper-fictional-character.png"
+        "id": "t0707",
+        "name": "steel_ball_run",
+        "proper_name": "Steel Ball Run",
+        "category": "copyright",
+        "encrypted_count": "eldjYw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/4/4f/latest/20250412184658/Steel_Ball_Run_Anime_Logo.png?20250412184658"
       },
       "tag2": {
-        "id": "t0722",
-        "name": "ishtar_(fate)",
-        "proper_name": "Ishtar",
+        "id": "t0818",
+        "name": "cu_chulainn_(lancer)_(fate)",
+        "proper_name": "Cu Chulainn (Lancer)",
         "category": "character",
-        "encrypted_count": "e1Rkbg==",
+        "encrypted_count": "fVJnbw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/FGO-Ishtar.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/fateanother-ii/images/3/32/LancerCuChuGOStage1.png/revision/latest/scale-to-width-down/1200?cb=20210607112610"
       }
     },
     {
       "tag1": {
-        "id": "t0175",
-        "name": "koseki_bijou",
-        "proper_name": "Koseki Bijou",
+        "id": "t0485",
+        "name": "oozora_subaru",
+        "proper_name": "Oozora Subaru",
         "category": "character",
-        "encrypted_count": "fVViag==",
+        "encrypted_count": "eFBibw==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/9/9f/Koseki_Bijou_-_Portrait_01.png"
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/4/49/Oozora_Subaru_Portrait.png/revision/latest?cb=20200622133539"
       },
       "tag2": {
-        "id": "t0487",
-        "name": "kemono_friends_3",
-        "proper_name": "Kemono Friends 3",
-        "category": "copyright",
-        "encrypted_count": "eFFvaw==",
-        "copyright": "Kemono Friends",
+        "id": "t0590",
+        "name": "kieran_(pokemon)",
+        "proper_name": "Kieran",
+        "category": "character",
+        "encrypted_count": "e1ZhbQ==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://www.japari-library.com/images/b/bb/Kemono_Friends_3_Logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/a/a7/Kieran_Pokemon_SV.png/revision/latest?cb=20230918055948&path-prefix=protagonist"
       }
     },
     {
       "tag1": {
-        "id": "t0805",
-        "name": "toradora!",
-        "proper_name": "Toradora!",
-        "category": "copyright",
-        "encrypted_count": "elNiaw==",
-        "copyright": "Toradora!",
-        "material": "Light Novel",
-        "image_reference": "https://image.librewiki.net/thumb/d/d1/Toradora!_Logo.svg/1200px-Toradora!_Logo.svg.png"
+        "id": "t0041",
+        "name": "i-19_(kancolle)",
+        "proper_name": "I-19",
+        "category": "character",
+        "encrypted_count": "fVdvag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e9/I-19_Full.png/revision/latest/scale-to-width-down/300?cb=20180817192054"
       },
       "tag2": {
-        "id": "t0384",
-        "name": "chitanda_eru",
-        "proper_name": "Chitanda Eru",
-        "category": "character",
-        "encrypted_count": "fFxibA==",
-        "copyright": "Hyouka",
+        "id": "t0016",
+        "name": "love_live!",
+        "proper_name": "Love Live!",
+        "category": "copyright",
+        "encrypted_count": "f1NjbEAH",
+        "copyright": "Love Live!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/hyouka/images/0/0f/Chitanda_eru.jpg/revision/latest/scale-to-width-down/1200?cb=20161113165236&path-prefix=vi"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b9/Love_Live%21_promotional_image.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0097",
-        "name": "kikyou_(blue_archive)",
-        "proper_name": "Kikyou",
+        "id": "t0556",
+        "name": "wakaba_mutsumi",
+        "proper_name": "Wakaba Mutsumi",
         "category": "character",
-        "encrypted_count": "fVRubg==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "e1Vgag==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/8/84/Kikyou_Portrait.png/revision/latest?cb=20231122112635"
+        "image_reference": "https://anibase.net/files/2fe43d80636dfb7d1e4d535c174a7b68"
       },
       "tag2": {
-        "id": "t0529",
-        "name": "shiina_taki",
-        "proper_name": "Shiina Taki",
+        "id": "t0182",
+        "name": "kamado_nezuko",
+        "proper_name": "Kamado Nezuko",
         "category": "character",
-        "encrypted_count": "e1Rvaw==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikitide.net/houkai2ndwiki/thumb/1/12/Shiina_Taki_Awaken.webp/310px-Shiina_Taki_Awaken.webp.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0702",
-        "name": "shimamura_uzuki",
-        "proper_name": "Shimamura Uzuki",
-        "category": "character",
-        "encrypted_count": "el1kaQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/b/b7/CINDERELLA_GIRLS_Normal_Uzuki_Shimamura_Unawakened.jpg/revision/latest?cb=20190807054405"
-      },
-      "tag2": {
-        "id": "t0036",
-        "name": "usami_sumireko",
-        "proper_name": "Usami Sumireko",
-        "category": "character",
-        "encrypted_count": "fFJnaA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/d/d8/Th145Sumireko.png/revision/latest?cb=20151127030013"
+        "encrypted_count": "eldnaw==",
+        "copyright": "Demon Slayer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Nezuko_anime.png/revision/latest?cb=20211119014953"
       }
     }
   ]
