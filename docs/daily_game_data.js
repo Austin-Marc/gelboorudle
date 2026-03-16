@@ -1,229 +1,227 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-15T05:24:33.290474+00:00
-// Date: 2026-03-15
+// Generated on: 2026-03-16T05:45:45.543324+00:00
+// Date: 2026-03-16
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0227",
-        "name": "futari_wa_precure",
-        "proper_name": "Futari wa Precure",
+        "id": "t0802",
+        "name": "haikyuu!!",
+        "proper_name": "Haikyuu!!",
         "category": "copyright",
-        "encrypted_count": "elZlYw==",
-        "copyright": "Futari wa Precure",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
+        "encrypted_count": "e1Jmag==",
+        "copyright": "Haikyuu!!",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
       },
       "tag2": {
-        "id": "t0550",
-        "name": "aikatsu!",
-        "proper_name": "Aikatsu!",
+        "id": "t0426",
+        "name": "avatar_legends",
+        "proper_name": "Avatar Legends",
         "category": "copyright",
-        "encrypted_count": "eFdlbg==",
-        "copyright": "Aikatsu!",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/Aikatsu222.jpg"
+        "encrypted_count": "elBvaA==",
+        "copyright": "Avatar: The Last Airbender",
+        "material": "Tabletop Game",
+        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
       }
     },
     {
       "tag1": {
-        "id": "t0705",
-        "name": "irys_(hololive)",
-        "proper_name": "Irys",
-        "category": "character",
-        "encrypted_count": "elFnaQ==",
+        "id": "t0569",
+        "name": "holostars",
+        "proper_name": "Holostars",
+        "category": "copyright",
+        "encrypted_count": "e1diaQ==",
         "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6c/IRyS_Portrait.jpg/revision/latest?cb=20210707044450"
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/b/bb/Logo_-_Holostars.png/799px-Logo_-_Holostars.png?20200525222120"
       },
       "tag2": {
-        "id": "t0509",
-        "name": "sanrio",
-        "proper_name": "Sanrio",
-        "category": "copyright",
-        "encrypted_count": "eFVlaw==",
-        "copyright": "Sanrio",
-        "image_reference": "https://static.wikia.nocookie.net/hellokitty/images/a/a5/Mv-cinnamon.png/revision/latest/scale-to-width/360?cb=20250930161135"
+        "id": "t0844",
+        "name": "kyon",
+        "proper_name": "Kyon",
+        "category": "character",
+        "encrypted_count": "elZlaQ==",
+        "copyright": "The Melancholy of Haruhi Suzumiya",
+        "material": "Light Novel",
+        "image_reference": "https://i.pinimg.com/originals/a0/fd/09/a0fd091b54d8f0cc1207a7d5d8a6ee3e.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0456",
-        "name": "tachibana_kanade",
-        "proper_name": "Tachibana Kanade",
+        "id": "t0800",
+        "name": "amate_yuzuriha",
+        "proper_name": "Amate Yuzuriha",
         "category": "character",
-        "encrypted_count": "f1Zi",
-        "copyright": "Angel Beats!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/angelbeats/images/d/d4/Kanade_anime.png/revision/latest/scale-to-width-down/1200?cb=20190414062510"
+        "encrypted_count": "elZvbQ==",
+        "copyright": "Unknown",
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
       },
       "tag2": {
-        "id": "t0627",
-        "name": "sazanami_(kancolle)",
-        "proper_name": "Sazanami",
+        "id": "t0138",
+        "name": "yorigami_jo'on",
+        "proper_name": "Yorigami Joon",
         "category": "character",
-        "encrypted_count": "eldmaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Sazanami.(Kantai.Collection).full.1845445.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0723",
-        "name": "narukami_yu",
-        "proper_name": "Narukami Yu",
-        "category": "character",
-        "encrypted_count": "elxiaw==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://blazblue.wiki/images/2/2e/BlazBlue_Cross_Tag_Battle_Yu_Narukami_Main.png"
-      },
-      "tag2": {
-        "id": "t0143",
-        "name": "jougasaki_rika",
-        "proper_name": "Jougasaki Rika",
-        "category": "character",
-        "encrypted_count": "fVNmaQ==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/17/R_Rare_Rika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107025154"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0308",
-        "name": "momosuzu_nene",
-        "proper_name": "Momosuzu Nene",
-        "category": "character",
-        "encrypted_count": "fFxiag==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/7/74/Momosuzu_Nene_-_Full_Illustration_02.png/640px-Momosuzu_Nene_-_Full_Illustration_02.png"
-      },
-      "tag2": {
-        "id": "t0226",
-        "name": "yuri!!!_on_ice",
-        "proper_name": "Yuri!!! on ICE",
-        "category": "copyright",
-        "encrypted_count": "fVdnbA==",
-        "copyright": "Yuri!!! on ICE",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6YWsFdsN90j7jwUoV9LzaEFb96hoevDz1A--O3VGX_DqgBhW4Zj1pJGBIwN25bKoiUybLw"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0297",
-        "name": "hong_lu_(project_moon)",
-        "proper_name": "Hong Lu",
-        "category": "character",
-        "encrypted_count": "fFNjbA==",
-        "copyright": "Project Moon",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
-      },
-      "tag2": {
-        "id": "t0001",
-        "name": "touhou",
-        "proper_name": "Touhou",
-        "category": "copyright",
-        "encrypted_count": "d1VjbkQH",
+        "encrypted_count": "fFJmbw==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0715/4f2d148d417cc5876bdfd62734c716c2c82c5017d413df3a.png"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/6/6e/JoonYorigami1.2.png/revision/latest?cb=20230430211416"
       }
     },
     {
       "tag1": {
-        "id": "t0890",
-        "name": "kuchiki_rukia",
-        "proper_name": "Kuchiki Rukia",
+        "id": "t0164",
+        "name": "elysia_(miss_pink_elf)_(honkai_impact)",
+        "proper_name": "Elysia (Miss Pink Elf)",
         "category": "character",
-        "encrypted_count": "elFhbg==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bleach/images/b/b2/Kuchiki_Rukia.png/revision/latest?cb=20210626172949&path-prefix=pt"
-      },
-      "tag2": {
-        "id": "t0284",
-        "name": "yes!_precure_5",
-        "proper_name": "Yes! Precure 5",
-        "category": "copyright",
-        "encrypted_count": "fVFubQ==",
-        "copyright": "Yes! Precure 5",
-        "material": "Anime",
-        "image_reference": "https://static.wikitide.net/precurewikiwiki/e/ef/Yesfiveenglogo.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0129",
-        "name": "i-58_(kancolle)",
-        "proper_name": "I-58",
-        "category": "character",
-        "encrypted_count": "fF1gaw==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fFNvaQ==",
+        "copyright": "Honkai Impact",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/9/96/Ship_Card_I-58.png/218px-Ship_Card_I-58.png"
+        "image_reference": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4c/Elf_Elysia.png/revision/latest?cb=20220916070416"
       },
       "tag2": {
-        "id": "t0187",
-        "name": "pokemon_journeys",
-        "proper_name": "Pok\u00e9mon Journeys",
-        "category": "copyright",
-        "encrypted_count": "elFkaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
+        "id": "t0764",
+        "name": "karyl_(princess_connect!)",
+        "proper_name": "Karyl",
+        "category": "character",
+        "encrypted_count": "elNiYw==",
+        "copyright": "Princess Connect!",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/a/a7/Kyaru_(game).png/revision/latest?cb=20180219103448"
       }
     },
     {
       "tag1": {
-        "id": "t0451",
-        "name": "albedo_(genshin_impact)",
-        "proper_name": "Albedo",
+        "id": "t0885",
+        "name": "male_rover_(wuthering_waves)",
+        "proper_name": "Male Rover",
         "category": "character",
-        "encrypted_count": "fFBlaw==",
+        "encrypted_count": "fFVvbg==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Rover.(Male).full.3938446.png"
+      },
+      "tag2": {
+        "id": "t0936",
+        "name": "kiana_kaslana",
+        "proper_name": "Kiana Kaslana",
+        "category": "character",
+        "encrypted_count": "e11nbQ==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://w0.peakpx.com/wallpaper/700/671/HD-wallpaper-kiana-kaslana-anime-honkai-impact-3rd.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0713",
+        "name": "shiranui_flare",
+        "proper_name": "Shiranui Flare",
+        "category": "character",
+        "encrypted_count": "elBhag==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://product-images.tcgplayer.com/267097.jpg"
+      },
+      "tag2": {
+        "id": "t0135",
+        "name": "juliana_(pokemon)",
+        "proper_name": "Juliana",
+        "category": "character",
+        "encrypted_count": "fVBhag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Juliana_concept_art.jpg/680px-Juliana_concept_art.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0024",
+        "name": "girls'_frontline",
+        "proper_name": "Girls' Frontline",
+        "category": "copyright",
+        "encrypted_count": "e1xnbEc=",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://cdn2.steamgriddb.com/logo/81594380e009d61a67688e4805265058.png"
+      },
+      "tag2": {
+        "id": "t0482",
+        "name": "sakura_kyoko_(magical_girl)",
+        "proper_name": "Sakura Kyoko",
+        "category": "character",
+        "encrypted_count": "eFRhYw==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/madoka/images/2/24/Kyoko_Sakura_Profile.png/revision/latest?cb=20200520131323"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0746",
+        "name": "yelan_(genshin_impact)",
+        "proper_name": "Yelan",
+        "category": "character",
+        "encrypted_count": "elJhYw==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest?cb=20210302092013"
+        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
       },
       "tag2": {
-        "id": "t0718",
-        "name": "kirishima_(kancolle)",
-        "proper_name": "Kirishima",
+        "id": "t0742",
+        "name": "exusiai_(arknights)",
+        "proper_name": "Exusiai",
         "category": "character",
-        "encrypted_count": "fVJvbw==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "elBiaA==",
+        "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Kirishima.(Kantai.Collection).full.1906714.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/24/Exusiai.png/revision/latest?cb=20190623025141"
       }
     },
     {
       "tag1": {
-        "id": "t0602",
-        "name": "akashi_(kancolle)",
-        "proper_name": "Akashi",
+        "id": "t0512",
+        "name": "archer_(fate)",
+        "proper_name": "Archer",
         "category": "character",
-        "encrypted_count": "elBgaQ==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "eFRjaQ==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/1f/Akashi.png/revision/latest?cb=20150930175545&path-prefix=protagonist"
+        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
       },
       "tag2": {
-        "id": "t0346",
-        "name": "sumino_takumi",
-        "proper_name": "Sumino Takumi",
+        "id": "t0322",
+        "name": "cookie_run:_kingdom",
+        "proper_name": "Cookie Run: Kingdom",
+        "category": "copyright",
+        "encrypted_count": "fFNiaQ==",
+        "copyright": "Cookie Run: Kingdom",
+        "material": "Video Game",
+        "image_reference": "https://videogamedatabank.com/application/files/1516/1212/6345/cookie_run_kingdom_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0508",
+        "name": "kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~",
+        "proper_name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "category": "copyright",
+        "encrypted_count": "dlJkaA==",
+        "copyright": "Kaguya-sama wa Kokurasetai",
+        "material": "Manga"
+      },
+      "tag2": {
+        "id": "t0168",
+        "name": "castorice_(honkai:_star_rail)",
+        "proper_name": "Castorice",
         "category": "character",
-        "encrypted_count": "fVxjbQ==",
-        "copyright": "KonoSuba: God's Blessing on This Wonderful World!",
-        "material": "Light Novel",
-        "image_reference": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw2bb73cab/rightstuf/9781975371135_manga-konosuba-gods-blessing-on-this-wonderful-world-fantastic-days-novel-primary.jpg"
+        "encrypted_count": "fF1ubg==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
       }
     }
   ]
