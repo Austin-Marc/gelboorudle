@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-18T05:21:27.314587+00:00
-// Date: 2026-03-18
+// Generated on: 2026-03-19T05:18:59.329262+00:00
+// Date: 2026-03-19
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0588",
-        "name": "sendai_(kancolle)",
-        "proper_name": "Sendai",
+        "id": "t0924",
+        "name": "sekibanki",
+        "proper_name": "Sekibanki",
         "category": "character",
-        "encrypted_count": "elxnaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/11498-20131651.png"
-      },
-      "tag2": {
-        "id": "t0295",
-        "name": "nikki_(nikki)",
-        "proper_name": "Nikki",
-        "category": "character",
-        "encrypted_count": "fFJmaQ==",
-        "copyright": "Nikki",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/heroe/images/1/14/Nikki_SN_sprite39.png/revision/latest?cb=20220723070732&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0884",
-        "name": "shinku",
-        "proper_name": "Shinku",
-        "category": "character",
-        "encrypted_count": "fFFuYg==",
-        "copyright": "Rozen Maiden",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/b/bb/Artwork_Shinku_2013.png/revision/latest?cb=20140901224243&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0807",
-        "name": "belfast_(azur_lane)",
-        "proper_name": "Belfast",
-        "category": "character",
-        "encrypted_count": "elJjbA==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/8/86/Belfast.png/revision/latest?cb=20190519143402"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0704",
-        "name": "raiden_mei",
-        "proper_name": "Raiden Mei",
-        "category": "character",
-        "encrypted_count": "elFmbg==",
-        "copyright": "Honkai Impact 3rd",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/honkaiimpact3_gamepedia_en/c/c6/Crimson_Impulse.png"
-      },
-      "tag2": {
-        "id": "t0799",
-        "name": "yuki_miku",
-        "proper_name": "Yuki Miku",
-        "category": "character",
-        "encrypted_count": "elRvaw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://cdn.donmai.us/original/54/a6/54a61785c7441a153935164eacef5845.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0545",
-        "name": "pripara",
-        "proper_name": "Pripara",
-        "category": "copyright",
-        "encrypted_count": "eFZgbw==",
-        "copyright": "Pripara",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pripara/images/b/b9/Pripara_logo.png/revision/latest/scale-to-width-down/180?cb=20190729130335"
-      },
-      "tag2": {
-        "id": "t0404",
-        "name": "higashiyama_kobeni",
-        "proper_name": "Higashiyama Kobeni",
-        "category": "character",
-        "encrypted_count": "fVZlbQ==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0063",
-        "name": "diluc_(genshin_impact)",
-        "proper_name": "Diluc",
-        "category": "character",
-        "encrypted_count": "fVBhag==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
-      },
-      "tag2": {
-        "id": "t0795",
-        "name": "sanji_(one_piece)",
-        "proper_name": "Sanji",
-        "category": "character",
-        "encrypted_count": "eFJibw==",
-        "copyright": "One Piece",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0009",
-        "name": "idolmaster",
-        "proper_name": "The Idolmaster",
-        "category": "copyright",
-        "encrypted_count": "fFNhakEB",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-      },
-      "tag2": {
-        "id": "t0158",
-        "name": "amber_(genshin_impact)",
-        "proper_name": "Amber",
-        "category": "character",
-        "encrypted_count": "fVJmYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest?cb=20220725204839"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0817",
-        "name": "female_corrin_(fire_emblem)",
-        "proper_name": "Female Corrin",
-        "category": "character",
-        "encrypted_count": "el1jYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/fireemblem/images/a/aa/Female_Corrin_Heroes.png/revision/latest?cb=20170210061649"
-      },
-      "tag2": {
-        "id": "t0025",
-        "name": "girls_und_panzer",
-        "proper_name": "Girls und Panzer",
-        "category": "copyright",
-        "encrypted_count": "eVFuY0g=",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/f0/Girls_und_Panzer_TV_key_visual.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0165",
-        "name": "z1_leberecht_maass_(kancolle)",
-        "proper_name": "Z1 Leberecht Maass",
-        "category": "character",
-        "encrypted_count": "fVRhbA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
-      },
-      "tag2": {
-        "id": "t0080",
-        "name": "baldur's_gate",
-        "proper_name": "Baldur's Gate",
-        "category": "copyright",
-        "encrypted_count": "fVdgbQ==",
-        "copyright": "Baldur's Gate",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/forgottenrealms/images/1/1a/BG3_logo_1.png/revision/latest/scale-to-width-down/1200?cb=20200910182711"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0911",
-        "name": "morrigan_aensland",
-        "proper_name": "Morrigan Aensland",
-        "category": "character",
-        "encrypted_count": "f1RnbEU=",
-        "copyright": "Darkstalkers",
-        "material": "Video Game",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/morrigan_90.png"
-      },
-      "tag2": {
-        "id": "t0323",
-        "name": "working!!",
-        "proper_name": "Working!!",
-        "category": "copyright",
-        "encrypted_count": "fVFkaQ==",
-        "copyright": "Working!!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0500",
-        "name": "kasodani_kyouko",
-        "proper_name": "Kasodani Kyouko",
-        "category": "character",
-        "encrypted_count": "e1NnbA==",
+        "encrypted_count": "e1VnaQ==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/original/12/27/__kasodani_kyouko_touhou_drawn_by_dairi__1227d63d9dffa3f9e8e6fb34b063a87b.png?download=1"
+        "image_reference": "https://pm1.narvii.com/6311/c6cb10792666b2ecfe7dd4dd89af05525c231005_hq.jpg"
       },
       "tag2": {
-        "id": "t0581",
-        "name": "asuna_(sao)",
-        "proper_name": "Asuna",
+        "id": "t0399",
+        "name": "saki_(blue_archive)",
+        "proper_name": "Saki",
         "category": "character",
-        "encrypted_count": "eVRnYw==",
+        "encrypted_count": "fFFlbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0708",
+        "name": "atelier_ryza",
+        "proper_name": "Atelier Ryza",
+        "category": "copyright",
+        "encrypted_count": "e1NkaQ==",
+        "copyright": "Atelier",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/0/01/A21_Logo_English.jpg/revision/latest/scale-to-width-down/2000?cb=20190627170224"
+      },
+      "tag2": {
+        "id": "t0175",
+        "name": "koseki_bijou",
+        "proper_name": "Koseki Bijou",
+        "category": "character",
+        "encrypted_count": "fVViag==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/9/9f/Koseki_Bijou_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0507",
+        "name": "watanabe_you",
+        "proper_name": "Watanabe You",
+        "category": "character",
+        "encrypted_count": "d1FnaQ==",
+        "copyright": "Love Live! Sunshine!!",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Watanabe.You.full.2918010.png"
+      },
+      "tag2": {
+        "id": "t0528",
+        "name": "splatoon_2",
+        "proper_name": "Splatoon 2",
+        "category": "copyright",
+        "encrypted_count": "eVxjaA==",
+        "copyright": "Splatoon 2",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/Splatoon_2_Splatoon_Base_Logo.png/800px-Splatoon_2_Splatoon_Base_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0900",
+        "name": "female_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Female)",
+        "category": "character",
+        "encrypted_count": "eVdmbQ==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
+      },
+      "tag2": {
+        "id": "t0008",
+        "name": "genshin_impact",
+        "proper_name": "Genshin Impact",
+        "category": "copyright",
+        "encrypted_count": "fFNla0gA",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2602/30935168a0f21b6710dc2bd7bb37c23ed937fb9fa747d84c.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0421",
+        "name": "hidamari_sketch",
+        "proper_name": "Hidamari Sketch",
+        "category": "copyright",
+        "encrypted_count": "fVFhaA==",
+        "copyright": "Hidamari Sketch",
+        "material": "Anime",
+        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
+      },
+      "tag2": {
+        "id": "t0393",
+        "name": "tamamo_cross_(umamusume)",
+        "proper_name": "Tamamo Cross",
+        "category": "character",
+        "encrypted_count": "fFVvbw==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Tamamo.Cross.full.3657591.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0525",
+        "name": "darling_in_the_franxx",
+        "proper_name": "Darling in the Franxx",
+        "category": "copyright",
+        "encrypted_count": "eV1iYw==",
+        "copyright": "Darling in the Franxx",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/fr/8/85/Darling_in_the_Franxx_Logo.png"
+      },
+      "tag2": {
+        "id": "t0195",
+        "name": "reizei_mako",
+        "proper_name": "Reizei Mako",
+        "category": "character",
+        "encrypted_count": "fF1kYw==",
+        "copyright": "Kantai Collection",
+        "material": "Anime",
+        "image_reference": "https://img10.reactor.cc/pics/post/full/Girls-und-Panzer-Anime-reizei-mako-sazanka-4507628.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0688",
+        "name": "formidable_(azur_lane)",
+        "proper_name": "Formidable",
+        "category": "character",
+        "encrypted_count": "el1hbA==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/6/69/Formidable.png"
+      },
+      "tag2": {
+        "id": "t0397",
+        "name": "lyrica_prismriver",
+        "proper_name": "Lyrica Prismriver",
+        "category": "character",
+        "encrypted_count": "fFdubw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0762",
+        "name": "arcueid_brunestud",
+        "proper_name": "Arcueid Brunestud",
+        "category": "character",
+        "encrypted_count": "elFkbQ==",
+        "copyright": "Tsukihime",
+        "material": "Visual Novel",
+        "image_reference": "https://static.zerochan.net/Arcueid.Brunestud.full.3556278.jpg"
+      },
+      "tag2": {
+        "id": "t0391",
+        "name": "yahagi_(kancolle)",
+        "proper_name": "Yahagi",
+        "category": "character",
+        "encrypted_count": "fFFvag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Yahagi.(Kantai.Collection).full.4307028.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0573",
+        "name": "nilou_(genshin_impact)",
+        "proper_name": "Nilou",
+        "category": "character",
+        "encrypted_count": "e1FgaA==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859"
+      },
+      "tag2": {
+        "id": "t0822",
+        "name": "gundam_build_fighters",
+        "proper_name": "Gundam Build Fighters",
+        "category": "copyright",
+        "encrypted_count": "eVdlaw==",
+        "copyright": "Gundam",
+        "material": "Anime",
+        "image_reference": "https://en.gundam.info/series/buildfighters/wp-content/themes/series/images/buildfighters/logo_en.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0816",
+        "name": "robin_(honkai:_star_rail)",
+        "proper_name": "Robin",
+        "category": "character",
+        "encrypted_count": "fV1naQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Character_Robin_Introduction.png/revision/latest?cb=20240312040444"
+      },
+      "tag2": {
+        "id": "t0126",
+        "name": "kirito",
+        "proper_name": "Kirito",
+        "category": "character",
+        "encrypted_count": "fVJjbw==",
         "copyright": "Sword Art Online",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Kirito_Sword_Art_Online.png"
       }
     }
   ]
