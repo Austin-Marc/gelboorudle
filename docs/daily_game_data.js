@@ -1,230 +1,225 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-20T05:11:56.237598+00:00
-// Date: 2026-03-20
+// Generated on: 2026-03-21T05:02:26.771115+00:00
+// Date: 2026-03-21
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-20",
+  "date": "2026-03-21",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0841",
-        "name": "natsuiro_matsuri",
-        "proper_name": "Natsuiro Matsuri",
+        "id": "t0724",
+        "name": "kishin_sagume",
+        "proper_name": "Kishin Sagume",
         "category": "character",
-        "encrypted_count": "elVhbQ==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/bg_Natsuiro-Matsuri_01.png"
-      },
-      "tag2": {
-        "id": "t0847",
-        "name": "emilia_(re:zero)",
-        "proper_name": "Emilia",
-        "category": "character",
-        "encrypted_count": "e1RibQ==",
-        "copyright": "Re:Zero - Starting Life in Another World",
-        "material": "Light Novel",
-        "image_reference": "https://rare-gallery.com/mocahbig/1347718-Emilia-ReZEROReZERO-Starting-Life-In-Another-World-.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0204",
-        "name": "sheryl_nome",
-        "proper_name": "Sheryl Nome",
-        "category": "character",
-        "encrypted_count": "fVBvaA==",
-        "copyright": "Macross",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/macross/images/e/e1/Sheryl_Nome.jpg/revision/latest?cb=20090430231804&path-prefix=de"
-      },
-      "tag2": {
-        "id": "t0876",
-        "name": "infinity_nikki",
-        "proper_name": "Infinity Nikki",
-        "category": "copyright",
-        "encrypted_count": "fFdgag==",
-        "copyright": "Infinity Nikki",
-        "material": "Video Game",
-        "image_reference": "https://infinitynikki.wiki/assets/logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
-        "category": "character",
-        "encrypted_count": "fFdubw==",
+        "encrypted_count": "elZkbg==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5a/TH15Sagume.png/revision/latest?cb=20150908222725"
       },
       "tag2": {
-        "id": "t0327",
-        "name": "bleach:_sennen_kessen-hen",
-        "proper_name": "Bleach: Thousand-Year Blood War",
-        "category": "copyright",
-        "encrypted_count": "elNmag==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://latestlogo.com/wp-content/uploads/2024/01/bleach-thousand-year-blood-war-logo.png"
+        "id": "t0247",
+        "name": "laios_touden",
+        "proper_name": "Laios Touden",
+        "category": "character",
+        "encrypted_count": "fFNmbw==",
+        "image_reference": "https://static.wikitide.net/thefinalrumblewiki/8/82/Laius_Thorden.png"
       }
     },
     {
       "tag1": {
-        "id": "t0822",
-        "name": "gundam_build_fighters",
-        "proper_name": "Gundam Build Fighters",
-        "category": "copyright",
-        "encrypted_count": "eVdlaw==",
-        "copyright": "Gundam",
-        "material": "Anime",
-        "image_reference": "https://en.gundam.info/series/buildfighters/wp-content/themes/series/images/buildfighters/logo_en.png"
-      },
-      "tag2": {
-        "id": "t0631",
-        "name": "dark_souls_(series)",
-        "proper_name": "Dark Souls Series",
-        "category": "copyright",
-        "encrypted_count": "eFVlYg==",
-        "copyright": "Dark Souls Series",
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
+        "category": "character",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dark_Souls_Cover_Art.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0867",
-        "name": "twilight_(spy_x_family)",
-        "proper_name": "Twilight",
-        "category": "character",
-        "encrypted_count": "fVxhaw==",
-        "copyright": "Spy x Family",
-        "material": "Manga",
-        "image_reference": "https://wallpapercave.com/wp/wp11980407.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
       },
       "tag2": {
-        "id": "t0287",
-        "name": "satsuki_(kancolle)",
-        "proper_name": "Satsuki",
+        "id": "t0532",
+        "name": "mutsu_(kancolle)",
+        "proper_name": "Mutsu",
         "category": "character",
-        "encrypted_count": "fFJgaQ==",
+        "encrypted_count": "e1BjYw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
+        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2018/01/74b7b170-f222-400e-942d-3a40dc073a2b.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0447",
-        "name": "toshinou_kyouko",
-        "proper_name": "Toshinou Kyouko",
+        "id": "t0194",
+        "name": "warspite_(kancolle)",
+        "proper_name": "Warspite",
         "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "YuruYuri",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
-      },
-      "tag2": {
-        "id": "t0763",
-        "name": "yuubari_(kancolle)",
-        "proper_name": "Yuubari",
-        "category": "character",
-        "encrypted_count": "fV1kaQ==",
+        "encrypted_count": "fFNuag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yuubari.(Kantai.Collection).full.2131376.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0906",
-        "name": "aru_(blue_archive)",
-        "proper_name": "Aru",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/3b/Ship_Card_Warspite.png/218px-Ship_Card_Warspite.png"
+      },
+      "tag2": {
+        "id": "t0042",
+        "name": "shiroko_terror_(blue_archive)",
+        "proper_name": "Shiroko Terror",
         "category": "character",
-        "encrypted_count": "eFZvYg==",
+        "encrypted_count": "fVdvbg==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Aru_Portrait.png/revision/latest?cb=20220420065116"
+        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0613",
+        "name": "the_hundred_line_-last_defense_academy-",
+        "proper_name": "The Hundred Line -Last Defense Academy-",
+        "category": "copyright",
+        "encrypted_count": "dlZgbw==",
+        "copyright": "The Hundred Line -Last Defense Academy-",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
       },
       "tag2": {
-        "id": "t0582",
-        "name": "takao_(kancolle)",
-        "proper_name": "Takao",
+        "id": "t0871",
+        "name": "senpai_ga_uzai_kouhai_no_hanashi",
+        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
+        "category": "copyright",
+        "encrypted_count": "f1FuaQ==",
+        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0178",
+        "name": "tsukishiro_yanagi",
+        "proper_name": "Tsukishiro Yanagi",
         "category": "character",
-        "encrypted_count": "e1Fuag==",
+        "encrypted_count": "fFxubg==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
+      },
+      "tag2": {
+        "id": "t0400",
+        "name": "aigis_(persona)",
+        "proper_name": "Aigis",
+        "category": "character",
+        "encrypted_count": "fF1hYg==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0154",
+        "name": "stellive",
+        "proper_name": "Stellive",
+        "category": "copyright",
+        "encrypted_count": "fVZhbA==",
+        "copyright": "Stellive",
+        "material": "Video Game",
+        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+      },
+      "tag2": {
+        "id": "t0240",
+        "name": "fennec_(kemono_friends)",
+        "proper_name": "Fennec",
+        "category": "character",
+        "encrypted_count": "fFNnaQ==",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://www.japari-library.com/images/8/8b/Fennec_FoxOriginal.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0082",
+        "name": "samurai_spirits",
+        "proper_name": "Samurai Spirits",
+        "category": "copyright",
+        "encrypted_count": "f1ZjaUQ=",
+        "copyright": "Samurai Spirits",
+        "material": "Video Game",
+        "image_reference": "https://www.snk-corp.co.jp/us/games/samuraishodown/img/characters/chara_01.png"
+      },
+      "tag2": {
+        "id": "t0573",
+        "name": "nilou_(genshin_impact)",
+        "proper_name": "Nilou",
+        "category": "character",
+        "encrypted_count": "e1FgaA==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0390",
+        "name": "takane_lui",
+        "proper_name": "Takane Lui",
+        "category": "character",
+        "encrypted_count": "fFNnbA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/Takane_Lui_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20211202201955"
+      },
+      "tag2": {
+        "id": "t0507",
+        "name": "watanabe_you",
+        "proper_name": "Watanabe You",
+        "category": "character",
+        "encrypted_count": "d1FnaQ==",
+        "copyright": "Love Live! Sunshine!!",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Watanabe.You.full.2918010.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0556",
+        "name": "wakaba_mutsumi",
+        "proper_name": "Wakaba Mutsumi",
+        "category": "character",
+        "encrypted_count": "e1Vgag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/f/ff/Takao_Full.png/revision/latest?cb=20210612202442"
+        "image_reference": "https://anibase.net/files/2fe43d80636dfb7d1e4d535c174a7b68"
+      },
+      "tag2": {
+        "id": "t0393",
+        "name": "tamamo_cross_(umamusume)",
+        "proper_name": "Tamamo Cross",
+        "category": "character",
+        "encrypted_count": "fFVvbw==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Tamamo.Cross.full.3657591.png"
       }
     },
     {
       "tag1": {
-        "id": "t0487",
-        "name": "kemono_friends_3",
-        "proper_name": "Kemono Friends 3",
-        "category": "copyright",
-        "encrypted_count": "eFFvaw==",
-        "copyright": "Kemono Friends",
-        "material": "Video Game",
-        "image_reference": "https://www.japari-library.com/images/b/bb/Kemono_Friends_3_Logo.png"
+        "id": "t0866",
+        "name": "bowsette",
+        "proper_name": "Bowsette",
+        "category": "character",
+        "encrypted_count": "e1dgag==",
+        "image_reference": "https://static.wikia.nocookie.net/mariofanon/images/6/68/Bowsette_.png/revision/latest?cb=20241228024714"
       },
       "tag2": {
-        "id": "t0790",
-        "name": "takarada_rikka",
-        "proper_name": "Takarada Rikka",
+        "id": "t0311",
+        "name": "makaino_ririmu",
+        "proper_name": "Makaino Ririmu",
         "category": "character",
-        "encrypted_count": "e1Jgbw==",
-        "copyright": "SSSS.Gridman",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0796",
-        "name": "misty_(pokemon)",
-        "proper_name": "Misty",
-        "category": "character",
-        "encrypted_count": "f1duakc=",
-        "copyright": "Pokemon",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png"
-      },
-      "tag2": {
-        "id": "t0669",
-        "name": "guilty_gear_xrd",
-        "proper_name": "Guilty Gear Xrd",
-        "category": "copyright",
-        "encrypted_count": "eFRhaQ==",
-        "copyright": "Guilty Gear",
-        "material": "Video Game",
-        "image_reference": "https://guiltygear.wiki.gg/images/b/b0/Guilty-Gear-Xrd-Sign-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0060",
-        "name": "march_7th_(preservation)_(honkai:_star_rail)",
-        "proper_name": "March 7th (Preservation)",
-        "category": "character",
-        "encrypted_count": "fVRkbQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Character_March_7th_%28Preservation%29_Splash_Art.png/revision/latest/scale-to-width/360?cb=20230525090156"
-      },
-      "tag2": {
-        "id": "t0698",
-        "name": "selene_(pokemon)",
-        "proper_name": "Selene",
-        "category": "character",
-        "encrypted_count": "e1JkaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/2/2a/Ultra_Sun_Ultra_Moon_Selene.png"
+        "encrypted_count": "fFxjaA==",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
       }
     }
   ]
