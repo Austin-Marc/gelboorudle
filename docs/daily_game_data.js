@@ -1,129 +1,66 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-21T05:02:26.771115+00:00
-// Date: 2026-03-21
+// Generated on: 2026-03-22T05:15:27.157176+00:00
+// Date: 2026-03-22
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0724",
-        "name": "kishin_sagume",
-        "proper_name": "Kishin Sagume",
+        "id": "t0048",
+        "name": "rosalina",
+        "proper_name": "Rosalina",
         "category": "character",
-        "encrypted_count": "elZkbg==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "eFBubA==",
+        "copyright": "Super Mario",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5a/TH15Sagume.png/revision/latest?cb=20150908222725"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rosalina_by_Shigehisa_Nakaue.png/250px-Rosalina_by_Shigehisa_Nakaue.png"
       },
       "tag2": {
-        "id": "t0247",
-        "name": "laios_touden",
-        "proper_name": "Laios Touden",
+        "id": "t0829",
+        "name": "jougasaki_mika",
+        "proper_name": "Jougasaki Mika",
         "category": "character",
-        "encrypted_count": "fFNmbw==",
-        "image_reference": "https://static.wikitide.net/thefinalrumblewiki/8/82/Laius_Thorden.png"
+        "encrypted_count": "elZjbg==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/d/dd/R_Rare_Mika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107024950"
       }
     },
     {
       "tag1": {
-        "id": "t0095",
-        "name": "inkling_boy",
-        "proper_name": "Inkling Boy",
+        "id": "t0034",
+        "name": "florence_nightingale_(fate)",
+        "proper_name": "Florence Nightingale",
         "category": "character",
-        "encrypted_count": "fVJvaQ==",
-        "copyright": "Splatoon",
+        "encrypted_count": "elZmYg==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/51/BerserkerFloranceStage3.png/revision/latest?cb=20170217232053"
       },
       "tag2": {
-        "id": "t0532",
-        "name": "mutsu_(kancolle)",
-        "proper_name": "Mutsu",
+        "id": "t0129",
+        "name": "i-58_(kancolle)",
+        "proper_name": "I-58",
         "category": "character",
-        "encrypted_count": "e1BjYw==",
+        "encrypted_count": "fF1gaw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2018/01/74b7b170-f222-400e-942d-3a40dc073a2b.jpg"
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/9/96/Ship_Card_I-58.png/218px-Ship_Card_I-58.png"
       }
     },
     {
       "tag1": {
-        "id": "t0194",
-        "name": "warspite_(kancolle)",
-        "proper_name": "Warspite",
+        "id": "t0445",
+        "name": "female_robin_(fire_emblem)",
+        "proper_name": "Female Robin",
         "category": "character",
-        "encrypted_count": "fFNuag==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fVZjaw==",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/3b/Ship_Card_Warspite.png/218px-Ship_Card_Warspite.png"
-      },
-      "tag2": {
-        "id": "t0042",
-        "name": "shiroko_terror_(blue_archive)",
-        "proper_name": "Shiroko Terror",
-        "category": "character",
-        "encrypted_count": "fVdvbg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0613",
-        "name": "the_hundred_line_-last_defense_academy-",
-        "proper_name": "The Hundred Line -Last Defense Academy-",
-        "category": "copyright",
-        "encrypted_count": "dlZgbw==",
-        "copyright": "The Hundred Line -Last Defense Academy-",
-        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
-      },
-      "tag2": {
-        "id": "t0871",
-        "name": "senpai_ga_uzai_kouhai_no_hanashi",
-        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
-        "category": "copyright",
-        "encrypted_count": "f1FuaQ==",
-        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
-        "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0178",
-        "name": "tsukishiro_yanagi",
-        "proper_name": "Tsukishiro Yanagi",
-        "category": "character",
-        "encrypted_count": "fFxubg==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
-      },
-      "tag2": {
-        "id": "t0400",
-        "name": "aigis_(persona)",
-        "proper_name": "Aigis",
-        "category": "character",
-        "encrypted_count": "fF1hYg==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0154",
-        "name": "stellive",
-        "proper_name": "Stellive",
-        "category": "copyright",
-        "encrypted_count": "fVZhbA==",
-        "copyright": "Stellive",
-        "material": "Video Game",
-        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+        "image_reference": "https://gamepedia.cursecdn.com/fewarriors_gamepedia_en/1/16/Robin_(Female)_Artwork.png"
       },
       "tag2": {
         "id": "t0240",
@@ -138,88 +75,152 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0082",
-        "name": "samurai_spirits",
-        "proper_name": "Samurai Spirits",
+        "id": "t0344",
+        "name": "emiya_kiritsugu",
+        "proper_name": "Emiya Kiritsugu",
+        "category": "character",
+        "encrypted_count": "fFJibw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0729",
+        "name": "dungeon_and_fighter",
+        "proper_name": "Dungeon and Fighter",
         "category": "copyright",
-        "encrypted_count": "f1ZjaUQ=",
-        "copyright": "Samurai Spirits",
+        "encrypted_count": "e1NnaA==",
+        "copyright": "Dungeon and Fighter",
         "material": "Video Game",
-        "image_reference": "https://www.snk-corp.co.jp/us/games/samuraishodown/img/characters/chara_01.png"
-      },
-      "tag2": {
-        "id": "t0573",
-        "name": "nilou_(genshin_impact)",
-        "proper_name": "Nilou",
-        "category": "character",
-        "encrypted_count": "e1FgaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/32/Dfo_new_logo.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0390",
-        "name": "takane_lui",
-        "proper_name": "Takane Lui",
+        "id": "t0800",
+        "name": "amate_yuzuriha",
+        "proper_name": "Amate Yuzuriha",
         "category": "character",
-        "encrypted_count": "fFNnbA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/Takane_Lui_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20211202201955"
+        "encrypted_count": "elZvbQ==",
+        "copyright": "Unknown",
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
       },
       "tag2": {
-        "id": "t0507",
-        "name": "watanabe_you",
-        "proper_name": "Watanabe You",
+        "id": "t0945",
+        "name": "hololive_dev_is",
+        "proper_name": "HoloLive DEV_IS",
+        "category": "copyright",
+        "encrypted_count": "e11uaA==",
+        "copyright": "Hololive",
+        "image_reference": "https://kai-you.net/press/img/hololive-DEV_IS-TEASER-0-29-screenshot-1.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0206",
+        "name": "blue_oak",
+        "proper_name": "Blue Oak",
         "category": "character",
-        "encrypted_count": "d1FnaQ==",
-        "copyright": "Love Live! Sunshine!!",
+        "encrypted_count": "fF1nYg==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://comicvine.gamespot.com/a/uploads/square_medium/11/114183/5216642-243px-heartgold_soulsilver_blue.png"
+      },
+      "tag2": {
+        "id": "t0528",
+        "name": "splatoon_2",
+        "proper_name": "Splatoon 2",
+        "category": "copyright",
+        "encrypted_count": "eVxjaA==",
+        "copyright": "Splatoon 2",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/Splatoon_2_Splatoon_Base_Logo.png/800px-Splatoon_2_Splatoon_Base_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0086",
+        "name": "final_fantasy_vi",
+        "proper_name": "Final Fantasy VI",
+        "category": "copyright",
+        "encrypted_count": "elxkbw==",
+        "copyright": "Final Fantasy VI",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
+      },
+      "tag2": {
+        "id": "t0647",
+        "name": "marcille_donato",
+        "proper_name": "Marcille Donato",
+        "category": "character",
+        "encrypted_count": "e1Rmag==",
+        "copyright": "Dorohedoro",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0577",
+        "name": "mirko",
+        "proper_name": "Mirko",
+        "category": "character",
+        "encrypted_count": "dlZvaw==",
+        "copyright": "My Hero Academia",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Watanabe.You.full.2918010.png"
+        "image_reference": "https://anibase.net/files/700520fd441958ed48e83800b93815f7"
+      },
+      "tag2": {
+        "id": "t0035",
+        "name": "chouzetsusaikawa_tenshi-chan",
+        "proper_name": "Chouzetsusaikawa Tenshi-chan",
+        "category": "character",
+        "encrypted_count": "fVBnbQ==",
+        "image_reference": "https://static.wikia.nocookie.net/honkai-star-rail-fanon/images/9/99/KAngelSprite.png/revision/latest?cb=20241023001421"
       }
     },
     {
       "tag1": {
-        "id": "t0556",
-        "name": "wakaba_mutsumi",
-        "proper_name": "Wakaba Mutsumi",
-        "category": "character",
-        "encrypted_count": "e1Vgag==",
-        "copyright": "Kantai Collection",
+        "id": "t0806",
+        "name": "minecraft",
+        "proper_name": "Minecraft",
+        "category": "copyright",
+        "encrypted_count": "elRhbw==",
+        "copyright": "Minecraft",
         "material": "Video Game",
-        "image_reference": "https://anibase.net/files/2fe43d80636dfb7d1e4d535c174a7b68"
+        "image_reference": "https://www.symbols.com/images/symbol/1/2891_minecraft-wiki-logo.png"
       },
       "tag2": {
-        "id": "t0393",
-        "name": "tamamo_cross_(umamusume)",
-        "proper_name": "Tamamo Cross",
+        "id": "t0846",
+        "name": "kirigiri_kyoko",
+        "proper_name": "Kirigiri Kyoko",
         "category": "character",
-        "encrypted_count": "fFVvbw==",
-        "copyright": "Umamusume: Pretty Derby",
+        "encrypted_count": "elVgbg==",
+        "copyright": "Danganronpa",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Tamamo.Cross.full.3657591.png"
+        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
       }
     },
     {
       "tag1": {
-        "id": "t0866",
-        "name": "bowsette",
-        "proper_name": "Bowsette",
+        "id": "t0690",
+        "name": "miyu_(blue_archive)",
+        "proper_name": "Miyu",
         "category": "character",
-        "encrypted_count": "e1dgag==",
-        "image_reference": "https://static.wikia.nocookie.net/mariofanon/images/6/68/Bowsette_.png/revision/latest?cb=20241228024714"
+        "encrypted_count": "elNnaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Miyu_Portrait.png/revision/latest?cb=20220420084956"
       },
       "tag2": {
-        "id": "t0311",
-        "name": "makaino_ririmu",
-        "proper_name": "Makaino Ririmu",
+        "id": "t0892",
+        "name": "hero_(omori)",
+        "proper_name": "Hero",
         "category": "character",
-        "encrypted_count": "fFxjaA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
+        "encrypted_count": "fFZhbQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
       }
     }
   ]
