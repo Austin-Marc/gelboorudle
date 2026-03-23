@@ -1,226 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-22T05:15:27.157176+00:00
-// Date: 2026-03-22
+// Generated on: 2026-03-23T05:26:24.019303+00:00
+// Date: 2026-03-23
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0048",
-        "name": "rosalina",
-        "proper_name": "Rosalina",
+        "id": "t0605",
+        "name": "sunny_(omori)",
+        "proper_name": "Sunny",
         "category": "character",
-        "encrypted_count": "eFBubA==",
-        "copyright": "Super Mario",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rosalina_by_Shigehisa_Nakaue.png/250px-Rosalina_by_Shigehisa_Nakaue.png"
-      },
-      "tag2": {
-        "id": "t0829",
-        "name": "jougasaki_mika",
-        "proper_name": "Jougasaki Mika",
-        "category": "character",
-        "encrypted_count": "elZjbg==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/d/dd/R_Rare_Mika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107024950"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0034",
-        "name": "florence_nightingale_(fate)",
-        "proper_name": "Florence Nightingale",
-        "category": "character",
-        "encrypted_count": "elZmYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/51/BerserkerFloranceStage3.png/revision/latest?cb=20170217232053"
-      },
-      "tag2": {
-        "id": "t0129",
-        "name": "i-58_(kancolle)",
-        "proper_name": "I-58",
-        "category": "character",
-        "encrypted_count": "fF1gaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/9/96/Ship_Card_I-58.png/218px-Ship_Card_I-58.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0445",
-        "name": "female_robin_(fire_emblem)",
-        "proper_name": "Female Robin",
-        "category": "character",
-        "encrypted_count": "fVZjaw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/fewarriors_gamepedia_en/1/16/Robin_(Female)_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0240",
-        "name": "fennec_(kemono_friends)",
-        "proper_name": "Fennec",
-        "category": "character",
-        "encrypted_count": "fFNnaQ==",
-        "copyright": "Kemono Friends",
-        "material": "Anime",
-        "image_reference": "https://www.japari-library.com/images/8/8b/Fennec_FoxOriginal.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0344",
-        "name": "emiya_kiritsugu",
-        "proper_name": "Emiya Kiritsugu",
-        "category": "character",
-        "encrypted_count": "fFJibw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0729",
-        "name": "dungeon_and_fighter",
-        "proper_name": "Dungeon and Fighter",
-        "category": "copyright",
-        "encrypted_count": "e1NnaA==",
-        "copyright": "Dungeon and Fighter",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/32/Dfo_new_logo.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0800",
-        "name": "amate_yuzuriha",
-        "proper_name": "Amate Yuzuriha",
-        "category": "character",
-        "encrypted_count": "elZvbQ==",
-        "copyright": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
-      },
-      "tag2": {
-        "id": "t0945",
-        "name": "hololive_dev_is",
-        "proper_name": "HoloLive DEV_IS",
-        "category": "copyright",
-        "encrypted_count": "e11uaA==",
-        "copyright": "Hololive",
-        "image_reference": "https://kai-you.net/press/img/hololive-DEV_IS-TEASER-0-29-screenshot-1.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0206",
-        "name": "blue_oak",
-        "proper_name": "Blue Oak",
-        "category": "character",
-        "encrypted_count": "fF1nYg==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://comicvine.gamespot.com/a/uploads/square_medium/11/114183/5216642-243px-heartgold_soulsilver_blue.png"
-      },
-      "tag2": {
-        "id": "t0528",
-        "name": "splatoon_2",
-        "proper_name": "Splatoon 2",
-        "category": "copyright",
-        "encrypted_count": "eVxjaA==",
-        "copyright": "Splatoon 2",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/Splatoon_2_Splatoon_Base_Logo.png/800px-Splatoon_2_Splatoon_Base_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0086",
-        "name": "final_fantasy_vi",
-        "proper_name": "Final Fantasy VI",
-        "category": "copyright",
-        "encrypted_count": "elxkbw==",
-        "copyright": "Final Fantasy VI",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
-      },
-      "tag2": {
-        "id": "t0647",
-        "name": "marcille_donato",
-        "proper_name": "Marcille Donato",
-        "category": "character",
-        "encrypted_count": "e1Rmag==",
-        "copyright": "Dorohedoro",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0577",
-        "name": "mirko",
-        "proper_name": "Mirko",
-        "category": "character",
-        "encrypted_count": "dlZvaw==",
-        "copyright": "My Hero Academia",
-        "material": "Anime",
-        "image_reference": "https://anibase.net/files/700520fd441958ed48e83800b93815f7"
-      },
-      "tag2": {
-        "id": "t0035",
-        "name": "chouzetsusaikawa_tenshi-chan",
-        "proper_name": "Chouzetsusaikawa Tenshi-chan",
-        "category": "character",
-        "encrypted_count": "fVBnbQ==",
-        "image_reference": "https://static.wikia.nocookie.net/honkai-star-rail-fanon/images/9/99/KAngelSprite.png/revision/latest?cb=20241023001421"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0806",
-        "name": "minecraft",
-        "proper_name": "Minecraft",
-        "category": "copyright",
-        "encrypted_count": "elRhbw==",
-        "copyright": "Minecraft",
-        "material": "Video Game",
-        "image_reference": "https://www.symbols.com/images/symbol/1/2891_minecraft-wiki-logo.png"
-      },
-      "tag2": {
-        "id": "t0846",
-        "name": "kirigiri_kyoko",
-        "proper_name": "Kirigiri Kyoko",
-        "category": "character",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0690",
-        "name": "miyu_(blue_archive)",
-        "proper_name": "Miyu",
-        "category": "character",
-        "encrypted_count": "elNnaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Miyu_Portrait.png/revision/latest?cb=20220420084956"
-      },
-      "tag2": {
-        "id": "t0892",
-        "name": "hero_(omori)",
-        "proper_name": "Hero",
-        "category": "character",
-        "encrypted_count": "fFZhbQ==",
+        "encrypted_count": "e1RnaA==",
         "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/4/45/SUNNY_CUERPO_COMPLETO.png/revision/latest?cb=20240312190414&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0677",
+        "name": "meltryllis_(fate)",
+        "proper_name": "Meltryllis",
+        "category": "character",
+        "encrypted_count": "elxiaA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/e/e9/Meltryllis.png/revision/latest?cb=20121214101028"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0071",
+        "name": "nicole_demara",
+        "proper_name": "Nicole Demara",
+        "category": "character",
+        "encrypted_count": "fVJibQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
+      },
+      "tag2": {
+        "id": "t0405",
+        "name": "gran_(granblue_fantasy)",
+        "proper_name": "Gran",
+        "category": "character",
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Granblue Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/granblue/images/3/33/FighterM.png/revision/latest?cb=20210313172546"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0052",
+        "name": "zero_no_tsukaima",
+        "proper_name": "Zero no Tsukaima",
+        "category": "copyright",
+        "encrypted_count": "e1xnYg==",
+        "copyright": "Zero no Tsukaima",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/ZnT_novel01.png"
+      },
+      "tag2": {
+        "id": "t0550",
+        "name": "aikatsu!",
+        "proper_name": "Aikatsu!",
+        "category": "copyright",
+        "encrypted_count": "eFdlbg==",
+        "copyright": "Aikatsu!",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/Aikatsu222.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0323",
+        "name": "working!!",
+        "proper_name": "Working!!",
+        "category": "copyright",
+        "encrypted_count": "fVFkaQ==",
+        "copyright": "Working!!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
+      },
+      "tag2": {
+        "id": "t0761",
+        "name": "neru_(blue_archive)",
+        "proper_name": "Neru",
+        "category": "character",
+        "encrypted_count": "elBiaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/2/24/Neru.png?version=d1e9e4657c08a61cae484524da7a2082"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0202",
+        "name": "elizabeth_bathory_(fate)",
+        "proper_name": "Elizabeth Bathory",
+        "category": "character",
+        "encrypted_count": "fVZjaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/2/29/S018_Stage1.webp/revision/latest?cb=20220910082212"
+      },
+      "tag2": {
+        "id": "t0063",
+        "name": "diluc_(genshin_impact)",
+        "proper_name": "Diluc",
+        "category": "character",
+        "encrypted_count": "fVBhag==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0551",
+        "name": "stone_ocean",
+        "proper_name": "Stone Ocean",
+        "category": "copyright",
+        "encrypted_count": "fVZvbA==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/6/6b/latest/20210404125436/Stone_Ocean_Anime_Logo.png"
+      },
+      "tag2": {
+        "id": "t0937",
+        "name": "aki_minoriko",
+        "proper_name": "Aki Minoriko",
+        "category": "character",
+        "encrypted_count": "e1NkbA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/8/80/MinorikoMOF.png/revision/latest?cb=20091025132039"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0736",
+        "name": "sagisawa_fumika",
+        "proper_name": "Sagisawa Fumika",
+        "category": "character",
+        "encrypted_count": "elFhbw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/thumb/1/1d/Cinderella_master_031_cover.jpg/1200px-Cinderella_master_031_cover.jpg"
+      },
+      "tag2": {
+        "id": "t0576",
+        "name": "basil_(omori)",
+        "proper_name": "Basil",
+        "category": "character",
+        "encrypted_count": "e1ZkaQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/fc/DW_Basil_Fullbody_Profile.png/revision/latest?cb=20220909122311"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0900",
+        "name": "female_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Female)",
+        "category": "character",
+        "encrypted_count": "eVdmbQ==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
+      },
+      "tag2": {
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
+        "category": "copyright",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
+        "material": "Video Game",
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0357",
+        "name": "accelerator_(toaru_majutsu_no_index)",
+        "proper_name": "Accelerator",
+        "category": "character",
+        "encrypted_count": "fFBlag==",
+        "copyright": "Toaru Majutsu no Index",
+        "material": "Light Novel",
+        "image_reference": "https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/9/96/Accelerator_Novel.jpg/revision/latest?cb=20160121115001"
+      },
+      "tag2": {
+        "id": "t0645",
+        "name": "momose_ginko",
+        "proper_name": "Momose Ginko",
+        "category": "character",
+        "encrypted_count": "elRmbg==",
+        "copyright": "Project Sekai",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/f4/Ginko_Momose_2024.webp/revision/latest/scale-to-width-down/268?cb=20240520014334&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0443",
+        "name": "tsumiki_mikan",
+        "proper_name": "Tsumiki Mikan",
+        "category": "character",
+        "encrypted_count": "fFxiYw==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/736x/8d/d6/86/8dd686f3d14630bd560ec334b981be25.jpg"
+      },
+      "tag2": {
+        "id": "t0815",
+        "name": "hakui_koyori",
+        "proper_name": "Hakui Koyori",
+        "category": "character",
+        "encrypted_count": "elRhaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c2/Hakui_Koyori_Portrait.png/revision/latest?cb=20211203043838"
       }
     }
   ]
