@@ -1,212 +1,133 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-24T05:19:41.051338+00:00
-// Date: 2026-03-24
+// Generated on: 2026-03-25T05:19:37.014157+00:00
+// Date: 2026-03-25
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0819",
-        "name": "kujo_jolyne",
-        "proper_name": "Kujo Jolyne",
+        "id": "t0895",
+        "name": "diarmuid_ua_duibhne_(fate)",
+        "proper_name": "Diarmuid Ua Duibhne",
         "category": "character",
-        "encrypted_count": "f1Njag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/7/74/latest/20210409215727/Jolyne_ASB.png/800px-Jolyne_ASB.png"
-      },
-      "tag2": {
-        "id": "t0850",
-        "name": "w_(arknights)",
-        "proper_name": "W",
-        "category": "character",
-        "encrypted_count": "fV1mbw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/25/W.png/revision/latest?cb=20200501132649"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0941",
-        "name": "minamoto_no_raikou_(fate)",
-        "proper_name": "Minamoto no Raikou",
-        "category": "character",
-        "encrypted_count": "eVNuYg==",
+        "encrypted_count": "fFBmaw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/full/Jjune-Anime-Artist-Anime-minamoto-no-raikou-(fategrand-order)-3857226.jpeg"
+        "image_reference": "https://static.wikia.nocookie.net/factvsfiction/images/2/28/Diarmuid.png/revision/latest?cb=20160116010006"
       },
       "tag2": {
-        "id": "t0171",
-        "name": "taihou_(kancolle)",
-        "proper_name": "Taihou",
+        "id": "t0031",
+        "name": "remilia_scarlet",
+        "proper_name": "Remilia Scarlet",
         "category": "character",
-        "encrypted_count": "fVRmaQ==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "el1ubUg=",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b1/Ship_Card_Taihou_Damaged.png"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/e/e7/Th105Remilia.png/revision/latest?cb=20241004093502"
       }
     },
     {
       "tag1": {
-        "id": "t0144",
-        "name": "kaburagi_t._kotetsu",
-        "proper_name": "Kaburagi T. Kotetsu",
+        "id": "t0703",
+        "name": "gojou_satoru",
+        "proper_name": "Gojou Satoru",
         "category": "character",
-        "encrypted_count": "fVdgbQ==",
-        "copyright": "Tiger & Bunny",
+        "encrypted_count": "e1VvYg==",
+        "copyright": "Jujutsu Kaisen",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/1/1b/KotetsuTiger.png"
+        "image_reference": "https://static.zerochan.net/Gojou.Satoru.full.3974287.jpg"
       },
       "tag2": {
-        "id": "t0796",
-        "name": "misty_(pokemon)",
-        "proper_name": "Misty",
+        "id": "t0244",
+        "name": "lana_(pokemon)",
+        "proper_name": "Lana",
         "category": "character",
-        "encrypted_count": "f1duakc=",
+        "encrypted_count": "e1Jkbw==",
         "copyright": "Pokemon",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png"
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
       }
     },
     {
       "tag1": {
-        "id": "t0689",
-        "name": "edelgard_von_hresvelg",
-        "proper_name": "Edelgard von Hresvelg",
+        "id": "t0504",
+        "name": "ooyodo_(kancolle)",
+        "proper_name": "Ooyodo",
         "category": "character",
-        "encrypted_count": "e1Fgbw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/09/Edelgard_Portr\u00e4t.png/revision/latest?cb=20201210092653&path-prefix=de"
-      },
-      "tag2": {
-        "id": "t0604",
-        "name": "okita_souji_(koha-ace)",
-        "proper_name": "Okita Souji",
-        "category": "character",
-        "encrypted_count": "e1NgbA==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/be/5c/4d/be5c4d182c79b9fa602ffa6537784489.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0811",
-        "name": "reisalin_stout",
-        "proper_name": "Reisalin Stout",
-        "category": "character",
-        "encrypted_count": "e1RvaA==",
-        "copyright": "Atelier Series",
-        "material": "Video Game",
-        "image_reference": "https://atelier.wiki.gg/images/thumb/5/5d/A25_Ryza_Master's_Right-Hand.png/600px-A25_Ryza_Master's_Right-Hand.png"
-      },
-      "tag2": {
-        "id": "t0467",
-        "name": "fou_(fate)",
-        "proper_name": "Fou",
-        "category": "character",
-        "encrypted_count": "fFdkaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0871",
-        "name": "senpai_ga_uzai_kouhai_no_hanashi",
-        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
-        "category": "copyright",
-        "encrypted_count": "f1FuaQ==",
-        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
-        "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
-      },
-      "tag2": {
-        "id": "t0107",
-        "name": "ayase_momo",
-        "proper_name": "Ayase Momo",
-        "category": "character",
-        "encrypted_count": "fV1maQ==",
+        "encrypted_count": "e1BnbQ==",
         "copyright": "Kantai Collection",
+        "material": "Video Game"
+      },
+      "tag2": {
+        "id": "t0600",
+        "name": "hecatia_lapislazuli",
+        "proper_name": "Hecatia Lapislazuli",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/7/78/Momo_Anime_Concept_Art.webp/revision/latest/scale-to-width-down/178?cb=20241024083841"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
       }
     },
     {
       "tag1": {
-        "id": "t0863",
-        "name": "kitasan_black_(umamusume)",
-        "proper_name": "Kitasan Black",
+        "id": "t0372",
+        "name": "glaceon",
+        "proper_name": "Glaceon",
         "category": "character",
-        "encrypted_count": "fVBjag==",
-        "copyright": "Umamusume",
+        "encrypted_count": "fV1iaA==",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/7/73/Kitasan_black_anime.png/revision/latest?cb=20210109020442"
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/Glaceon.png/revision/latest?cb=20170422064259"
       },
       "tag2": {
-        "id": "t0257",
-        "name": "senjougahara_hitagi",
-        "proper_name": "Senjougahara Hitagi",
+        "id": "t0540",
+        "name": "shishiro_botan",
+        "proper_name": "Shishiro Botan",
         "category": "character",
-        "encrypted_count": "fVZuaQ==",
-        "copyright": "Monogatari Series",
-        "material": "Anime",
-        "image_reference": "https://1.bp.blogspot.com/-Su1PAdKQzao/WHHpgH_v2QI/AAAAAAAABMg/wvAO-6iJMp0n84RNYlC1aye6wSBeH9vuwCEw/s1600/Hitagi_bake_designs.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0395",
-        "name": "enterprise_(azur_lane)",
-        "proper_name": "Enterprise",
-        "category": "character",
-        "encrypted_count": "fFJmbQ==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/4/40/Enterprise.png"
-      },
-      "tag2": {
-        "id": "t0060",
-        "name": "march_7th_(preservation)_(honkai:_star_rail)",
-        "proper_name": "March 7th (Preservation)",
-        "category": "character",
-        "encrypted_count": "fVRkbQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Character_March_7th_%28Preservation%29_Splash_Art.png/revision/latest/scale-to-width/360?cb=20230525090156"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0619",
-        "name": "saori_(blue_archive)",
-        "proper_name": "Saori",
-        "category": "character",
-        "encrypted_count": "e1VkbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait/10048.webp"
-      },
-      "tag2": {
-        "id": "t0749",
-        "name": "vshojo",
-        "proper_name": "VShojo",
-        "category": "copyright",
-        "encrypted_count": "e1dubQ==",
-        "copyright": "VShojo",
+        "encrypted_count": "e1Nnbw==",
+        "copyright": "Hololive Production",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/7/70/VShojo_Logo.png/revision/latest?cb=20201219084925&path-prefix=id"
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_02.png"
       }
     },
     {
       "tag1": {
+        "id": "t0054",
+        "name": "fate/hollow_ataraxia",
+        "proper_name": "Fate/hollow ataraxia",
+        "category": "copyright",
+        "encrypted_count": "fVxnbQ==",
+        "copyright": "Fate Series",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fate_hollow_ataraxia_game_DVD_cover.jpg"
+      },
+      "tag2": {
+        "id": "t0747",
+        "name": "devil_may_cry_(series)",
+        "proper_name": "Devil May Cry Series",
+        "category": "copyright",
+        "encrypted_count": "e1BibA==",
+        "copyright": "Devil May Cry Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Logo_of_the_Devil_May_Cry_series.png/375px-Logo_of_the_Devil_May_Cry_series.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0614",
+        "name": "needy_girl_overdose",
+        "proper_name": "Needy Girl Overdose",
+        "category": "copyright",
+        "encrypted_count": "elxhaA==",
+        "copyright": "Needy Girl Overdose",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/I/91KkAiUigGL._AC_SL1500_.jpg"
+      },
+      "tag2": {
         "id": "t0181",
         "name": "jinx_(league_of_legends)",
         "proper_name": "Jinx",
@@ -215,16 +136,93 @@ const DAILY_GAME_DATA = {
         "copyright": "League of Legends",
         "material": "Video Game",
         "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0776",
+        "name": "ahri_(league_of_legends)",
+        "proper_name": "Ahri",
+        "category": "character",
+        "encrypted_count": "e1duaA==",
+        "copyright": "League of Legends",
+        "material": "Video Game",
+        "image_reference": "https://liquipedia.net/commons/images/3/3f/League_Infobox_Ahri.jpg"
       },
       "tag2": {
-        "id": "t0489",
-        "name": "street_fighter_6",
-        "proper_name": "Street Fighter 6",
-        "category": "copyright",
-        "encrypted_count": "dlJjaA==",
-        "copyright": "Street Fighter",
+        "id": "t0938",
+        "name": "phainon_(honkai:_star_rail)",
+        "proper_name": "Phainon",
+        "category": "character",
+        "encrypted_count": "e1Jhbg==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/streetfighter/images/4/47/Street_fighter_6_logo.png/revision/latest?cb=20220603151920"
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Ordain_of_the_Chrysos_Heir_Phainon.png/revision/latest?cb=20241122123229"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0431",
+        "name": "hayate_no_gotoku!",
+        "proper_name": "Hayate no Gotoku!",
+        "category": "copyright",
+        "encrypted_count": "fVxubQ==",
+        "copyright": "Hayate no Gotoku!",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
+      },
+      "tag2": {
+        "id": "t0790",
+        "name": "takarada_rikka",
+        "proper_name": "Takarada Rikka",
+        "category": "character",
+        "encrypted_count": "e1Jgbw==",
+        "copyright": "SSSS.Gridman",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0030",
+        "name": "mahou_shoujo_madoka_magica_(anime)",
+        "proper_name": "Mahou Shoujo Madoka Magica",
+        "category": "copyright",
+        "encrypted_count": "el1vYkQ=",
+        "copyright": "Mahou Shoujo Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/MadokaBD.jpg"
+      },
+      "tag2": {
+        "id": "t0196",
+        "name": "charizard",
+        "proper_name": "Charizard",
+        "category": "character",
+        "encrypted_count": "fVxmaw==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0077",
+        "name": "higashikata_josuke",
+        "proper_name": "Higashikata Josuke",
+        "category": "character",
+        "encrypted_count": "fVdmbg==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
+      },
+      "tag2": {
+        "id": "t0568",
+        "name": "kamitsubaki_studio",
+        "proper_name": "Kamitsubaki Studio",
+        "category": "copyright",
+        "encrypted_count": "e1dnbw==",
+        "copyright": "Kamitsubaki Studio",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/01/Company-Logo_KAMITSUBAKI-STUDIO.png"
       }
     }
   ]
