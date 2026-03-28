@@ -1,226 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-27T05:29:05.552274+00:00
-// Date: 2026-03-27
+// Generated on: 2026-03-28T05:17:42.220803+00:00
+// Date: 2026-03-28
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0037",
-        "name": "mayuzumi_fuyuko",
-        "proper_name": "Mayuzumi Fuyuko",
-        "category": "character",
-        "encrypted_count": "fVJuYg==",
-        "image_reference": "https://image.shinycolors.wiki/d/da/FuyukoProfile.png"
-      },
-      "tag2": {
-        "id": "t0785",
-        "name": "black_rock_shooter_(character)",
-        "proper_name": "Black Rock Shooter",
-        "category": "character",
-        "encrypted_count": "eldlbA==",
-        "copyright": "Black Rock Shooter",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/familiar-hda/images/b/b1/Black-Rock-Shooter-black-rock-shooter-vocaloid-30894748-1365-1142.png/revision/latest?cb=20130711194915&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0181",
-        "name": "jinx_(league_of_legends)",
-        "proper_name": "Jinx",
-        "category": "character",
-        "encrypted_count": "elZmYw==",
-        "copyright": "League of Legends",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
-      },
-      "tag2": {
-        "id": "t0769",
-        "name": "doki_doki_literature_club",
-        "proper_name": "Doki Doki Literature Club!",
+        "id": "t0631",
+        "name": "dark_souls_(series)",
+        "proper_name": "Dark Souls Series",
         "category": "copyright",
-        "encrypted_count": "e1Jlbw==",
-        "copyright": "Doki Doki Literature Club!",
+        "encrypted_count": "eFVlYg==",
+        "copyright": "Dark Souls Series",
         "material": "Video Game",
-        "image_reference": "https://micronations.wiki/images/en/images/images/thumb/d/dd/Doki_Doki_Literature_Club_DS_logo.svg/2560px-Doki_Doki_Literature_Club_DS_logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0552",
-        "name": "denji_(chainsaw_man)",
-        "proper_name": "Denji",
-        "category": "character",
-        "encrypted_count": "eFdgaA==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/e/e8/Denji_anime.png/revision/latest?cb=20221018185742&path-prefix=es"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dark_Souls_Cover_Art.jpg"
       },
       "tag2": {
-        "id": "t0738",
-        "name": "hikari_(blue_archive)",
-        "proper_name": "Hikari",
+        "id": "t0065",
+        "name": "ichika_(blue_archive)",
+        "proper_name": "Ichika",
         "category": "character",
-        "encrypted_count": "elBkaw==",
+        "encrypted_count": "fVdgYw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/13/Hikari_Portrait.png/revision/latest?cb=20240412140144"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
       }
     },
     {
       "tag1": {
-        "id": "t0460",
-        "name": "awa_subaru",
-        "proper_name": "Awa Subaru",
+        "id": "t0703",
+        "name": "gojou_satoru",
+        "proper_name": "Gojou Satoru",
         "category": "character",
-        "encrypted_count": "fFdlbw==",
-        "copyright": "Girls Band Cry",
+        "encrypted_count": "e1VvYg==",
+        "copyright": "Jujutsu Kaisen",
         "material": "Anime",
-        "image_reference": "https://external-preview.redd.it/McQKncRvPg9PgZzuZT2aJOs6zyuoVsQUkm9xKNW1yxs.jpg?width=1080&crop=smart&auto=webp&s=d1ee8796a59e9dfa172c9d4e35e2e149802c8734"
+        "image_reference": "https://static.zerochan.net/Gojou.Satoru.full.3974287.jpg"
       },
       "tag2": {
-        "id": "t0597",
-        "name": "flower_knight_girl",
-        "proper_name": "Flower Knight Girl",
-        "category": "copyright",
-        "encrypted_count": "e1FmYg==",
-        "copyright": "Flower Knight Girl",
+        "id": "t0041",
+        "name": "i-19_(kancolle)",
+        "proper_name": "I-19",
+        "category": "character",
+        "encrypted_count": "fVdvag==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://flower-knight-girl.com/shared/img/top/main_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e9/I-19_Full.png/revision/latest/scale-to-width-down/300?cb=20180817192054"
       }
     },
     {
       "tag1": {
-        "id": "t0223",
-        "name": "matsuura_kanan",
-        "proper_name": "Matsuura Kanan",
+        "id": "t0580",
+        "name": "date_a_live",
+        "proper_name": "Date A Live",
+        "category": "copyright",
+        "encrypted_count": "eFNvaQ==",
+        "copyright": "Date A Live",
+        "material": "Light Novel",
+        "image_reference": "https://vignette4.wikia.nocookie.net/cartoon-anime/images/3/39/Date_A_Live_logo.png/revision/latest?cb=20160321171838&path-prefix=fr"
+      },
+      "tag2": {
+        "id": "t0387",
+        "name": "harusame_(kancolle)",
+        "proper_name": "Harusame",
         "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Love Live!",
+        "encrypted_count": "fFJkaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/6/6d/Harusame_Full.png/revision/latest/scale-to-width-down/284?cb=20180817191835"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0205",
+        "name": "uehara_ayumu",
+        "proper_name": "Uehara Ayumu",
+        "category": "character",
+        "encrypted_count": "el1maQ==",
+        "copyright": "Love Live! Series",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
       },
       "tag2": {
-        "id": "t0647",
-        "name": "marcille_donato",
-        "proper_name": "Marcille Donato",
+        "id": "t0219",
+        "name": "admire_vega_(umamusume)",
+        "proper_name": "Admire Vega",
         "category": "character",
-        "encrypted_count": "e1Rmag==",
-        "copyright": "Dorohedoro",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0429",
-        "name": "pokemon_legends:_z-a",
-        "proper_name": "Pok\u00e9mon Legends: Z-A",
-        "category": "copyright",
-        "encrypted_count": "fVdiaA==",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "fFJibw==",
+        "copyright": "Umamusume: Pretty Derby",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/4/44/Pokemon_Legends_Z-A.png/revision/latest?cb=20240227152222"
-      },
-      "tag2": {
-        "id": "t0835",
-        "name": "don_quixote_(project_moon)",
-        "proper_name": "Don Quixote",
+        "image_reference": "https://static.zerochan.net/Admire.Vega.full.3896993.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0690",
+        "name": "miyu_(blue_archive)",
+        "proper_name": "Miyu",
         "category": "character",
-        "encrypted_count": "fVNhYw==",
-        "copyright": "Project Moon",
+        "encrypted_count": "elNnaw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/original/3c/f6/3cf6f87b76563d2c5a3724ec391f9976.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0771",
-        "name": "cyberpunk_(series)",
-        "proper_name": "Cyberpunk Series",
-        "category": "copyright",
-        "encrypted_count": "e1Jlaw==",
-        "copyright": "Cyberpunk",
-        "material": "Video Game",
-        "image_reference": "https://wallpaperaccess.com/full/3594200.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Miyu_Portrait.png/revision/latest?cb=20220420084956"
       },
       "tag2": {
-        "id": "t0514",
-        "name": "darjeeling_(girls_und_panzer)",
-        "proper_name": "Darjeeling",
+        "id": "t0034",
+        "name": "florence_nightingale_(fate)",
+        "proper_name": "Florence Nightingale",
         "category": "character",
-        "encrypted_count": "eFFhbA==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0618",
-        "name": "kagerou_project",
-        "proper_name": "Kagerou Project",
-        "category": "copyright",
-        "encrypted_count": "e1VlbQ==",
-        "copyright": "Kagerou Project",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/kagerouproject/images/e/e6/Site-logo.png/revision/latest?cb=20210720114629&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0579",
-        "name": "heartcatch_precure!",
-        "proper_name": "Heartcatch Precure!",
-        "category": "copyright",
-        "encrypted_count": "eFZnbg==",
-        "copyright": "Precure",
-        "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/de5shxw-01a69a49-e4f7-4987-b7b7-d4eda00bd7f8.png/v1/fill/w_1600,h_911/heartcatch_pretty_cure_logo_by_joshuat1306_de5shxw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kZTVzaHh3LTAxYTY5YTQ5LWU0ZjctNDk4Ny1iN2I3LWQ0ZWRhMDBiZDdmOC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CVHZAac5yav0HgjR_KGO1Yy9qGk64nAIG56xG-3f6g0"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0941",
-        "name": "minamoto_no_raikou_(fate)",
-        "proper_name": "Minamoto no Raikou",
-        "category": "character",
-        "encrypted_count": "eVNuYg==",
+        "encrypted_count": "elZmYg==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/full/Jjune-Anime-Artist-Anime-minamoto-no-raikou-(fategrand-order)-3857226.jpeg"
-      },
-      "tag2": {
-        "id": "t0073",
-        "name": "jonathan_joestar",
-        "proper_name": "Jonathan Joestar",
-        "category": "character",
-        "encrypted_count": "fVFiaw==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/51/BerserkerFloranceStage3.png/revision/latest?cb=20170217232053"
       }
     },
     {
       "tag1": {
-        "id": "t0501",
-        "name": "ijichi_nijika",
-        "proper_name": "Ijichi Nijika",
+        "id": "t0502",
+        "name": "matou_sakura",
+        "proper_name": "Matou Sakura",
         "category": "character",
-        "encrypted_count": "eFZgbA==",
-        "copyright": "Bocchi the Rock!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
+        "encrypted_count": "eFNhag==",
+        "copyright": "Fate Series",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Sakura_FGO.png/revision/latest?cb=20171107173330&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0800",
-        "name": "amate_yuzuriha",
-        "proper_name": "Amate Yuzuriha",
+        "id": "t0872",
+        "name": "fate/samurai_remnant",
+        "proper_name": "Fate/Samurai Remnant",
+        "category": "copyright",
+        "encrypted_count": "fFdhbQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0260",
+        "name": "nian_(arknights)",
+        "proper_name": "Nian",
         "category": "character",
-        "encrypted_count": "elZvbQ==",
-        "copyright": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
+        "encrypted_count": "fFxgbQ==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
+      },
+      "tag2": {
+        "id": "t0556",
+        "name": "wakaba_mutsumi",
+        "proper_name": "Wakaba Mutsumi",
+        "category": "character",
+        "encrypted_count": "e1Vgag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://anibase.net/files/2fe43d80636dfb7d1e4d535c174a7b68"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0834",
+        "name": "kiryu_coco",
+        "proper_name": "Kiryu Coco",
+        "category": "character",
+        "encrypted_count": "fVxjaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/c/ce/Kiryu_Coco_-_Portrait_01.png/1200px-Kiryu_Coco_-_Portrait_01.png"
+      },
+      "tag2": {
+        "id": "t0536",
+        "name": "gundam_00",
+        "proper_name": "Gundam 00",
+        "category": "copyright",
+        "encrypted_count": "eF1hbQ==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/0/0c/Gundam_00_title.png/revision/latest?cb=20150707141603"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0565",
+        "name": "medusa_(fate)",
+        "proper_name": "Medusa",
+        "category": "character",
+        "encrypted_count": "e1BgaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/62/47/c6/6247c687ccb4fa6323b7c16415278027.jpg"
+      },
+      "tag2": {
+        "id": "t0845",
+        "name": "kama_(fate)",
+        "proper_name": "Kama",
+        "category": "character",
+        "encrypted_count": "elRmaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/0/01/AssassinKamaStage3.png/revision/latest?cb=20210330120437"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0185",
+        "name": "hazbin_hotel",
+        "proper_name": "Hazbin Hotel",
+        "category": "copyright",
+        "encrypted_count": "fVZnaw==",
+        "copyright": "Hazbin Hotel",
+        "material": "Anime",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
+      },
+      "tag2": {
+        "id": "t0184",
+        "name": "phase_connect",
+        "proper_name": "Phase Connect",
+        "category": "copyright",
+        "encrypted_count": "fV1uaA==",
+        "copyright": "Phase Connect",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/phase_connect___logo.png"
       }
     }
   ]
