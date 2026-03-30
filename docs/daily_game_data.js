@@ -1,102 +1,178 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-29T05:39:41.764067+00:00
-// Date: 2026-03-29
+// Generated on: 2026-03-30T05:54:42.421525+00:00
+// Date: 2026-03-30
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0847",
-        "name": "emilia_(re:zero)",
-        "proper_name": "Emilia",
+        "id": "t0330",
+        "name": "hyuuga_(kancolle)",
+        "proper_name": "Hyuuga",
         "category": "character",
-        "encrypted_count": "e1RibQ==",
-        "copyright": "Re:Zero - Starting Life in Another World",
-        "material": "Light Novel",
-        "image_reference": "https://rare-gallery.com/mocahbig/1347718-Emilia-ReZEROReZERO-Starting-Life-In-Another-World-.jpg"
+        "encrypted_count": "fFRgYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Hyuuga.(Kantai.Collection).1024.4351400.webp"
       },
       "tag2": {
-        "id": "t0422",
-        "name": "ultra_series",
-        "proper_name": "Ultra Series",
-        "category": "copyright",
-        "encrypted_count": "fVViYw==",
-        "copyright": "Ultraman",
-        "material": "TV Show",
-        "image_reference": "https://static.wikia.nocookie.net/ultramananthology/images/7/7a/Ultraman_Series_Official_Logo.png/revision/latest?cb=20210118211502"
+        "id": "t0716",
+        "name": "ultimate_madoka",
+        "proper_name": "Ultimate Madoka",
+        "category": "character",
+        "encrypted_count": "elBmag==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://mangayo.it/31904-full_default/puella-magi-madoka-magica-ultimate-deluxe-edition-1.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0602",
-        "name": "akashi_(kancolle)",
-        "proper_name": "Akashi",
-        "category": "character",
-        "encrypted_count": "elBgaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/1f/Akashi.png/revision/latest?cb=20150930175545&path-prefix=protagonist"
+        "id": "t0546",
+        "name": "queen's_blade",
+        "proper_name": "Queen's Blade",
+        "category": "copyright",
+        "encrypted_count": "f1Bna0M=",
+        "copyright": "Queen's Blade",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
       },
       "tag2": {
-        "id": "t0594",
-        "name": "bismarck_(kancolle)",
-        "proper_name": "Bismarck",
+        "id": "t0180",
+        "name": "tokitsukaze_(kancolle)",
+        "proper_name": "Tokitsukaze",
+        "category": "character",
+        "encrypted_count": "fFxgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0398",
+        "name": "erica_hartmann",
+        "proper_name": "Erica Hartmann",
+        "category": "character",
+        "encrypted_count": "fF1mbQ==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/strikewitches/images/5/56/Strike_Witches-_Erica_Hartmann_1941.jpg/revision/latest?cb=20200320173134"
+      },
+      "tag2": {
+        "id": "t0624",
+        "name": "gumi",
+        "proper_name": "Gumi",
+        "category": "character",
+        "encrypted_count": "e1Bmaw==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/vocaloid/images/a/ad/AI_Megpoid_GUMI_transparent.png/revision/latest?cb=20221016001045"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0343",
+        "name": "hatsuyuki_(kancolle)",
+        "proper_name": "Hatsuyuki",
+        "category": "character",
+        "encrypted_count": "fFZvaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Hatsuyuki.(Kantai.Collection).full.2014249.jpg"
+      },
+      "tag2": {
+        "id": "t0053",
+        "name": "dragon_quest_iii",
+        "proper_name": "Dragon Quest III",
+        "category": "copyright",
+        "encrypted_count": "eFBubg==",
+        "copyright": "Dragon Quest",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/I/91M8HM0QlDL._AC_UF1000,1000_QL80_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0741",
+        "name": "nozomi_(blue_archive)",
+        "proper_name": "Nozomi",
+        "category": "character",
+        "encrypted_count": "elBnaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/0/0b/Nozomi.png?version=5b03c5a5d159b8b68eb6287e9738dace"
+      },
+      "tag2": {
+        "id": "t0308",
+        "name": "momosuzu_nene",
+        "proper_name": "Momosuzu Nene",
+        "category": "character",
+        "encrypted_count": "fFxiag==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/7/74/Momosuzu_Nene_-_Full_Illustration_02.png/640px-Momosuzu_Nene_-_Full_Illustration_02.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0452",
+        "name": "ump9_(girls'_frontline)",
+        "proper_name": "UMP9",
+        "category": "character",
+        "encrypted_count": "fFBvaw==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/UMP9.(Girls.Frontline).full.3776038.jpg"
+      },
+      "tag2": {
+        "id": "t0172",
+        "name": "illustrious_(azur_lane)",
+        "proper_name": "Illustrious",
+        "category": "character",
+        "encrypted_count": "fVdhbg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/3/39/Illustrious.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0821",
+        "name": "graf_zeppelin_(kancolle)",
+        "proper_name": "Graf Zeppelin",
+        "category": "character",
+        "encrypted_count": "fVxkYw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Graf.Zeppelin.(Kantai.Collection).full.1974176.jpg"
+      },
+      "tag2": {
+        "id": "t0825",
+        "name": "bemani",
+        "proper_name": "BEMANI",
+        "category": "copyright",
+        "encrypted_count": "e1VlYw==",
+        "copyright": "BEMANI",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e3/BEMANI_alt_logo.png/revision/latest?cb=20240414213707"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0641",
+        "name": "morgan_le_fay_(fate)",
+        "proper_name": "Morgan le Fay",
         "category": "character",
         "encrypted_count": "el1vag==",
-        "copyright": "Kantai Collection",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Bismarck.(Kantai.Collection).600.2131132.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0959",
-        "name": "synthesizer_v",
-        "proper_name": "Synthesizer V",
-        "category": "copyright",
-        "encrypted_count": "e1Vhbg==",
-        "copyright": "Synthesizer V",
-        "material": "Music Software",
-        "image_reference": "https://moegirl.uk/images/1/1a/Synthesizer_V_R2_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/newkomica-kari/images/4/42/Morgan_le_Fay_(Fate)II.jpg/revision/latest?cb=20230709170531&path-prefix=zh-tw"
       },
       "tag2": {
-        "id": "t0229",
-        "name": "nichijou",
-        "proper_name": "Nichijou",
-        "category": "copyright",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Nichijou",
-        "material": "Anime",
-        "image_reference": "https://nichijou.wiki.gg/images/e/e6/Site-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0727",
-        "name": "shoujo_kageki_revue_starlight",
-        "proper_name": "Shoujo Kageki Revue Starlight",
-        "category": "copyright",
-        "encrypted_count": "elxhbg==",
-        "copyright": "Shoujo Kageki Revue Starlight",
-        "material": "Anime",
-        "image_reference": "https://tl.vhv.rs/dpng/s/583-5832892_shoujo-kageki-revue-starlight-logo-hd-png-download.png"
-      },
-      "tag2": {
-        "id": "t0342",
-        "name": "jintsuu_(kancolle)",
-        "proper_name": "Jintsuu",
-        "category": "character",
-        "encrypted_count": "fFduYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b0/Jintsu_kai2.png"
-      }
-    },
-    {
-      "tag1": {
         "id": "t0101",
         "name": "kotomine_kirei",
         "proper_name": "Kotomine Kirei",
@@ -105,126 +181,50 @@ const DAILY_GAME_DATA = {
         "copyright": "Fate Series",
         "material": "Video Game",
         "image_reference": "https://static.wikia.nocookie.net/typemoon/images/a/aa/Kotomine_kirei.png/revision/latest?cb=20141019084245"
-      },
-      "tag2": {
-        "id": "t0492",
-        "name": "joseph_joestar_(young)",
-        "proper_name": "Young Joseph Joestar",
-        "category": "character",
-        "encrypted_count": "eFViag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0416",
-        "name": "high_priest_(ragnarok_online)",
-        "proper_name": "High Priest",
+        "id": "t0400",
+        "name": "aigis_(persona)",
+        "proper_name": "Aigis",
         "category": "character",
-        "encrypted_count": "fFBgaw==",
-        "copyright": "Ragnarok Online",
+        "encrypted_count": "fF1hYg==",
+        "copyright": "Persona",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
+        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
       },
       "tag2": {
-        "id": "t0585",
-        "name": "kawaragi_momoka",
-        "proper_name": "Kawaragi Momoka",
+        "id": "t0153",
+        "name": "melty_blood",
+        "proper_name": "Melty Blood",
+        "category": "copyright",
+        "encrypted_count": "fVxiag==",
+        "copyright": "Melty Blood",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/1/16/Melty_Blood.png/revision/latest/scale-to-width-down/1200?cb=20220210035841"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0333",
+        "name": "kise_yayoi",
+        "proper_name": "Kise Yayoi",
         "category": "character",
-        "encrypted_count": "elxnaA==",
-        "copyright": "D4DJ",
+        "encrypted_count": "fVRibA==",
+        "copyright": "The iDOLM@STER",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Kawaragi.Momoka.full.4222907.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0278",
-        "name": "arcane:_league_of_legends",
-        "proper_name": "Arcane: League of Legends",
-        "category": "copyright",
-        "encrypted_count": "fF1maA==",
-        "copyright": "League of Legends",
-        "material": "TV Show",
-        "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
+        "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
       },
       "tag2": {
-        "id": "t0124",
-        "name": "alhaitham_(genshin_impact)",
-        "proper_name": "Alhaitham",
+        "id": "t0643",
+        "name": "kosaka_honoka",
+        "proper_name": "Kosaka Honoka",
         "category": "character",
-        "encrypted_count": "fVVgbw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/2f/27/94/2f2794662a6f9ca07076d8fc0fe48f83.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0873",
-        "name": "rabbit_hole_(vocaloid)",
-        "proper_name": "Rabbit Hole",
-        "category": "copyright",
-        "encrypted_count": "fFFmYw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://rabbithole.wiki.gg/images/e/e6/Site-logo.png"
-      },
-      "tag2": {
-        "id": "t0755",
-        "name": "cevio",
-        "proper_name": "CeVIO",
-        "category": "copyright",
-        "encrypted_count": "fV1iYw==",
-        "copyright": "CeVIO",
-        "material": "Music Software",
-        "image_reference": "https://cevio.jp/wp-content/uploads/2020/11/CeVIOAI_LOGO_data.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0072",
-        "name": "anastasia_(idolmaster)",
-        "proper_name": "Anastasia",
-        "category": "character",
-        "encrypted_count": "fVFhaA==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
-      },
-      "tag2": {
-        "id": "t0156",
-        "name": "fire_emblem:_the_sacred_stones",
-        "proper_name": "Fire Emblem: The Sacred Stones",
-        "category": "copyright",
-        "encrypted_count": "elBuaA==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/06/Logo_Fire_Emblem_The_Sacred_Stones.png/revision/latest?cb=20170719171810&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0815",
-        "name": "hakui_koyori",
-        "proper_name": "Hakui Koyori",
-        "category": "character",
-        "encrypted_count": "elRhaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c2/Hakui_Koyori_Portrait.png/revision/latest?cb=20211203043838"
-      },
-      "tag2": {
-        "id": "t0688",
-        "name": "formidable_(azur_lane)",
-        "proper_name": "Formidable",
-        "category": "character",
-        "encrypted_count": "el1hbA==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/6/69/Formidable.png"
+        "encrypted_count": "eVVnbA==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaWWcxlRz4wHbM_ZoGliMXb7LE18vs8kMZA&s"
       }
     }
   ]
