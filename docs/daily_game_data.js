@@ -1,154 +1,198 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-03-30T05:54:42.421525+00:00
-// Date: 2026-03-30
+// Generated on: 2026-03-31T05:40:35.498499+00:00
+// Date: 2026-03-31
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0330",
-        "name": "hyuuga_(kancolle)",
-        "proper_name": "Hyuuga",
+        "id": "t0126",
+        "name": "kirito",
+        "proper_name": "Kirito",
         "category": "character",
-        "encrypted_count": "fFRgYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Hyuuga.(Kantai.Collection).1024.4351400.webp"
+        "encrypted_count": "fVJjbw==",
+        "copyright": "Sword Art Online",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Kirito_Sword_Art_Online.png"
       },
       "tag2": {
-        "id": "t0716",
-        "name": "ultimate_madoka",
-        "proper_name": "Ultimate Madoka",
-        "category": "character",
-        "encrypted_count": "elBmag==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://mangayo.it/31904-full_default/puella-magi-madoka-magica-ultimate-deluxe-edition-1.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0546",
-        "name": "queen's_blade",
-        "proper_name": "Queen's Blade",
+        "id": "t0005",
+        "name": "pokemon",
+        "proper_name": "Pok\u00e9mon",
         "category": "copyright",
-        "encrypted_count": "f1Bna0M=",
-        "copyright": "Queen's Blade",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
-      },
-      "tag2": {
-        "id": "t0180",
-        "name": "tokitsukaze_(kancolle)",
-        "proper_name": "Tokitsukaze",
-        "category": "character",
-        "encrypted_count": "fFxgaQ==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "elFlbUYB",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
       }
     },
     {
       "tag1": {
-        "id": "t0398",
-        "name": "erica_hartmann",
-        "proper_name": "Erica Hartmann",
+        "id": "t0932",
+        "name": "son_goku",
+        "proper_name": "Son Goku",
         "category": "character",
-        "encrypted_count": "fF1mbQ==",
-        "copyright": "Strike Witches",
+        "encrypted_count": "dlJlYg==",
+        "copyright": "Dragon Ball",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/strikewitches/images/5/56/Strike_Witches-_Erica_Hartmann_1941.jpg/revision/latest?cb=20200320173134"
+        "image_reference": "https://static.wikia.nocookie.net/dragon-ball-super1627/images/4/44/Goku_base_form.png/revision/latest/scale-to-width-down/300?cb=20160410013838"
       },
       "tag2": {
-        "id": "t0624",
-        "name": "gumi",
-        "proper_name": "Gumi",
-        "category": "character",
-        "encrypted_count": "e1Bmaw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/vocaloid/images/a/ad/AI_Megpoid_GUMI_transparent.png/revision/latest?cb=20221016001045"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0343",
-        "name": "hatsuyuki_(kancolle)",
-        "proper_name": "Hatsuyuki",
-        "category": "character",
-        "encrypted_count": "fFZvaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Hatsuyuki.(Kantai.Collection).full.2014249.jpg"
-      },
-      "tag2": {
-        "id": "t0053",
-        "name": "dragon_quest_iii",
-        "proper_name": "Dragon Quest III",
+        "id": "t0521",
+        "name": "new_super_mario_bros._u_deluxe",
+        "proper_name": "New Super Mario Bros. U Deluxe",
         "category": "copyright",
-        "encrypted_count": "eFBubg==",
-        "copyright": "Dragon Quest",
+        "encrypted_count": "eFNmag==",
+        "copyright": "Nintendo",
         "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/I/91M8HM0QlDL._AC_UF1000,1000_QL80_.jpg"
+        "image_reference": "https://mario.wiki.gallery/images/thumb/2/21/NSMBUDX_Logo.png/1200px-NSMBUDX_Logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0741",
-        "name": "nozomi_(blue_archive)",
-        "proper_name": "Nozomi",
+        "id": "t0596",
+        "name": "aki_shizuha",
+        "proper_name": "Aki Shizuha",
         "category": "character",
-        "encrypted_count": "elBnaw==",
+        "encrypted_count": "elxuYg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/the-outsider-who-loved-gensokyo/images/3/3b/Shizuha_Smile.png/revision/latest?cb=20190404011450"
+      },
+      "tag2": {
+        "id": "t0039",
+        "name": "mordred_(fate/apocrypha)",
+        "proper_name": "Mordred",
+        "category": "character",
+        "encrypted_count": "e1ZlbA==",
+        "copyright": "Fate/Apocrypha",
+        "material": "anime",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest/scale-to-width/360?cb=20220910153017"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0303",
+        "name": "kiyoshimo_(kancolle)",
+        "proper_name": "Kiyoshimo",
+        "category": "character",
+        "encrypted_count": "fFJvbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
+      },
+      "tag2": {
+        "id": "t0611",
+        "name": "puzzle_&_dragons",
+        "proper_name": "Puzzle & Dragons",
+        "category": "copyright",
+        "encrypted_count": "e1xuYw==",
+        "copyright": "Puzzle & Dragons",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Main_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20150516042650"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0637",
+        "name": "golden_kamuy",
+        "proper_name": "Golden Kamuy",
+        "category": "copyright",
+        "encrypted_count": "elxnbg==",
+        "copyright": "Golden Kamuy",
+        "material": "Manga",
+        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
+      },
+      "tag2": {
+        "id": "t0451",
+        "name": "albedo_(genshin_impact)",
+        "proper_name": "Albedo",
+        "category": "character",
+        "encrypted_count": "fFBlaw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest?cb=20210302092013"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0293",
+        "name": "wakamo_(blue_archive)",
+        "proper_name": "Wakamo",
+        "category": "character",
+        "encrypted_count": "fFxvaQ==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/0/0b/Nozomi.png?version=5b03c5a5d159b8b68eb6287e9738dace"
+        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait/10033.webp"
       },
       "tag2": {
-        "id": "t0308",
-        "name": "momosuzu_nene",
-        "proper_name": "Momosuzu Nene",
+        "id": "t0363",
+        "name": "m.u.g.e.n",
+        "proper_name": "M.U.G.E.N",
+        "category": "copyright",
+        "encrypted_count": "fVNhaw==",
+        "copyright": "M.U.G.E.N",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/roblox/images/7/7f/MugenIcon2020February.png/revision/latest?cb=20210219071459"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0506",
+        "name": "shirogane_noel",
+        "proper_name": "Shirogane Noel",
         "category": "character",
-        "encrypted_count": "fFxiag==",
-        "copyright": "Hololive",
+        "encrypted_count": "eFJkaA==",
+        "copyright": "Hololive Production",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/7/74/Momosuzu_Nene_-_Full_Illustration_02.png/640px-Momosuzu_Nene_-_Full_Illustration_02.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0452",
-        "name": "ump9_(girls'_frontline)",
-        "proper_name": "UMP9",
-        "category": "character",
-        "encrypted_count": "fFBvaw==",
-        "copyright": "Girls' Frontline",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/UMP9.(Girls.Frontline).full.3776038.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/d/d1/Shirogane_Noel_3D.png/revision/latest?cb=20240901173516"
       },
       "tag2": {
-        "id": "t0172",
-        "name": "illustrious_(azur_lane)",
-        "proper_name": "Illustrious",
+        "id": "t0416",
+        "name": "high_priest_(ragnarok_online)",
+        "proper_name": "High Priest",
         "category": "character",
-        "encrypted_count": "fVdhbg==",
-        "copyright": "Azur Lane",
+        "encrypted_count": "fFBgaw==",
+        "copyright": "Ragnarok Online",
         "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/3/39/Illustrious.png"
+        "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
       }
     },
     {
       "tag1": {
-        "id": "t0821",
-        "name": "graf_zeppelin_(kancolle)",
-        "proper_name": "Graf Zeppelin",
+        "id": "t0159",
+        "name": "miura_azusa",
+        "proper_name": "Miura Azusa",
         "category": "character",
-        "encrypted_count": "fVxkYw==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fVNhaQ==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Graf.Zeppelin.(Kantai.Collection).full.1974176.jpg"
+        "image_reference": "https://project-imas.wiki/images/6/67/MASTER_ARTIST_3_11.jpg"
+      },
+      "tag2": {
+        "id": "t0658",
+        "name": "silence_suzuka_(umamusume)",
+        "proper_name": "Silence Suzuka",
+        "category": "character",
+        "encrypted_count": "eldgYg==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/uma-musume-pretty-derby/images/c/c1/Silence_Suzuka_(Stage).png/revision/latest?cb=20220724182241"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0694",
+        "name": "cookie_run",
+        "proper_name": "Cookie Run",
+        "category": "copyright",
+        "encrypted_count": "e1ZmaA==",
+        "copyright": "Cookie Run",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Cookie_Run_series_logo.png/revision/latest/scale-to-width-down/1200?cb=20211123144049"
       },
       "tag2": {
         "id": "t0825",
@@ -163,68 +207,24 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0641",
-        "name": "morgan_le_fay_(fate)",
-        "proper_name": "Morgan le Fay",
-        "category": "character",
-        "encrypted_count": "el1vag==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/newkomica-kari/images/4/42/Morgan_le_Fay_(Fate)II.jpg/revision/latest?cb=20230709170531&path-prefix=zh-tw"
-      },
-      "tag2": {
-        "id": "t0101",
-        "name": "kotomine_kirei",
-        "proper_name": "Kotomine Kirei",
-        "category": "character",
-        "encrypted_count": "fVdiaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/a/aa/Kotomine_kirei.png/revision/latest?cb=20141019084245"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0400",
-        "name": "aigis_(persona)",
-        "proper_name": "Aigis",
-        "category": "character",
-        "encrypted_count": "fF1hYg==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0153",
-        "name": "melty_blood",
-        "proper_name": "Melty Blood",
+        "id": "t0803",
+        "name": "suite_precure",
+        "proper_name": "Suite Precure",
         "category": "copyright",
-        "encrypted_count": "fVxiag==",
-        "copyright": "Melty Blood",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/1/16/Melty_Blood.png/revision/latest/scale-to-width-down/1200?cb=20220210035841"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0333",
-        "name": "kise_yayoi",
-        "proper_name": "Kise Yayoi",
-        "category": "character",
-        "encrypted_count": "fVRibA==",
-        "copyright": "The iDOLM@STER",
+        "encrypted_count": "elNkbQ==",
+        "copyright": "Precure",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Suite_pretty_cure_logo.jpg/revision/latest/scale-to-width-down/300?cb=20150213050340"
       },
       "tag2": {
-        "id": "t0643",
-        "name": "kosaka_honoka",
-        "proper_name": "Kosaka Honoka",
+        "id": "t0296",
+        "name": "zhu_yuan",
+        "proper_name": "Zhu Yuan",
         "category": "character",
-        "encrypted_count": "eVVnbA==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaWWcxlRz4wHbM_ZoGliMXb7LE18vs8kMZA&s"
+        "encrypted_count": "fFxvYw==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
       }
     }
   ]
