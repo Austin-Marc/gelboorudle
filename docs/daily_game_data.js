@@ -1,64 +1,14 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-04-02T05:27:54.899885+00:00
-// Date: 2026-04-02
+// Generated on: 2026-04-03T05:28:39.299857+00:00
+// Date: 2026-04-03
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0479",
-        "name": "northern_ocean_princess",
-        "proper_name": "Northern Ocean Princess",
-        "category": "character",
-        "encrypted_count": "eFZlag==",
-        "image_reference": "https://cdn.donmai.us/original/5c/b6/5cb6821d322f01d1e28cef2b4f00f740.jpg"
-      },
-      "tag2": {
-        "id": "t0251",
-        "name": "kicchou_yachie",
-        "proper_name": "Kicchou Yachie",
-        "category": "character",
-        "encrypted_count": "fFFgbg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0600",
-        "name": "hecatia_lapislazuli",
-        "proper_name": "Hecatia Lapislazuli",
-        "category": "character",
-        "encrypted_count": "elJvag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
-      },
-      "tag2": {
-        "id": "t0837",
-        "name": "shinosawa_hiro",
-        "proper_name": "Shinosawa Hiro",
-        "category": "character",
-        "encrypted_count": "fVNmbA==",
-        "image_reference": "https://project-imas.wiki/images/thumb/4/4b/HiroShinosawa.png/640px-HiroShinosawa.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0200",
-        "name": "tsunomaki_watame",
-        "proper_name": "Tsunomaki Watame",
-        "category": "character",
-        "encrypted_count": "fVRmaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
-      },
-      "tag2": {
         "id": "t0650",
         "name": "ereshkigal_(fate)",
         "proper_name": "Ereshkigal",
@@ -67,156 +17,214 @@ const DAILY_GAME_DATA = {
         "copyright": "Fate Series",
         "material": "Video Game",
         "image_reference": "https://pm1.narvii.com/6799/1433c297dcd8ea75d63f5657adcf6412e4c9326cv2_hq.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0653",
-        "name": "bakugou_katsuki",
-        "proper_name": "Bakugou Katsuki",
-        "category": "character",
-        "encrypted_count": "eFxjbw==",
-        "copyright": "My Hero Academia",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/02/BakugoMHAVol13.png"
       },
       "tag2": {
-        "id": "t0608",
-        "name": "kitagawa_marin",
-        "proper_name": "Kitagawa Marin",
+        "id": "t0129",
+        "name": "i-58_(kancolle)",
+        "proper_name": "I-58",
         "category": "character",
-        "encrypted_count": "eVNlaQ==",
-        "image_reference": "https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/3/3c/Kitagawa_Marin_~_Anime.jpg/revision/latest?cb=20220227174558&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0358",
-        "name": "theresa_apocalypse",
-        "proper_name": "Theresa Apocalypse",
-        "category": "character",
-        "encrypted_count": "fFNlbg==",
-        "copyright": "Honkai Impact 3rd",
+        "encrypted_count": "fF1gaw==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/e/ec/Hi3rd-Theresa_001.png/revision/latest?cb=20210123100514&path-prefix=fr"
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/9/96/Ship_Card_I-58.png/218px-Ship_Card_I-58.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0521",
+        "name": "new_super_mario_bros._u_deluxe",
+        "proper_name": "New Super Mario Bros. U Deluxe",
+        "category": "copyright",
+        "encrypted_count": "eFNmag==",
+        "copyright": "Nintendo",
+        "material": "Video Game",
+        "image_reference": "https://mario.wiki.gallery/images/thumb/2/21/NSMBUDX_Logo.png/1200px-NSMBUDX_Logo.png"
       },
       "tag2": {
-        "id": "t0682",
-        "name": "pokemon_rse",
-        "proper_name": "Pokemon Ruby/Sapphire/Emerald",
-        "category": "copyright",
-        "encrypted_count": "dlxvaA==",
+        "id": "t0200",
+        "name": "tsunomaki_watame",
+        "proper_name": "Tsunomaki Watame",
+        "category": "character",
+        "encrypted_count": "fVRmaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0135",
+        "name": "juliana_(pokemon)",
+        "proper_name": "Juliana",
+        "category": "character",
+        "encrypted_count": "fVBhag==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://logowik.com/content/uploads/images/pokemon-ruby-sapphire8525.logowik.com.webp"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0798",
-        "name": "nakano_nino",
-        "proper_name": "Nakano Nino",
-        "category": "character",
-        "encrypted_count": "elJibw==",
-        "copyright": "The Quintessential Quintuplets",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/gotoubunnohanayome/images/4/45/Nino_Nakano_Anime.png/revision/latest?cb=20190530175443&path-prefix=pl"
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Juliana_concept_art.jpg/680px-Juliana_concept_art.jpg"
       },
       "tag2": {
-        "id": "t0425",
-        "name": "persona_3_portable",
-        "proper_name": "Persona 3 Portable",
-        "category": "copyright",
-        "encrypted_count": "fFJkaQ==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0065",
-        "name": "ichika_(blue_archive)",
-        "proper_name": "Ichika",
+        "id": "t0701",
+        "name": "stocking_(psg)",
+        "proper_name": "Stocking",
         "category": "character",
-        "encrypted_count": "fVdgYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0217",
-        "name": "piplup",
-        "proper_name": "Piplup",
-        "category": "character",
-        "encrypted_count": "fVFmaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork0393_DLPS.png/1200px-Artwork0393_DLPS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0390",
-        "name": "takane_lui",
-        "proper_name": "Takane Lui",
-        "category": "character",
-        "encrypted_count": "fFNnbA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/Takane_Lui_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20211202201955"
-      },
-      "tag2": {
-        "id": "t0249",
-        "name": "asakura_toru",
-        "proper_name": "Asakura Toru",
-        "category": "character",
-        "encrypted_count": "fVRjYw==",
-        "image_reference": "https://image.shinycolors.wiki/thumb/2/2d/ToruProfile.png/400px-ToruProfile.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0869",
-        "name": "inui_toko",
-        "proper_name": "Inui Toko",
-        "category": "character",
-        "encrypted_count": "fFFibA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
-      },
-      "tag2": {
-        "id": "t0223",
-        "name": "matsuura_kanan",
-        "proper_name": "Matsuura Kanan",
-        "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Love Live!",
+        "encrypted_count": "eFFjaA==",
+        "copyright": "Panty & Stocking with Garterbelt",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
       }
     },
     {
       "tag1": {
-        "id": "t0550",
-        "name": "aikatsu!",
-        "proper_name": "Aikatsu!",
-        "category": "copyright",
-        "encrypted_count": "eFdlbg==",
-        "copyright": "Aikatsu!",
+        "id": "t0201",
+        "name": "maekawa_miku",
+        "proper_name": "Maekawa Miku",
+        "category": "character",
+        "encrypted_count": "fVVmbg==",
+        "copyright": "Idolmaster Cinderella Girls",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/Aikatsu222.jpg"
+        "image_reference": "https://m.project-imas.wiki/images/thumb/3/3c/Miku_SS.png/300px-Miku_SS.png"
       },
       "tag2": {
-        "id": "t0066",
-        "name": "cyrene_(honkai:_star_rail)",
-        "proper_name": "Cyrene",
+        "id": "t0044",
+        "name": "marie_(splatoon)",
+        "proper_name": "Marie",
         "category": "character",
-        "encrypted_count": "fVdhbw==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "elNubw==",
+        "copyright": "Splatoon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Character_Cyrene_Introduction.png/revision/latest/scale-to-width/360?cb=20250909040027"
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S_Marie_render_2.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0598",
+        "name": "len'en",
+        "proper_name": "Len'en",
+        "category": "copyright",
+        "encrypted_count": "e1ZiaA==",
+        "copyright": "Len'en",
+        "material": "Video Game",
+        "image_reference": "https://lenen.wiki.gg/images/Site-logo.png?b36d97"
+      },
+      "tag2": {
+        "id": "t0919",
+        "name": "disgaea",
+        "proper_name": "Disgaea",
+        "category": "copyright",
+        "encrypted_count": "d1Fgbg==",
+        "copyright": "Disgaea",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/disgaea/images/3/38/Disgaea-logo.jpg/revision/latest?cb=20080820161217&path-prefix=en"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0602",
+        "name": "akashi_(kancolle)",
+        "proper_name": "Akashi",
+        "category": "character",
+        "encrypted_count": "elBgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/1f/Akashi.png/revision/latest?cb=20150930175545&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0585",
+        "name": "kawaragi_momoka",
+        "proper_name": "Kawaragi Momoka",
+        "category": "character",
+        "encrypted_count": "elxnaA==",
+        "copyright": "D4DJ",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Kawaragi.Momoka.full.4222907.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0639",
+        "name": "souryuu_(kancolle)",
+        "proper_name": "Souryuu",
+        "category": "character",
+        "encrypted_count": "elFhaw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/e/e7/Ship_Card_Souryuu.png"
+      },
+      "tag2": {
+        "id": "t0484",
+        "name": "clownpiece",
+        "proper_name": "Clownpiece",
+        "category": "character",
+        "encrypted_count": "e11lbA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/53/TH15Clownpiece.png/revision/latest?cb=20150926164947"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0203",
+        "name": "changli_(wuthering_waves)",
+        "proper_name": "Changli",
+        "category": "character",
+        "encrypted_count": "fF1uYg==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Changli_Introduction.png/revision/latest?cb=20240518045554"
+      },
+      "tag2": {
+        "id": "t0140",
+        "name": "kel_(omori)",
+        "proper_name": "Kel",
+        "category": "character",
+        "encrypted_count": "fFxgaw==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0818",
+        "name": "cu_chulainn_(lancer)_(fate)",
+        "proper_name": "Cu Chulainn (Lancer)",
+        "category": "character",
+        "encrypted_count": "fVJnbw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fateanother-ii/images/3/32/LancerCuChuGOStage1.png/revision/latest/scale-to-width-down/1200?cb=20210607112610"
+      },
+      "tag2": {
+        "id": "t0133",
+        "name": "nitocris_(fate)",
+        "proper_name": "Nitocris",
+        "category": "character",
+        "encrypted_count": "fVdmaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fatedomination/images/4/44/Catalyst_Nitocris.png/revision/latest?cb=20230702184029"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0354",
+        "name": "saratoga_(kancolle)",
+        "proper_name": "Saratoga",
+        "category": "character",
+        "encrypted_count": "fFFvbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/0/0d/Ship_Card_Saratoga_Mk.II.png/218px-Ship_Card_Saratoga_Mk.II.png"
+      },
+      "tag2": {
+        "id": "t0235",
+        "name": "kara_no_kyoukai",
+        "proper_name": "Kara no Kyoukai",
+        "category": "copyright",
+        "encrypted_count": "fVZvaA==",
+        "copyright": "Kara no Kyoukai",
+        "material": "Light Novel",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/f/f0/KnK_logo.png/revision/latest?cb=20130716091824"
       }
     }
   ]
