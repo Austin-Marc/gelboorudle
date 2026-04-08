@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-04-07T05:42:54.768500+00:00
-// Date: 2026-04-07
+// Generated on: 2026-04-08T05:43:07.587164+00:00
+// Date: 2026-04-08
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0524",
-        "name": "dragon_ball_super",
-        "proper_name": "Dragon Ball Super",
-        "category": "copyright",
-        "encrypted_count": "f1dlakY=",
-        "copyright": "Dragon Ball",
+        "id": "t0257",
+        "name": "senjougahara_hitagi",
+        "proper_name": "Senjougahara Hitagi",
+        "category": "character",
+        "encrypted_count": "fVZuaQ==",
+        "copyright": "Monogatari Series",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d0/Dragon_Ball_Super_Vector_Logo.svg/revision/latest?cb=20190306223754"
+        "image_reference": "https://1.bp.blogspot.com/-Su1PAdKQzao/WHHpgH_v2QI/AAAAAAAABMg/wvAO-6iJMp0n84RNYlC1aye6wSBeH9vuwCEw/s1600/Hitagi_bake_designs.jpg"
       },
       "tag2": {
-        "id": "t0609",
-        "name": "library_of_ruina",
-        "proper_name": "Library of Ruina",
+        "id": "t0922",
+        "name": "skadi_(arknights)",
+        "proper_name": "Skadi",
+        "category": "character",
+        "encrypted_count": "eFRhYw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://arknights.rus.wiki/media/uploads/0fdfcbac-arknights.rus.wiki-skadi-char-263-skadi-11.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0864",
+        "name": "takebe_saori",
+        "proper_name": "Saori Takebe",
+        "category": "character",
+        "encrypted_count": "fV1laA==",
+        "copyright": "KonoSuba",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/saimoe/images/8/8c/Takebe_saori.png/revision/latest?cb=20131213003240"
+      },
+      "tag2": {
+        "id": "t0368",
+        "name": "black_swan_(honkai:_star_rail)",
+        "proper_name": "Black Swan",
+        "category": "character",
+        "encrypted_count": "fFFvbA==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Character_Black_Swan_Introduction.png/revision/latest?cb=20231212041201"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0421",
+        "name": "hidamari_sketch",
+        "proper_name": "Hidamari Sketch",
         "category": "copyright",
-        "encrypted_count": "e1VkaA==",
-        "copyright": "Library of Ruina",
-        "material": "Video Game",
-        "image_reference": "https://libraryofruina.wiki.gg/images/e/e6/Site-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0589",
-        "name": "yumemi_riamu",
-        "proper_name": "Yumemi Riamu",
-        "category": "character",
-        "encrypted_count": "e1Blbw==",
-        "copyright": "Project Sekai",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/d/d5/Riamu_SS.png/300px-Riamu_SS.png"
+        "encrypted_count": "fVFhaA==",
+        "copyright": "Hidamari Sketch",
+        "material": "Anime",
+        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
       },
       "tag2": {
-        "id": "t0334",
-        "name": "katsushika_hokusai_(fate)",
-        "proper_name": "Katsushika Hokusai",
-        "category": "character",
-        "encrypted_count": "fFNgbg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/9/90/S198_Stage1.webp/revision/latest?cb=20220911142141"
+        "id": "t0187",
+        "name": "pokemon_journeys",
+        "proper_name": "Pok\u00e9mon Journeys",
+        "category": "copyright",
+        "encrypted_count": "elFkaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0562",
-        "name": "nico_robin",
-        "proper_name": "Nico Robin",
+        "id": "t0383",
+        "name": "yoru_(chainsaw_man)",
+        "proper_name": "Yoru",
         "category": "character",
-        "encrypted_count": "f1FuYkE=",
-        "copyright": "One Piece",
+        "encrypted_count": "fF1mbw==",
+        "copyright": "Chainsaw Man",
         "material": "Manga",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/3/3f/470853-render_nicorobin.png/revision/latest?cb=20130913194656&path-prefix=pt"
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b7/Img_cm_yoru_manga.png/revision/latest?cb=20231025061200&path-prefix=pt-br"
       },
       "tag2": {
-        "id": "t0516",
-        "name": "inoue_takina",
-        "proper_name": "Inoue Takina",
-        "category": "character",
-        "encrypted_count": "e1NiaQ==",
-        "copyright": "Lycoris Recoil",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/lycoris-recoil/images/e/e1/Takina_Inoue.png/revision/latest?cb=20220621164845"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0127",
-        "name": "yagami_hayate",
-        "proper_name": "Yagami Hayate",
-        "category": "character",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Magical Girl Lyrical Nanoha",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/nanoha/images/e/ed/Character_hayate.png/revision/latest?cb=20170327192812"
-      },
-      "tag2": {
-        "id": "t0765",
-        "name": "tachibana_arisu",
-        "proper_name": "Tachibana Arisu",
-        "category": "character",
-        "encrypted_count": "e1RibQ==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/17/Arisu_Tachibana.jpg/revision/latest?cb=20241231030351&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0836",
-        "name": "ump45_(girls'_frontline)",
-        "proper_name": "UMP45",
+        "id": "t0294",
+        "name": "umbreon",
+        "proper_name": "Umbreon",
         "category": "character",
         "encrypted_count": "fV1kbA==",
-        "copyright": "Girls' Frontline",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omniversal-battlefield/images/2/2d/Ump45.png/revision/latest?cb=20200608224228"
-      },
-      "tag2": {
-        "id": "t0357",
-        "name": "accelerator_(toaru_majutsu_no_index)",
-        "proper_name": "Accelerator",
-        "category": "character",
-        "encrypted_count": "fFBlag==",
-        "copyright": "Toaru Majutsu no Index",
-        "material": "Light Novel",
-        "image_reference": "https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/9/96/Accelerator_Novel.jpg/revision/latest?cb=20160121115001"
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/9/9f/Umbreon.png/revision/latest?cb=20150823181058&path-prefix=pl"
       }
     },
     {
       "tag1": {
-        "id": "t0548",
-        "name": "phantasy_star",
-        "proper_name": "Phantasy Star",
+        "id": "t0856",
+        "name": "metal_gear_(series)",
+        "proper_name": "Metal Gear Series",
         "category": "copyright",
-        "encrypted_count": "eFBgaQ==",
-        "copyright": "Phantasy Star",
+        "encrypted_count": "el1uag==",
+        "copyright": "Metal Gear Series",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
+        "image_reference": "https://static.wikia.nocookie.net/konamiverse/images/6/60/Metal_Gear_Series_Logo_a.png/revision/latest/scale-to-width-down/350?cb=20190803173003"
       },
       "tag2": {
-        "id": "t0472",
-        "name": "ningguang_(genshin_impact)",
-        "proper_name": "Ningguang",
-        "category": "character",
-        "encrypted_count": "fFFvbQ==",
-        "copyright": "Genshin Impact",
+        "id": "t0756",
+        "name": "inazuma_eleven",
+        "proper_name": "Inazuma Eleven",
+        "category": "copyright",
+        "encrypted_count": "d1xnbQ==",
+        "copyright": "Inazuma Eleven",
         "material": "Video Game",
-        "image_reference": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/5/59/Ningguang.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/inazuma/images/7/70/Logo_japon\u00e9s_de_IE.PNG/revision/latest?cb=20191114162736&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0679",
-        "name": "hoshizora_rin",
-        "proper_name": "Hoshizora Rin",
+        "id": "t0932",
+        "name": "son_goku",
+        "proper_name": "Son Goku",
         "category": "character",
-        "encrypted_count": "eF1jbg==",
-        "copyright": "Love Live!",
+        "encrypted_count": "dlJlYg==",
+        "copyright": "Dragon Ball",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-fanon/images/7/72/LL-SIF-ASA-Rin.png/revision/latest?cb=20240813083711"
+        "image_reference": "https://static.wikia.nocookie.net/dragon-ball-super1627/images/4/44/Goku_base_form.png/revision/latest/scale-to-width-down/300?cb=20160410013838"
       },
       "tag2": {
-        "id": "t0155",
-        "name": "summer_pockets",
-        "proper_name": "Summer Pockets",
-        "category": "copyright",
-        "encrypted_count": "fVVlYw==",
-        "copyright": "Summer Pockets",
-        "material": "Visual Novel",
-        "image_reference": "https://wiki.ruliweb.com/images/thumb/6/66/\uc11c\uba38\ud3ec\ucf13_logo.png/640px-\uc11c\uba38\ud3ec\ucf13_logo.png"
+        "id": "t0684",
+        "name": "uraraka_ochaco",
+        "proper_name": "Uraraka Ochaco",
+        "category": "character",
+        "encrypted_count": "dl1lbQ==",
+        "copyright": "My Hero Academia",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/boku-no-hero-academia-italia/images/6/66/Ochaco27s_second_hero_costume_28anime29.png/revision/latest?cb=20210926181953&path-prefix=it"
       }
     },
     {
       "tag1": {
-        "id": "t0824",
-        "name": "hellaverse",
-        "proper_name": "Hellaverse",
+        "id": "t0238",
+        "name": "yu-gi-oh!_5d's",
+        "proper_name": "Yu-Gi-Oh! 5D's",
         "category": "copyright",
-        "encrypted_count": "elVlbg==",
-        "copyright": "Hellaverse",
-        "image_reference": "https://d1m9vqlvl3fy94.cloudfront.net/project/attachment/287217/947776hellaverselogo.jpg"
+        "encrypted_count": "elJvaw==",
+        "copyright": "Yu-Gi-Oh! 5D's",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/yugioh/images/e/e1/Yu-Gi-Oh!_5Ds_logo.png/revision/latest?cb=20091226000453"
       },
       "tag2": {
-        "id": "t0572",
-        "name": "boo_tao_(genshin_impact)",
-        "proper_name": "Boo Tao",
+        "id": "t0525",
+        "name": "darling_in_the_franxx",
+        "proper_name": "Darling in the Franxx",
+        "category": "copyright",
+        "encrypted_count": "eV1iYw==",
+        "copyright": "Darling in the Franxx",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/fr/8/85/Darling_in_the_Franxx_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0847",
+        "name": "emilia_(re:zero)",
+        "proper_name": "Emilia",
         "category": "character",
-        "encrypted_count": "fFNvaQ==",
-        "copyright": "Genshin Impact",
+        "encrypted_count": "e1RibQ==",
+        "copyright": "Re:Zero - Starting Life in Another World",
+        "material": "Light Novel",
+        "image_reference": "https://rare-gallery.com/mocahbig/1347718-Emilia-ReZEROReZERO-Starting-Life-In-Another-World-.jpg"
+      },
+      "tag2": {
+        "id": "t0460",
+        "name": "awa_subaru",
+        "proper_name": "Awa Subaru",
+        "category": "character",
+        "encrypted_count": "fFdlbw==",
+        "copyright": "Girls Band Cry",
+        "material": "Anime",
+        "image_reference": "https://external-preview.redd.it/McQKncRvPg9PgZzuZT2aJOs6zyuoVsQUkm9xKNW1yxs.jpg?width=1080&crop=smart&auto=webp&s=d1ee8796a59e9dfa172c9d4e35e2e149802c8734"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0685",
+        "name": "yugiri_tsuzuri",
+        "proper_name": "Yugiri Tsuzuri",
+        "category": "character",
+        "encrypted_count": "fV1nbw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/1cc980d7-6ee3-4519-aa66-e8a03e842b26"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/7/73/Tsuzuri_Yugiri_2024.png/revision/latest/scale-to-width-down/1200?cb=20240615060116"
+      },
+      "tag2": {
+        "id": "t0501",
+        "name": "ijichi_nijika",
+        "proper_name": "Ijichi Nijika",
+        "category": "character",
+        "encrypted_count": "eFZgbA==",
+        "copyright": "Bocchi the Rock!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
       }
     },
     {
       "tag1": {
-        "id": "t0091",
-        "name": "maya_(kancolle)",
-        "proper_name": "Maya",
+        "id": "t0792",
+        "name": "kasane_teto_(utau)",
+        "proper_name": "Kasane Teto",
         "category": "character",
-        "encrypted_count": "fVRlYg==",
+        "encrypted_count": "fVNubw==",
+        "copyright": "UTAU",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/utau/images/b/b6/Tetostand.png/revision/latest?cb=20221221222057"
+      },
+      "tag2": {
+        "id": "t0287",
+        "name": "satsuki_(kancolle)",
+        "proper_name": "Satsuki",
+        "category": "character",
+        "encrypted_count": "fFJgaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0254",
-        "name": "evelyn_chevalier",
-        "proper_name": "Evelyn Chevalier",
-        "category": "character",
-        "encrypted_count": "fF1uYw==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/hoyodexwiki/4/45/Evelyn_Chevalier_(ZZ-MU).png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0068",
-        "name": "shimada_arisu",
-        "proper_name": "Shimada Arisu",
-        "category": "character",
-        "encrypted_count": "fVBubQ==",
-        "copyright": "Girls Und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/a/a6/Arisu_Shimada_Render_01.png/revision/latest/scale-to-width-down/206?cb=20240316075811"
-      },
-      "tag2": {
-        "id": "t0333",
-        "name": "kise_yayoi",
-        "proper_name": "Kise Yayoi",
-        "category": "character",
-        "encrypted_count": "fVRibA==",
-        "copyright": "The iDOLM@STER",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
       }
     }
   ]
