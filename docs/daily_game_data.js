@@ -1,227 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-04-12T05:49:56.056865+00:00
-// Date: 2026-04-12
+// Generated on: 2026-04-13T06:09:12.064556+00:00
+// Date: 2026-04-13
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0218",
-        "name": "mizi_(alien_stage)",
-        "proper_name": "Mizi",
+        "id": "t0680",
+        "name": "kal'tsit_(arknights)",
+        "proper_name": "Kal'tsit",
         "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Alien Stage",
-        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
+        "encrypted_count": "elFmaw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
       },
       "tag2": {
-        "id": "t0035",
-        "name": "chouzetsusaikawa_tenshi-chan",
-        "proper_name": "Chouzetsusaikawa Tenshi-chan",
+        "id": "t0884",
+        "name": "shinku",
+        "proper_name": "Shinku",
         "category": "character",
-        "encrypted_count": "fVBnbQ==",
-        "image_reference": "https://static.wikia.nocookie.net/honkai-star-rail-fanon/images/9/99/KAngelSprite.png/revision/latest?cb=20241023001421"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0947",
-        "name": "midoriya_izuku",
-        "proper_name": "Izuku Midoriya",
-        "category": "character",
-        "encrypted_count": "d1ViaQ==",
-        "copyright": "My Hero Academia",
-        "material": "Manga",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/db/Izuku_Midoriya_%28My_Hero_Academia_character%29.png"
-      },
-      "tag2": {
-        "id": "t0198",
-        "name": "jeanne_d'arc_(ruler)_(fate)",
-        "proper_name": "Jeanne d'Arc (Ruler)",
-        "category": "character",
-        "encrypted_count": "dlFlag==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://get.wallhere.com/photo/Fate-Series-Fate-Apocrypha-anime-girls-Ruler-Fate-Apocrypha-Jeanne-d-Arc-blonde-1504105.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0794",
-        "name": "nice_nature_(umamusume)",
-        "proper_name": "Nice Nature",
-        "category": "character",
-        "encrypted_count": "fVBgbw==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/0/0a/Nice_nature.png/revision/latest?cb=20181031020942"
-      },
-      "tag2": {
-        "id": "t0196",
-        "name": "charizard",
-        "proper_name": "Charizard",
-        "category": "character",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0272",
-        "name": "kris_(deltarune)",
-        "proper_name": "Kris",
-        "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "Deltarune",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/deltarune/images/f/fb/Kris_LINE_sticker_artwork.png/revision/latest?cb=20201120001252"
-      },
-      "tag2": {
-        "id": "t0203",
-        "name": "changli_(wuthering_waves)",
-        "proper_name": "Changli",
-        "category": "character",
-        "encrypted_count": "fF1uYg==",
-        "copyright": "Wuthering Waves",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Changli_Introduction.png/revision/latest?cb=20240518045554"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0786",
-        "name": "os-tan",
-        "proper_name": "OS-tan",
-        "category": "copyright",
-        "encrypted_count": "elFuYg==",
-        "copyright": "OS-tan",
-        "material": "Comic",
-        "image_reference": "https://www.ostan-collections.net/wiki/images/b/bb/OSCWikiLogo4.jpg"
-      },
-      "tag2": {
-        "id": "t0625",
-        "name": "roronoa_zoro",
-        "proper_name": "Roronoa Zoro",
-        "category": "character",
-        "encrypted_count": "eVBgYw==",
-        "copyright": "One Piece",
+        "encrypted_count": "fFFuYg==",
+        "copyright": "Rozen Maiden",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20141008195159"
+        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/b/bb/Artwork_Shinku_2013.png/revision/latest?cb=20140901224243&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0943",
-        "name": "hk416_(girls'_frontline)",
-        "proper_name": "HK416",
+        "id": "t0303",
+        "name": "kiyoshimo_(kancolle)",
+        "proper_name": "Kiyoshimo",
         "category": "character",
-        "encrypted_count": "eFVlbQ==",
-        "copyright": "Girls' Frontline",
-        "material": "Video Game",
-        "image_reference": "https://gf.rus.wiki/media/uploads/gf.rus.wiki-hk416-hk4161.png"
-      },
-      "tag2": {
-        "id": "t0078",
-        "name": "hyouka",
-        "proper_name": "Hyouka",
-        "category": "copyright",
-        "encrypted_count": "fVNnbA==",
-        "copyright": "Hyouka",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Hyouka_English_poster.jpg/250px-Hyouka_English_poster.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0267",
-        "name": "akizuki_ritsuko",
-        "proper_name": "Akizuki Ritsuko",
-        "category": "character",
-        "encrypted_count": "fVVvYg==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
-      },
-      "tag2": {
-        "id": "t0687",
-        "name": "ro-500_(kancolle)",
-        "proper_name": "Ro-500",
-        "category": "character",
-        "encrypted_count": "el1kaw==",
+        "encrypted_count": "fFJvbg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ro-500.(Kantai.Collection).600.2131087.jpg"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
+      },
+      "tag2": {
+        "id": "t0163",
+        "name": "harukawa_maki",
+        "proper_name": "Harukawa Maki",
+        "category": "character",
+        "encrypted_count": "fVZkbw==",
+        "copyright": "Project Sekai",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Harukawa.Maki.full.4175270.png"
       }
     },
     {
       "tag1": {
-        "id": "t0055",
-        "name": "fate/prototype",
-        "proper_name": "Fate/prototype",
-        "category": "copyright",
-        "encrypted_count": "elVnaA==",
-        "copyright": "Fate Series",
-        "material": "Light Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        "id": "t0387",
+        "name": "harusame_(kancolle)",
+        "proper_name": "Harusame",
+        "category": "character",
+        "encrypted_count": "fFJkaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/6/6d/Harusame_Full.png/revision/latest/scale-to-width-down/284?cb=20180817191835"
       },
       "tag2": {
-        "id": "t0211",
-        "name": "lucario",
-        "proper_name": "Lucario",
+        "id": "t0009",
+        "name": "idolmaster",
+        "proper_name": "The Idolmaster",
+        "category": "copyright",
+        "encrypted_count": "fFNhakEB",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0599",
+        "name": "monster_musume_no_iru_nichijou",
+        "proper_name": "Monster Musume no Iru Nichijou",
+        "category": "copyright",
+        "encrypted_count": "eVBiYg==",
+        "copyright": "Monster Musume no Iru Nichijou",
+        "material": "Anime",
+        "image_reference": "https://image.pngaaa.com/602/2661602-middle.png"
+      },
+      "tag2": {
+        "id": "t0413",
+        "name": "makinami_mari_illustrious",
+        "proper_name": "Makinami Mari Illustrious",
         "category": "character",
-        "encrypted_count": "elJiaA==",
+        "encrypted_count": "fVFibA==",
+        "copyright": "Neon Genesis Evangelion",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Makinami.Mari.Illustrious.full.2292748.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0292",
+        "name": "kagerou_(kancolle)",
+        "proper_name": "Kagerou",
+        "category": "character",
+        "encrypted_count": "fFBuag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/1a/Kagerou.png/revision/latest?cb=20140315195952&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0719",
+        "name": "mococo_abyssgard",
+        "proper_name": "Mococo Abyssgard",
+        "category": "character",
+        "encrypted_count": "elZhaw==",
+        "copyright": "N/A",
+        "material": "N/A",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2021/07/Mococo-Abyssgard_pr-img_03.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0403",
+        "name": "rotom_phone",
+        "proper_name": "Rotom Phone",
+        "category": "character",
+        "encrypted_count": "fFxlbg==",
         "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0184",
-        "name": "phase_connect",
-        "proper_name": "Phase Connect",
-        "category": "copyright",
-        "encrypted_count": "fV1uaA==",
-        "copyright": "Phase Connect",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/phase_connect___logo.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/2/23/Rotom_Phone.png/revision/latest/scale-to-width-down/2000?cb=20200627164134"
       },
       "tag2": {
-        "id": "t0353",
-        "name": "merlin_prismriver",
-        "proper_name": "Merlin Prismriver",
+        "id": "t0603",
+        "name": "kikuchi_makoto",
+        "proper_name": "Kikuchi Makoto",
         "category": "character",
-        "encrypted_count": "fFFkaw==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "e1JiYw==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://pm1.aminoapps.com/6373/c4ea5075242be120a6e74045d9f3259bca213a98_hq.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/d/d1/Normal_Makoto_Kikuchi_Mobage_Transparent.png/revision/latest?cb=20190202042832"
       }
     },
     {
       "tag1": {
-        "id": "t0049",
-        "name": "gokou_ruri",
-        "proper_name": "Gokou Ruri",
+        "id": "t0466",
+        "name": "clorinde_(genshin_impact)",
+        "proper_name": "Clorinde",
         "category": "character",
-        "encrypted_count": "fVxhbA==",
-        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/oreimo/images/c/cd/Kuroneko_Appearance.png/revision/latest?cb=20240414210944"
+        "encrypted_count": "fFBiaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Clorinde_Introduction_Card.png/revision/latest?cb=20240422100307"
       },
       "tag2": {
-        "id": "t0089",
-        "name": "ruby_rose",
-        "proper_name": "Ruby Rose",
+        "id": "t0415",
+        "name": "kasumi_kai_ni_(kancolle)",
+        "proper_name": "Kasumi Kai Ni",
         "category": "character",
-        "encrypted_count": "e1ZkbQ==",
-        "copyright": "RWBY",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rwby/images/9/9b/RubyRose-V8C14.png/revision/latest?cb=20241205032544"
+        "encrypted_count": "f1NiaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/f/f3/Ship_Card_Kasumi_Kai_Ni.png/218px-Ship_Card_Kasumi_Kai_Ni.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0576",
+        "name": "basil_(omori)",
+        "proper_name": "Basil",
+        "category": "character",
+        "encrypted_count": "e1ZkaQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/fc/DW_Basil_Fullbody_Profile.png/revision/latest?cb=20220909122311"
+      },
+      "tag2": {
+        "id": "t0253",
+        "name": "beatrice_(umineko)",
+        "proper_name": "Beatrice",
+        "category": "character",
+        "encrypted_count": "fVVnYg==",
+        "copyright": "Umineko no Naku Koro ni",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0431",
+        "name": "hayate_no_gotoku!",
+        "proper_name": "Hayate no Gotoku!",
+        "category": "copyright",
+        "encrypted_count": "fVxubQ==",
+        "copyright": "Hayate no Gotoku!",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
+      },
+      "tag2": {
+        "id": "t0629",
+        "name": "shiranui_mai",
+        "proper_name": "Shiranui Mai",
+        "category": "character",
+        "encrypted_count": "f1dkb0A=",
+        "image_reference": "https://static.wikia.nocookie.net/herois/images/5/53/Mai_Shiranui_FF-CotW.png/revision/latest/scale-to-width-down/1200?cb=20241112050708&path-prefix=pt-br"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0154",
+        "name": "stellive",
+        "proper_name": "Stellive",
+        "category": "copyright",
+        "encrypted_count": "fVZhbA==",
+        "copyright": "Stellive",
+        "material": "Video Game",
+        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+      },
+      "tag2": {
+        "id": "t0153",
+        "name": "melty_blood",
+        "proper_name": "Melty Blood",
+        "category": "copyright",
+        "encrypted_count": "fVxiag==",
+        "copyright": "Melty Blood",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/1/16/Melty_Blood.png/revision/latest/scale-to-width-down/1200?cb=20220210035841"
       }
     }
   ]
