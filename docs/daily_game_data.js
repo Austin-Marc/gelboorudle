@@ -1,227 +1,227 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-04-14T05:55:15.780563+00:00
-// Date: 2026-04-14
+// Generated on: 2026-04-15T05:55:28.845483+00:00
+// Date: 2026-04-15
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0149",
-        "name": "oboro_(kancolle)",
-        "proper_name": "Oboro",
+        "id": "t0424",
+        "name": "spider-verse",
+        "proper_name": "Spider-Verse",
+        "category": "copyright",
+        "encrypted_count": "fVVubg==",
+        "copyright": "Marvel Comics",
+        "material": "Comic",
+        "image_reference": "https://cdn.freelogovectors.net/wp-content/uploads/2023/10/spider_man-across-the-spider-verse-logo-freelogovectors.net_.png"
+      },
+      "tag2": {
+        "id": "t0556",
+        "name": "wakaba_mutsumi",
+        "proper_name": "Wakaba Mutsumi",
         "category": "character",
-        "encrypted_count": "fFJvag==",
+        "encrypted_count": "e1Vgag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://w7.pngwing.com/pngs/738/261/png-transparent-kantai-collection-battleship-wiki-japanese-destroyer-oboro-kantai-miscellaneous-computer-wallpaper-fictional-character.png"
-      },
-      "tag2": {
-        "id": "t0402",
-        "name": "sessyoin_kiara",
-        "proper_name": "Sessyoin Kiara",
-        "category": "character",
-        "encrypted_count": "fFJgbg==",
-        "copyright": "Fate Grand/Order",
-        "material": "Video game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
+        "image_reference": "https://anibase.net/files/2fe43d80636dfb7d1e4d535c174a7b68"
       }
     },
     {
       "tag1": {
-        "id": "t0471",
-        "name": "kirlia",
-        "proper_name": "Kirlia",
-        "category": "character",
-        "encrypted_count": "fVdjag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
-      },
-      "tag2": {
-        "id": "t0282",
-        "name": "soul_eater",
-        "proper_name": "Soul Eater",
+        "id": "t0823",
+        "name": "fire_emblem:_the_binding_blade",
+        "proper_name": "Fire Emblem: The Binding Blade",
         "category": "copyright",
-        "encrypted_count": "elJmYg==",
-        "copyright": "Soul Eater",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2023/08/Soul-Eater-Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0624",
-        "name": "gumi",
-        "proper_name": "Gumi",
-        "category": "character",
-        "encrypted_count": "e1Bmaw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/vocaloid/images/a/ad/AI_Megpoid_GUMI_transparent.png/revision/latest?cb=20221016001045"
-      },
-      "tag2": {
-        "id": "t0125",
-        "name": "ethan_(pokemon)",
-        "proper_name": "Ethan",
-        "category": "character",
-        "encrypted_count": "fVJlbg==",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "e1VlaA==",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/Ethan_(Pok\u00e9mon_Masters).png/revision/latest?cb=20220818005918&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0332",
-        "name": "luigi",
-        "proper_name": "Luigi",
-        "category": "character",
-        "encrypted_count": "eldnaA==",
-        "copyright": "Nintendo",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/nintendo/images/0/0a/MP10_Luigi.png/revision/latest?cb=20170626025223&path-prefix=en"
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
       },
       "tag2": {
-        "id": "t0200",
-        "name": "tsunomaki_watame",
-        "proper_name": "Tsunomaki Watame",
+        "id": "t0473",
+        "name": "dodoco_(genshin_impact)",
+        "proper_name": "Dodoco",
         "category": "character",
-        "encrypted_count": "fVRmaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0025",
-        "name": "girls_und_panzer",
-        "proper_name": "Girls und Panzer",
-        "category": "copyright",
-        "encrypted_count": "eVFuY0g=",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/f0/Girls_und_Panzer_TV_key_visual.png"
-      },
-      "tag2": {
-        "id": "t0791",
-        "name": "sangonomiya_kokomi",
-        "proper_name": "Sangonomiya Kokomi",
-        "category": "character",
-        "encrypted_count": "elZmaQ==",
+        "encrypted_count": "f11lbg==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20230429082521&path-prefix=de"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/7/75/Dodoco.png/revision/latest?cb=20220327125113&path-prefix=th"
       }
     },
     {
       "tag1": {
-        "id": "t0189",
-        "name": "tsukihime_(remake)",
-        "proper_name": "Tsukihime Remake",
+        "id": "t0732",
+        "name": "made_in_abyss",
+        "proper_name": "Made in Abyss",
         "category": "copyright",
-        "encrypted_count": "fFdnaA==",
-        "copyright": "Tsukihime",
-        "material": "Visual Novel",
-        "image_reference": "https://tsukihime-en.com/assets/img/main/logo.png"
+        "encrypted_count": "eFVlaQ==",
+        "copyright": "Made in Abyss",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/madeinabyss/images/c/c4/Made-In-Abyss-Logo.png/revision/latest?cb=20170708222105"
       },
       "tag2": {
-        "id": "t0101",
-        "name": "kotomine_kirei",
-        "proper_name": "Kotomine Kirei",
+        "id": "t0847",
+        "name": "emilia_(re:zero)",
+        "proper_name": "Emilia",
         "category": "character",
-        "encrypted_count": "fVdiaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/a/aa/Kotomine_kirei.png/revision/latest?cb=20141019084245"
+        "encrypted_count": "e1RibQ==",
+        "copyright": "Re:Zero - Starting Life in Another World",
+        "material": "Light Novel",
+        "image_reference": "https://rare-gallery.com/mocahbig/1347718-Emilia-ReZEROReZERO-Starting-Life-In-Another-World-.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0320",
-        "name": "street_fighter_zero_(series)",
-        "proper_name": "Street Fighter Zero Series",
-        "category": "copyright",
-        "encrypted_count": "fVBhaQ==",
-        "copyright": "Street Fighter",
-        "material": "Video Game",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11a10a01-ac23-4fea-ad5a-b51f53084159/d7emmzp-a5fccda0-1e9b-4213-a884-e8393ac4a9de.png/v1/fill/w_800,h_554/street_fighter_zero_logo_by_ringostarr39_d7emmzp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU0IiwicGF0aCI6IlwvZlwvMTFhMTBhMDEtYWMyMy00ZmVhLWFkNWEtYjUxZjUzMDg0MTU5XC9kN2VtbXpwLWE1ZmNjZGEwLTFlOWItNDIxMy1hODg0LWU4MzkzYWM0YTlkZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wiCZfhEIoUu7WURWTrk1j8qIrUtTR7ibA4zBI_z-EcA"
+        "id": "t0492",
+        "name": "joseph_joestar_(young)",
+        "proper_name": "Young Joseph Joestar",
+        "category": "character",
+        "encrypted_count": "eFViag==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
       },
       "tag2": {
-        "id": "t0202",
-        "name": "elizabeth_bathory_(fate)",
-        "proper_name": "Elizabeth Bathory",
-        "category": "character",
-        "encrypted_count": "fVZjaQ==",
-        "copyright": "Fate Series",
+        "id": "t0188",
+        "name": "mega_man_zero_(series)",
+        "proper_name": "Mega Man Zero Series",
+        "category": "copyright",
+        "encrypted_count": "elRvbg==",
+        "copyright": "Mega Man",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/2/29/S018_Stage1.webp/revision/latest?cb=20220910082212"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0824",
-        "name": "hellaverse",
-        "proper_name": "Hellaverse",
-        "category": "copyright",
-        "encrypted_count": "elVlbg==",
-        "copyright": "Hellaverse",
-        "image_reference": "https://d1m9vqlvl3fy94.cloudfront.net/project/attachment/287217/947776hellaverselogo.jpg"
+        "id": "t0893",
+        "name": "simon_(ttgl)",
+        "proper_name": "Simon",
+        "category": "character",
+        "encrypted_count": "fFNnbw==",
+        "copyright": "Tengen Toppa Gurren Lagann",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/p__/images/d/d6/Simon_the_Digger_(Post-Timeskip).png/revision/latest?cb=20181004055713&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0892",
-        "name": "hero_(omori)",
-        "proper_name": "Hero",
+        "id": "t0883",
+        "name": "gertrud_barkhorn",
+        "proper_name": "Gertrud Barkhorn",
         "category": "character",
-        "encrypted_count": "fFZhbQ==",
+        "encrypted_count": "fFJuaw==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strike-witches-espanol/images/9/95/Gee.png/revision/latest?cb=20190505223734&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0635",
+        "name": "houseki_no_kuni",
+        "proper_name": "Houseki no Kuni",
+        "category": "copyright",
+        "encrypted_count": "e1dnaA==",
+        "copyright": "Houseki no Kuni",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Houseki_no_Kuni.jpg"
+      },
+      "tag2": {
+        "id": "t0945",
+        "name": "hololive_dev_is",
+        "proper_name": "HoloLive DEV_IS",
+        "category": "copyright",
+        "encrypted_count": "e11uaA==",
+        "copyright": "Hololive",
+        "image_reference": "https://kai-you.net/press/img/hololive-DEV_IS-TEASER-0-29-screenshot-1.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0036",
+        "name": "usami_sumireko",
+        "proper_name": "Usami Sumireko",
+        "category": "character",
+        "encrypted_count": "fFJnaA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/d/d8/Th145Sumireko.png/revision/latest?cb=20151127030013"
+      },
+      "tag2": {
+        "id": "t0760",
+        "name": "tsushima_yoshiko",
+        "proper_name": "Tsushima Yoshiko",
+        "category": "character",
+        "encrypted_count": "eVduaw==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/44/Tsushima_Yoshiko_ALL_STARS.png/revision/latest?cb=20200323032830&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0091",
+        "name": "maya_(kancolle)",
+        "proper_name": "Maya",
+        "category": "character",
+        "encrypted_count": "fVRlYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0479",
+        "name": "northern_ocean_princess",
+        "proper_name": "Northern Ocean Princess",
+        "category": "character",
+        "encrypted_count": "eFZlag==",
+        "image_reference": "https://cdn.donmai.us/original/5c/b6/5cb6821d322f01d1e28cef2b4f00f740.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0699",
+        "name": "nakiri_ayame",
+        "proper_name": "Nakiri Ayame",
+        "category": "character",
+        "encrypted_count": "elNvaQ==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6a/Nakiri_Ayame_October_'24_3D.png/revision/latest?cb=20241022205421"
+      },
+      "tag2": {
+        "id": "t0591",
+        "name": "belle_(zenless_zone_zero)",
+        "proper_name": "Belle",
+        "category": "character",
+        "encrypted_count": "elNlbg==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6e/Agent_Belle_Portrait.png/revision/latest?cb=20240707002545"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0214",
+        "name": "mari_(omori)",
+        "proper_name": "Mari",
+        "category": "character",
+        "encrypted_count": "fVZubw==",
         "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0273",
-        "name": "voicevox",
-        "proper_name": "VoiceVox",
-        "category": "copyright",
-        "encrypted_count": "fFJvYg==",
-        "copyright": "VoiceVox",
-        "material": "Music Software",
-        "image_reference": "https://prtimes.jp/data/corp/132725/ogp/0fc2c0b4cc844511409698e0d4cef820-963b6c7c0403ec1027cb2432a3e966c1.png"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/d/d1/DW_Mari_Fullbody_Profile.png/revision/latest?cb=20221031040609"
       },
       "tag2": {
-        "id": "t0821",
-        "name": "graf_zeppelin_(kancolle)",
-        "proper_name": "Graf Zeppelin",
+        "id": "t0789",
+        "name": "tatsumaki",
+        "proper_name": "Tatsumaki",
         "category": "character",
-        "encrypted_count": "fVxkYw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Graf.Zeppelin.(Kantai.Collection).full.1974176.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0373",
-        "name": "hatsuzuki_(kancolle)",
-        "proper_name": "Hatsuzuki",
-        "category": "character",
-        "encrypted_count": "fFFvaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
-      },
-      "tag2": {
-        "id": "t0037",
-        "name": "mayuzumi_fuyuko",
-        "proper_name": "Mayuzumi Fuyuko",
-        "category": "character",
-        "encrypted_count": "fVJuYg==",
-        "image_reference": "https://image.shinycolors.wiki/d/da/FuyukoProfile.png"
+        "encrypted_count": "eVJgag==",
+        "copyright": "One Punch Man",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/onepunchman/images/d/d2/Tatsumaki_Manga.png/revision/latest?cb=20190907232753"
       }
     }
   ]
