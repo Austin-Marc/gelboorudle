@@ -1,227 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-04-18T05:29:03.862796+00:00
-// Date: 2026-04-18
+// Generated on: 2026-04-19T05:52:49.270922+00:00
+// Date: 2026-04-19
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0846",
-        "name": "kirigiri_kyoko",
-        "proper_name": "Kirigiri Kyoko",
+        "id": "t0266",
+        "name": "kirima_syaro",
+        "proper_name": "Kirima Syaro",
         "category": "character",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
-      },
-      "tag2": {
-        "id": "t0079",
-        "name": "zeta_gundam",
-        "proper_name": "Mobile Suit Zeta Gundam",
-        "category": "copyright",
-        "encrypted_count": "elFnbg==",
-        "copyright": "Mobile Suit Gundam",
-        "material": "Anime",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BNTRlYzIwYmYtMzUzYy00YmFmLTllMjItOWYzYmNmYjQ2YmI5XkEyXkFqcGc@._V1_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0244",
-        "name": "lana_(pokemon)",
-        "proper_name": "Lana",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
-      },
-      "tag2": {
-        "id": "t0615",
-        "name": "touqi_guaitan",
-        "proper_name": "Touqi Guaitan",
-        "category": "copyright",
-        "encrypted_count": "e1ZkbQ==",
-        "copyright": "Touqi Guaitan",
-        "image_reference": "https://static.wikia.nocookie.net/touqi-guaitan/images/e/e6/Site-logo.png/revision/latest?cb=20241228194321"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0840",
-        "name": "kizuna_akari",
-        "proper_name": "Kizuna Akari",
-        "category": "character",
-        "encrypted_count": "fV1vbw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/1/18/Vocaloid_akari.png/revision/latest?cb=20180329051055"
-      },
-      "tag2": {
-        "id": "t0746",
-        "name": "yelan_(genshin_impact)",
-        "proper_name": "Yelan",
-        "category": "character",
-        "encrypted_count": "elJhYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0864",
-        "name": "takebe_saori",
-        "proper_name": "Saori Takebe",
-        "category": "character",
-        "encrypted_count": "fV1laA==",
-        "copyright": "KonoSuba",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/saimoe/images/8/8c/Takebe_saori.png/revision/latest?cb=20131213003240"
-      },
-      "tag2": {
-        "id": "t0925",
-        "name": "hiiragi_kagami",
-        "proper_name": "Hiiragi Kagami",
-        "category": "character",
-        "encrypted_count": "eVBnYg==",
-        "copyright": "Lucky Star",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/c/c9/Kagami-san.gif/revision/latest?cb=20120723133124"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0413",
-        "name": "makinami_mari_illustrious",
-        "proper_name": "Makinami Mari Illustrious",
-        "category": "character",
-        "encrypted_count": "fVFibA==",
-        "copyright": "Neon Genesis Evangelion",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Makinami.Mari.Illustrious.full.2292748.png"
-      },
-      "tag2": {
-        "id": "t0448",
-        "name": "tippy_(gochiusa)",
-        "proper_name": "Tippy",
-        "category": "character",
-        "encrypted_count": "fFFmaQ==",
+        "encrypted_count": "fVZmbA==",
         "copyright": "Gochuumon wa Usagi Desu ka?",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Gochuumon.wa.Usagi.Desu.ka.1024.2048654.webp"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0637",
-        "name": "golden_kamuy",
-        "proper_name": "Golden Kamuy",
-        "category": "copyright",
-        "encrypted_count": "elxnbg==",
-        "copyright": "Golden Kamuy",
-        "material": "Manga",
-        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
+        "image_reference": "https://static.wikia.nocookie.net/gochuumon-wa-usagi-desu-ka/images/f/f0/Kirima_syaro_render_by_poppyoreos-d7zaxlr.png/revision/latest?cb=20151024212114&path-prefix=es"
       },
       "tag2": {
-        "id": "t0646",
-        "name": "octoling_player_character",
-        "proper_name": "Octoling Player Character",
+        "id": "t0146",
+        "name": "nia_(xenoblade)",
+        "proper_name": "Nia",
         "category": "character",
-        "encrypted_count": "e1VkbQ==",
-        "copyright": "Splatoon",
+        "encrypted_count": "fVxiYw==",
+        "copyright": "Xenoblade Chronicles",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/Octo_Expansion_multiplayer_gear.jpg/1200px-Octo_Expansion_multiplayer_gear.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
       }
     },
     {
       "tag1": {
-        "id": "t0743",
-        "name": "kuroki_tomoko",
-        "proper_name": "Kuroki Tomoko",
+        "id": "t0762",
+        "name": "arcueid_brunestud",
+        "proper_name": "Arcueid Brunestud",
         "category": "character",
-        "encrypted_count": "elFgbA==",
-        "copyright": "WataMote",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/watamote/images/7/7e/Tomoko_kuroki_full.png/revision/latest?cb=20150405070935&path-prefix=es"
+        "encrypted_count": "elFkbQ==",
+        "copyright": "Tsukihime",
+        "material": "Visual Novel",
+        "image_reference": "https://static.zerochan.net/Arcueid.Brunestud.full.3556278.jpg"
       },
       "tag2": {
-        "id": "t0947",
-        "name": "midoriya_izuku",
-        "proper_name": "Izuku Midoriya",
+        "id": "t0133",
+        "name": "nitocris_(fate)",
+        "proper_name": "Nitocris",
         "category": "character",
-        "encrypted_count": "d1ViaQ==",
-        "copyright": "My Hero Academia",
-        "material": "Manga",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/db/Izuku_Midoriya_%28My_Hero_Academia_character%29.png"
+        "encrypted_count": "fVdmaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fatedomination/images/4/44/Catalyst_Nitocris.png/revision/latest?cb=20230702184029"
       }
     },
     {
       "tag1": {
-        "id": "t0561",
-        "name": "tatsuta_(kancolle)",
-        "proper_name": "Tatsuta",
+        "id": "t0868",
+        "name": "agnes_tachyon_(tach-nology)_(umamusume)",
+        "proper_name": "Agnes Tachyon",
         "category": "character",
-        "encrypted_count": "elJjaQ==",
+        "encrypted_count": "fVZlag==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Agnes.Tachyon.600.3657644.jpg"
+      },
+      "tag2": {
+        "id": "t0582",
+        "name": "takao_(kancolle)",
+        "proper_name": "Takao",
+        "category": "character",
+        "encrypted_count": "e1Fuag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/d/d5/Ship_Card_Tatsuta_Kai_Ni.png/218px-Ship_Card_Tatsuta_Kai_Ni.png"
-      },
-      "tag2": {
-        "id": "t0809",
-        "name": "chloe_von_einzbern",
-        "proper_name": "Chloe von Einzbern",
-        "category": "character",
-        "encrypted_count": "e11gYw==",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/7b/Kuro_2wei.png/revision/latest?cb=20161006151250"
+        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/f/ff/Takao_Full.png/revision/latest?cb=20210612202442"
       }
     },
     {
       "tag1": {
-        "id": "t0963",
-        "name": "acheron_(honkai:_star_rail)",
-        "proper_name": "Acheron",
+        "id": "t0594",
+        "name": "bismarck_(kancolle)",
+        "proper_name": "Bismarck",
         "category": "character",
-        "encrypted_count": "e1JkYg==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "el1vag==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/12/honkai-star-rail-acheron-3.jpeg"
+        "image_reference": "https://s1.zerochan.net/Bismarck.(Kantai.Collection).600.2131132.jpg"
       },
       "tag2": {
-        "id": "t0748",
-        "name": "the_legend_of_zelda:_twilight_princess",
-        "proper_name": "The Legend of Zelda: Twilight Princess",
+        "id": "t0026",
+        "name": "gundam",
+        "proper_name": "Gundam",
         "category": "copyright",
-        "encrypted_count": "eVVmaA==",
-        "copyright": "The Legend of Zelda",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/c/c3/TP_White_Logo.png/1200px-TP_White_Logo.png"
+        "encrypted_count": "eVNmaEY=",
+        "copyright": "Gundam",
+        "material": "Anime",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjQ3MmU1M2QtODc5My00MDhkLWEwZmItMGM2ODUzODA2YzY0XkEyXkFqcGc@._V1_.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0381",
-        "name": "amy_rose",
-        "proper_name": "Amy Rose",
+        "id": "t0491",
+        "name": "kumoi_ichirin",
+        "proper_name": "Kumoi Ichirin",
         "category": "character",
-        "encrypted_count": "elxuag==",
-        "copyright": "Sonic the Hedgehog",
+        "encrypted_count": "el1uYg==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/sonic/images/9/94/AmyRoseTSR.png/revision/latest?cb=20200229192419&path-prefix=es"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1470363202.png"
       },
       "tag2": {
-        "id": "t0733",
-        "name": "takagaki_kaede",
-        "proper_name": "Takagaki Kaede",
-        "category": "character",
-        "encrypted_count": "elJmaA==",
-        "copyright": "The Idolmaster",
+        "id": "t0001",
+        "name": "touhou",
+        "proper_name": "Touhou",
+        "category": "copyright",
+        "encrypted_count": "d1VjbkQH",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/f/f6/Cinderella_master_004_cover.jpg/1200px-Cinderella_master_004_cover.jpg"
+        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0715/4f2d148d417cc5876bdfd62734c716c2c82c5017d413df3a.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0629",
+        "name": "shiranui_mai",
+        "proper_name": "Shiranui Mai",
+        "category": "character",
+        "encrypted_count": "f1dkb0A=",
+        "image_reference": "https://static.wikia.nocookie.net/herois/images/5/53/Mai_Shiranui_FF-CotW.png/revision/latest/scale-to-width-down/1200?cb=20241112050708&path-prefix=pt-br"
+      },
+      "tag2": {
+        "id": "t0662",
+        "name": "kiryuuin_satsuki",
+        "proper_name": "Kiryuuin Satsuki",
+        "category": "character",
+        "encrypted_count": "eF1nYg==",
+        "copyright": "Kill la Kill",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/kill-la-kill/images/0/01/Satsuki_Kiryuin(1).png/revision/latest?cb=20170301220730&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0810",
+        "name": "furude_rika",
+        "proper_name": "Furude Rika",
+        "category": "character",
+        "encrypted_count": "elBhYg==",
+        "copyright": "Higurashi When They Cry",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/when-they-cry/images/e/ee/RikaGou.png/revision/latest?cb=20210202063349&path-prefix=pt-br"
+      },
+      "tag2": {
+        "id": "t0647",
+        "name": "marcille_donato",
+        "proper_name": "Marcille Donato",
+        "category": "character",
+        "encrypted_count": "e1Rmag==",
+        "copyright": "Dorohedoro",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0665",
+        "name": "ikari_shinji",
+        "proper_name": "Ikari Shinji",
+        "category": "character",
+        "encrypted_count": "eVZibA==",
+        "copyright": "Neon Genesis Evangelion",
+        "material": "Anime",
+        "image_reference": "https://pm1.narvii.com/6220/4bf1876967db1d33deebc7a76510adbc90f9e96a_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0922",
+        "name": "skadi_(arknights)",
+        "proper_name": "Skadi",
+        "category": "character",
+        "encrypted_count": "eFRhYw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://arknights.rus.wiki/media/uploads/0fdfcbac-arknights.rus.wiki-skadi-char-263-skadi-11.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0862",
+        "name": "kachimachi_kosuzu",
+        "proper_name": "Kachimachi Kosuzu",
+        "category": "character",
+        "encrypted_count": "fVZkaw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.myfigurecollection.net/upload/entries/1/377786-f2961.jpg"
+      },
+      "tag2": {
+        "id": "t0333",
+        "name": "kise_yayoi",
+        "proper_name": "Kise Yayoi",
+        "category": "character",
+        "encrypted_count": "fVRibA==",
+        "copyright": "The iDOLM@STER",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0510",
+        "name": "watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!",
+        "proper_name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+        "category": "copyright",
+        "encrypted_count": "eFBlbg==",
+        "copyright": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+        "material": "Light Novel",
+        "image_reference": "https://i.pinimg.com/originals/7d/ce/f7/7dcef7efe40b9739963376bb23afa323.jpg"
+      },
+      "tag2": {
+        "id": "t0796",
+        "name": "misty_(pokemon)",
+        "proper_name": "Misty",
+        "category": "character",
+        "encrypted_count": "f1duakc=",
+        "copyright": "Pokemon",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png"
       }
     }
   ]
