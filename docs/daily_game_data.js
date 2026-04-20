@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-04-19T05:52:49.270922+00:00
-// Date: 2026-04-19
+// Generated on: 2026-04-20T06:08:43.460572+00:00
+// Date: 2026-04-20
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0266",
-        "name": "kirima_syaro",
-        "proper_name": "Kirima Syaro",
+        "id": "t0289",
+        "name": "seele_vollerei",
+        "proper_name": "Seele Vollerei",
         "category": "character",
-        "encrypted_count": "fVZmbA==",
-        "copyright": "Gochuumon wa Usagi Desu ka?",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gochuumon-wa-usagi-desu-ka/images/f/f0/Kirima_syaro_render_by_poppyoreos-d7zaxlr.png/revision/latest?cb=20151024212114&path-prefix=es"
+        "encrypted_count": "fFxvbQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
       },
       "tag2": {
-        "id": "t0146",
-        "name": "nia_(xenoblade)",
-        "proper_name": "Nia",
+        "id": "t0685",
+        "name": "yugiri_tsuzuri",
+        "proper_name": "Yugiri Tsuzuri",
         "category": "character",
-        "encrypted_count": "fVxiYw==",
-        "copyright": "Xenoblade Chronicles",
+        "encrypted_count": "fV1nbw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/7/73/Tsuzuri_Yugiri_2024.png/revision/latest/scale-to-width-down/1200?cb=20240615060116"
       }
     },
     {
       "tag1": {
-        "id": "t0762",
-        "name": "arcueid_brunestud",
-        "proper_name": "Arcueid Brunestud",
+        "id": "t0093",
+        "name": "pecorine_(princess_connect!)",
+        "proper_name": "Peorine",
         "category": "character",
-        "encrypted_count": "elFkbQ==",
-        "copyright": "Tsukihime",
-        "material": "Visual Novel",
-        "image_reference": "https://static.zerochan.net/Arcueid.Brunestud.full.3556278.jpg"
+        "encrypted_count": "fVxgYw==",
+        "copyright": "Princess Connect!",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png/revision/latest?cb=20180219083648"
       },
       "tag2": {
-        "id": "t0133",
-        "name": "nitocris_(fate)",
-        "proper_name": "Nitocris",
+        "id": "t0651",
+        "name": "senketsu",
+        "proper_name": "Senketsu",
         "category": "character",
-        "encrypted_count": "fVdmaw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fatedomination/images/4/44/Catalyst_Nitocris.png/revision/latest?cb=20230702184029"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0868",
-        "name": "agnes_tachyon_(tach-nology)_(umamusume)",
-        "proper_name": "Agnes Tachyon",
-        "category": "character",
-        "encrypted_count": "fVZlag==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Agnes.Tachyon.600.3657644.jpg"
-      },
-      "tag2": {
-        "id": "t0582",
-        "name": "takao_(kancolle)",
-        "proper_name": "Takao",
-        "category": "character",
-        "encrypted_count": "e1Fuag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/f/ff/Takao_Full.png/revision/latest?cb=20210612202442"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0594",
-        "name": "bismarck_(kancolle)",
-        "proper_name": "Bismarck",
-        "category": "character",
-        "encrypted_count": "el1vag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Bismarck.(Kantai.Collection).600.2131132.jpg"
-      },
-      "tag2": {
-        "id": "t0026",
-        "name": "gundam",
-        "proper_name": "Gundam",
-        "category": "copyright",
-        "encrypted_count": "eVNmaEY=",
-        "copyright": "Gundam",
-        "material": "Anime",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjQ3MmU1M2QtODc5My00MDhkLWEwZmItMGM2ODUzODA2YzY0XkEyXkFqcGc@._V1_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0491",
-        "name": "kumoi_ichirin",
-        "proper_name": "Kumoi Ichirin",
-        "category": "character",
-        "encrypted_count": "el1uYg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1470363202.png"
-      },
-      "tag2": {
-        "id": "t0001",
-        "name": "touhou",
-        "proper_name": "Touhou",
-        "category": "copyright",
-        "encrypted_count": "d1VjbkQH",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0715/4f2d148d417cc5876bdfd62734c716c2c82c5017d413df3a.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0629",
-        "name": "shiranui_mai",
-        "proper_name": "Shiranui Mai",
-        "category": "character",
-        "encrypted_count": "f1dkb0A=",
-        "image_reference": "https://static.wikia.nocookie.net/herois/images/5/53/Mai_Shiranui_FF-CotW.png/revision/latest/scale-to-width-down/1200?cb=20241112050708&path-prefix=pt-br"
-      },
-      "tag2": {
-        "id": "t0662",
-        "name": "kiryuuin_satsuki",
-        "proper_name": "Kiryuuin Satsuki",
-        "category": "character",
-        "encrypted_count": "eF1nYg==",
+        "encrypted_count": "eFRgaw==",
         "copyright": "Kill la Kill",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/kill-la-kill/images/0/01/Satsuki_Kiryuin(1).png/revision/latest?cb=20170301220730&path-prefix=es"
+        "image_reference": "https://static.wikia.nocookie.net/kill-la-kill/images/6/64/Senketsu.png/revision/latest/scale-to-width-down/275?cb=20140301064639"
       }
     },
     {
       "tag1": {
-        "id": "t0810",
-        "name": "furude_rika",
-        "proper_name": "Furude Rika",
+        "id": "t0894",
+        "name": "brendan_(pokemon)",
+        "proper_name": "Brendan",
         "category": "character",
-        "encrypted_count": "elBhYg==",
-        "copyright": "Higurashi When They Cry",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/when-they-cry/images/e/ee/RikaGou.png/revision/latest?cb=20210202063349&path-prefix=pt-br"
-      },
-      "tag2": {
-        "id": "t0647",
-        "name": "marcille_donato",
-        "proper_name": "Marcille Donato",
-        "category": "character",
-        "encrypted_count": "e1Rmag==",
-        "copyright": "Dorohedoro",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/99/Marcille_Donato_Delicious_Dungeon_anime_character_render.png/revision/latest?cb=20240218173012&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0665",
-        "name": "ikari_shinji",
-        "proper_name": "Ikari Shinji",
-        "category": "character",
-        "encrypted_count": "eVZibA==",
-        "copyright": "Neon Genesis Evangelion",
-        "material": "Anime",
-        "image_reference": "https://pm1.narvii.com/6220/4bf1876967db1d33deebc7a76510adbc90f9e96a_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0922",
-        "name": "skadi_(arknights)",
-        "proper_name": "Skadi",
-        "category": "character",
-        "encrypted_count": "eFRhYw==",
-        "copyright": "Arknights",
+        "encrypted_count": "fVVubw==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://arknights.rus.wiki/media/uploads/0fdfcbac-arknights.rus.wiki-skadi-char-263-skadi-11.png"
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/c/ce/Brendan_Omega_Ruby_and_Alpha_Sapphire_concept_art.png/revision/latest?cb=20160513212418"
+      },
+      "tag2": {
+        "id": "t0909",
+        "name": "mordred_(fate)",
+        "proper_name": "Mordred",
+        "category": "character",
+        "encrypted_count": "eFViYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/d9/13/56/d91356ac5b500a9cbeb4dfcb5c0f2a66.png"
       }
     },
     {
       "tag1": {
-        "id": "t0862",
-        "name": "kachimachi_kosuzu",
-        "proper_name": "Kachimachi Kosuzu",
+        "id": "t0492",
+        "name": "joseph_joestar_(young)",
+        "proper_name": "Young Joseph Joestar",
         "category": "character",
-        "encrypted_count": "fVZkaw==",
+        "encrypted_count": "eFViag==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
+      },
+      "tag2": {
+        "id": "t0257",
+        "name": "senjougahara_hitagi",
+        "proper_name": "Senjougahara Hitagi",
+        "category": "character",
+        "encrypted_count": "fVZuaQ==",
+        "copyright": "Monogatari Series",
+        "material": "Anime",
+        "image_reference": "https://1.bp.blogspot.com/-Su1PAdKQzao/WHHpgH_v2QI/AAAAAAAABMg/wvAO-6iJMp0n84RNYlC1aye6wSBeH9vuwCEw/s1600/Hitagi_bake_designs.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0396",
+        "name": "sonia_(pokemon)",
+        "proper_name": "Sonia",
+        "category": "character",
+        "encrypted_count": "elBmbQ==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/3/3b/Sword_Shield_Sonia.png"
+      },
+      "tag2": {
+        "id": "t0301",
+        "name": "tomoe_gozen_(fate)",
+        "proper_name": "Tomoe Gozen",
+        "category": "character",
+        "encrypted_count": "fVRmaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6999/99662f2ac78d6680faaed4cc6b30d0b4757f43dcr1-850-1073v2_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0732",
+        "name": "made_in_abyss",
+        "proper_name": "Made in Abyss",
+        "category": "copyright",
+        "encrypted_count": "eFVlaQ==",
+        "copyright": "Made in Abyss",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/madeinabyss/images/c/c4/Made-In-Abyss-Logo.png/revision/latest?cb=20170708222105"
+      },
+      "tag2": {
+        "id": "t0910",
+        "name": "momoi_(blue_archive)",
+        "proper_name": "Momoi",
+        "category": "character",
+        "encrypted_count": "e1NvYg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Momoi_Portrait.png/revision/latest?cb=20220420085033"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0431",
+        "name": "hayate_no_gotoku!",
+        "proper_name": "Hayate no Gotoku!",
+        "category": "copyright",
+        "encrypted_count": "fVxubQ==",
+        "copyright": "Hayate no Gotoku!",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
+      },
+      "tag2": {
+        "id": "t0719",
+        "name": "mococo_abyssgard",
+        "proper_name": "Mococo Abyssgard",
+        "category": "character",
+        "encrypted_count": "elZhaw==",
+        "copyright": "N/A",
+        "material": "N/A",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2021/07/Mococo-Abyssgard_pr-img_03.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0863",
+        "name": "kitasan_black_(umamusume)",
+        "proper_name": "Kitasan Black",
+        "category": "character",
+        "encrypted_count": "fVBjag==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/7/73/Kitasan_black_anime.png/revision/latest?cb=20210109020442"
+      },
+      "tag2": {
+        "id": "t0755",
+        "name": "cevio",
+        "proper_name": "CeVIO",
+        "category": "copyright",
+        "encrypted_count": "fV1iYw==",
+        "copyright": "CeVIO",
+        "material": "Music Software",
+        "image_reference": "https://cevio.jp/wp-content/uploads/2020/11/CeVIOAI_LOGO_data.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0277",
+        "name": "oshiro_project:re",
+        "proper_name": "Oshiro Project: Re",
+        "category": "copyright",
+        "encrypted_count": "fVRjaQ==",
+        "copyright": "Oshiro Project: Re",
+        "material": "Video Game",
+        "image_reference": "https://play-lh.googleusercontent.com/mZqL67H8JkcYvkTYS1ZFA2ZswkmlAJeo4XjEZZUCfvw5JXiBLhp9ExrXKiigv0gfzSE=w526-h296-rw"
+      },
+      "tag2": {
+        "id": "t0845",
+        "name": "kama_(fate)",
+        "proper_name": "Kama",
+        "category": "character",
+        "encrypted_count": "elRmaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/0/01/AssassinKamaStage3.png/revision/latest?cb=20210330120437"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0161",
+        "name": "haru_urara_(umamusume)",
+        "proper_name": "Haru Urara",
+        "category": "character",
+        "encrypted_count": "fFNkbQ==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Haru.Urara.full.3657738.png"
+      },
+      "tag2": {
+        "id": "t0138",
+        "name": "yorigami_jo'on",
+        "proper_name": "Yorigami Joon",
+        "category": "character",
+        "encrypted_count": "fFJmbw==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.myfigurecollection.net/upload/entries/1/377786-f2961.jpg"
-      },
-      "tag2": {
-        "id": "t0333",
-        "name": "kise_yayoi",
-        "proper_name": "Kise Yayoi",
-        "category": "character",
-        "encrypted_count": "fVRibA==",
-        "copyright": "The iDOLM@STER",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0510",
-        "name": "watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!",
-        "proper_name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-        "category": "copyright",
-        "encrypted_count": "eFBlbg==",
-        "copyright": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/7d/ce/f7/7dcef7efe40b9739963376bb23afa323.jpg"
-      },
-      "tag2": {
-        "id": "t0796",
-        "name": "misty_(pokemon)",
-        "proper_name": "Misty",
-        "category": "character",
-        "encrypted_count": "f1duakc=",
-        "copyright": "Pokemon",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/6/6e/JoonYorigami1.2.png/revision/latest?cb=20230430211416"
       }
     }
   ]
