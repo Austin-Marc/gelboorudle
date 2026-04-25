@@ -1,228 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-04-24T06:02:57.083164+00:00
-// Date: 2026-04-24
+// Generated on: 2026-04-25T05:43:15.347265+00:00
+// Date: 2026-04-25
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0449",
-        "name": "azki_(hololive)",
-        "proper_name": "AZKi",
+        "id": "t0900",
+        "name": "female_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Female)",
         "category": "character",
-        "encrypted_count": "fFJnYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/9/99/AZKi_-_Portrait_02-2-2.png/580px-AZKi_-_Portrait_02-2-2.png"
-      },
-      "tag2": {
-        "id": "t0497",
-        "name": "little_busters!",
-        "proper_name": "Little Busters!",
-        "category": "copyright",
-        "encrypted_count": "eFxgYw==",
-        "copyright": "Little Busters!",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/littlebusters/images/e/e6/Site-logo.png/revision/latest?cb=20210713161239"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0433",
-        "name": "n_(pokemon)",
-        "proper_name": "N",
-        "category": "character",
-        "encrypted_count": "fF1ibw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/01/N_Black_2_and_White_2.png/revision/latest?cb=20220603233630"
-      },
-      "tag2": {
-        "id": "t0288",
-        "name": "mogami_(kancolle)",
-        "proper_name": "Mogami",
-        "category": "character",
-        "encrypted_count": "fFFjbg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/5/5b/Ship_Card_Mogami_Kai_Ni.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0408",
-        "name": "skyla_(pokemon)",
-        "proper_name": "Skyla",
-        "category": "character",
-        "encrypted_count": "e1Fgbg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/d/d2/Spr_Masters_Skyla.png"
-      },
-      "tag2": {
-        "id": "t0418",
-        "name": "mizuno_ami",
-        "proper_name": "Mizuno Ami",
-        "category": "character",
-        "encrypted_count": "eldhYg==",
-        "copyright": "Sailor Moon",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0004",
-        "name": "blue_archive",
-        "proper_name": "Blue Archive",
-        "category": "copyright",
-        "encrypted_count": "fVBibUgC",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
-      },
-      "tag2": {
-        "id": "t0609",
-        "name": "library_of_ruina",
-        "proper_name": "Library of Ruina",
-        "category": "copyright",
-        "encrypted_count": "e1VkaA==",
-        "copyright": "Library of Ruina",
-        "material": "Video Game",
-        "image_reference": "https://libraryofruina.wiki.gg/images/e/e6/Site-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0887",
-        "name": "shiomi_kotone",
-        "proper_name": "Shiomi Kotone",
-        "category": "character",
-        "encrypted_count": "fFFubQ==",
-        "copyright": "Kagurazaka's Work",
-        "material": "Anime",
-        "image_reference": "https://megatenwiki.com/images/thumb/8/8e/P3P_Kotone_Shiomi_Artwork.png/640px-P3P_Kotone_Shiomi_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0746",
-        "name": "yelan_(genshin_impact)",
-        "proper_name": "Yelan",
-        "category": "character",
-        "encrypted_count": "elJhYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0219",
-        "name": "admire_vega_(umamusume)",
-        "proper_name": "Admire Vega",
-        "category": "character",
-        "encrypted_count": "fFJibw==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Admire.Vega.full.3896993.jpg"
-      },
-      "tag2": {
-        "id": "t0901",
-        "name": "inugami_korone",
-        "proper_name": "Inugami Korone",
-        "category": "character",
-        "encrypted_count": "eFdmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c6/Inugami_Korone_Portrait.png/revision/latest?cb=20200609201058"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0683",
-        "name": "lucina_(fire_emblem)",
-        "proper_name": "Lucina",
-        "category": "character",
-        "encrypted_count": "eFJmYg==",
+        "encrypted_count": "eVdmbQ==",
         "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://cdn.fireemblemwiki.org/c/c4/FEA_Lucina_03.png"
+        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
       },
       "tag2": {
-        "id": "t0015",
-        "name": "hatsune_miku",
-        "proper_name": "Hatsune Miku",
+        "id": "t0077",
+        "name": "higashikata_josuke",
+        "proper_name": "Higashikata Josuke",
         "category": "character",
-        "encrypted_count": "f1Zvb0II",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0575",
-        "name": "nerissa_ravencroft",
-        "proper_name": "Nerissa Ravencroft",
-        "category": "character",
-        "encrypted_count": "e1Zhaw==",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_pr-img_01.png"
-      },
-      "tag2": {
-        "id": "t0338",
-        "name": "mayano_top_gun_(umamusume)",
-        "proper_name": "Mayano Top Gun",
-        "category": "character",
-        "encrypted_count": "fFJnaw==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Mayano.Top.Gun.full.3657606.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0251",
-        "name": "kicchou_yachie",
-        "proper_name": "Kicchou Yachie",
-        "category": "character",
-        "encrypted_count": "fFFgbg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
-      },
-      "tag2": {
-        "id": "t0069",
-        "name": "hiiragi_tsukasa",
-        "proper_name": "Hiiragi Tsukasa",
-        "category": "character",
-        "encrypted_count": "elVgYw==",
-        "copyright": "Lucky Star",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/9/92/Tsukasa-san.gif/revision/latest?cb=20120723133432"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0678",
-        "name": "murasaki_shion",
-        "proper_name": "Murasaki Shion",
-        "category": "character",
-        "encrypted_count": "e1Riaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/3/3f/Murasaki_Shion_Portrait.png/revision/latest?cb=20200616011940"
-      },
-      "tag2": {
-        "id": "t0383",
-        "name": "yoru_(chainsaw_man)",
-        "proper_name": "Yoru",
-        "category": "character",
-        "encrypted_count": "fF1mbw==",
-        "copyright": "Chainsaw Man",
+        "encrypted_count": "fVdmbg==",
+        "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b7/Img_cm_yoru_manga.png/revision/latest?cb=20231025061200&path-prefix=pt-br"
+        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0559",
+        "name": "anchovy_(girls_und_panzer)",
+        "proper_name": "Anchovy",
+        "category": "character",
+        "encrypted_count": "e1xiaw==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/7/79/Anchovy.png/revision/latest?cb=20170123061720"
+      },
+      "tag2": {
+        "id": "t0242",
+        "name": "houjou_satoko",
+        "proper_name": "Houjou Satoko",
+        "category": "character",
+        "encrypted_count": "fVdvYw==",
+        "copyright": "Higurashi When They Cry",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikitide.net/whentheycrywiki/1/16/Alc_sa1a_def_a1_2.png?version=412d4aa183c927277ad2171f039940c1"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0213",
+        "name": "satou_kazuma",
+        "proper_name": "Kazuma Satou",
+        "category": "character",
+        "encrypted_count": "fVdubQ==",
+        "copyright": "KonoSuba",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/44/Kazuma_Sato.png"
+      },
+      "tag2": {
+        "id": "t0098",
+        "name": "akigumo_(kancolle)",
+        "proper_name": "Akigumo",
+        "category": "character",
+        "encrypted_count": "fFxvaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e5/Akigumo_Card.png/revision/latest?cb=20180817195311"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0742",
+        "name": "exusiai_(arknights)",
+        "proper_name": "Exusiai",
+        "category": "character",
+        "encrypted_count": "elBiaA==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/24/Exusiai.png/revision/latest?cb=20190623025141"
+      },
+      "tag2": {
+        "id": "t0685",
+        "name": "yugiri_tsuzuri",
+        "proper_name": "Yugiri Tsuzuri",
+        "category": "character",
+        "encrypted_count": "fV1nbw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/7/73/Tsuzuri_Yugiri_2024.png/revision/latest/scale-to-width-down/1200?cb=20240615060116"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0583",
+        "name": "amami_haruka",
+        "proper_name": "Amami Haruka",
+        "category": "character",
+        "encrypted_count": "e1xjbg==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/1/1a/Normal_Haruka_Amami_Mobage_Transparent.png/revision/latest?cb=20180709223230"
+      },
+      "tag2": {
+        "id": "t0026",
+        "name": "gundam",
+        "proper_name": "Gundam",
+        "category": "copyright",
+        "encrypted_count": "eVNmaEY=",
+        "copyright": "Gundam",
+        "material": "Anime",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjQ3MmU1M2QtODc5My00MDhkLWEwZmItMGM2ODUzODA2YzY0XkEyXkFqcGc@._V1_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0612",
+        "name": "yahari_ore_no_seishun_lovecome_wa_machigatteiru.",
+        "proper_name": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+        "category": "copyright",
+        "encrypted_count": "eFBhaw==",
+        "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+        "material": "Light Novel",
+        "image_reference": "https://i.pinimg.com/originals/43/5a/6d/435a6dc4d67daa09531dd2cb4a0595dd.jpg"
+      },
+      "tag2": {
+        "id": "t0963",
+        "name": "acheron_(honkai:_star_rail)",
+        "proper_name": "Acheron",
+        "category": "character",
+        "encrypted_count": "e1JkYg==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/12/honkai-star-rail-acheron-3.jpeg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0323",
+        "name": "working!!",
+        "proper_name": "Working!!",
+        "category": "copyright",
+        "encrypted_count": "fVFkaQ==",
+        "copyright": "Working!!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
+      },
+      "tag2": {
+        "id": "t0394",
+        "name": "lyra_(pokemon)",
+        "proper_name": "Lyra",
+        "category": "character",
+        "encrypted_count": "fVZkag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/d/d8/Lyra.png/revision/latest?cb=20160116133943"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0228",
+        "name": "overlord_(maruyama)",
+        "proper_name": "Overlord",
+        "category": "copyright",
+        "encrypted_count": "e1ZibQ==",
+        "copyright": "Overlord",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Overlord_logo.png"
+      },
+      "tag2": {
+        "id": "t0037",
+        "name": "mayuzumi_fuyuko",
+        "proper_name": "Mayuzumi Fuyuko",
+        "category": "character",
+        "encrypted_count": "fVJuYg==",
+        "image_reference": "https://image.shinycolors.wiki/d/da/FuyukoProfile.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0795",
+        "name": "sanji_(one_piece)",
+        "proper_name": "Sanji",
+        "category": "character",
+        "encrypted_count": "eFJibw==",
+        "copyright": "One Piece",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
+      },
+      "tag2": {
+        "id": "t0741",
+        "name": "nozomi_(blue_archive)",
+        "proper_name": "Nozomi",
+        "category": "character",
+        "encrypted_count": "elBnaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/0/0b/Nozomi.png?version=5b03c5a5d159b8b68eb6287e9738dace"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0362",
+        "name": "soulcalibur",
+        "proper_name": "Soulcalibur",
+        "category": "copyright",
+        "encrypted_count": "elVvbg==",
+        "copyright": "Soulcalibur",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cb/Soul_Calibur_logo.png/revision/latest?cb=20140721234029"
+      },
+      "tag2": {
+        "id": "t0912",
+        "name": "miorine_rembran",
+        "proper_name": "Miorine Rembran",
+        "category": "character",
+        "encrypted_count": "eFRmYg==",
+        "copyright": "Mobile Suit Gundam: The Witch from Mercury",
+        "material": "Anime",
+        "image_reference": "https://en.gundam.info/about-gundam/series-pages/witch/gwitch/jp/character/2023/05/205_front_2.png"
       }
     }
   ]
