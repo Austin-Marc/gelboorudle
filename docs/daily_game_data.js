@@ -1,134 +1,124 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-05-05T06:09:54.097815+00:00
-// Date: 2026-05-05
+// Generated on: 2026-05-06T06:24:09.406045+00:00
+// Date: 2026-05-06
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0191",
-        "name": "sylveon",
-        "proper_name": "Sylveon",
+        "id": "t0043",
+        "name": "izuna_(blue_archive)",
+        "proper_name": "Izuna",
         "category": "character",
-        "encrypted_count": "elVgYg==",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "fVBhaQ==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemonopedia/images/b/b2/Shiny2.png/revision/latest?cb=20141109112421&path-prefix=pl"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
       },
       "tag2": {
-        "id": "t0333",
-        "name": "kise_yayoi",
-        "proper_name": "Kise Yayoi",
+        "id": "t0784",
+        "name": "akamatsu_kaede",
+        "proper_name": "Akamatsu Kaede",
         "category": "character",
-        "encrypted_count": "fVRibA==",
-        "copyright": "The iDOLM@STER",
+        "encrypted_count": "eldhYw==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0591",
+        "name": "belle_(zenless_zone_zero)",
+        "proper_name": "Belle",
+        "category": "character",
+        "encrypted_count": "elNlbg==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6e/Agent_Belle_Portrait.png/revision/latest?cb=20240707002545"
+      },
+      "tag2": {
+        "id": "t0488",
+        "name": "nikki_(series)",
+        "proper_name": "Nikki Series",
+        "category": "copyright",
+        "encrypted_count": "eFZmaA==",
+        "copyright": "Nikki Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0792",
+        "name": "kasane_teto_(utau)",
+        "proper_name": "Kasane Teto",
+        "category": "character",
+        "encrypted_count": "fVNubw==",
+        "copyright": "UTAU",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/utau/images/b/b6/Tetostand.png/revision/latest?cb=20221221222057"
+      },
+      "tag2": {
+        "id": "t0550",
+        "name": "aikatsu!",
+        "proper_name": "Aikatsu!",
+        "category": "copyright",
+        "encrypted_count": "eFdlbg==",
+        "copyright": "Aikatsu!",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/Aikatsu222.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0594",
-        "name": "bismarck_(kancolle)",
-        "proper_name": "Bismarck",
-        "category": "character",
-        "encrypted_count": "el1vag==",
-        "copyright": "Kantai Collection",
+        "id": "t0956",
+        "name": "amagami",
+        "proper_name": "Amagami",
+        "category": "copyright",
+        "encrypted_count": "eFNvbA==",
+        "copyright": "Amagami",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Bismarck.(Kantai.Collection).600.2131132.jpg"
+        "image_reference": "https://de-academic.com/pictures/dewiki/65/Amagami_SS_(Logo).png"
       },
       "tag2": {
-        "id": "t0901",
-        "name": "inugami_korone",
-        "proper_name": "Inugami Korone",
-        "category": "character",
-        "encrypted_count": "eFdmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c6/Inugami_Korone_Portrait.png/revision/latest?cb=20200609201058"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0349",
-        "name": "laffey_(azur_lane)",
-        "proper_name": "Laffey",
-        "category": "character",
-        "encrypted_count": "fFxnbg==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/2/2a/Laffey.png"
-      },
-      "tag2": {
-        "id": "t0368",
-        "name": "black_swan_(honkai:_star_rail)",
-        "proper_name": "Black Swan",
-        "category": "character",
-        "encrypted_count": "fFFvbA==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Character_Black_Swan_Introduction.png/revision/latest?cb=20231212041201"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0758",
-        "name": "sailor_moon",
-        "proper_name": "Sailor Moon",
-        "category": "character",
-        "encrypted_count": "eFBhYw==",
-        "copyright": "Sailor Moon",
+        "id": "t0226",
+        "name": "yuri!!!_on_ice",
+        "proper_name": "Yuri!!! on ICE",
+        "category": "copyright",
+        "encrypted_count": "fVdnbA==",
+        "copyright": "Yuri!!! on ICE",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_(1992).png/revision/latest?cb=20231109134853&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0121",
-        "name": "aisaka_taiga",
-        "proper_name": "Aisaka Taiga",
-        "category": "character",
-        "encrypted_count": "fVNhYw==",
-        "copyright": "Toradora!",
-        "material": "Light Novel",
-        "image_reference": "https://anibase.net/files/076c0373d3a43576ada022e81b5be19c/360"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6YWsFdsN90j7jwUoV9LzaEFb96hoevDz1A--O3VGX_DqgBhW4Zj1pJGBIwN25bKoiUybLw"
       }
     },
     {
       "tag1": {
-        "id": "t0586",
-        "name": "ooi_(kancolle)",
-        "proper_name": "Ooi",
+        "id": "t0596",
+        "name": "aki_shizuha",
+        "proper_name": "Aki Shizuha",
         "category": "character",
-        "encrypted_count": "eldgag==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "elxuYg==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Ooi.(Kantai.Collection).1024.4416436.webp"
+        "image_reference": "https://static.wikia.nocookie.net/the-outsider-who-loved-gensokyo/images/3/3b/Shizuha_Smile.png/revision/latest?cb=20190404011450"
       },
       "tag2": {
-        "id": "t0921",
-        "name": "gloria_(pokemon)",
-        "proper_name": "Gloria",
+        "id": "t0795",
+        "name": "sanji_(one_piece)",
+        "proper_name": "Sanji",
         "category": "character",
-        "encrypted_count": "eVFuaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2b/latest/20220314054856/Gloria.png/1200px-Gloria.png"
+        "encrypted_count": "eFJibw==",
+        "copyright": "One Piece",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
       }
     },
     {
       "tag1": {
-        "id": "t0573",
-        "name": "nilou_(genshin_impact)",
-        "proper_name": "Nilou",
-        "category": "character",
-        "encrypted_count": "e1FgaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859"
-      },
-      "tag2": {
         "id": "t0329",
         "name": "asahina_mafuyu",
         "proper_name": "Asahina Mafuyu",
@@ -137,92 +127,104 @@ const DAILY_GAME_DATA = {
         "copyright": "Project Sekai: Colorful Stage! feat. Hatsune Miku",
         "material": "Video Game",
         "image_reference": "https://colorfulstage.com/img/ogtag_twitter.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0099",
-        "name": "nagisa_kaworu",
-        "proper_name": "Nagisa Kaworu",
+      },
+      "tag2": {
+        "id": "t0740",
+        "name": "ex-keine",
+        "proper_name": "Ex-Keine",
         "category": "character",
-        "encrypted_count": "elVvaw==",
-        "copyright": "Neon Genesis Evangelion",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Eva24DC_Kaworu.jpg/230px-Eva24DC_Kaworu.jpg"
-      },
-      "tag2": {
-        "id": "t0752",
-        "name": "mobile_suit_gundam",
-        "proper_name": "Mobile Suit Gundam",
-        "category": "copyright",
-        "encrypted_count": "eFNibA==",
-        "copyright": "Mobile Suit Gundam",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png/revision/latest?cb=20190720061056"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0020",
-        "name": "hololive_english",
-        "proper_name": "Hololive English",
-        "category": "copyright",
-        "encrypted_count": "d1Vja0Y=",
-        "copyright": "Hololive English",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
-      },
-      "tag2": {
-        "id": "t0427",
-        "name": "senran_kagura_new_link",
-        "proper_name": "Senran Kagura: New Link",
-        "category": "copyright",
-        "encrypted_count": "fFxhbg==",
-        "copyright": "Senran Kagura",
+        "encrypted_count": "fV1vaQ==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://www.giantbomb.com/a/uploads/scale_medium/0/9536/2954447-7552396149-logo_.png"
+        "image_reference": "https://en.touhouwiki.net/images/thumb/d/d6/Th08KeineKamishirasawa1.png/180px-Th08KeineKamishirasawa1.png"
       }
     },
     {
       "tag1": {
-        "id": "t0055",
-        "name": "fate/prototype",
-        "proper_name": "Fate/prototype",
-        "category": "copyright",
-        "encrypted_count": "elVnaA==",
-        "copyright": "Fate Series",
-        "material": "Light Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        "id": "t0182",
+        "name": "kamado_nezuko",
+        "proper_name": "Kamado Nezuko",
+        "category": "character",
+        "encrypted_count": "eldnaw==",
+        "copyright": "Demon Slayer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Nezuko_anime.png/revision/latest?cb=20211119014953"
       },
       "tag2": {
-        "id": "t0129",
-        "name": "i-58_(kancolle)",
-        "proper_name": "I-58",
+        "id": "t0581",
+        "name": "asuna_(sao)",
+        "proper_name": "Asuna",
         "category": "character",
-        "encrypted_count": "fF1gaw==",
+        "encrypted_count": "eVRnYw==",
+        "copyright": "Sword Art Online",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0610",
+        "name": "fire_emblem:_radiant_dawn",
+        "proper_name": "Fire Emblem: Radiant Dawn",
+        "category": "copyright",
+        "encrypted_count": "eFZkYw==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://vignette2.wikia.nocookie.net/fireemblem/images/1/11/Logo_Fire_Emblem_Radiant_Dawn.png/revision/latest?cb=20170222084554&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0376",
+        "name": "vivian_banshee",
+        "proper_name": "Vivian Banshee",
+        "category": "character",
+        "encrypted_count": "fFFhaQ==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0438",
+        "name": "tamamo_cat_(fate)",
+        "proper_name": "Tamamo Cat",
+        "category": "character",
+        "encrypted_count": "fFBibA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
+      },
+      "tag2": {
+        "id": "t0355",
+        "name": "isokaze_(kancolle)",
+        "proper_name": "Isokaze",
+        "category": "character",
+        "encrypted_count": "fFJkYg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/9/96/Ship_Card_I-58.png/218px-Ship_Card_I-58.png"
+        "image_reference": "https://static.zerochan.net/Isokaze.(Kantai.Collection).full.2420339.png"
       }
     },
     {
       "tag1": {
-        "id": "t0742",
-        "name": "exusiai_(arknights)",
-        "proper_name": "Exusiai",
-        "category": "character",
-        "encrypted_count": "elBiaA==",
-        "copyright": "Arknights",
+        "id": "t0726",
+        "name": "idolmaster_1",
+        "proper_name": "The Idolmaster",
+        "category": "copyright",
+        "encrypted_count": "elRkbA==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/24/Exusiai.png/revision/latest?cb=20190623025141"
+        "image_reference": "https://cdn.wikiwiki.jp/to/w/idolmaster/FrontPage/::ref/logo_the_idolmaster.png?rev=5a915d03e828445793207cd3caa7d286&t=20180804233405"
       },
       "tag2": {
-        "id": "t0663",
-        "name": "osawa_rurino",
-        "proper_name": "Osawa Rurino",
+        "id": "t0148",
+        "name": "waver_velvet",
+        "proper_name": "Waver Velvet",
         "category": "character",
-        "encrypted_count": "elVgbQ==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d2/Osawa_Rurino.png/revision/latest/scale-to-width-down/1200?cb=20230210125149"
+        "encrypted_count": "fVRuaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/c7/af/52/c7af5289325440f1d4372f96af41445a.png"
       }
     }
   ]
