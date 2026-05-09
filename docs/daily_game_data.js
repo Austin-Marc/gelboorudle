@@ -1,228 +1,227 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-05-08T05:50:46.325177+00:00
-// Date: 2026-05-08
+// Generated on: 2026-05-09T06:09:16.299255+00:00
+// Date: 2026-05-09
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0319",
-        "name": "closers",
-        "proper_name": "Closers",
+        "id": "t0213",
+        "name": "satou_kazuma",
+        "proper_name": "Kazuma Satou",
+        "category": "character",
+        "encrypted_count": "fVdubQ==",
+        "copyright": "KonoSuba",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/44/Kazuma_Sato.png"
+      },
+      "tag2": {
+        "id": "t0316",
+        "name": "final_fantasy_viii",
+        "proper_name": "Final Fantasy VIII",
         "category": "copyright",
-        "encrypted_count": "fVdkYg==",
-        "copyright": "Closers",
-        "material": "Video Game",
-        "image_reference": "https://logodix.com/logo/1707726.png"
-      },
-      "tag2": {
-        "id": "t0505",
-        "name": "cu_chulainn_(fate)",
-        "proper_name": "Cu Chulainn",
-        "category": "character",
-        "encrypted_count": "eFVmYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0174",
-        "name": "dimitri_alexandre_blaiddyd",
-        "proper_name": "Dimitri Alexandre Blaiddyd",
-        "category": "character",
-        "encrypted_count": "fVFhaQ==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
-      },
-      "tag2": {
-        "id": "t0327",
-        "name": "bleach:_sennen_kessen-hen",
-        "proper_name": "Bleach: Thousand-Year Blood War",
-        "category": "copyright",
-        "encrypted_count": "elNmag==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://latestlogo.com/wp-content/uploads/2024/01/bleach-thousand-year-blood-war-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0818",
-        "name": "cu_chulainn_(lancer)_(fate)",
-        "proper_name": "Cu Chulainn (Lancer)",
-        "category": "character",
-        "encrypted_count": "fVJnbw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fateanother-ii/images/3/32/LancerCuChuGOStage1.png/revision/latest/scale-to-width-down/1200?cb=20210607112610"
-      },
-      "tag2": {
-        "id": "t0311",
-        "name": "makaino_ririmu",
-        "proper_name": "Makaino Ririmu",
-        "category": "character",
-        "encrypted_count": "fFxjaA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0091",
-        "name": "maya_(kancolle)",
-        "proper_name": "Maya",
-        "category": "character",
-        "encrypted_count": "fVRlYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0215",
-        "name": "kuma_(kancolle)",
-        "proper_name": "Kuma",
-        "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0092",
-        "name": "eren_yeager",
-        "proper_name": "Eren Yeager",
-        "category": "character",
-        "encrypted_count": "fV1uYw==",
-        "copyright": "Attack on Titan",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
-      },
-      "tag2": {
-        "id": "t0152",
-        "name": "final_fantasy_ix",
-        "proper_name": "Final Fantasy IX",
-        "category": "copyright",
-        "encrypted_count": "eldkbg==",
+        "encrypted_count": "fVNgaw==",
         "copyright": "Final Fantasy",
         "material": "Video Game",
-        "image_reference": "https://www.pngmart.com/files/22/Final-Fantasy-IX-Logo-PNG-File.png"
+        "image_reference": "https://cdn.finalfantasywiki.com/b/b4/FFVIII_logo.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0863",
-        "name": "kitasan_black_(umamusume)",
-        "proper_name": "Kitasan Black",
+        "id": "t0161",
+        "name": "haru_urara_(umamusume)",
+        "proper_name": "Haru Urara",
         "category": "character",
-        "encrypted_count": "fVBjag==",
-        "copyright": "Umamusume",
+        "encrypted_count": "fFNkbQ==",
+        "copyright": "Umamusume: Pretty Derby",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/7/73/Kitasan_black_anime.png/revision/latest?cb=20210109020442"
+        "image_reference": "https://static.zerochan.net/Haru.Urara.full.3657738.png"
       },
       "tag2": {
-        "id": "t0775",
-        "name": "satono_diamond_(umamusume)",
-        "proper_name": "Satono Diamond",
+        "id": "t0815",
+        "name": "hakui_koyori",
+        "proper_name": "Hakui Koyori",
         "category": "character",
-        "encrypted_count": "fV1uaQ==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://anibase.net/files/9c255b349e46f9a689fdc5f6574199f5/320"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0226",
-        "name": "yuri!!!_on_ice",
-        "proper_name": "Yuri!!! on ICE",
-        "category": "copyright",
-        "encrypted_count": "fVdnbA==",
-        "copyright": "Yuri!!! on ICE",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6YWsFdsN90j7jwUoV9LzaEFb96hoevDz1A--O3VGX_DqgBhW4Zj1pJGBIwN25bKoiUybLw"
-      },
-      "tag2": {
-        "id": "t0293",
-        "name": "wakamo_(blue_archive)",
-        "proper_name": "Wakamo",
-        "category": "character",
-        "encrypted_count": "fFxvaQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait/10033.webp"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0049",
-        "name": "gokou_ruri",
-        "proper_name": "Gokou Ruri",
-        "category": "character",
-        "encrypted_count": "fVxhbA==",
-        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/oreimo/images/c/cd/Kuroneko_Appearance.png/revision/latest?cb=20240414210944"
-      },
-      "tag2": {
-        "id": "t0764",
-        "name": "karyl_(princess_connect!)",
-        "proper_name": "Karyl",
-        "category": "character",
-        "encrypted_count": "elNiYw==",
-        "copyright": "Princess Connect!",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/a/a7/Kyaru_(game).png/revision/latest?cb=20180219103448"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0220",
-        "name": "sakurai_momoka",
-        "proper_name": "Sakurai Momoka",
-        "category": "character",
-        "encrypted_count": "fVJjbQ==",
-        "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/72/Sakurai_Momoka.png/revision/latest?cb=20230408124811"
-      },
-      "tag2": {
-        "id": "t0450",
-        "name": "hachimiya_meguru",
-        "proper_name": "Hachimiya Meguru",
-        "category": "character",
-        "encrypted_count": "fVRmbw==",
-        "copyright": "IdolMaster Shiny Colors",
+        "encrypted_count": "elRhaw==",
+        "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://image.shinycolors.wiki/4/4b/MeguruProfile.png"
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c2/Hakui_Koyori_Portrait.png/revision/latest?cb=20211203043838"
       }
     },
     {
       "tag1": {
-        "id": "t0467",
-        "name": "fou_(fate)",
-        "proper_name": "Fou",
+        "id": "t0692",
+        "name": "miyamoto_musashi_(fate)",
+        "proper_name": "Miyamoto Musashi",
         "category": "character",
-        "encrypted_count": "fFdkaQ==",
+        "encrypted_count": "e1dvag==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/c/c2/S153_Stage1.webp/revision/latest?cb=20220911082704"
       },
       "tag2": {
-        "id": "t0590",
-        "name": "kieran_(pokemon)",
-        "proper_name": "Kieran",
+        "id": "t0350",
+        "name": "kamijou_touma",
+        "proper_name": "Kamijou Touma",
         "category": "character",
-        "encrypted_count": "e1ZhbQ==",
-        "copyright": "Pokemon",
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "A Certain Magical Index",
+        "material": "Light Novel",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0385",
+        "name": "yang_xiao_long",
+        "proper_name": "Yang Xiao Long",
+        "category": "character",
+        "encrypted_count": "elVlaA==",
+        "copyright": "RWBY",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/rwby/images/8/89/Yang-v8-infobox.png/revision/latest/scale-to-width-down/1200?cb=20200726010350"
+      },
+      "tag2": {
+        "id": "t0254",
+        "name": "evelyn_chevalier",
+        "proper_name": "Evelyn Chevalier",
+        "category": "character",
+        "encrypted_count": "fF1uYw==",
+        "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/a/a7/Kieran_Pokemon_SV.png/revision/latest?cb=20230918055948&path-prefix=protagonist"
+        "image_reference": "https://static.wikitide.net/hoyodexwiki/4/45/Evelyn_Chevalier_(ZZ-MU).png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0198",
+        "name": "jeanne_d'arc_(ruler)_(fate)",
+        "proper_name": "Jeanne d'Arc (Ruler)",
+        "category": "character",
+        "encrypted_count": "dlFlag==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://get.wallhere.com/photo/Fate-Series-Fate-Apocrypha-anime-girls-Ruler-Fate-Apocrypha-Jeanne-d-Arc-blonde-1504105.jpg"
+      },
+      "tag2": {
+        "id": "t0395",
+        "name": "enterprise_(azur_lane)",
+        "proper_name": "Enterprise",
+        "category": "character",
+        "encrypted_count": "fFJmbQ==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/4/40/Enterprise.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0287",
+        "name": "satsuki_(kancolle)",
+        "proper_name": "Satsuki",
+        "category": "character",
+        "encrypted_count": "fFJgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0326",
+        "name": "komi-san_wa_komyushou_desu",
+        "proper_name": "Komi-san wa Komyushou desu",
+        "category": "copyright",
+        "encrypted_count": "elJjYw==",
+        "copyright": "Komi Can't Communicate",
+        "material": "Manga",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b1e4199-b81a-493a-b093-54056d1cc96f/deps4ag-0ec5e548-d953-4454-9e31-f07657e6688a.png/v1/fill/w_512,h_512/komi_san_wa__comyushou_desu__folder_icon_by_nocturnexi_deps4ag-fullview.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0441",
+        "name": "monokuma",
+        "proper_name": "Monokuma",
+        "category": "character",
+        "encrypted_count": "fFNubQ==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Danganronpa_V3_Monokuma_Sprite_(Standing)_(6).png/revision/latest?cb=20180430003830"
+      },
+      "tag2": {
+        "id": "t0893",
+        "name": "simon_(ttgl)",
+        "proper_name": "Simon",
+        "category": "character",
+        "encrypted_count": "fFNnbw==",
+        "copyright": "Tengen Toppa Gurren Lagann",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/p__/images/d/d6/Simon_the_Digger_(Post-Timeskip).png/revision/latest?cb=20181004055713&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0346",
+        "name": "sumino_takumi",
+        "proper_name": "Sumino Takumi",
+        "category": "character",
+        "encrypted_count": "fVxjbQ==",
+        "copyright": "KonoSuba: God's Blessing on This Wonderful World!",
+        "material": "Light Novel",
+        "image_reference": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw2bb73cab/rightstuf/9781975371135_manga-konosuba-gods-blessing-on-this-wonderful-world-fantastic-days-novel-primary.jpg"
+      },
+      "tag2": {
+        "id": "t0483",
+        "name": "hinoshita_kaho",
+        "proper_name": "Hinoshita Kaho",
+        "category": "character",
+        "encrypted_count": "e1ZmYw==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/1/17/Kaho_Hinoshita_2024.png/revision/latest/scale-to-width-down/1200?cb=20240413123839"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0568",
+        "name": "kamitsubaki_studio",
+        "proper_name": "Kamitsubaki Studio",
+        "category": "copyright",
+        "encrypted_count": "e1dnbw==",
+        "copyright": "Kamitsubaki Studio",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/01/Company-Logo_KAMITSUBAKI-STUDIO.png"
+      },
+      "tag2": {
+        "id": "t0370",
+        "name": "unryuu_(kancolle)",
+        "proper_name": "Unryuu",
+        "category": "character",
+        "encrypted_count": "fFJmaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/2/23/Ship_Card_Unryuu.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0334",
+        "name": "katsushika_hokusai_(fate)",
+        "proper_name": "Katsushika Hokusai",
+        "category": "character",
+        "encrypted_count": "fFNgbg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/9/90/S198_Stage1.webp/revision/latest?cb=20220911142141"
+      },
+      "tag2": {
+        "id": "t0655",
+        "name": "dandadan",
+        "proper_name": "Dandadan",
+        "category": "copyright",
+        "encrypted_count": "eFRibQ==",
+        "copyright": "Dandadan",
+        "material": "Manga",
+        "image_reference": "https://i.pinimg.com/originals/eb/33/ad/eb33adb6aaaa06b225c4e8cb5e389ec7.png"
       }
     }
   ]
