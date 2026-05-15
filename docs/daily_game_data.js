@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-05-14T06:40:33.050301+00:00
-// Date: 2026-05-14
+// Generated on: 2026-05-15T06:50:19.975966+00:00
+// Date: 2026-05-15
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0420",
-        "name": "mega_man_zx",
-        "proper_name": "Mega Man ZX",
-        "category": "copyright",
-        "encrypted_count": "fV1iaQ==",
-        "copyright": "Mega Man",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Mega_Man_ZX_logo.gif/revision/latest?cb=20110726202034"
-      },
-      "tag2": {
-        "id": "t0818",
-        "name": "cu_chulainn_(lancer)_(fate)",
-        "proper_name": "Cu Chulainn (Lancer)",
+        "id": "t0459",
+        "name": "shinonome_ena",
+        "proper_name": "Shinonome Ena",
         "category": "character",
-        "encrypted_count": "fVJnbw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fateanother-ii/images/3/32/LancerCuChuGOStage1.png/revision/latest/scale-to-width-down/1200?cb=20210607112610"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0094",
-        "name": "eila_ilmatar_juutilainen",
-        "proper_name": "Eila Ilmatar Juutilainen",
-        "category": "character",
-        "encrypted_count": "fVxnbA==",
-        "copyright": "Girls und Panzer",
+        "encrypted_count": "fFZgYw==",
+        "copyright": "D4DJ",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
+        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
       },
       "tag2": {
-        "id": "t0733",
-        "name": "takagaki_kaede",
-        "proper_name": "Takagaki Kaede",
+        "id": "t0807",
+        "name": "belfast_(azur_lane)",
+        "proper_name": "Belfast",
         "category": "character",
-        "encrypted_count": "elJmaA==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "elJjbA==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/f/f6/Cinderella_master_004_cover.jpg/1200px-Cinderella_master_004_cover.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/8/86/Belfast.png/revision/latest?cb=20190519143402"
       }
     },
     {
       "tag1": {
-        "id": "t0478",
-        "name": "komaeda_nagito",
-        "proper_name": "Nagito Komaeda",
+        "id": "t0138",
+        "name": "yorigami_jo'on",
+        "proper_name": "Yorigami Joon",
         "category": "character",
-        "encrypted_count": "eFFnbg==",
-        "copyright": "Danganronpa",
+        "encrypted_count": "fFJmbw==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/7/7d/Nagito_Komaeda_Illustration.png/revision/latest?cb=20180210181740&path-prefix=fr"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/6/6e/JoonYorigami1.2.png/revision/latest?cb=20230430211416"
       },
       "tag2": {
-        "id": "t0633",
-        "name": "love_live!_school_idol_festival",
-        "proper_name": "Love Live! School Idol Festival",
-        "category": "copyright",
-        "encrypted_count": "fVZuakg=",
-        "copyright": "Love Live!",
-        "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/102-1023896_love-live-school-idol-festival-logo-hd-png.png"
+        "id": "t0623",
+        "name": "shijou_takane",
+        "proper_name": "Shijou Takane",
+        "category": "character",
+        "encrypted_count": "e1xubA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/b/bd/Takane_Shijou_2nd_Vision_Normal.png/revision/latest?cb=20200510063245"
       }
     },
     {
       "tag1": {
-        "id": "t0076",
-        "name": "karin_(bunny)_(blue_archive)",
-        "proper_name": "Karin (Bunny)",
+        "id": "t0136",
+        "name": "mercy_(overwatch)",
+        "proper_name": "Mercy",
         "category": "character",
-        "encrypted_count": "fVJubg==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "eldvaQ==",
+        "copyright": "Overwatch",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/d/de/Karin_Bunny_Girl_Portrait.png/revision/latest?cb=20211001143254"
+        "image_reference": "https://static.wikia.nocookie.net/overwatch/images/7/75/Mercy-ow2.png/revision/latest?cb=20201122032817"
       },
       "tag2": {
-        "id": "t0617",
-        "name": "lobotomy_corporation",
-        "proper_name": "Lobotomy Corporation",
-        "category": "copyright",
-        "encrypted_count": "elxnaw==",
-        "copyright": "Lobotomy Corporation",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/tetisketunia/images/2/2f/L._Corp.png/revision/latest?cb=20230526190738&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0547",
-        "name": "dokidoki!_precure",
-        "proper_name": "Dokidoki! Precure",
-        "category": "copyright",
-        "encrypted_count": "eFZjaA==",
-        "copyright": "Precure",
+        "id": "t0092",
+        "name": "eren_yeager",
+        "proper_name": "Eren Yeager",
+        "category": "character",
+        "encrypted_count": "fV1uYw==",
+        "copyright": "Attack on Titan",
         "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrf6u-538d0742-2dbd-4af1-8a2f-3905c35af6bd.png/v1/fill/w_1174,h_486/dokidoki_precure_logo_by_ffprecurespain_defrf6u-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDg2IiwicGF0aCI6IlwvZlwvZDZhYmMzOTAtODUwOS00ZmE0LTk4NjctMzk4ZGQ0ODA0NjNjXC9kZWZyZjZ1LTUzOGQwNzQyLTJkYmQtNGFmMS04YTJmLTM5MDVjMzVhZjZiZC5wbmciLCJ3aWR0aCI6Ijw9MTE3NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tyTE0XTJZfyE1vrH2mqrFiRcjVpMZy_sf0EnhqFE4iU"
-      },
-      "tag2": {
-        "id": "t0091",
-        "name": "maya_(kancolle)",
-        "proper_name": "Maya",
-        "category": "character",
-        "encrypted_count": "fVRlYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
+        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
       }
     },
     {
       "tag1": {
-        "id": "t0166",
-        "name": "dizzy_(guilty_gear)",
-        "proper_name": "Dizzy",
+        "id": "t0038",
+        "name": "super_sonico",
+        "proper_name": "Super Sonico",
         "category": "character",
-        "encrypted_count": "elVjbw==",
-        "copyright": "Guilty Gear",
-        "material": "Video Game",
-        "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
-      },
-      "tag2": {
-        "id": "t0932",
-        "name": "son_goku",
-        "proper_name": "Son Goku",
-        "category": "character",
-        "encrypted_count": "dlJlYg==",
-        "copyright": "Dragon Ball",
+        "encrypted_count": "e1dkbQ==",
+        "copyright": "Super Sonico",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/dragon-ball-super1627/images/4/44/Goku_base_form.png/revision/latest/scale-to-width-down/300?cb=20160410013838"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Supersonicocharacter.jpg/250px-Supersonicocharacter.jpg"
+      },
+      "tag2": {
+        "id": "t0704",
+        "name": "raiden_mei",
+        "proper_name": "Raiden Mei",
+        "category": "character",
+        "encrypted_count": "elFmbg==",
+        "copyright": "Honkai Impact 3rd",
+        "material": "Video Game",
+        "image_reference": "https://gamepedia.cursecdn.com/honkaiimpact3_gamepedia_en/c/c6/Crimson_Impulse.png"
       }
     },
     {
       "tag1": {
-        "id": "t0657",
-        "name": "samidare_(kancolle)",
-        "proper_name": "Samidare",
-        "category": "character",
-        "encrypted_count": "elJgbg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/sample/55/a3/__samidare_kantai_collection_drawn_by_dangan_kurabu__sample-55a33481aaa5fe9a23ab4c80ba009ff8.jpg"
-      },
-      "tag2": {
-        "id": "t0567",
-        "name": "fire_emblem:_genealogy_of_the_holy_war",
-        "proper_name": "Fire Emblem: Genealogy of the Holy War",
+        "id": "t0017",
+        "name": "fire_emblem",
+        "proper_name": "Fire Emblem",
         "category": "copyright",
-        "encrypted_count": "e11kYg==",
+        "encrypted_count": "f1diYkMC",
         "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/2/2c/FESK_Logo.png/1200px-FESK_Logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/1/1b/Fire_Emblem_Engage_Box_Art.png/revision/latest/thumbnail/width/360/height/450?cb=20220914001431"
+      },
+      "tag2": {
+        "id": "t0859",
+        "name": "spice_and_wolf",
+        "proper_name": "Spice and Wolf",
+        "category": "copyright",
+        "encrypted_count": "elBgbw==",
+        "copyright": "Spice and Wolf",
+        "material": "Light Novel",
+        "image_reference": "https://images.fanart.tv/fanart/spice-and-wolf-576941a008b12.png"
       }
     },
     {
       "tag1": {
-        "id": "t0434",
-        "name": "futami_mami",
-        "proper_name": "Futami Mami",
+        "id": "t0744",
+        "name": "amamiya_ren",
+        "proper_name": "Amamiya Ren",
         "category": "character",
-        "encrypted_count": "fFxvYg==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "e1Rnbg==",
+        "copyright": "Persona 5",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/4/46/Mami_Futami_2nd_Vision_Normal.png/revision/latest?cb=20200608040131"
+        "image_reference": "https://megatenwiki.com/images/5/53/P5D_Ren_Amamiya_Artwork.png"
       },
       "tag2": {
-        "id": "t0007",
-        "name": "hololive",
-        "proper_name": "Hololive",
-        "category": "copyright",
-        "encrypted_count": "fFNibEAH",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/f/fc/Hololive_production_Logo.png/revision/latest/scale-to-width-down/1200?cb=20200703020700"
+        "id": "t0351",
+        "name": "gengar",
+        "proper_name": "Gengar",
+        "category": "character",
+        "encrypted_count": "fVdibA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/4/47/0094Gengar.png/1200px-0094Gengar.png"
       }
     },
     {
       "tag1": {
-        "id": "t0265",
-        "name": "mankanshoku_mako",
-        "proper_name": "Mankanshoku Mako",
+        "id": "t0722",
+        "name": "ishtar_(fate)",
+        "proper_name": "Ishtar",
         "category": "character",
-        "encrypted_count": "fVFgYw==",
-        "copyright": "Kill la Kill",
-        "material": "Anime",
-        "image_reference": "https://www.pngkey.com/png/detail/790-7906667_mako-mankanshoku-drawings-kill-la-kill-mako-senketsu.png"
+        "encrypted_count": "e1Rkbg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/FGO-Ishtar.jpg"
       },
       "tag2": {
-        "id": "t0383",
-        "name": "yoru_(chainsaw_man)",
-        "proper_name": "Yoru",
+        "id": "t0793",
+        "name": "jane_doe_(zenless_zone_zero)",
+        "proper_name": "Jane Doe",
         "category": "character",
-        "encrypted_count": "fF1mbw==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b7/Img_cm_yoru_manga.png/revision/latest?cb=20231025061200&path-prefix=pt-br"
+        "encrypted_count": "elZiag==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Agent_Jane_Doe_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240712062618"
       }
     },
     {
       "tag1": {
-        "id": "t0802",
-        "name": "haikyuu!!",
-        "proper_name": "Haikyuu!!",
+        "id": "t0029",
+        "name": "zenless_zone_zero",
+        "proper_name": "Zenless Zone Zero",
         "category": "copyright",
-        "encrypted_count": "e1Jmag==",
-        "copyright": "Haikyuu!!",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
+        "encrypted_count": "e1xgb0I=",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Zenless_Zone_Zero_curved_box_logo.svg/250px-Zenless_Zone_Zero_curved_box_logo.svg.png"
       },
       "tag2": {
-        "id": "t0648",
-        "name": "la+_darknesss",
-        "proper_name": "La+ Darknesss",
+        "id": "t0042",
+        "name": "shiroko_terror_(blue_archive)",
+        "proper_name": "Shiroko Terror",
         "category": "character",
-        "encrypted_count": "e1Znbg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6f/Illustrator_Artwork_-_holoX_01.jpg/revision/latest/scale-to-width-down/1200?cb=20230312194809"
+        "encrypted_count": "fVdvbg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0251",
+        "name": "kicchou_yachie",
+        "proper_name": "Kicchou Yachie",
+        "category": "character",
+        "encrypted_count": "fFFgbg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
+      },
+      "tag2": {
+        "id": "t0086",
+        "name": "final_fantasy_vi",
+        "proper_name": "Final Fantasy VI",
+        "category": "copyright",
+        "encrypted_count": "elxkbw==",
+        "copyright": "Final Fantasy VI",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0256",
+        "name": "mihono_bourbon_(umamusume)",
+        "proper_name": "Mihono Bourbon",
+        "category": "character",
+        "encrypted_count": "fFFmbw==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Mihono.Bourbon.600.3657614.jpg"
+      },
+      "tag2": {
+        "id": "t0312",
+        "name": "vodka_(umamusume)",
+        "proper_name": "Vodka",
+        "category": "character",
+        "encrypted_count": "fFZuaw==",
+        "copyright": "Uma Musume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Vodka.(Uma.Musume).600.3298337.jpg"
       }
     }
   ]
