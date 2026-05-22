@@ -1,229 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-05-21T07:41:51.565561+00:00
-// Date: 2026-05-21
+// Generated on: 2026-05-22T07:36:19.069989+00:00
+// Date: 2026-05-22
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0329",
-        "name": "asahina_mafuyu",
-        "proper_name": "Asahina Mafuyu",
-        "category": "character",
-        "encrypted_count": "fFdhag==",
-        "copyright": "Project Sekai: Colorful Stage! feat. Hatsune Miku",
-        "material": "Video Game",
-        "image_reference": "https://colorfulstage.com/img/ogtag_twitter.png"
-      },
-      "tag2": {
-        "id": "t0274",
-        "name": "sayonara_zetsubou_sensei",
-        "proper_name": "Sayonara, Zetsubou-Sensei",
+        "id": "t0322",
+        "name": "cookie_run:_kingdom",
+        "proper_name": "Cookie Run: Kingdom",
         "category": "copyright",
-        "encrypted_count": "fVdjYw==",
-        "copyright": "Sayonara, Zetsubou-Sensei",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/71/A_Sayonara_zetsubou_sensei_logo.png/revision/latest?cb=20150308203430"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0758",
-        "name": "sailor_moon",
-        "proper_name": "Sailor Moon",
-        "category": "character",
-        "encrypted_count": "eFBhYw==",
-        "copyright": "Sailor Moon",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_(1992).png/revision/latest?cb=20231109134853&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0198",
-        "name": "jeanne_d'arc_(ruler)_(fate)",
-        "proper_name": "Jeanne d'Arc (Ruler)",
-        "category": "character",
-        "encrypted_count": "dlFlag==",
-        "copyright": "Fate Series",
+        "encrypted_count": "fFNiaQ==",
+        "copyright": "Cookie Run: Kingdom",
         "material": "Video Game",
-        "image_reference": "https://get.wallhere.com/photo/Fate-Series-Fate-Apocrypha-anime-girls-Ruler-Fate-Apocrypha-Jeanne-d-Arc-blonde-1504105.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0790",
-        "name": "takarada_rikka",
-        "proper_name": "Takarada Rikka",
-        "category": "character",
-        "encrypted_count": "e1Jgbw==",
-        "copyright": "SSSS.Gridman",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
+        "image_reference": "https://videogamedatabank.com/application/files/1516/1212/6345/cookie_run_kingdom_logo.png"
       },
       "tag2": {
-        "id": "t0599",
-        "name": "monster_musume_no_iru_nichijou",
-        "proper_name": "Monster Musume no Iru Nichijou",
-        "category": "copyright",
-        "encrypted_count": "eVBiYg==",
-        "copyright": "Monster Musume no Iru Nichijou",
-        "material": "Anime",
-        "image_reference": "https://image.pngaaa.com/602/2661602-middle.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0872",
-        "name": "fate/samurai_remnant",
-        "proper_name": "Fate/Samurai Remnant",
-        "category": "copyright",
-        "encrypted_count": "fFdhbQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
-      },
-      "tag2": {
-        "id": "t0168",
-        "name": "castorice_(honkai:_star_rail)",
-        "proper_name": "Castorice",
+        "id": "t0963",
+        "name": "acheron_(honkai:_star_rail)",
+        "proper_name": "Acheron",
         "category": "character",
-        "encrypted_count": "fF1ubg==",
+        "encrypted_count": "e1JkYg==",
         "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
+        "image_reference": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/12/honkai-star-rail-acheron-3.jpeg"
       }
     },
     {
       "tag1": {
-        "id": "t0314",
-        "name": "aotsuki_eito",
-        "proper_name": "Aotsuki Eito",
+        "id": "t0140",
+        "name": "kel_(omori)",
+        "proper_name": "Kel",
         "category": "character",
-        "encrypted_count": "fVNhbg==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/the-hundred-line/images/b/b3/Eito_Fullbody.png/revision/latest?cb=20250114130334"
+        "encrypted_count": "fFxgaw==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
       },
       "tag2": {
-        "id": "t0540",
-        "name": "shishiro_botan",
-        "proper_name": "Shishiro Botan",
-        "category": "character",
-        "encrypted_count": "e1Nnbw==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_02.png"
+        "id": "t0153",
+        "name": "melty_blood",
+        "proper_name": "Melty Blood",
+        "category": "copyright",
+        "encrypted_count": "fVxiag==",
+        "copyright": "Melty Blood",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/1/16/Melty_Blood.png/revision/latest/scale-to-width-down/1200?cb=20220210035841"
       }
     },
     {
       "tag1": {
-        "id": "t0319",
-        "name": "closers",
-        "proper_name": "Closers",
-        "category": "copyright",
-        "encrypted_count": "fVdkYg==",
-        "copyright": "Closers",
-        "material": "Video Game",
-        "image_reference": "https://logodix.com/logo/1707726.png"
-      },
-      "tag2": {
-        "id": "t0186",
-        "name": "ado_(utaite)",
-        "proper_name": "Ado",
-        "category": "copyright",
-        "encrypted_count": "fVVubA==",
-        "copyright": "Ado",
-        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0829",
-        "name": "jougasaki_mika",
-        "proper_name": "Jougasaki Mika",
+        "id": "t0125",
+        "name": "ethan_(pokemon)",
+        "proper_name": "Ethan",
         "category": "character",
-        "encrypted_count": "elZjbg==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/d/dd/R_Rare_Mika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107024950"
-      },
-      "tag2": {
-        "id": "t0027",
-        "name": "danganronpa_(series)",
-        "proper_name": "Danganronpa Series",
-        "category": "copyright",
-        "encrypted_count": "eFBlbkY=",
-        "copyright": "Danganronpa Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0877",
-        "name": "atelier_ryza_1",
-        "proper_name": "Atelier Ryza 1",
-        "category": "copyright",
-        "encrypted_count": "fFFuag==",
-        "copyright": "Atelier Ryza",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
-      },
-      "tag2": {
-        "id": "t0082",
-        "name": "samurai_spirits",
-        "proper_name": "Samurai Spirits",
-        "category": "copyright",
-        "encrypted_count": "f1ZjaUQ=",
-        "copyright": "Samurai Spirits",
-        "material": "Video Game",
-        "image_reference": "https://www.snk-corp.co.jp/us/games/samuraishodown/img/characters/chara_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0539",
-        "name": "hasumi_(blue_archive)",
-        "proper_name": "Hasumi",
-        "category": "character",
-        "encrypted_count": "eFRmaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Hasumi_Portrait.png/revision/latest?cb=20220423095508"
-      },
-      "tag2": {
-        "id": "t0531",
-        "name": "xiao_(genshin_impact)",
-        "proper_name": "Xiao",
-        "category": "character",
-        "encrypted_count": "e1FjYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0382",
-        "name": "leaf_(pokemon)",
-        "proper_name": "Leaf",
-        "category": "character",
-        "encrypted_count": "fFxjbw==",
+        "encrypted_count": "fVJlbg==",
         "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/3/3b/Leaf_RFVF.png"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/Ethan_(Pok\u00e9mon_Masters).png/revision/latest?cb=20220818005918&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0270",
-        "name": "izumi_sagiri",
-        "proper_name": "Izumi Sagiri",
+        "id": "t0043",
+        "name": "izuna_(blue_archive)",
+        "proper_name": "Izuna",
         "category": "character",
-        "encrypted_count": "fVNvbA==",
-        "copyright": "Eromanga Sensei",
+        "encrypted_count": "fVBhaQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0464",
+        "name": "seiun_sky_(umamusume)",
+        "proper_name": "Seiun Sky",
+        "category": "character",
+        "encrypted_count": "fFVgbA==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://cdn.umamusu.wiki/thumb/Seiun_Sky_(Main).png/640px-Seiun_Sky_(Main).png"
+      },
+      "tag2": {
+        "id": "t0526",
+        "name": "girls'_frontline_2:_exilium",
+        "proper_name": "Girls' Frontline 2: Exilium",
+        "category": "copyright",
+        "encrypted_count": "e1Jgbg==",
+        "copyright": "Girls' Frontline 2: Exilium",
+        "material": "Video Game",
+        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0952",
+        "name": "otomune_kozue",
+        "proper_name": "Kozue Otomune",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d1/Kozue_Otomune.png/revision/latest/scale-to-width-down/250?cb=20230210134757"
+      },
+      "tag2": {
+        "id": "t0844",
+        "name": "kyon",
+        "proper_name": "Kyon",
+        "category": "character",
+        "encrypted_count": "elZlaQ==",
+        "copyright": "The Melancholy of Haruhi Suzumiya",
+        "material": "Light Novel",
+        "image_reference": "https://i.pinimg.com/originals/a0/fd/09/a0fd091b54d8f0cc1207a7d5d8a6ee3e.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0118",
+        "name": "my_little_pony",
+        "proper_name": "My Little Pony",
+        "category": "copyright",
+        "encrypted_count": "e1Vvbw==",
+        "copyright": "My Little Pony",
+        "material": "TV Show",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/04/My-Little-Pony-Logo-2016.png"
+      },
+      "tag2": {
+        "id": "t0931",
+        "name": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka",
+        "proper_name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "category": "copyright",
+        "encrypted_count": "dldvYg==",
+        "copyright": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "material": "Light Novel",
+        "image_reference": "https://images.justwatch.com/poster/162530069/s718/season-2.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0638",
+        "name": "d.va_(overwatch)",
+        "proper_name": "D.Va",
+        "category": "character",
+        "encrypted_count": "e1FjbA==",
+        "copyright": "Overwatch",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
+      },
+      "tag2": {
+        "id": "t0009",
+        "name": "idolmaster",
+        "proper_name": "The Idolmaster",
+        "category": "copyright",
+        "encrypted_count": "fFNhakEB",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0268",
+        "name": "uzuki_(kancolle)",
+        "proper_name": "Uzuki",
+        "category": "character",
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/8/88/Uzuki.png/revision/latest?cb=20140312175607&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0721",
+        "name": "wakasagihime",
+        "proper_name": "Wakasagihime",
+        "category": "character",
+        "encrypted_count": "fVxvbA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/3262-1482788206.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0165",
+        "name": "z1_leberecht_maass_(kancolle)",
+        "proper_name": "Z1 Leberecht Maass",
+        "category": "character",
+        "encrypted_count": "fVRhbA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
+      },
+      "tag2": {
+        "id": "t0827",
+        "name": "hifumi_(blue_archive)",
+        "proper_name": "Hifumi",
+        "category": "character",
+        "encrypted_count": "fV1kbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Ajitani.Hifumi.600.3693607.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0103",
+        "name": "barnaby_brooks_jr.",
+        "proper_name": "Barnaby Brooks Jr.",
+        "category": "character",
+        "encrypted_count": "fVFnaw==",
+        "copyright": "Tiger & Bunny",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/eromanga/images/1/19/Sagiri_Izumi_anime.jpg/revision/latest?cb=20211121182256"
+        "image_reference": "https://static.wikia.nocookie.net/tigerbunny/images/4/43/TIGERandBUNNY-Barnaby.png/revision/latest?cb=20200501193300"
+      },
+      "tag2": {
+        "id": "t0611",
+        "name": "puzzle_&_dragons",
+        "proper_name": "Puzzle & Dragons",
+        "category": "copyright",
+        "encrypted_count": "e1xuYw==",
+        "copyright": "Puzzle & Dragons",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Main_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20150516042650"
       }
     }
   ]
