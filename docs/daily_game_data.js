@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-05-22T07:36:19.069989+00:00
-// Date: 2026-05-22
+// Generated on: 2026-05-23T06:28:19.174063+00:00
+// Date: 2026-05-23
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0322",
-        "name": "cookie_run:_kingdom",
-        "proper_name": "Cookie Run: Kingdom",
-        "category": "copyright",
-        "encrypted_count": "fFNiaQ==",
-        "copyright": "Cookie Run: Kingdom",
+        "id": "t0244",
+        "name": "lana_(pokemon)",
+        "proper_name": "Lana",
+        "category": "character",
+        "encrypted_count": "e1Jkbw==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://videogamedatabank.com/application/files/1516/1212/6345/cookie_run_kingdom_logo.png"
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
       },
       "tag2": {
-        "id": "t0963",
-        "name": "acheron_(honkai:_star_rail)",
-        "proper_name": "Acheron",
+        "id": "t0446",
+        "name": "saten_ruiko",
+        "proper_name": "Saten Ruiko",
         "category": "character",
-        "encrypted_count": "e1JkYg==",
+        "encrypted_count": "fVRubg==",
+        "copyright": "Toaru Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0045",
+        "name": "seaport_princess",
+        "proper_name": "Seaport Princess",
+        "category": "character",
+        "encrypted_count": "fVdmYw==",
+        "copyright": "Kantai Collection",
+        "material": "video game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/2/22/Harbour_Princess_II_Full.png/revision/latest/scale-to-width-down/300?cb=20180818160600"
+      },
+      "tag2": {
+        "id": "t0831",
+        "name": "mydei_(honkai:_star_rail)",
+        "proper_name": "Mydei",
+        "category": "character",
+        "encrypted_count": "fVNhaQ==",
         "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/12/honkai-star-rail-acheron-3.jpeg"
+        "image_reference": "https://staticg.sportskeeda.com/editor/2025/02/ea940-17395394049968-1920.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0140",
-        "name": "kel_(omori)",
-        "proper_name": "Kel",
+        "id": "t0296",
+        "name": "zhu_yuan",
+        "proper_name": "Zhu Yuan",
         "category": "character",
-        "encrypted_count": "fFxgaw==",
-        "copyright": "Omori",
+        "encrypted_count": "fFxvYw==",
+        "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
+        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
       },
       "tag2": {
-        "id": "t0153",
-        "name": "melty_blood",
-        "proper_name": "Melty Blood",
-        "category": "copyright",
-        "encrypted_count": "fVxiag==",
-        "copyright": "Melty Blood",
+        "id": "t0377",
+        "name": "sendai_kai_ni_(kancolle)",
+        "proper_name": "Sendai Kai Ni",
+        "category": "character",
+        "encrypted_count": "f1duYg==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/1/16/Melty_Blood.png/revision/latest/scale-to-width-down/1200?cb=20220210035841"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/c/ce/Sendai_Kai_Ni_Full.png/revision/latest/scale-to-width-down/284?cb=20180817193836"
       }
     },
     {
       "tag1": {
-        "id": "t0125",
-        "name": "ethan_(pokemon)",
-        "proper_name": "Ethan",
+        "id": "t0606",
+        "name": "serena_(pokemon)",
+        "proper_name": "Serena",
         "category": "character",
-        "encrypted_count": "fVJlbg==",
+        "encrypted_count": "dlZnbg==",
         "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/Ethan_(Pok\u00e9mon_Masters).png/revision/latest?cb=20220818005918&path-prefix=protagonist"
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/7/7f/Serena_(anime_XY)_3.png/revision/latest?cb=20150527212218"
       },
       "tag2": {
-        "id": "t0043",
-        "name": "izuna_(blue_archive)",
-        "proper_name": "Izuna",
+        "id": "t0109",
+        "name": "weiss_schnee",
+        "proper_name": "Weiss Schnee",
         "category": "character",
-        "encrypted_count": "fVBhaQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
+        "encrypted_count": "elNkbQ==",
+        "copyright": "RWBY",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png/revision/latest?cb=20241205032544"
       }
     },
     {
       "tag1": {
-        "id": "t0464",
-        "name": "seiun_sky_(umamusume)",
-        "proper_name": "Seiun Sky",
-        "category": "character",
-        "encrypted_count": "fFVgbA==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://cdn.umamusu.wiki/thumb/Seiun_Sky_(Main).png/640px-Seiun_Sky_(Main).png"
+        "id": "t0635",
+        "name": "houseki_no_kuni",
+        "proper_name": "Houseki no Kuni",
+        "category": "copyright",
+        "encrypted_count": "e1dnaA==",
+        "copyright": "Houseki no Kuni",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Houseki_no_Kuni.jpg"
       },
       "tag2": {
-        "id": "t0526",
-        "name": "girls'_frontline_2:_exilium",
-        "proper_name": "Girls' Frontline 2: Exilium",
-        "category": "copyright",
-        "encrypted_count": "e1Jgbg==",
-        "copyright": "Girls' Frontline 2: Exilium",
-        "material": "Video Game",
-        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0952",
-        "name": "otomune_kozue",
-        "proper_name": "Kozue Otomune",
+        "id": "t0913",
+        "name": "hoshii_miki",
+        "proper_name": "Hoshii Miki",
         "category": "character",
-        "encrypted_count": "elJvag==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d1/Kozue_Otomune.png/revision/latest/scale-to-width-down/250?cb=20230210134757"
-      },
-      "tag2": {
-        "id": "t0844",
-        "name": "kyon",
-        "proper_name": "Kyon",
-        "category": "character",
-        "encrypted_count": "elZlaQ==",
-        "copyright": "The Melancholy of Haruhi Suzumiya",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/a0/fd/09/a0fd091b54d8f0cc1207a7d5d8a6ee3e.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0118",
-        "name": "my_little_pony",
-        "proper_name": "My Little Pony",
-        "category": "copyright",
-        "encrypted_count": "e1Vvbw==",
-        "copyright": "My Little Pony",
-        "material": "TV Show",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2023/04/My-Little-Pony-Logo-2016.png"
-      },
-      "tag2": {
-        "id": "t0931",
-        "name": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka",
-        "proper_name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-        "category": "copyright",
-        "encrypted_count": "dldvYg==",
-        "copyright": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-        "material": "Light Novel",
-        "image_reference": "https://images.justwatch.com/poster/162530069/s718/season-2.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0638",
-        "name": "d.va_(overwatch)",
-        "proper_name": "D.Va",
-        "category": "character",
-        "encrypted_count": "e1FjbA==",
-        "copyright": "Overwatch",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
-      },
-      "tag2": {
-        "id": "t0009",
-        "name": "idolmaster",
-        "proper_name": "The Idolmaster",
-        "category": "copyright",
-        "encrypted_count": "fFNhakEB",
+        "encrypted_count": "eFNlaw==",
         "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/millionlive/images/3/3f/Miki_Hoshii_infobox.png/revision/latest/scale-to-width-down/278?cb=20180414125723"
       }
     },
     {
       "tag1": {
-        "id": "t0268",
-        "name": "uzuki_(kancolle)",
-        "proper_name": "Uzuki",
+        "id": "t0847",
+        "name": "emilia_(re:zero)",
+        "proper_name": "Emilia",
         "category": "character",
-        "encrypted_count": "fFNjaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/8/88/Uzuki.png/revision/latest?cb=20140312175607&path-prefix=protagonist"
+        "encrypted_count": "e1RibQ==",
+        "copyright": "Re:Zero - Starting Life in Another World",
+        "material": "Light Novel",
+        "image_reference": "https://rare-gallery.com/mocahbig/1347718-Emilia-ReZEROReZERO-Starting-Life-In-Another-World-.jpg"
       },
       "tag2": {
-        "id": "t0721",
-        "name": "wakasagihime",
-        "proper_name": "Wakasagihime",
+        "id": "t0297",
+        "name": "hong_lu_(project_moon)",
+        "proper_name": "Hong Lu",
         "category": "character",
-        "encrypted_count": "fVxvbA==",
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0123",
+        "name": "falin_touden",
+        "proper_name": "Falin Touden",
+        "category": "character",
+        "encrypted_count": "fVBmbA==",
+        "copyright": "Dungeon Meshi",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
+      },
+      "tag2": {
+        "id": "t0189",
+        "name": "tsukihime_(remake)",
+        "proper_name": "Tsukihime Remake",
+        "category": "copyright",
+        "encrypted_count": "fFdnaA==",
+        "copyright": "Tsukihime",
+        "material": "Visual Novel",
+        "image_reference": "https://tsukihime-en.com/assets/img/main/logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
+        "category": "character",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
+      },
+      "tag2": {
+        "id": "t0760",
+        "name": "tsushima_yoshiko",
+        "proper_name": "Tsushima Yoshiko",
+        "category": "character",
+        "encrypted_count": "eVduaw==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/44/Tsushima_Yoshiko_ALL_STARS.png/revision/latest?cb=20200323032830&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0806",
+        "name": "minecraft",
+        "proper_name": "Minecraft",
+        "category": "copyright",
+        "encrypted_count": "elRhbw==",
+        "copyright": "Minecraft",
+        "material": "Video Game",
+        "image_reference": "https://www.symbols.com/images/symbol/1/2891_minecraft-wiki-logo.png"
+      },
+      "tag2": {
+        "id": "t0491",
+        "name": "kumoi_ichirin",
+        "proper_name": "Kumoi Ichirin",
+        "category": "character",
+        "encrypted_count": "el1uYg==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/3262-1482788206.png"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1470363202.png"
       }
     },
     {
       "tag1": {
-        "id": "t0165",
-        "name": "z1_leberecht_maass_(kancolle)",
-        "proper_name": "Z1 Leberecht Maass",
+        "id": "t0211",
+        "name": "lucario",
+        "proper_name": "Lucario",
         "category": "character",
-        "encrypted_count": "fVRhbA==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "elJiaA==",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
+        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
       },
       "tag2": {
-        "id": "t0827",
-        "name": "hifumi_(blue_archive)",
-        "proper_name": "Hifumi",
+        "id": "t0589",
+        "name": "yumemi_riamu",
+        "proper_name": "Yumemi Riamu",
         "category": "character",
-        "encrypted_count": "fV1kbA==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "e1Blbw==",
+        "copyright": "Project Sekai",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ajitani.Hifumi.600.3693607.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0103",
-        "name": "barnaby_brooks_jr.",
-        "proper_name": "Barnaby Brooks Jr.",
-        "category": "character",
-        "encrypted_count": "fVFnaw==",
-        "copyright": "Tiger & Bunny",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/tigerbunny/images/4/43/TIGERandBUNNY-Barnaby.png/revision/latest?cb=20200501193300"
-      },
-      "tag2": {
-        "id": "t0611",
-        "name": "puzzle_&_dragons",
-        "proper_name": "Puzzle & Dragons",
-        "category": "copyright",
-        "encrypted_count": "e1xuYw==",
-        "copyright": "Puzzle & Dragons",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Main_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20150516042650"
+        "image_reference": "https://project-imas.wiki/images/thumb/d/d5/Riamu_SS.png/300px-Riamu_SS.png"
       }
     }
   ]
