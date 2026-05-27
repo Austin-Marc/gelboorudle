@@ -1,145 +1,67 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-05-26T07:36:15.161159+00:00
-// Date: 2026-05-26
+// Generated on: 2026-05-27T07:56:01.487237+00:00
+// Date: 2026-05-27
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0279",
-        "name": "shakugan_no_shana",
-        "proper_name": "Shakugan no Shana",
+        "id": "t0614",
+        "name": "needy_girl_overdose",
+        "proper_name": "Needy Girl Overdose",
         "category": "copyright",
-        "encrypted_count": "fVNjYg==",
-        "copyright": "Shakugan no Shana",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/shakugan/images/3/34/First_season_title_card.jpg/revision/latest?cb=20120915105459"
-      },
-      "tag2": {
-        "id": "t0257",
-        "name": "senjougahara_hitagi",
-        "proper_name": "Senjougahara Hitagi",
-        "category": "character",
-        "encrypted_count": "fVZuaQ==",
-        "copyright": "Monogatari Series",
-        "material": "Anime",
-        "image_reference": "https://1.bp.blogspot.com/-Su1PAdKQzao/WHHpgH_v2QI/AAAAAAAABMg/wvAO-6iJMp0n84RNYlC1aye6wSBeH9vuwCEw/s1600/Hitagi_bake_designs.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0027",
-        "name": "danganronpa_(series)",
-        "proper_name": "Danganronpa Series",
-        "category": "copyright",
-        "encrypted_count": "eFBlbkY=",
-        "copyright": "Danganronpa Series",
+        "encrypted_count": "elxhaA==",
+        "copyright": "Needy Girl Overdose",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
+        "image_reference": "https://m.media-amazon.com/images/I/91KkAiUigGL._AC_SL1500_.jpg"
       },
       "tag2": {
-        "id": "t0248",
-        "name": "kanna_kamui",
-        "proper_name": "Kanna Kamui",
-        "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Miss Kobayashi's Dragon Maid",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0737",
-        "name": "uruha_rushia",
-        "proper_name": "Uruha Rushia",
-        "category": "character",
-        "encrypted_count": "elFgbA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/b/be/Uruha_Rushia_-_Portrait_3D_01-1.png"
-      },
-      "tag2": {
-        "id": "t0499",
-        "name": "mahou_shoujo_lyrical_nanoha_a's",
-        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
+        "id": "t0079",
+        "name": "zeta_gundam",
+        "proper_name": "Mobile Suit Zeta Gundam",
         "category": "copyright",
-        "encrypted_count": "eFFjbg==",
-        "copyright": "Magical Girl Lyrical Nanoha",
+        "encrypted_count": "elFnbg==",
+        "copyright": "Mobile Suit Gundam",
         "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BNTRlYzIwYmYtMzUzYy00YmFmLTllMjItOWYzYmNmYjQ2YmI5XkEyXkFqcGc@._V1_.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0615",
-        "name": "touqi_guaitan",
-        "proper_name": "Touqi Guaitan",
-        "category": "copyright",
-        "encrypted_count": "e1ZkbQ==",
-        "copyright": "Touqi Guaitan",
-        "image_reference": "https://static.wikia.nocookie.net/touqi-guaitan/images/e/e6/Site-logo.png/revision/latest?cb=20241228194321"
+        "id": "t0306",
+        "name": "kurosawa_dia",
+        "proper_name": "Kurosawa Dia",
+        "category": "character",
+        "encrypted_count": "elJkYg==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/love-live/images/d/db/789Transparent.png/revision/latest?cb=20160601025120&path-prefix=es"
       },
       "tag2": {
-        "id": "t0803",
-        "name": "suite_precure",
-        "proper_name": "Suite Precure",
-        "category": "copyright",
-        "encrypted_count": "elNkbQ==",
-        "copyright": "Precure",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Suite_pretty_cure_logo.jpg/revision/latest/scale-to-width-down/300?cb=20150213050340"
+        "id": "t0962",
+        "name": "anya_(spy_x_family)",
+        "proper_name": "Anya Forger",
+        "category": "character",
+        "encrypted_count": "eV1maQ==",
+        "copyright": "Spy x Family",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/spy-x-family/images/f/ff/Anya_Forger_Anime.png/revision/latest?cb=20220611184611&path-prefix=fr"
       }
     },
     {
       "tag1": {
-        "id": "t0203",
-        "name": "changli_(wuthering_waves)",
-        "proper_name": "Changli",
+        "id": "t0514",
+        "name": "darjeeling_(girls_und_panzer)",
+        "proper_name": "Darjeeling",
         "category": "character",
-        "encrypted_count": "fF1uYg==",
-        "copyright": "Wuthering Waves",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Changli_Introduction.png/revision/latest?cb=20240518045554"
+        "encrypted_count": "eFFhbA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime"
       },
       "tag2": {
-        "id": "t0852",
-        "name": "arch_bishop_(ragnarok_online)",
-        "proper_name": "Arch Bishop",
-        "category": "character",
-        "encrypted_count": "fVJibQ==",
-        "copyright": "Ragnarok Online",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/ragnarok_gamepedia_en/2/20/Character_Archbishop.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0890",
-        "name": "kuchiki_rukia",
-        "proper_name": "Kuchiki Rukia",
-        "category": "character",
-        "encrypted_count": "elFhbg==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bleach/images/b/b2/Kuchiki_Rukia.png/revision/latest?cb=20210626172949&path-prefix=pt"
-      },
-      "tag2": {
-        "id": "t0518",
-        "name": "prinz_eugen_(kancolle)",
-        "proper_name": "Prinz Eugen",
-        "category": "character",
-        "encrypted_count": "e1JvbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2019/12/32a534dd-532a-4502-a638-38fb406d971e.jpg"
-      }
-    },
-    {
-      "tag1": {
         "id": "t0742",
         "name": "exusiai_(arknights)",
         "proper_name": "Exusiai",
@@ -148,82 +70,160 @@ const DAILY_GAME_DATA = {
         "copyright": "Arknights",
         "material": "Video Game",
         "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/24/Exusiai.png/revision/latest?cb=20190623025141"
-      },
-      "tag2": {
-        "id": "t0685",
-        "name": "yugiri_tsuzuri",
-        "proper_name": "Yugiri Tsuzuri",
-        "category": "character",
-        "encrypted_count": "fV1nbw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/7/73/Tsuzuri_Yugiri_2024.png/revision/latest/scale-to-width-down/1200?cb=20240615060116"
       }
     },
     {
       "tag1": {
-        "id": "t0207",
-        "name": "aoba_(kancolle)",
-        "proper_name": "Aoba",
+        "id": "t0862",
+        "name": "kachimachi_kosuzu",
+        "proper_name": "Kachimachi Kosuzu",
         "category": "character",
-        "encrypted_count": "fFJgYw==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fVZkaw==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/4/42/Aoba.png/revision/latest?cb=20140504163245&path-prefix=protagonist"
+        "image_reference": "https://static.myfigurecollection.net/upload/entries/1/377786-f2961.jpg"
       },
       "tag2": {
-        "id": "t0603",
-        "name": "kikuchi_makoto",
-        "proper_name": "Kikuchi Makoto",
+        "id": "t0148",
+        "name": "waver_velvet",
+        "proper_name": "Waver Velvet",
         "category": "character",
-        "encrypted_count": "e1JiYw==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "fVRuaw==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/d/d1/Normal_Makoto_Kikuchi_Mobage_Transparent.png/revision/latest?cb=20190202042832"
+        "image_reference": "https://i.pinimg.com/originals/c7/af/52/c7af5289325440f1d4372f96af41445a.png"
       }
     },
     {
       "tag1": {
-        "id": "t0092",
-        "name": "eren_yeager",
-        "proper_name": "Eren Yeager",
+        "id": "t0375",
+        "name": "hilda_valentine_goneril",
+        "proper_name": "Hilda Valentine Goneril",
         "category": "character",
-        "encrypted_count": "fV1uYw==",
-        "copyright": "Attack on Titan",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
+        "encrypted_count": "fVBgYw==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/c/c6/Hilda_Portr\u00e4t.png/revision/latest?cb=20201210095142&path-prefix=de"
       },
       "tag2": {
-        "id": "t0592",
-        "name": "toki_(bunny)_(blue_archive)",
-        "proper_name": "Toki (Bunny)",
-        "category": "character",
-        "encrypted_count": "e1dmbg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Toki_Bunny_Girl_Portrait.png/revision/latest?cb=20230426103415"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0051",
-        "name": "cyberpunk:_edgerunners",
-        "proper_name": "Cyberpunk: Edgerunners",
+        "id": "t0609",
+        "name": "library_of_ruina",
+        "proper_name": "Library of Ruina",
         "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "Cyberpunk: Edgerunners",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg/revision/latest?cb=20220801170122"
+        "encrypted_count": "e1VkaA==",
+        "copyright": "Library of Ruina",
+        "material": "Video Game",
+        "image_reference": "https://libraryofruina.wiki.gg/images/e/e6/Site-logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0253",
+        "name": "beatrice_(umineko)",
+        "proper_name": "Beatrice",
+        "category": "character",
+        "encrypted_count": "fVVnYg==",
+        "copyright": "Umineko no Naku Koro ni",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
       },
       "tag2": {
-        "id": "t0501",
-        "name": "ijichi_nijika",
-        "proper_name": "Ijichi Nijika",
+        "id": "t0337",
+        "name": "kaenbyou_rin_(cat)",
+        "proper_name": "Kaenbyou Rin",
         "category": "character",
-        "encrypted_count": "eFZgbA==",
-        "copyright": "Bocchi the Rock!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
+        "encrypted_count": "fFBlYg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/b/b2/RinSubAni.png/revision/latest/thumbnail/width/360/height/450?cb=20091025143107"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0267",
+        "name": "akizuki_ritsuko",
+        "proper_name": "Akizuki Ritsuko",
+        "category": "character",
+        "encrypted_count": "fVVvYg==",
+        "copyright": "The iDOLM@STER",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
+      },
+      "tag2": {
+        "id": "t0214",
+        "name": "mari_(omori)",
+        "proper_name": "Mari",
+        "category": "character",
+        "encrypted_count": "fVZubw==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/d/d1/DW_Mari_Fullbody_Profile.png/revision/latest?cb=20221031040609"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0399",
+        "name": "saki_(blue_archive)",
+        "proper_name": "Saki",
+        "category": "character",
+        "encrypted_count": "fFFlbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
+      },
+      "tag2": {
+        "id": "t0160",
+        "name": "toga_himiko",
+        "proper_name": "Toga Himiko",
+        "category": "character",
+        "encrypted_count": "eFJjaQ==",
+        "copyright": "My Hero Academia",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0825",
+        "name": "bemani",
+        "proper_name": "BEMANI",
+        "category": "copyright",
+        "encrypted_count": "e1VlYw==",
+        "copyright": "BEMANI",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e3/BEMANI_alt_logo.png/revision/latest?cb=20240414213707"
+      },
+      "tag2": {
+        "id": "t0494",
+        "name": "amane_kanata",
+        "proper_name": "Amane Kanata",
+        "category": "character",
+        "encrypted_count": "eFFlbQ==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/3/36/Amane_Kanata_-_Portrait_01.png/1200px-Amane_Kanata_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0154",
+        "name": "stellive",
+        "proper_name": "Stellive",
+        "category": "copyright",
+        "encrypted_count": "fVZhbA==",
+        "copyright": "Stellive",
+        "material": "Video Game",
+        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+      },
+      "tag2": {
+        "id": "t0783",
+        "name": "fu_hua",
+        "proper_name": "Fu Hua",
+        "category": "character",
+        "encrypted_count": "elVmaw==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/hoducks/images/f/f7/Valkyrie_Accipiter.png/revision/latest?cb=20201226082235"
       }
     }
   ]
