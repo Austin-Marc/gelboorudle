@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-05-28T07:48:57.300118+00:00
-// Date: 2026-05-28
+// Generated on: 2026-05-29T07:46:56.119555+00:00
+// Date: 2026-05-29
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0962",
-        "name": "anya_(spy_x_family)",
-        "proper_name": "Anya Forger",
-        "category": "character",
-        "encrypted_count": "eV1maQ==",
-        "copyright": "Spy x Family",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/spy-x-family/images/f/ff/Anya_Forger_Anime.png/revision/latest?cb=20220611184611&path-prefix=fr"
+        "id": "t0276",
+        "name": "kanon",
+        "proper_name": "Kanon",
+        "category": "copyright",
+        "encrypted_count": "fVRlYg==",
+        "copyright": "Kanon",
+        "material": "Visual Novel",
+        "image_reference": "https://images.wikia.com/kanon/images/b/bc/Wiki.png"
       },
       "tag2": {
-        "id": "t0332",
-        "name": "luigi",
-        "proper_name": "Luigi",
-        "category": "character",
-        "encrypted_count": "eldnaA==",
-        "copyright": "Nintendo",
+        "id": "t0855",
+        "name": "sen_no_kiseki_(series)",
+        "proper_name": "Sen no Kiseki Series",
+        "category": "copyright",
+        "encrypted_count": "elJlbQ==",
+        "copyright": "The Legend of Heroes",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/nintendo/images/0/0a/MP10_Luigi.png/revision/latest?cb=20170626025223&path-prefix=en"
+        "image_reference": "https://image.pngaaa.com/464/4421464-middle.png"
       }
     },
     {
       "tag1": {
-        "id": "t0509",
-        "name": "sanrio",
-        "proper_name": "Sanrio",
-        "category": "copyright",
-        "encrypted_count": "eFVlaw==",
-        "copyright": "Sanrio",
-        "image_reference": "https://static.wikia.nocookie.net/hellokitty/images/a/a5/Mv-cinnamon.png/revision/latest/scale-to-width/360?cb=20250930161135"
-      },
-      "tag2": {
-        "id": "t0117",
-        "name": "pokemon_rgby",
-        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
-        "category": "copyright",
-        "encrypted_count": "e11mYg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0560",
-        "name": "kisaragi_chihaya",
-        "proper_name": "Kisaragi Chihaya",
+        "id": "t0101",
+        "name": "kotomine_kirei",
+        "proper_name": "Kotomine Kirei",
         "category": "character",
-        "encrypted_count": "e1xjbw==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/11/Chihaya_Kisaragi_2nd_Vision_Normal.png/revision/latest?cb=20180806222028"
-      },
-      "tag2": {
-        "id": "t0710",
-        "name": "fire_emblem:_mystery_of_the_emblem",
-        "proper_name": "Fire Emblem: Mystery of the Emblem",
-        "category": "copyright",
-        "encrypted_count": "e1Vvag==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://cdn.fireemblemwiki.org/thumb/1/18/FEMN_logo.png/300px-FEMN_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0682",
-        "name": "pokemon_rse",
-        "proper_name": "Pokemon Ruby/Sapphire/Emerald",
-        "category": "copyright",
-        "encrypted_count": "dlxvaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://logowik.com/content/uploads/images/pokemon-ruby-sapphire8525.logowik.com.webp"
-      },
-      "tag2": {
-        "id": "t0889",
-        "name": "takakura_ken_(dandadan)",
-        "proper_name": "Takakura Ken",
-        "category": "character",
-        "encrypted_count": "fFJiaQ==",
-        "copyright": "Dandadan",
-        "material": "Manga",
-        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0254",
-        "name": "evelyn_chevalier",
-        "proper_name": "Evelyn Chevalier",
-        "category": "character",
-        "encrypted_count": "fF1uYw==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/hoyodexwiki/4/45/Evelyn_Chevalier_(ZZ-MU).png"
-      },
-      "tag2": {
-        "id": "t0132",
-        "name": "jeanne_d'arc_alter_(avenger)_(fate)",
-        "proper_name": "Jeanne D'Arc Alter (Avenger)",
-        "category": "character",
-        "encrypted_count": "eVVhaA==",
+        "encrypted_count": "fVdiaQ==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/78/AvengerJeanneAlterStage1nb.png/revision/latest?cb=20211001014408&path-prefix=vi"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0558",
-        "name": "red_(pokemon)",
-        "proper_name": "Red",
-        "category": "character",
-        "encrypted_count": "e1xvbQ==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/4/40/Red_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.png/revision/latest?cb=20220701232612"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/a/aa/Kotomine_kirei.png/revision/latest?cb=20141019084245"
       },
       "tag2": {
-        "id": "t0021",
-        "name": "hakurei_reimu",
-        "proper_name": "Hakurei Reimu",
+        "id": "t0717",
+        "name": "prinz_eugen_(azur_lane)",
+        "proper_name": "Prinz Eugen",
         "category": "character",
-        "encrypted_count": "eVBgbUE=",
-        "copyright": "Touhou Project",
+        "encrypted_count": "elNnag==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/a/ae/Th20Reimu.png/revision/latest?cb=20250505061952"
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
       }
     },
     {
       "tag1": {
-        "id": "t0587",
-        "name": "reze_(chainsaw_man)",
-        "proper_name": "Reze",
+        "id": "t0892",
+        "name": "hero_(omori)",
+        "proper_name": "Hero",
         "category": "character",
-        "encrypted_count": "e1xnaA==",
-        "copyright": "Chainsaw Man",
+        "encrypted_count": "fFZhbQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
+      },
+      "tag2": {
+        "id": "t0909",
+        "name": "mordred_(fate)",
+        "proper_name": "Mordred",
+        "category": "character",
+        "encrypted_count": "eFViYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/d9/13/56/d91356ac5b500a9cbeb4dfcb5c0f2a66.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0930",
+        "name": "tekken",
+        "proper_name": "Tekken",
+        "category": "copyright",
+        "encrypted_count": "f1VibUA=",
+        "copyright": "Tekken",
+        "material": "Video Game",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/03/Tekken-Emblem.png"
+      },
+      "tag2": {
+        "id": "t0551",
+        "name": "stone_ocean",
+        "proper_name": "Stone Ocean",
+        "category": "copyright",
+        "encrypted_count": "fVZvbA==",
+        "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/1/19/Reze_Infobox.png/revision/latest?cb=20230420070115"
-      },
-      "tag2": {
-        "id": "t0684",
-        "name": "uraraka_ochaco",
-        "proper_name": "Uraraka Ochaco",
-        "category": "character",
-        "encrypted_count": "dl1lbQ==",
-        "copyright": "My Hero Academia",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/boku-no-hero-academia-italia/images/6/66/Ochaco27s_second_hero_costume_28anime29.png/revision/latest?cb=20210926181953&path-prefix=it"
+        "image_reference": "https://static.jojowiki.com/images/6/6b/latest/20210404125436/Stone_Ocean_Anime_Logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0874",
-        "name": "dragon_ball_(classic)",
-        "proper_name": "Dragon Ball (Classic)",
-        "category": "copyright",
-        "encrypted_count": "fVRnbQ==",
-        "copyright": "Dragon Ball",
+        "id": "t0270",
+        "name": "izumi_sagiri",
+        "proper_name": "Izumi Sagiri",
+        "category": "character",
+        "encrypted_count": "fVNvbA==",
+        "copyright": "Eromanga Sensei",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/81/Dragonball_Anime-Serie_Original-Logo.svg/revision/latest?cb=20190209043952"
+        "image_reference": "https://static.wikia.nocookie.net/eromanga/images/1/19/Sagiri_Izumi_anime.jpg/revision/latest?cb=20211121182256"
       },
       "tag2": {
-        "id": "t0827",
-        "name": "hifumi_(blue_archive)",
-        "proper_name": "Hifumi",
-        "category": "character",
-        "encrypted_count": "fV1kbA==",
-        "copyright": "Blue Archive",
+        "id": "t0877",
+        "name": "atelier_ryza_1",
+        "proper_name": "Atelier Ryza 1",
+        "category": "copyright",
+        "encrypted_count": "fFFuag==",
+        "copyright": "Atelier Ryza",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ajitani.Hifumi.600.3693607.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
       }
     },
     {
       "tag1": {
-        "id": "t0455",
-        "name": "akuma_homura",
-        "proper_name": "Akuma Homura",
+        "id": "t0668",
+        "name": "monster_girl_encyclopedia",
+        "proper_name": "Monster Girl Encyclopedia",
+        "category": "copyright",
+        "encrypted_count": "eFFiaw==",
+        "copyright": "Monster Girl Encyclopedia",
+        "material": "Manga",
+        "image_reference": "https://m.media-amazon.com/images/I/81oYIfoDzFL._AC_UF1000"
+      },
+      "tag2": {
+        "id": "t0412",
+        "name": "neuvillette_(genshin_impact)",
+        "proper_name": "Neuvillette",
         "category": "character",
-        "encrypted_count": "fFFhbA==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
-      },
-      "tag2": {
-        "id": "t0524",
-        "name": "dragon_ball_super",
-        "proper_name": "Dragon Ball Super",
-        "category": "copyright",
-        "encrypted_count": "f1dlakY=",
-        "copyright": "Dragon Ball",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d0/Dragon_Ball_Super_Vector_Logo.svg/revision/latest?cb=20190306223754"
+        "encrypted_count": "fFBnYg==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshinimpact/images/a/ad/Neuvillette_carte.png/revision/latest?cb=20231105142328&path-prefix=fr"
       }
     },
     {
       "tag1": {
-        "id": "t0754",
-        "name": "gegege_no_kitarou",
-        "proper_name": "GeGeGe no Kitarou",
+        "id": "t0875",
+        "name": "osomatsu-kun",
+        "proper_name": "Osomatsu-kun",
         "category": "copyright",
-        "encrypted_count": "e1RlYg==",
-        "copyright": "GeGeGe no Kitarou",
+        "encrypted_count": "elZjbw==",
+        "copyright": "Osomatsu-kun",
         "material": "Anime",
-        "image_reference": "https://images.launchbox-app.com/82f56e88-1d89-4c7f-95d4-b5ffdf87c0be.png"
+        "image_reference": "https://static.wikia.nocookie.net/osomatsukun/images/e/e6/Site-logo.png/revision/latest?cb=20210713152445"
       },
       "tag2": {
-        "id": "t0027",
-        "name": "danganronpa_(series)",
-        "proper_name": "Danganronpa Series",
-        "category": "copyright",
-        "encrypted_count": "eFBlbkY=",
-        "copyright": "Danganronpa Series",
+        "id": "t0683",
+        "name": "lucina_(fire_emblem)",
+        "proper_name": "Lucina",
+        "category": "character",
+        "encrypted_count": "eFJmYg==",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Danganronpa_series_English_logo.svg"
+        "image_reference": "https://cdn.fireemblemwiki.org/c/c4/FEA_Lucina_03.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0149",
+        "name": "oboro_(kancolle)",
+        "proper_name": "Oboro",
+        "category": "character",
+        "encrypted_count": "fFJvag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://w7.pngwing.com/pngs/738/261/png-transparent-kantai-collection-battleship-wiki-japanese-destroyer-oboro-kantai-miscellaneous-computer-wallpaper-fictional-character.png"
+      },
+      "tag2": {
+        "id": "t0949",
+        "name": "hinata_hajime",
+        "proper_name": "Hajime Hinata",
+        "category": "character",
+        "encrypted_count": "e1FjbQ==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Hajime_Hinata.png/revision/latest?cb=20171229205740&path-prefix=ro"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0902",
+        "name": "meiko_(vocaloid)",
+        "proper_name": "MEIKO",
+        "category": "character",
+        "encrypted_count": "e1Rhag==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/7/77/MEIKO_V3.png/revision/latest?cb=20140117094450"
+      },
+      "tag2": {
+        "id": "t0054",
+        "name": "fate/hollow_ataraxia",
+        "proper_name": "Fate/hollow ataraxia",
+        "category": "copyright",
+        "encrypted_count": "fVxnbQ==",
+        "copyright": "Fate Series",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fate_hollow_ataraxia_game_DVD_cover.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0373",
+        "name": "hatsuzuki_(kancolle)",
+        "proper_name": "Hatsuzuki",
+        "category": "character",
+        "encrypted_count": "fFFvaw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
+      },
+      "tag2": {
+        "id": "t0785",
+        "name": "black_rock_shooter_(character)",
+        "proper_name": "Black Rock Shooter",
+        "category": "character",
+        "encrypted_count": "eldlbA==",
+        "copyright": "Black Rock Shooter",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/familiar-hda/images/b/b1/Black-Rock-Shooter-black-rock-shooter-vocaloid-30894748-1365-1142.png/revision/latest?cb=20130711194915&path-prefix=es"
       }
     }
   ]
