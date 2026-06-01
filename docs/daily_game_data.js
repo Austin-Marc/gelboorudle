@@ -1,230 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-05-31T07:38:07.950342+00:00
-// Date: 2026-05-31
+// Generated on: 2026-06-01T09:13:20.479571+00:00
+// Date: 2026-06-01
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0139",
-        "name": "yoshida_yuuko",
-        "proper_name": "Yoshida Yuuko",
+        "id": "t0657",
+        "name": "samidare_(kancolle)",
+        "proper_name": "Samidare",
         "category": "character",
-        "encrypted_count": "fVVvbQ==",
-        "copyright": "Machikado Mazoku",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Yoshida.Yuuko.(Machikado.Mazoku).full.3883983.jpg"
+        "encrypted_count": "elJgbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://cdn.donmai.us/sample/55/a3/__samidare_kantai_collection_drawn_by_dangan_kurabu__sample-55a33481aaa5fe9a23ab4c80ba009ff8.jpg"
       },
       "tag2": {
-        "id": "t0302",
-        "name": "citlali_(genshin_impact)",
-        "proper_name": "Citlali",
+        "id": "t0191",
+        "name": "sylveon",
+        "proper_name": "Sylveon",
         "category": "character",
-        "encrypted_count": "fFxjaw==",
+        "encrypted_count": "elVgYg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemonopedia/images/b/b2/Shiny2.png/revision/latest?cb=20141109112421&path-prefix=pl"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0897",
+        "name": "ryougi_shiki",
+        "proper_name": "Ryougi Shiki",
+        "category": "character",
+        "encrypted_count": "fFJgbQ==",
+        "copyright": "Kara no Kyoukai",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/IMG_0883.png/revision/latest?cb=20171124001349&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0696",
+        "name": "minase_iori",
+        "proper_name": "Minase Iori",
+        "category": "character",
+        "encrypted_count": "e1dnaQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/0/06/Iori_Minase_2nd_Vision_Idol.png/revision/latest/scale-to-width-down/350?cb=20200506210134"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0939",
+        "name": "shenhe_(genshin_impact)",
+        "proper_name": "Shenhe",
+        "category": "character",
+        "encrypted_count": "eFBvaw==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Citlali.full.4224518.jpg"
+        "image_reference": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/shenhe-character-portrait-genshin-impact-wiki-guide-200px.png"
+      },
+      "tag2": {
+        "id": "t0744",
+        "name": "amamiya_ren",
+        "proper_name": "Amamiya Ren",
+        "category": "character",
+        "encrypted_count": "e1Rnbg==",
+        "copyright": "Persona 5",
+        "material": "Video Game",
+        "image_reference": "https://megatenwiki.com/images/5/53/P5D_Ren_Amamiya_Artwork.png"
       }
     },
     {
       "tag1": {
-        "id": "t0646",
-        "name": "octoling_player_character",
-        "proper_name": "Octoling Player Character",
+        "id": "t0517",
+        "name": "taihou_(azur_lane)",
+        "proper_name": "Taihou",
         "category": "character",
-        "encrypted_count": "e1VkbQ==",
-        "copyright": "Splatoon",
+        "encrypted_count": "eFdnbw==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/Octo_Expansion_multiplayer_gear.jpg/1200px-Octo_Expansion_multiplayer_gear.jpg"
+        "image_reference": "https://azurlane.netojuu.com/images/3/33/Taihou-chan.png"
       },
       "tag2": {
-        "id": "t0460",
-        "name": "awa_subaru",
-        "proper_name": "Awa Subaru",
+        "id": "t0335",
+        "name": "shadow_the_hedgehog",
+        "proper_name": "Shadow the Hedgehog",
         "category": "character",
-        "encrypted_count": "fFdlbw==",
-        "copyright": "Girls Band Cry",
+        "encrypted_count": "fVZkaw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonic/images/4/45/SRCShadow.png/revision/latest/scale-to-width-down/1200?cb=20251008005300"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0709",
+        "name": "machikado_mazoku",
+        "proper_name": "Machikado Mazoku",
+        "category": "copyright",
+        "encrypted_count": "elNubg==",
+        "copyright": "Machikado Mazoku",
         "material": "Anime",
-        "image_reference": "https://external-preview.redd.it/McQKncRvPg9PgZzuZT2aJOs6zyuoVsQUkm9xKNW1yxs.jpg?width=1080&crop=smart&auto=webp&s=d1ee8796a59e9dfa172c9d4e35e2e149802c8734"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0873",
-        "name": "rabbit_hole_(vocaloid)",
-        "proper_name": "Rabbit Hole",
+        "image_reference": "https://images.seeklogo.com/logo-png/46/1/machikado-mazoku-logo-png_seeklogo-463180.png"
+      },
+      "tag2": {
+        "id": "t0229",
+        "name": "nichijou",
+        "proper_name": "Nichijou",
         "category": "copyright",
-        "encrypted_count": "fFFmYw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://rabbithole.wiki.gg/images/e/e6/Site-logo.png"
-      },
-      "tag2": {
-        "id": "t0278",
-        "name": "arcane:_league_of_legends",
-        "proper_name": "Arcane: League of Legends",
-        "category": "copyright",
-        "encrypted_count": "fF1maA==",
-        "copyright": "League of Legends",
-        "material": "TV Show",
-        "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0687",
-        "name": "ro-500_(kancolle)",
-        "proper_name": "Ro-500",
-        "category": "character",
-        "encrypted_count": "el1kaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ro-500.(Kantai.Collection).600.2131087.jpg"
-      },
-      "tag2": {
-        "id": "t0500",
-        "name": "kasodani_kyouko",
-        "proper_name": "Kasodani Kyouko",
-        "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/original/12/27/__kasodani_kyouko_touhou_drawn_by_dairi__1227d63d9dffa3f9e8e6fb34b063a87b.png?download=1"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0935",
-        "name": "noa_(blue_archive)",
-        "proper_name": "Noa",
-        "category": "character",
-        "encrypted_count": "eFRgaQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Noa_Portrait.png"
-      },
-      "tag2": {
-        "id": "t0738",
-        "name": "hikari_(blue_archive)",
-        "proper_name": "Hikari",
-        "category": "character",
-        "encrypted_count": "elBkaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/13/Hikari_Portrait.png/revision/latest?cb=20240412140144"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0863",
-        "name": "kitasan_black_(umamusume)",
-        "proper_name": "Kitasan Black",
-        "category": "character",
-        "encrypted_count": "fVBjag==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/7/73/Kitasan_black_anime.png/revision/latest?cb=20210109020442"
-      },
-      "tag2": {
-        "id": "t0780",
-        "name": "ui_(blue_archive)",
-        "proper_name": "Ui",
-        "category": "character",
-        "encrypted_count": "eldubA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/1/18/Ui.png?version=9d1ebe8f93c452bc3cea698a3676d4e7"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0927",
-        "name": "kijin_seija",
-        "proper_name": "Kijin Seija",
-        "category": "character",
-        "encrypted_count": "e1ZlaA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/thumb/6/67/Th14Seija.png/200px-Th14Seija.png"
-      },
-      "tag2": {
-        "id": "t0418",
-        "name": "mizuno_ami",
-        "proper_name": "Mizuno Ami",
-        "category": "character",
-        "encrypted_count": "eldhYg==",
-        "copyright": "Sailor Moon",
+        "encrypted_count": "elVgbg==",
+        "copyright": "Nichijou",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
+        "image_reference": "https://nichijou.wiki.gg/images/e/e6/Site-logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0786",
-        "name": "os-tan",
-        "proper_name": "OS-tan",
+        "id": "t0767",
+        "name": "alice's_adventures_in_wonderland",
+        "proper_name": "Alice's Adventures in Wonderland",
         "category": "copyright",
-        "encrypted_count": "elFuYg==",
-        "copyright": "OS-tan",
-        "material": "Comic",
-        "image_reference": "https://www.ostan-collections.net/wiki/images/b/bb/OSCWikiLogo4.jpg"
+        "encrypted_count": "e1dubQ==",
+        "copyright": "Alice's Adventures in Wonderland",
+        "material": "Novel",
+        "image_reference": "https://logodix.com/logo/867893.jpg"
       },
       "tag2": {
-        "id": "t0648",
-        "name": "la+_darknesss",
-        "proper_name": "La+ Darknesss",
+        "id": "t0886",
+        "name": "skadi_the_corrupting_heart_(arknights)",
+        "proper_name": "Skadi the Corrupting Heart",
         "category": "character",
-        "encrypted_count": "e1Znbg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6f/Illustrator_Artwork_-_holoX_01.jpg/revision/latest/scale-to-width-down/1200?cb=20230312194809"
+        "encrypted_count": "fFdvbA==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cf/Skadi_the_Corrupting_Heart.png/revision/latest?cb=20210501130244"
       }
     },
     {
       "tag1": {
-        "id": "t0464",
-        "name": "seiun_sky_(umamusume)",
-        "proper_name": "Seiun Sky",
+        "id": "t0544",
+        "name": "ash_ketchum",
+        "proper_name": "Ash Ketchum",
         "category": "character",
-        "encrypted_count": "fFVgbA==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://cdn.umamusu.wiki/thumb/Seiun_Sky_(Main).png/640px-Seiun_Sky_(Main).png"
+        "encrypted_count": "f1RgY0g=",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pokemony/images/c/cd/Ash_JN.png/revision/latest?cb=20200723225043&path-prefix=pl"
       },
       "tag2": {
-        "id": "t0064",
-        "name": "nessa_(pokemon)",
-        "proper_name": "Nessa",
-        "category": "character",
-        "encrypted_count": "e1VmaQ==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Pokemon-Nessa.png/220px-Pokemon-Nessa.png"
+        "id": "t0580",
+        "name": "date_a_live",
+        "proper_name": "Date A Live",
+        "category": "copyright",
+        "encrypted_count": "eFNvaQ==",
+        "copyright": "Date A Live",
+        "material": "Light Novel",
+        "image_reference": "https://vignette4.wikia.nocookie.net/cartoon-anime/images/3/39/Date_A_Live_logo.png/revision/latest?cb=20160321171838&path-prefix=fr"
       }
     },
     {
       "tag1": {
-        "id": "t0714",
-        "name": "verniy_(kancolle)",
-        "proper_name": "Verniy",
+        "id": "t0954",
+        "name": "izumi_konata",
+        "proper_name": "Konata Izumi",
         "category": "character",
-        "encrypted_count": "elRuaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/5/5e/Ship_Card_Verniy.png/218px-Ship_Card_Verniy.png"
+        "encrypted_count": "eVNmbA==",
+        "copyright": "Lucky Star",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/7/73/Konata-san.gif/revision/latest?cb=20120723133321"
       },
       "tag2": {
-        "id": "t0091",
-        "name": "maya_(kancolle)",
-        "proper_name": "Maya",
+        "id": "t0541",
+        "name": "minami_kotori",
+        "proper_name": "Minami Kotori",
         "category": "character",
-        "encrypted_count": "fVRlYg==",
+        "encrypted_count": "dlJlaA==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjaPdIt9a2JBqPM2ogg68Gw8TSwNPuvsggg&s"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0401",
+        "name": "ohtsuki_yui",
+        "proper_name": "Ohtsuki Yui",
+        "category": "character",
+        "encrypted_count": "fFJhbA==",
+        "copyright": "Unknown",
+        "material": "Unknown",
+        "image_reference": "https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/9/99/Yui_Ohtsuki.png/revision/latest?cb=20211229073705"
+      },
+      "tag2": {
+        "id": "t0341",
+        "name": "non-human_admiral_(kancolle)",
+        "proper_name": "Non-Human Admiral",
+        "category": "character",
+        "encrypted_count": "f1FuaA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
+        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0574",
+        "name": "higuchi_madoka",
+        "proper_name": "Higuchi Madoka",
+        "category": "character",
+        "encrypted_count": "e1FvaA==",
+        "image_reference": "https://image.shinycolors.wiki/9/91/MadokaProfile.png"
+      },
+      "tag2": {
+        "id": "t0468",
+        "name": "aoki_reika",
+        "proper_name": "Aoki Reika",
+        "category": "character",
+        "encrypted_count": "fFJlaw==",
+        "copyright": "Pretty Cure",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/5/58/Reika_Aoki_Perfil.png/revision/latest?cb=20160918201752&path-prefix=pt-br"
       }
     }
   ]
