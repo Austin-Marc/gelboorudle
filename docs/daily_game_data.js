@@ -1,230 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-06-03T08:47:28.188547+00:00
-// Date: 2026-06-03
+// Generated on: 2026-06-04T08:12:13.966516+00:00
+// Date: 2026-06-04
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0625",
-        "name": "roronoa_zoro",
-        "proper_name": "Roronoa Zoro",
+        "id": "t0384",
+        "name": "chitanda_eru",
+        "proper_name": "Chitanda Eru",
         "category": "character",
-        "encrypted_count": "eVBgYw==",
-        "copyright": "One Piece",
+        "encrypted_count": "fFxibA==",
+        "copyright": "Hyouka",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20141008195159"
+        "image_reference": "https://static.wikia.nocookie.net/hyouka/images/0/0f/Chitanda_eru.jpg/revision/latest/scale-to-width-down/1200?cb=20161113165236&path-prefix=vi"
       },
       "tag2": {
-        "id": "t0685",
-        "name": "yugiri_tsuzuri",
-        "proper_name": "Yugiri Tsuzuri",
+        "id": "t0298",
+        "name": "hayami_kanade",
+        "proper_name": "Hayami Kanade",
         "category": "character",
-        "encrypted_count": "fV1nbw==",
+        "encrypted_count": "fF1kaw==",
+        "copyright": "IdolMaster Cinderella Girls",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/cinderella-girls/images/d/d1/200037R-Hayami-Kanade-Cool.png/revision/latest?cb=20180905181124"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0218",
+        "name": "mizi_(alien_stage)",
+        "proper_name": "Mizi",
+        "category": "character",
+        "encrypted_count": "fFJuYg==",
+        "copyright": "Alien Stage",
+        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
+      },
+      "tag2": {
+        "id": "t0730",
+        "name": "star_wars",
+        "proper_name": "Star Wars",
+        "category": "copyright",
+        "encrypted_count": "e11laA==",
+        "copyright": "Star Wars",
+        "material": "TV Show",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/320px-Star_Wars_Logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0036",
+        "name": "usami_sumireko",
+        "proper_name": "Usami Sumireko",
+        "category": "character",
+        "encrypted_count": "fFJnaA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/d/d8/Th145Sumireko.png/revision/latest?cb=20151127030013"
+      },
+      "tag2": {
+        "id": "t0111",
+        "name": "iskandar_(fate)",
+        "proper_name": "Iskandar",
+        "category": "character",
+        "encrypted_count": "fVRuYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0399",
+        "name": "saki_(blue_archive)",
+        "proper_name": "Saki",
+        "category": "character",
+        "encrypted_count": "fFFlbA==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/7/73/Tsuzuri_Yugiri_2024.png/revision/latest/scale-to-width-down/1200?cb=20240615060116"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0783",
-        "name": "fu_hua",
-        "proper_name": "Fu Hua",
-        "category": "character",
-        "encrypted_count": "elVmaw==",
-        "copyright": "Honkai Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/hoducks/images/f/f7/Valkyrie_Accipiter.png/revision/latest?cb=20201226082235"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
       },
       "tag2": {
-        "id": "t0728",
-        "name": "little_witch_academia",
-        "proper_name": "Little Witch Academia",
-        "category": "copyright",
-        "encrypted_count": "eVZhbA==",
-        "copyright": "Little Witch Academia",
+        "id": "t0264",
+        "name": "ram_(re:zero)",
+        "proper_name": "Ram",
+        "category": "character",
+        "encrypted_count": "fVBlYg==",
+        "copyright": "Re:Zero",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/Little_Witch_Academia_Logo.png/revision/latest?cb=20230313220247"
+        "image_reference": "https://vignette.wikia.nocookie.net/rezero/images/e/ee/Ram_-_Re_Zero_Anime_BD_-_6.png/revision/latest?cb=20160914125706"
       }
     },
     {
       "tag1": {
-        "id": "t0347",
-        "name": "peroro_(blue_archive)",
-        "proper_name": "Peroro",
+        "id": "t0125",
+        "name": "ethan_(pokemon)",
+        "proper_name": "Ethan",
         "category": "character",
-        "encrypted_count": "fFFibQ==",
+        "encrypted_count": "fVJlbg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/Ethan_(Pok\u00e9mon_Masters).png/revision/latest?cb=20220818005918&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0096",
+        "name": "mash_kyrielight_(demi-servant)",
+        "proper_name": "Mash Kyrielight",
+        "category": "character",
+        "encrypted_count": "f1Bmbw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0243",
+        "name": "matara_okina",
+        "proper_name": "Matara Okina",
+        "category": "character",
+        "encrypted_count": "fFBhbw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6626/12a7432efa65b8fd5cc4aa821a60c67f99850263_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0840",
+        "name": "kizuna_akari",
+        "proper_name": "Kizuna Akari",
+        "category": "character",
+        "encrypted_count": "fV1vbw==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/1/18/Vocaloid_akari.png/revision/latest?cb=20180329051055"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0536",
+        "name": "gundam_00",
+        "proper_name": "Gundam 00",
+        "category": "copyright",
+        "encrypted_count": "eF1hbQ==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/0/0c/Gundam_00_title.png/revision/latest?cb=20150707141603"
+      },
+      "tag2": {
+        "id": "t0360",
+        "name": "male_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Male)",
+        "category": "character",
+        "encrypted_count": "el1uYg==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0848",
+        "name": "doremy_sweet",
+        "proper_name": "Doremy Sweet",
+        "category": "character",
+        "encrypted_count": "fVBjYg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1354156714.png"
+      },
+      "tag2": {
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0961",
+        "name": "ako_(blue_archive)",
+        "proper_name": "Ako",
+        "category": "character",
+        "encrypted_count": "e1xuaA==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Perorodzilla_Banner_1.png/revision/latest/scale-to-width-down/700?cb=20211028155953"
+        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait_ako.webp"
       },
       "tag2": {
-        "id": "t0052",
-        "name": "zero_no_tsukaima",
-        "proper_name": "Zero no Tsukaima",
+        "id": "t0157",
+        "name": "my_little_pony:_friendship_is_magic",
+        "proper_name": "My Little Pony: Friendship Is Magic",
         "category": "copyright",
-        "encrypted_count": "e1xnYg==",
-        "copyright": "Zero no Tsukaima",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/ZnT_novel01.png"
+        "encrypted_count": "elJhag==",
+        "copyright": "My Little Pony",
+        "material": "TV Show",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg/640px-My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg.png"
       }
     },
     {
       "tag1": {
-        "id": "t0007",
-        "name": "hololive",
-        "proper_name": "Hololive",
-        "category": "copyright",
-        "encrypted_count": "fFNibEAH",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/f/fc/Hololive_production_Logo.png/revision/latest/scale-to-width-down/1200?cb=20200703020700"
-      },
-      "tag2": {
-        "id": "t0011",
-        "name": "umamusume",
-        "proper_name": "Umamusume",
-        "category": "copyright",
-        "encrypted_count": "f1BkaEkA",
-        "copyright": "Umamusume",
+        "id": "t0063",
+        "name": "diluc_(genshin_impact)",
+        "proper_name": "Diluc",
+        "category": "character",
+        "encrypted_count": "fVBhag==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/Umamusume_Pretty_Derby_game_cover.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0598",
-        "name": "len'en",
-        "proper_name": "Len'en",
-        "category": "copyright",
-        "encrypted_count": "e1ZiaA==",
-        "copyright": "Len'en",
-        "material": "Video Game",
-        "image_reference": "https://lenen.wiki.gg/images/Site-logo.png?b36d97"
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
       },
       "tag2": {
-        "id": "t0554",
-        "name": "c.c.",
-        "proper_name": "C.C.",
+        "id": "t0373",
+        "name": "hatsuzuki_(kancolle)",
+        "proper_name": "Hatsuzuki",
         "category": "character",
-        "encrypted_count": "eFBnag==",
-        "copyright": "Code Geass",
-        "material": "Anime",
-        "image_reference": "https://i.pinimg.com/736x/b5/e7/21/b5e7210af75a27e7c79b2b7e18b2a754.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0294",
-        "name": "umbreon",
-        "proper_name": "Umbreon",
-        "category": "character",
-        "encrypted_count": "fV1kbA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/9/9f/Umbreon.png/revision/latest?cb=20150823181058&path-prefix=pl"
-      },
-      "tag2": {
-        "id": "t0709",
-        "name": "machikado_mazoku",
-        "proper_name": "Machikado Mazoku",
-        "category": "copyright",
-        "encrypted_count": "elNubg==",
-        "copyright": "Machikado Mazoku",
-        "material": "Anime",
-        "image_reference": "https://images.seeklogo.com/logo-png/46/1/machikado-mazoku-logo-png_seeklogo-463180.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0039",
-        "name": "mordred_(fate/apocrypha)",
-        "proper_name": "Mordred",
-        "category": "character",
-        "encrypted_count": "e1ZlbA==",
-        "copyright": "Fate/Apocrypha",
-        "material": "anime",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest/scale-to-width/360?cb=20220910153017"
-      },
-      "tag2": {
-        "id": "t0579",
-        "name": "heartcatch_precure!",
-        "proper_name": "Heartcatch Precure!",
-        "category": "copyright",
-        "encrypted_count": "eFZnbg==",
-        "copyright": "Precure",
-        "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/de5shxw-01a69a49-e4f7-4987-b7b7-d4eda00bd7f8.png/v1/fill/w_1600,h_911/heartcatch_pretty_cure_logo_by_joshuat1306_de5shxw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kZTVzaHh3LTAxYTY5YTQ5LWU0ZjctNDk4Ny1iN2I3LWQ0ZWRhMDBiZDdmOC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CVHZAac5yav0HgjR_KGO1Yy9qGk64nAIG56xG-3f6g0"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0648",
-        "name": "la+_darknesss",
-        "proper_name": "La+ Darknesss",
-        "category": "character",
-        "encrypted_count": "e1Znbg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6f/Illustrator_Artwork_-_holoX_01.jpg/revision/latest/scale-to-width-down/1200?cb=20230312194809"
-      },
-      "tag2": {
-        "id": "t0417",
-        "name": "akitsu_maru_(kancolle)",
-        "proper_name": "Akitsu Maru",
-        "category": "character",
-        "encrypted_count": "fFdubg==",
+        "encrypted_count": "fFFvaw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b3/166_3.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0030",
-        "name": "mahou_shoujo_madoka_magica_(anime)",
-        "proper_name": "Mahou Shoujo Madoka Magica",
-        "category": "copyright",
-        "encrypted_count": "el1vYkQ=",
-        "copyright": "Mahou Shoujo Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/MadokaBD.jpg"
-      },
-      "tag2": {
-        "id": "t0328",
-        "name": "panty_(psg)",
-        "proper_name": "Panty",
-        "category": "character",
-        "encrypted_count": "elZjbw==",
-        "copyright": "Panty & Stocking with Garterbelt",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0176",
-        "name": "raora_panthera",
-        "proper_name": "Raora Panthera",
-        "category": "character",
-        "encrypted_count": "fVRmaA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
-      },
-      "tag2": {
-        "id": "t0828",
-        "name": "nonomi_(blue_archive)",
-        "proper_name": "Nonomi",
-        "category": "character",
-        "encrypted_count": "elRnYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait_nonomi.webp"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
       }
     }
   ]
