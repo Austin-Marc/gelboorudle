@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-06-10T07:59:53.249618+00:00
-// Date: 2026-06-10
+// Generated on: 2026-06-11T08:27:36.095672+00:00
+// Date: 2026-06-11
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0230",
-        "name": "kid_icarus_uprising",
-        "proper_name": "Kid Icarus: Uprising",
-        "category": "copyright",
-        "encrypted_count": "elVvbw==",
-        "copyright": "Kid Icarus: Uprising",
+        "id": "t0438",
+        "name": "tamamo_cat_(fate)",
+        "proper_name": "Tamamo Cat",
+        "category": "character",
+        "encrypted_count": "fFBibA==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdlhz0SDnycIXAyHMifpNYjHFY6xq8cTkg2sR9Ff8zE9PQAbqyap13XnTJ0g4_WFdFg8WvA"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
       },
       "tag2": {
-        "id": "t0667",
-        "name": "yurucamp",
-        "proper_name": "Yuru Camp",
-        "category": "copyright",
-        "encrypted_count": "e1JhYg==",
-        "copyright": "Yuru Camp",
+        "id": "t0094",
+        "name": "eila_ilmatar_juutilainen",
+        "proper_name": "Eila Ilmatar Juutilainen",
+        "category": "character",
+        "encrypted_count": "fVxnbA==",
+        "copyright": "Girls und Panzer",
         "material": "Anime",
-        "image_reference": "https://logowik.com/content/uploads/images/yuru-camp1673.logowik.com.webp"
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
       }
     },
     {
       "tag1": {
-        "id": "t0435",
-        "name": "akiyama_mizuki",
-        "proper_name": "Akiyama Mizuki",
+        "id": "t0572",
+        "name": "boo_tao_(genshin_impact)",
+        "proper_name": "Boo Tao",
         "category": "character",
-        "encrypted_count": "fFdjbQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
-      },
-      "tag2": {
-        "id": "t0621",
-        "name": "caesar_anthonio_zeppeli",
-        "proper_name": "Caesar Anthonio Zeppeli",
-        "category": "character",
-        "encrypted_count": "elxmaw==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/2/23/latest/20200616234147/Caesar_Infobox_Anime.png/540px-Caesar_Infobox_Anime.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0176",
-        "name": "raora_panthera",
-        "proper_name": "Raora Panthera",
-        "category": "character",
-        "encrypted_count": "fVRmaA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
-      },
-      "tag2": {
-        "id": "t0885",
-        "name": "male_rover_(wuthering_waves)",
-        "proper_name": "Male Rover",
-        "category": "character",
-        "encrypted_count": "fFVvbg==",
-        "copyright": "Wuthering Waves",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Rover.(Male).full.3938446.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0751",
-        "name": "pokemon_(classic_anime)",
-        "proper_name": "Pok\u00e9mon (Classic Anime)",
-        "category": "copyright",
-        "encrypted_count": "d1NuaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://i.redd.it/m5jdk1ymvre31.png"
-      },
-      "tag2": {
-        "id": "t0627",
-        "name": "sazanami_(kancolle)",
-        "proper_name": "Sazanami",
-        "category": "character",
-        "encrypted_count": "eldmaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Sazanami.(Kantai.Collection).full.1845445.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0727",
-        "name": "shoujo_kageki_revue_starlight",
-        "proper_name": "Shoujo Kageki Revue Starlight",
-        "category": "copyright",
-        "encrypted_count": "elxhbg==",
-        "copyright": "Shoujo Kageki Revue Starlight",
-        "material": "Anime",
-        "image_reference": "https://tl.vhv.rs/dpng/s/583-5832892_shoujo-kageki-revue-starlight-logo-hd-png-download.png"
-      },
-      "tag2": {
-        "id": "t0633",
-        "name": "love_live!_school_idol_festival",
-        "proper_name": "Love Live! School Idol Festival",
-        "category": "copyright",
-        "encrypted_count": "fVZuakg=",
-        "copyright": "Love Live!",
-        "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/102-1023896_love-live-school-idol-festival-logo-hd-png.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0651",
-        "name": "senketsu",
-        "proper_name": "Senketsu",
-        "category": "character",
-        "encrypted_count": "eFRgaw==",
-        "copyright": "Kill la Kill",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/kill-la-kill/images/6/64/Senketsu.png/revision/latest/scale-to-width-down/275?cb=20140301064639"
-      },
-      "tag2": {
-        "id": "t0008",
-        "name": "genshin_impact",
-        "proper_name": "Genshin Impact",
-        "category": "copyright",
-        "encrypted_count": "fFNla0gA",
+        "encrypted_count": "fFNvaQ==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2602/30935168a0f21b6710dc2bd7bb37c23ed937fb9fa747d84c.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0790",
-        "name": "takarada_rikka",
-        "proper_name": "Takarada Rikka",
-        "category": "character",
-        "encrypted_count": "e1Jgbw==",
-        "copyright": "SSSS.Gridman",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
+        "image_reference": "https://static.wikia.nocookie.net/1cc980d7-6ee3-4519-aa66-e8a03e842b26"
       },
       "tag2": {
-        "id": "t0889",
-        "name": "takakura_ken_(dandadan)",
-        "proper_name": "Takakura Ken",
+        "id": "t0131",
+        "name": "ayanami_(azur_lane)",
+        "proper_name": "Ayanami",
         "category": "character",
-        "encrypted_count": "fFJiaQ==",
-        "copyright": "Dandadan",
-        "material": "Manga",
-        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0065",
-        "name": "ichika_(blue_archive)",
-        "proper_name": "Ichika",
-        "category": "character",
-        "encrypted_count": "fVdgYw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "fVdkag==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0054",
-        "name": "fate/hollow_ataraxia",
-        "proper_name": "Fate/hollow ataraxia",
+        "image_reference": "https://vignette.wikia.nocookie.net/bhlx/images/0/0a/Ayanami.png/revision/latest?cb=20190519143145"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0188",
+        "name": "mega_man_zero_(series)",
+        "proper_name": "Mega Man Zero Series",
         "category": "copyright",
-        "encrypted_count": "fVxnbQ==",
-        "copyright": "Fate Series",
+        "encrypted_count": "elRvbg==",
+        "copyright": "Mega Man",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
+      },
+      "tag2": {
+        "id": "t0287",
+        "name": "satsuki_(kancolle)",
+        "proper_name": "Satsuki",
+        "category": "character",
+        "encrypted_count": "fFJgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0019",
+        "name": "final_fantasy",
+        "proper_name": "Final Fantasy",
+        "category": "copyright",
+        "encrypted_count": "f1ZnbkcB",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
+      },
+      "tag2": {
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
         "material": "Visual Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fate_hollow_ataraxia_game_DVD_cover.jpg"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
       }
     },
     {
       "tag1": {
-        "id": "t0687",
-        "name": "ro-500_(kancolle)",
-        "proper_name": "Ro-500",
+        "id": "t0686",
+        "name": "hiei_(kancolle)",
+        "proper_name": "Hiei",
         "category": "character",
-        "encrypted_count": "el1kaw==",
+        "encrypted_count": "elRubQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ro-500.(Kantai.Collection).600.2131087.jpg"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
       },
       "tag2": {
-        "id": "t0296",
-        "name": "zhu_yuan",
-        "proper_name": "Zhu Yuan",
+        "id": "t0089",
+        "name": "ruby_rose",
+        "proper_name": "Ruby Rose",
         "category": "character",
-        "encrypted_count": "fFxvYw==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
+        "encrypted_count": "e1ZkbQ==",
+        "copyright": "RWBY",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/rwby/images/9/9b/RubyRose-V8C14.png/revision/latest?cb=20241205032544"
       }
     },
     {
       "tag1": {
-        "id": "t0575",
-        "name": "nerissa_ravencroft",
-        "proper_name": "Nerissa Ravencroft",
+        "id": "t0469",
+        "name": "takao_(azur_lane)",
+        "proper_name": "Takao",
         "category": "character",
-        "encrypted_count": "e1Zhaw==",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_pr-img_01.png"
+        "encrypted_count": "fFJvaQ==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/2/28/Takao.png/revision/latest?cb=20230427040443"
       },
       "tag2": {
-        "id": "t0639",
-        "name": "souryuu_(kancolle)",
-        "proper_name": "Souryuu",
+        "id": "t0148",
+        "name": "waver_velvet",
+        "proper_name": "Waver Velvet",
         "category": "character",
-        "encrypted_count": "elFhaw==",
+        "encrypted_count": "fVRuaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/c7/af/52/c7af5289325440f1d4372f96af41445a.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0754",
+        "name": "gegege_no_kitarou",
+        "proper_name": "GeGeGe no Kitarou",
+        "category": "copyright",
+        "encrypted_count": "e1RlYg==",
+        "copyright": "GeGeGe no Kitarou",
+        "material": "Anime",
+        "image_reference": "https://images.launchbox-app.com/82f56e88-1d89-4c7f-95d4-b5ffdf87c0be.png"
+      },
+      "tag2": {
+        "id": "t0600",
+        "name": "hecatia_lapislazuli",
+        "proper_name": "Hecatia Lapislazuli",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0140",
+        "name": "kel_(omori)",
+        "proper_name": "Kel",
+        "category": "character",
+        "encrypted_count": "fFxgaw==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
+      },
+      "tag2": {
+        "id": "t0212",
+        "name": "fusou_(kancolle)",
+        "proper_name": "Fusou",
+        "category": "character",
+        "encrypted_count": "fFNgbw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/e/e7/Ship_Card_Souryuu.png"
+        "image_reference": "https://static.zerochan.net/Fusou.(Kantai.Collection).full.4129880.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0875",
+        "name": "osomatsu-kun",
+        "proper_name": "Osomatsu-kun",
+        "category": "copyright",
+        "encrypted_count": "elZjbw==",
+        "copyright": "Osomatsu-kun",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/osomatsukun/images/e/e6/Site-logo.png/revision/latest?cb=20210713152445"
+      },
+      "tag2": {
+        "id": "t0784",
+        "name": "akamatsu_kaede",
+        "proper_name": "Akamatsu Kaede",
+        "category": "character",
+        "encrypted_count": "eldhYw==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0712",
+        "name": "wo-class_aircraft_carrier",
+        "proper_name": "Wo-Class Aircraft Carrier",
+        "category": "character",
+        "encrypted_count": "fVNnbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://img10.reactor.cc/pics/post/Kantai-Collection-Anime-Wo-Class-Aircraft-Carrier-Kantai-Collection-2839849.png"
+      },
+      "tag2": {
+        "id": "t0648",
+        "name": "la+_darknesss",
+        "proper_name": "La+ Darknesss",
+        "category": "character",
+        "encrypted_count": "e1Znbg==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6f/Illustrator_Artwork_-_holoX_01.jpg/revision/latest/scale-to-width-down/1200?cb=20230312194809"
       }
     }
   ]
