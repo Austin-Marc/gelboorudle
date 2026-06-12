@@ -1,230 +1,227 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-06-11T08:27:36.095672+00:00
-// Date: 2026-06-11
+// Generated on: 2026-06-12T08:16:33.354382+00:00
+// Date: 2026-06-12
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0438",
-        "name": "tamamo_cat_(fate)",
-        "proper_name": "Tamamo Cat",
+        "id": "t0822",
+        "name": "gundam_build_fighters",
+        "proper_name": "Gundam Build Fighters",
+        "category": "copyright",
+        "encrypted_count": "eVdlaw==",
+        "copyright": "Gundam",
+        "material": "Anime",
+        "image_reference": "https://en.gundam.info/series/buildfighters/wp-content/themes/series/images/buildfighters/logo_en.png"
+      },
+      "tag2": {
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
         "category": "character",
-        "encrypted_count": "fFBibA==",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0870",
+        "name": "final_fantasy_vii_advent_children",
+        "proper_name": "Final Fantasy VII: Advent Children",
+        "category": "copyright",
+        "encrypted_count": "fFxlaQ==",
+        "copyright": "Final Fantasy VII",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/Ffviiaclogo.jpg/revision/latest?cb=20181221213823"
+      },
+      "tag2": {
+        "id": "t0392",
+        "name": "android_18",
+        "proper_name": "Android 18",
+        "category": "character",
+        "encrypted_count": "dlFvbQ==",
+        "copyright": "Dragon Ball",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/69/Android_18_Resurrection_%27F%27.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0942",
+        "name": "bb_(fate)",
+        "proper_name": "BB",
+        "category": "character",
+        "encrypted_count": "eFZlYw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
+        "image_reference": "https://static.mana.wiki/grandorder/166_BB_1.png"
       },
       "tag2": {
-        "id": "t0094",
-        "name": "eila_ilmatar_juutilainen",
-        "proper_name": "Eila Ilmatar Juutilainen",
+        "id": "t0887",
+        "name": "shiomi_kotone",
+        "proper_name": "Shiomi Kotone",
         "category": "character",
-        "encrypted_count": "fVxnbA==",
-        "copyright": "Girls und Panzer",
+        "encrypted_count": "fFFubQ==",
+        "copyright": "Kagurazaka's Work",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
+        "image_reference": "https://megatenwiki.com/images/thumb/8/8e/P3P_Kotone_Shiomi_Artwork.png/640px-P3P_Kotone_Shiomi_Artwork.png"
       }
     },
     {
       "tag1": {
-        "id": "t0572",
-        "name": "boo_tao_(genshin_impact)",
-        "proper_name": "Boo Tao",
+        "id": "t0255",
+        "name": "fujita_kotone",
+        "proper_name": "Fujita Kotone",
         "category": "character",
-        "encrypted_count": "fFNvaQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/1cc980d7-6ee3-4519-aa66-e8a03e842b26"
+        "encrypted_count": "fFxlbw==",
+        "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/7f/Kotone_Portrait.png/revision/latest?cb=20240306193455"
       },
       "tag2": {
-        "id": "t0131",
-        "name": "ayanami_(azur_lane)",
-        "proper_name": "Ayanami",
+        "id": "t0675",
+        "name": "iono_(pokemon)",
+        "proper_name": "Iono",
         "category": "character",
-        "encrypted_count": "fVdkag==",
-        "copyright": "Azur Lane",
+        "encrypted_count": "eFFmaA==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/bhlx/images/0/0a/Ayanami.png/revision/latest?cb=20190519143145"
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/0/00/Scarlet_Violet_Iono.png/1200px-Scarlet_Violet_Iono.png"
       }
     },
     {
       "tag1": {
-        "id": "t0188",
-        "name": "mega_man_zero_(series)",
-        "proper_name": "Mega Man Zero Series",
-        "category": "copyright",
-        "encrypted_count": "elRvbg==",
-        "copyright": "Mega Man",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
-      },
-      "tag2": {
-        "id": "t0287",
-        "name": "satsuki_(kancolle)",
-        "proper_name": "Satsuki",
+        "id": "t0176",
+        "name": "raora_panthera",
+        "proper_name": "Raora Panthera",
         "category": "character",
-        "encrypted_count": "fFJgaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0019",
-        "name": "final_fantasy",
-        "proper_name": "Final Fantasy",
-        "category": "copyright",
-        "encrypted_count": "f1ZnbkcB",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
-      },
-      "tag2": {
-        "id": "t0904",
-        "name": "to_heart_2",
-        "proper_name": "To Heart 2",
-        "category": "copyright",
-        "encrypted_count": "eFxvYw==",
-        "copyright": "To Heart",
-        "material": "Visual Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0686",
-        "name": "hiei_(kancolle)",
-        "proper_name": "Hiei",
-        "category": "character",
-        "encrypted_count": "elRubQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
-      },
-      "tag2": {
-        "id": "t0089",
-        "name": "ruby_rose",
-        "proper_name": "Ruby Rose",
-        "category": "character",
-        "encrypted_count": "e1ZkbQ==",
-        "copyright": "RWBY",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rwby/images/9/9b/RubyRose-V8C14.png/revision/latest?cb=20241205032544"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0469",
-        "name": "takao_(azur_lane)",
-        "proper_name": "Takao",
-        "category": "character",
-        "encrypted_count": "fFJvaQ==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/2/28/Takao.png/revision/latest?cb=20230427040443"
-      },
-      "tag2": {
-        "id": "t0148",
-        "name": "waver_velvet",
-        "proper_name": "Waver Velvet",
-        "category": "character",
-        "encrypted_count": "fVRuaw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/c7/af/52/c7af5289325440f1d4372f96af41445a.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0754",
-        "name": "gegege_no_kitarou",
-        "proper_name": "GeGeGe no Kitarou",
-        "category": "copyright",
-        "encrypted_count": "e1RlYg==",
-        "copyright": "GeGeGe no Kitarou",
-        "material": "Anime",
-        "image_reference": "https://images.launchbox-app.com/82f56e88-1d89-4c7f-95d4-b5ffdf87c0be.png"
-      },
-      "tag2": {
-        "id": "t0600",
-        "name": "hecatia_lapislazuli",
-        "proper_name": "Hecatia Lapislazuli",
-        "category": "character",
-        "encrypted_count": "elJvag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0140",
-        "name": "kel_(omori)",
-        "proper_name": "Kel",
-        "category": "character",
-        "encrypted_count": "fFxgaw==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
-      },
-      "tag2": {
-        "id": "t0212",
-        "name": "fusou_(kancolle)",
-        "proper_name": "Fusou",
-        "category": "character",
-        "encrypted_count": "fFNgbw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Fusou.(Kantai.Collection).full.4129880.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0875",
-        "name": "osomatsu-kun",
-        "proper_name": "Osomatsu-kun",
-        "category": "copyright",
-        "encrypted_count": "elZjbw==",
-        "copyright": "Osomatsu-kun",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/osomatsukun/images/e/e6/Site-logo.png/revision/latest?cb=20210713152445"
-      },
-      "tag2": {
-        "id": "t0784",
-        "name": "akamatsu_kaede",
-        "proper_name": "Akamatsu Kaede",
-        "category": "character",
-        "encrypted_count": "eldhYw==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0712",
-        "name": "wo-class_aircraft_carrier",
-        "proper_name": "Wo-Class Aircraft Carrier",
-        "category": "character",
-        "encrypted_count": "fVNnbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/Kantai-Collection-Anime-Wo-Class-Aircraft-Carrier-Kantai-Collection-2839849.png"
-      },
-      "tag2": {
-        "id": "t0648",
-        "name": "la+_darknesss",
-        "proper_name": "La+ Darknesss",
-        "category": "character",
-        "encrypted_count": "e1Znbg==",
+        "encrypted_count": "fVRmaA==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6f/Illustrator_Artwork_-_holoX_01.jpg/revision/latest/scale-to-width-down/1200?cb=20230312194809"
+        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
+      },
+      "tag2": {
+        "id": "t0509",
+        "name": "sanrio",
+        "proper_name": "Sanrio",
+        "category": "copyright",
+        "encrypted_count": "eFVlaw==",
+        "copyright": "Sanrio",
+        "image_reference": "https://static.wikia.nocookie.net/hellokitty/images/a/a5/Mv-cinnamon.png/revision/latest/scale-to-width/360?cb=20250930161135"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0512",
+        "name": "archer_(fate)",
+        "proper_name": "Archer",
+        "category": "character",
+        "encrypted_count": "eFRjaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
+      },
+      "tag2": {
+        "id": "t0345",
+        "name": "kousaka_kirino",
+        "proper_name": "Kousaka Kirino",
+        "category": "character",
+        "encrypted_count": "fVNjbQ==",
+        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+        "material": "Light Novel",
+        "image_reference": "https://static.zerochan.net/Kousaka.Kirino.full.1735927.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0115",
+        "name": "gundam_seed_destiny",
+        "proper_name": "Gundam Seed Destiny",
+        "category": "copyright",
+        "encrypted_count": "elJmYg==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/0/0c/Logo_Mobile_Suit_Gundam_Seed_Destiny.jpg/revision/latest/scale-to-width-down/310?cb=20181204163359"
+      },
+      "tag2": {
+        "id": "t0946",
+        "name": "ssss.gridman",
+        "proper_name": "SSSS.Gridman",
+        "category": "copyright",
+        "encrypted_count": "dlBhaw==",
+        "copyright": "SSSS.Gridman",
+        "material": "Anime",
+        "image_reference": "https://srw-dd.suparobo.jp/images/character/character_logo_046.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0014",
+        "name": "idolmaster_cinderella_girls",
+        "proper_name": "Idolmaster Cinderella Girls",
+        "category": "copyright",
+        "encrypted_count": "f1Bma0cB",
+        "copyright": "Idolmaster Cinderella Girls",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Idolmaster_Cinderella_Girls_promo.jpg"
+      },
+      "tag2": {
+        "id": "t0849",
+        "name": "kasane_teto_(sv)",
+        "proper_name": "Kasane Teto",
+        "category": "character",
+        "encrypted_count": "fVFlbA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/4/4f/Kasane_Teto_CAFFEIN-Cropped.PNG/revision/latest?cb=20150509152327"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0436",
+        "name": "yi_sang_(project_moon)",
+        "proper_name": "Yi Sang",
+        "category": "character",
+        "encrypted_count": "fFBjYw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
+      },
+      "tag2": {
+        "id": "t0537",
+        "name": "kingdom_hearts",
+        "proper_name": "Kingdom Hearts",
+        "category": "copyright",
+        "encrypted_count": "dlViYg==",
+        "copyright": "Kingdom Hearts",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kingdomhearts/images/d/db/Kingdom_Hearts_front_cover_%28US%29.png/revision/latest?cb=20231231113847"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0944",
+        "name": "pokemon_frlg",
+        "proper_name": "Pokemon FireRed and LeafGreen",
+        "category": "copyright",
+        "encrypted_count": "eVdkaA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d98e9d8-a584-4ca2-99ed-decc4d5e5e3b/dbar2e9-159cad99-8f7a-4ad0-b79f-08030df1d35a.png/v1/fill/w_1192,h_670/pokemon_fire_red__leaf_green_logo_youtube_by_the_trainer_ruby_dbar2e9-pre.png"
+      },
+      "tag2": {
+        "id": "t0791",
+        "name": "sangonomiya_kokomi",
+        "proper_name": "Sangonomiya Kokomi",
+        "category": "character",
+        "encrypted_count": "elZmaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20230429082521&path-prefix=de"
       }
     }
   ]
