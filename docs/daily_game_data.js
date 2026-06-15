@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-06-14T08:08:54.436054+00:00
-// Date: 2026-06-14
+// Generated on: 2026-06-15T09:52:05.316476+00:00
+// Date: 2026-06-15
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0850",
-        "name": "w_(arknights)",
-        "proper_name": "W",
-        "category": "character",
-        "encrypted_count": "fV1mbw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/25/W.png/revision/latest?cb=20200501132649"
-      },
-      "tag2": {
-        "id": "t0733",
-        "name": "takagaki_kaede",
-        "proper_name": "Takagaki Kaede",
-        "category": "character",
-        "encrypted_count": "elJmaA==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/f/f6/Cinderella_master_004_cover.jpg/1200px-Cinderella_master_004_cover.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0269",
-        "name": "fushiguro_megumi",
-        "proper_name": "Fushiguro Megumi",
-        "category": "character",
-        "encrypted_count": "elRkaw==",
-        "copyright": "Jujutsu Kaisen",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8d/Megumi_Fushiguro_(Anime).png/revision/latest?cb=20201213115916&path-prefix=pl"
-      },
-      "tag2": {
-        "id": "t0507",
-        "name": "watanabe_you",
-        "proper_name": "Watanabe You",
-        "category": "character",
-        "encrypted_count": "d1FnaQ==",
-        "copyright": "Love Live! Sunshine!!",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Watanabe.You.full.2918010.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0439",
-        "name": "cheval_grand_(umamusume)",
-        "proper_name": "Cheval Grand",
-        "category": "character",
-        "encrypted_count": "fFZnaQ==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/6/64/Cheval_Grand_%28Race%29.png/revision/latest?cb=20240728193832"
-      },
-      "tag2": {
-        "id": "t0494",
-        "name": "amane_kanata",
-        "proper_name": "Amane Kanata",
-        "category": "character",
-        "encrypted_count": "eFFlbQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/3/36/Amane_Kanata_-_Portrait_01.png/1200px-Amane_Kanata_-_Portrait_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0828",
-        "name": "nonomi_(blue_archive)",
-        "proper_name": "Nonomi",
-        "category": "character",
-        "encrypted_count": "elRnYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait_nonomi.webp"
-      },
-      "tag2": {
-        "id": "t0632",
-        "name": "deltarune",
-        "proper_name": "Deltarune",
+        "id": "t0609",
+        "name": "library_of_ruina",
+        "proper_name": "Library of Ruina",
         "category": "copyright",
-        "encrypted_count": "e1Vkbg==",
-        "copyright": "Deltarune",
+        "encrypted_count": "e1VkaA==",
+        "copyright": "Library of Ruina",
         "material": "Video Game",
-        "image_reference": "https://ninos.kiddle.co/images/thumb/4/43/Deltarune_vector_logo.svg/799px-Deltarune_vector_logo.svg.png"
+        "image_reference": "https://libraryofruina.wiki.gg/images/e/e6/Site-logo.png"
+      },
+      "tag2": {
+        "id": "t0676",
+        "name": "suigintou",
+        "proper_name": "Suigintou",
+        "category": "character",
+        "encrypted_count": "e1VmbA==",
+        "copyright": "Rosen Maiden",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/6/66/Suigintou_2013.png/revision/latest?cb=20140901224628&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0872",
-        "name": "fate/samurai_remnant",
-        "proper_name": "Fate/Samurai Remnant",
+        "id": "t0214",
+        "name": "mari_(omori)",
+        "proper_name": "Mari",
+        "category": "character",
+        "encrypted_count": "fVZubw==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/d/d1/DW_Mari_Fullbody_Profile.png/revision/latest?cb=20221031040609"
+      },
+      "tag2": {
+        "id": "t0500",
+        "name": "kasodani_kyouko",
+        "proper_name": "Kasodani Kyouko",
+        "category": "character",
+        "encrypted_count": "e1NnbA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://cdn.donmai.us/original/12/27/__kasodani_kyouko_touhou_drawn_by_dairi__1227d63d9dffa3f9e8e6fb34b063a87b.png?download=1"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0556",
+        "name": "wakaba_mutsumi",
+        "proper_name": "Wakaba Mutsumi",
+        "category": "character",
+        "encrypted_count": "e1Vgag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://anibase.net/files/2fe43d80636dfb7d1e4d535c174a7b68"
+      },
+      "tag2": {
+        "id": "t0610",
+        "name": "fire_emblem:_radiant_dawn",
+        "proper_name": "Fire Emblem: Radiant Dawn",
         "category": "copyright",
-        "encrypted_count": "fFdhbQ==",
+        "encrypted_count": "eFZkYw==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://vignette2.wikia.nocookie.net/fireemblem/images/1/11/Logo_Fire_Emblem_Radiant_Dawn.png/revision/latest?cb=20170222084554&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0180",
+        "name": "tokitsukaze_(kancolle)",
+        "proper_name": "Tokitsukaze",
+        "category": "character",
+        "encrypted_count": "fFxgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
+      },
+      "tag2": {
+        "id": "t0895",
+        "name": "diarmuid_ua_duibhne_(fate)",
+        "proper_name": "Diarmuid Ua Duibhne",
+        "category": "character",
+        "encrypted_count": "fFBmaw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/factvsfiction/images/2/28/Diarmuid.png/revision/latest?cb=20160116010006"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0049",
+        "name": "gokou_ruri",
+        "proper_name": "Gokou Ruri",
+        "category": "character",
+        "encrypted_count": "fVxhbA==",
+        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/oreimo/images/c/cd/Kuroneko_Appearance.png/revision/latest?cb=20240414210944"
       },
       "tag2": {
-        "id": "t0303",
-        "name": "kiyoshimo_(kancolle)",
-        "proper_name": "Kiyoshimo",
+        "id": "t0758",
+        "name": "sailor_moon",
+        "proper_name": "Sailor Moon",
         "category": "character",
-        "encrypted_count": "fFJvbg==",
+        "encrypted_count": "eFBhYw==",
+        "copyright": "Sailor Moon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_(1992).png/revision/latest?cb=20231109134853&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0782",
+        "name": "medusa_(rider)_(fate)",
+        "proper_name": "Medusa (Rider)",
+        "category": "character",
+        "encrypted_count": "e1BiYw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/vsbattles/images/d/dc/Fate_Grand_Order_Rider_Medusa.png/revision/latest?cb=20180103064846"
+      },
+      "tag2": {
+        "id": "t0091",
+        "name": "maya_(kancolle)",
+        "proper_name": "Maya",
+        "category": "character",
+        "encrypted_count": "fVRlYg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
       }
     },
     {
       "tag1": {
-        "id": "t0712",
-        "name": "wo-class_aircraft_carrier",
-        "proper_name": "Wo-Class Aircraft Carrier",
+        "id": "t0212",
+        "name": "fusou_(kancolle)",
+        "proper_name": "Fusou",
         "category": "character",
-        "encrypted_count": "fVNnbQ==",
+        "encrypted_count": "fFNgbw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/Kantai-Collection-Anime-Wo-Class-Aircraft-Carrier-Kantai-Collection-2839849.png"
+        "image_reference": "https://static.zerochan.net/Fusou.(Kantai.Collection).full.4129880.jpg"
       },
       "tag2": {
-        "id": "t0168",
-        "name": "castorice_(honkai:_star_rail)",
-        "proper_name": "Castorice",
+        "id": "t0099",
+        "name": "nagisa_kaworu",
+        "proper_name": "Nagisa Kaworu",
         "category": "character",
-        "encrypted_count": "fF1ubg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0545",
-        "name": "pripara",
-        "proper_name": "Pripara",
-        "category": "copyright",
-        "encrypted_count": "eFZgbw==",
-        "copyright": "Pripara",
+        "encrypted_count": "elVvaw==",
+        "copyright": "Neon Genesis Evangelion",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pripara/images/b/b9/Pripara_logo.png/revision/latest/scale-to-width-down/180?cb=20190729130335"
-      },
-      "tag2": {
-        "id": "t0013",
-        "name": "honkai_(series)",
-        "proper_name": "Honkai Series",
-        "category": "copyright",
-        "encrypted_count": "f1dgbEkC",
-        "copyright": "Honkai Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/da/Honkai_Impact_3rd_logo.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Eva24DC_Kaworu.jpg/230px-Eva24DC_Kaworu.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0456",
-        "name": "tachibana_kanade",
-        "proper_name": "Tachibana Kanade",
+        "id": "t0446",
+        "name": "saten_ruiko",
+        "proper_name": "Saten Ruiko",
         "category": "character",
-        "encrypted_count": "f1Zi",
-        "copyright": "Angel Beats!",
+        "encrypted_count": "fVRubg==",
+        "copyright": "Toaru Series",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/angelbeats/images/d/d4/Kanade_anime.png/revision/latest/scale-to-width-down/1200?cb=20190414062510"
+        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
       },
       "tag2": {
-        "id": "t0633",
-        "name": "love_live!_school_idol_festival",
-        "proper_name": "Love Live! School Idol Festival",
-        "category": "copyright",
-        "encrypted_count": "fVZuakg=",
-        "copyright": "Love Live!",
+        "id": "t0473",
+        "name": "dodoco_(genshin_impact)",
+        "proper_name": "Dodoco",
+        "category": "character",
+        "encrypted_count": "f11lbg==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/102-1023896_love-live-school-idol-festival-logo-hd-png.png"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/7/75/Dodoco.png/revision/latest?cb=20220327125113&path-prefix=th"
       }
     },
     {
       "tag1": {
-        "id": "t0427",
-        "name": "senran_kagura_new_link",
-        "proper_name": "Senran Kagura: New Link",
-        "category": "copyright",
-        "encrypted_count": "fFxhbg==",
-        "copyright": "Senran Kagura",
+        "id": "t0777",
+        "name": "bronya_zaychik",
+        "proper_name": "Bronya Zaychik",
+        "category": "character",
+        "encrypted_count": "elZjbQ==",
+        "copyright": "Honkai Impact",
         "material": "Video Game",
-        "image_reference": "https://www.giantbomb.com/a/uploads/scale_medium/0/9536/2954447-7552396149-logo_.png"
+        "image_reference": "https://static.wikia.nocookie.net/hoducks/images/5/5a/Valkyrie_Chariot.png/revision/latest?cb=20201226080539"
       },
       "tag2": {
-        "id": "t0105",
-        "name": "nakano_yotsuba",
-        "proper_name": "Nakano Yotsuba",
+        "id": "t0297",
+        "name": "hong_lu_(project_moon)",
+        "proper_name": "Hong Lu",
         "category": "character",
-        "encrypted_count": "fVJhbg==",
-        "copyright": "The Quintessential Quintuplets",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701"
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
       }
     },
     {
       "tag1": {
-        "id": "t0629",
-        "name": "shiranui_mai",
-        "proper_name": "Shiranui Mai",
+        "id": "t0892",
+        "name": "hero_(omori)",
+        "proper_name": "Hero",
         "category": "character",
-        "encrypted_count": "f1dkb0A=",
-        "image_reference": "https://static.wikia.nocookie.net/herois/images/5/53/Mai_Shiranui_FF-CotW.png/revision/latest/scale-to-width-down/1200?cb=20241112050708&path-prefix=pt-br"
+        "encrypted_count": "fFZhbQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
       },
       "tag2": {
-        "id": "t0511",
-        "name": "gundam_seed",
-        "proper_name": "Gundam Seed",
-        "category": "copyright",
-        "encrypted_count": "dlVkbw==",
-        "copyright": "Mobile Suit Gundam",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
+        "id": "t0466",
+        "name": "clorinde_(genshin_impact)",
+        "proper_name": "Clorinde",
+        "category": "character",
+        "encrypted_count": "fFBiaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Clorinde_Introduction_Card.png/revision/latest?cb=20240422100307"
       }
     }
   ]
