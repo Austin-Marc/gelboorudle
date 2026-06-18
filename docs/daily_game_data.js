@@ -1,122 +1,133 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-06-17T08:53:22.944509+00:00
-// Date: 2026-06-17
+// Generated on: 2026-06-18T08:37:27.940215+00:00
+// Date: 2026-06-18
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0741",
-        "name": "nozomi_(blue_archive)",
-        "proper_name": "Nozomi",
+        "id": "t0942",
+        "name": "bb_(fate)",
+        "proper_name": "BB",
         "category": "character",
-        "encrypted_count": "elBnaw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "eFZlYw==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/0/0b/Nozomi.png?version=5b03c5a5d159b8b68eb6287e9738dace"
+        "image_reference": "https://static.mana.wiki/grandorder/166_BB_1.png"
       },
       "tag2": {
-        "id": "t0414",
-        "name": "hoshino_(swimsuit)_(blue_archive)",
-        "proper_name": "Hoshino (Swimsuit)",
+        "id": "t0374",
+        "name": "sinclair_(project_moon)",
+        "proper_name": "Sinclair",
         "category": "character",
-        "encrypted_count": "fFFubg==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "fFJnaw==",
+        "copyright": "Project Moon",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/c/c2/Hoshino_%28Swimsuit%29.png?version=25af5c07790b064540722a394002a255"
+        "image_reference": "https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest?cb=20230228041304"
       }
     },
     {
       "tag1": {
-        "id": "t0592",
-        "name": "toki_(bunny)_(blue_archive)",
-        "proper_name": "Toki (Bunny)",
-        "category": "character",
-        "encrypted_count": "e1dmbg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Toki_Bunny_Girl_Portrait.png/revision/latest?cb=20230426103415"
-      },
-      "tag2": {
-        "id": "t0238",
-        "name": "yu-gi-oh!_5d's",
-        "proper_name": "Yu-Gi-Oh! 5D's",
+        "id": "t0489",
+        "name": "street_fighter_6",
+        "proper_name": "Street Fighter 6",
         "category": "copyright",
-        "encrypted_count": "elJvaw==",
-        "copyright": "Yu-Gi-Oh! 5D's",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yugioh/images/e/e1/Yu-Gi-Oh!_5Ds_logo.png/revision/latest?cb=20091226000453"
+        "encrypted_count": "dlJjaA==",
+        "copyright": "Street Fighter",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/streetfighter/images/4/47/Street_fighter_6_logo.png/revision/latest?cb=20220603151920"
+      },
+      "tag2": {
+        "id": "t0435",
+        "name": "akiyama_mizuki",
+        "proper_name": "Akiyama Mizuki",
+        "category": "character",
+        "encrypted_count": "fFdjbQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
       }
     },
     {
       "tag1": {
-        "id": "t0146",
-        "name": "nia_(xenoblade)",
-        "proper_name": "Nia",
+        "id": "t0900",
+        "name": "female_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Female)",
         "category": "character",
-        "encrypted_count": "fVxiYw==",
-        "copyright": "Xenoblade Chronicles",
+        "encrypted_count": "eVdmbQ==",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
+        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
       },
       "tag2": {
-        "id": "t0064",
-        "name": "nessa_(pokemon)",
-        "proper_name": "Nessa",
+        "id": "t0181",
+        "name": "jinx_(league_of_legends)",
+        "proper_name": "Jinx",
         "category": "character",
-        "encrypted_count": "e1VmaQ==",
-        "copyright": "Pokemon",
+        "encrypted_count": "elZmYw==",
+        "copyright": "League of Legends",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Pokemon-Nessa.png/220px-Pokemon-Nessa.png"
+        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
       }
     },
     {
       "tag1": {
-        "id": "t0840",
-        "name": "kizuna_akari",
-        "proper_name": "Kizuna Akari",
+        "id": "t0712",
+        "name": "wo-class_aircraft_carrier",
+        "proper_name": "Wo-Class Aircraft Carrier",
         "category": "character",
-        "encrypted_count": "fV1vbw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/1/18/Vocaloid_akari.png/revision/latest?cb=20180329051055"
+        "encrypted_count": "fVNnbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://img10.reactor.cc/pics/post/Kantai-Collection-Anime-Wo-Class-Aircraft-Carrier-Kantai-Collection-2839849.png"
       },
       "tag2": {
-        "id": "t0322",
-        "name": "cookie_run:_kingdom",
-        "proper_name": "Cookie Run: Kingdom",
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
         "category": "copyright",
-        "encrypted_count": "fFNiaQ==",
-        "copyright": "Cookie Run: Kingdom",
-        "material": "Video Game",
-        "image_reference": "https://videogamedatabank.com/application/files/1516/1212/6345/cookie_run_kingdom_logo.png"
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
       }
     },
     {
       "tag1": {
-        "id": "t0608",
-        "name": "kitagawa_marin",
-        "proper_name": "Kitagawa Marin",
-        "category": "character",
-        "encrypted_count": "eVNlaQ==",
-        "image_reference": "https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/3/3c/Kitagawa_Marin_~_Anime.jpg/revision/latest?cb=20220227174558&path-prefix=es"
+        "id": "t0613",
+        "name": "the_hundred_line_-last_defense_academy-",
+        "proper_name": "The Hundred Line -Last Defense Academy-",
+        "category": "copyright",
+        "encrypted_count": "dlZgbw==",
+        "copyright": "The Hundred Line -Last Defense Academy-",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
       },
       "tag2": {
-        "id": "t0754",
-        "name": "gegege_no_kitarou",
-        "proper_name": "GeGeGe no Kitarou",
+        "id": "t0013",
+        "name": "honkai_(series)",
+        "proper_name": "Honkai Series",
         "category": "copyright",
-        "encrypted_count": "e1RlYg==",
-        "copyright": "GeGeGe no Kitarou",
-        "material": "Anime",
-        "image_reference": "https://images.launchbox-app.com/82f56e88-1d89-4c7f-95d4-b5ffdf87c0be.png"
+        "encrypted_count": "f1dgbEkC",
+        "copyright": "Honkai Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/da/Honkai_Impact_3rd_logo.png"
       }
     },
     {
       "tag1": {
+        "id": "t0431",
+        "name": "hayate_no_gotoku!",
+        "proper_name": "Hayate no Gotoku!",
+        "category": "copyright",
+        "encrypted_count": "fVxubQ==",
+        "copyright": "Hayate no Gotoku!",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
+      },
+      "tag2": {
         "id": "t0733",
         "name": "takagaki_kaede",
         "proper_name": "Takagaki Kaede",
@@ -125,104 +136,94 @@ const DAILY_GAME_DATA = {
         "copyright": "The Idolmaster",
         "material": "Video Game",
         "image_reference": "https://project-imas.wiki/images/thumb/f/f6/Cinderella_master_004_cover.jpg/1200px-Cinderella_master_004_cover.jpg"
-      },
-      "tag2": {
-        "id": "t0305",
-        "name": "twin_turbo_(umamusume)",
-        "proper_name": "Twin Turbo",
-        "category": "character",
-        "encrypted_count": "fFBjaA==",
-        "copyright": "Uma Musume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/4/46/Twin_Turbo_%28Race%29.png/revision/latest?cb=20240728220739"
       }
     },
     {
       "tag1": {
-        "id": "t0205",
-        "name": "uehara_ayumu",
-        "proper_name": "Uehara Ayumu",
+        "id": "t0894",
+        "name": "brendan_(pokemon)",
+        "proper_name": "Brendan",
         "category": "character",
-        "encrypted_count": "el1maQ==",
-        "copyright": "Love Live! Series",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
-      },
-      "tag2": {
-        "id": "t0563",
-        "name": "power_(chainsaw_man)",
-        "proper_name": "Power",
-        "category": "character",
-        "encrypted_count": "eFNjYw==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/60/Power_Infobox.png/revision/latest?cb=20221018191230&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0720",
-        "name": "yuuki_makoto_(persona_3)",
-        "proper_name": "Yuuki Makoto",
-        "category": "character",
-        "encrypted_count": "elJvbA==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/thumb/7/7b/P3R_Protagonist_Artwork.png/800px-P3R_Protagonist_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0471",
-        "name": "kirlia",
-        "proper_name": "Kirlia",
-        "category": "character",
-        "encrypted_count": "fVdjag==",
+        "encrypted_count": "fVVubw==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/c/ce/Brendan_Omega_Ruby_and_Alpha_Sapphire_concept_art.png/revision/latest?cb=20160513212418"
+      },
+      "tag2": {
+        "id": "t0651",
+        "name": "senketsu",
+        "proper_name": "Senketsu",
+        "category": "character",
+        "encrypted_count": "eFRgaw==",
+        "copyright": "Kill la Kill",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kill-la-kill/images/6/64/Senketsu.png/revision/latest/scale-to-width-down/275?cb=20140301064639"
       }
     },
     {
       "tag1": {
-        "id": "t0131",
-        "name": "ayanami_(azur_lane)",
-        "proper_name": "Ayanami",
+        "id": "t0963",
+        "name": "acheron_(honkai:_star_rail)",
+        "proper_name": "Acheron",
         "category": "character",
-        "encrypted_count": "fVdkag==",
-        "copyright": "Azur Lane",
+        "encrypted_count": "e1JkYg==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/bhlx/images/0/0a/Ayanami.png/revision/latest?cb=20190519143145"
+        "image_reference": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/12/honkai-star-rail-acheron-3.jpeg"
       },
       "tag2": {
-        "id": "t0286",
-        "name": "charlotte_(madoka_magica)",
-        "proper_name": "Charlotte",
+        "id": "t0400",
+        "name": "aigis_(persona)",
+        "proper_name": "Aigis",
         "category": "character",
-        "encrypted_count": "fFNvYw==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://images.puella-magi.net/b/be/Card_Charlotte.png"
+        "encrypted_count": "fF1hYg==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
       }
     },
     {
       "tag1": {
-        "id": "t0172",
-        "name": "illustrious_(azur_lane)",
-        "proper_name": "Illustrious",
-        "category": "character",
-        "encrypted_count": "fVdhbg==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/3/39/Illustrious.png"
+        "id": "t0114",
+        "name": "fresh_precure!",
+        "proper_name": "Fresh Precure!",
+        "category": "copyright",
+        "encrypted_count": "elJgYg==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/9/98/Fresh_Pretty_Cure_(English_2009).png/revision/latest?cb=20230828060448"
       },
       "tag2": {
-        "id": "t0418",
-        "name": "mizuno_ami",
-        "proper_name": "Mizuno Ami",
+        "id": "t0461",
+        "name": "burnice_white",
+        "proper_name": "Burnice White",
         "category": "character",
-        "encrypted_count": "eldhYg==",
-        "copyright": "Sailor Moon",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
+        "encrypted_count": "fFJhbg==",
+        "copyright": "Zenlesss Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/d/d1/Agent_Burnice_White_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240930234702"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0184",
+        "name": "phase_connect",
+        "proper_name": "Phase Connect",
+        "category": "copyright",
+        "encrypted_count": "fV1uaA==",
+        "copyright": "Phase Connect",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/phase_connect___logo.png"
+      },
+      "tag2": {
+        "id": "t0295",
+        "name": "nikki_(nikki)",
+        "proper_name": "Nikki",
+        "category": "character",
+        "encrypted_count": "fFJmaQ==",
+        "copyright": "Nikki",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/heroe/images/1/14/Nikki_SN_sprite39.png/revision/latest?cb=20220723070732&path-prefix=es"
       }
     }
   ]
