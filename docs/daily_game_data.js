@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-06-23T07:40:26.882705+00:00
-// Date: 2026-06-23
+// Generated on: 2026-06-24T07:32:39.231859+00:00
+// Date: 2026-06-24
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0215",
-        "name": "kuma_(kancolle)",
-        "proper_name": "Kuma",
+        "id": "t0852",
+        "name": "arch_bishop_(ragnarok_online)",
+        "proper_name": "Arch Bishop",
         "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fVJibQ==",
+        "copyright": "Ragnarok Online",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
+        "image_reference": "https://gamepedia.cursecdn.com/ragnarok_gamepedia_en/2/20/Character_Archbishop.jpg"
       },
       "tag2": {
-        "id": "t0821",
-        "name": "graf_zeppelin_(kancolle)",
-        "proper_name": "Graf Zeppelin",
-        "category": "character",
-        "encrypted_count": "fVxkYw==",
-        "copyright": "Kantai Collection",
+        "id": "t0877",
+        "name": "atelier_ryza_1",
+        "proper_name": "Atelier Ryza 1",
+        "category": "copyright",
+        "encrypted_count": "fFFuag==",
+        "copyright": "Atelier Ryza",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Graf.Zeppelin.(Kantai.Collection).full.1974176.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
       }
     },
     {
       "tag1": {
-        "id": "t0871",
-        "name": "senpai_ga_uzai_kouhai_no_hanashi",
-        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
+        "id": "t0256",
+        "name": "mihono_bourbon_(umamusume)",
+        "proper_name": "Mihono Bourbon",
+        "category": "character",
+        "encrypted_count": "fFFmbw==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Mihono.Bourbon.600.3657614.jpg"
+      },
+      "tag2": {
+        "id": "t0079",
+        "name": "zeta_gundam",
+        "proper_name": "Mobile Suit Zeta Gundam",
         "category": "copyright",
-        "encrypted_count": "f1FuaQ==",
-        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
+        "encrypted_count": "elFnbg==",
+        "copyright": "Mobile Suit Gundam",
         "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BNTRlYzIwYmYtMzUzYy00YmFmLTllMjItOWYzYmNmYjQ2YmI5XkEyXkFqcGc@._V1_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0195",
+        "name": "reizei_mako",
+        "proper_name": "Reizei Mako",
+        "category": "character",
+        "encrypted_count": "fF1kYw==",
+        "copyright": "Kantai Collection",
+        "material": "Anime",
+        "image_reference": "https://img10.reactor.cc/pics/post/full/Girls-und-Panzer-Anime-reizei-mako-sazanka-4507628.png"
       },
       "tag2": {
-        "id": "t0194",
-        "name": "warspite_(kancolle)",
-        "proper_name": "Warspite",
+        "id": "t0355",
+        "name": "isokaze_(kancolle)",
+        "proper_name": "Isokaze",
         "category": "character",
-        "encrypted_count": "fFNuag==",
+        "encrypted_count": "fFJkYg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/3b/Ship_Card_Warspite.png/218px-Ship_Card_Warspite.png"
+        "image_reference": "https://static.zerochan.net/Isokaze.(Kantai.Collection).full.2420339.png"
       }
     },
     {
       "tag1": {
-        "id": "t0391",
-        "name": "yahagi_(kancolle)",
-        "proper_name": "Yahagi",
+        "id": "t0074",
+        "name": "sanya_v._litvyak",
+        "proper_name": "Sanya V. Litvyak",
         "category": "character",
-        "encrypted_count": "fFFvag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yahagi.(Kantai.Collection).full.4307028.jpg"
-      },
-      "tag2": {
-        "id": "t0129",
-        "name": "i-58_(kancolle)",
-        "proper_name": "I-58",
-        "category": "character",
-        "encrypted_count": "fF1gaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/9/96/Ship_Card_I-58.png/218px-Ship_Card_I-58.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0634",
-        "name": "koha-ace",
-        "proper_name": "Koha-Ace",
-        "category": "copyright",
-        "encrypted_count": "elNjag==",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/56/Fate_GUDAGUDA_Order_Logo.png/revision/latest?cb=20220611195909"
-      },
-      "tag2": {
-        "id": "t0277",
-        "name": "oshiro_project:re",
-        "proper_name": "Oshiro Project: Re",
-        "category": "copyright",
-        "encrypted_count": "fVRjaQ==",
-        "copyright": "Oshiro Project: Re",
-        "material": "Video Game",
-        "image_reference": "https://play-lh.googleusercontent.com/mZqL67H8JkcYvkTYS1ZFA2ZswkmlAJeo4XjEZZUCfvw5JXiBLhp9ExrXKiigv0gfzSE=w526-h296-rw"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0771",
-        "name": "cyberpunk_(series)",
-        "proper_name": "Cyberpunk Series",
-        "category": "copyright",
-        "encrypted_count": "e1Jlaw==",
-        "copyright": "Cyberpunk",
-        "material": "Video Game",
-        "image_reference": "https://wallpaperaccess.com/full/3594200.jpg"
-      },
-      "tag2": {
-        "id": "t0026",
-        "name": "gundam",
-        "proper_name": "Gundam",
-        "category": "copyright",
-        "encrypted_count": "eVNmaEY=",
-        "copyright": "Gundam",
+        "encrypted_count": "fVxkbA==",
+        "copyright": "Strike Witches",
         "material": "Anime",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjQ3MmU1M2QtODc5My00MDhkLWEwZmItMGM2ODUzODA2YzY0XkEyXkFqcGc@._V1_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0143",
-        "name": "jougasaki_rika",
-        "proper_name": "Jougasaki Rika",
-        "category": "character",
-        "encrypted_count": "fVNmaQ==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/17/R_Rare_Rika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107025154"
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
       },
       "tag2": {
-        "id": "t0520",
-        "name": "eevee",
-        "proper_name": "Eevee",
-        "category": "character",
-        "encrypted_count": "eVdiag==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/f/f2/Eevee.png/revision/latest?cb=20150817112017&path-prefix=pl"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0461",
-        "name": "burnice_white",
-        "proper_name": "Burnice White",
-        "category": "character",
-        "encrypted_count": "fFJhbg==",
-        "copyright": "Zenlesss Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/d/d1/Agent_Burnice_White_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240930234702"
-      },
-      "tag2": {
-        "id": "t0915",
-        "name": "junko_(touhou)",
-        "proper_name": "Junko",
-        "category": "character",
-        "encrypted_count": "e1Fgag==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fcs-vs-battle/images/a/a9/Touhou_Project_Junko_Vector.png/revision/latest/scale-to-width-down/1200?cb=20180601120243"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0033",
-        "name": "kemono_friends",
-        "proper_name": "Kemono Friends",
+        "id": "t0317",
+        "name": "shining_nikki",
+        "proper_name": "Shining Nikki",
         "category": "copyright",
-        "encrypted_count": "e1xibEg=",
-        "copyright": "Kemono Friends",
+        "encrypted_count": "fFNgbw==",
+        "copyright": "Shining Nikki",
+        "material": "Mobile Game",
+        "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0203",
+        "name": "changli_(wuthering_waves)",
+        "proper_name": "Changli",
+        "category": "character",
+        "encrypted_count": "fF1uYg==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Changli_Introduction.png/revision/latest?cb=20240518045554"
+      },
+      "tag2": {
+        "id": "t0360",
+        "name": "male_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Male)",
+        "category": "character",
+        "encrypted_count": "el1uYg==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0802",
+        "name": "haikyuu!!",
+        "proper_name": "Haikyuu!!",
+        "category": "copyright",
+        "encrypted_count": "e1Jmag==",
+        "copyright": "Haikyuu!!",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
+      },
+      "tag2": {
+        "id": "t0567",
+        "name": "fire_emblem:_genealogy_of_the_holy_war",
+        "proper_name": "Fire Emblem: Genealogy of the Holy War",
+        "category": "copyright",
+        "encrypted_count": "e11kYg==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/2/2c/FESK_Logo.png/1200px-FESK_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0269",
+        "name": "fushiguro_megumi",
+        "proper_name": "Fushiguro Megumi",
+        "category": "character",
+        "encrypted_count": "elRkaw==",
+        "copyright": "Jujutsu Kaisen",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kemono_Friends_Anime_Key_Visual_Art.jpg/250px-Kemono_Friends_Anime_Key_Visual_Art.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8d/Megumi_Fushiguro_(Anime).png/revision/latest?cb=20201213115916&path-prefix=pl"
       },
       "tag2": {
-        "id": "t0283",
-        "name": "mother_(series)",
-        "proper_name": "Mother Series",
-        "category": "copyright",
-        "encrypted_count": "elZjaA==",
-        "copyright": "Mother Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MOTHER_1989_Boxart_%28Nintendo%29.png/1200px-MOTHER_1989_Boxart_%28Nintendo%29.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0498",
-        "name": "dead_or_alive",
-        "proper_name": "Dead or Alive",
-        "category": "copyright",
-        "encrypted_count": "fFVib0A=",
-        "copyright": "Dead or Alive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/deadoralive/images/c/c9/Logo.png/revision/latest?cb=20080525033719"
-      },
-      "tag2": {
-        "id": "t0559",
-        "name": "anchovy_(girls_und_panzer)",
-        "proper_name": "Anchovy",
+        "id": "t0170",
+        "name": "serika_(blue_archive)",
+        "proper_name": "Serika",
         "category": "character",
-        "encrypted_count": "e1xiaw==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/7/79/Anchovy.png/revision/latest?cb=20170123061720"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0513",
-        "name": "arona_(blue_archive)",
-        "proper_name": "Arona",
-        "category": "character",
-        "encrypted_count": "eFJmbw==",
+        "encrypted_count": "fF1vbA==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/e/e6/Arona.png/266px-Arona.png"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/68195-1831388089.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0588",
+        "name": "sendai_(kancolle)",
+        "proper_name": "Sendai",
+        "category": "character",
+        "encrypted_count": "elxnaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/11498-20131651.png"
       },
       "tag2": {
-        "id": "t0122",
-        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
-        "proper_name": "Elysia",
+        "id": "t0542",
+        "name": "shiori_novella",
+        "proper_name": "Shiori Novella",
         "category": "character",
-        "encrypted_count": "fVVgYw==",
-        "copyright": "Honkai Impact",
+        "encrypted_count": "e1FmYw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
+        "image_reference": "https://static.wikitide.net/hololivewiki/0/03/Shiori_Novella_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0763",
+        "name": "yuubari_(kancolle)",
+        "proper_name": "Yuubari",
+        "category": "character",
+        "encrypted_count": "fV1kaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Yuubari.(Kantai.Collection).full.2131376.jpg"
+      },
+      "tag2": {
+        "id": "t0251",
+        "name": "kicchou_yachie",
+        "proper_name": "Kicchou Yachie",
+        "category": "character",
+        "encrypted_count": "fFFgbg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0689",
+        "name": "edelgard_von_hresvelg",
+        "proper_name": "Edelgard von Hresvelg",
+        "category": "character",
+        "encrypted_count": "e1Fgbw==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/09/Edelgard_Portr\u00e4t.png/revision/latest?cb=20201210092653&path-prefix=de"
+      },
+      "tag2": {
+        "id": "t0166",
+        "name": "dizzy_(guilty_gear)",
+        "proper_name": "Dizzy",
+        "category": "character",
+        "encrypted_count": "elVjbw==",
+        "copyright": "Guilty Gear",
+        "material": "Video Game",
+        "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
       }
     }
   ]
