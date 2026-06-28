@@ -1,230 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-06-27T06:46:17.087493+00:00
-// Date: 2026-06-27
+// Generated on: 2026-06-28T07:43:36.926556+00:00
+// Date: 2026-06-28
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0270",
-        "name": "izumi_sagiri",
-        "proper_name": "Izumi Sagiri",
+        "id": "t0250",
+        "name": "wa2000_(girls'_frontline)",
+        "proper_name": "WA2000",
         "category": "character",
-        "encrypted_count": "fVNvbA==",
-        "copyright": "Eromanga Sensei",
+        "encrypted_count": "fFJlYg==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/girls-frontline/images/5/54/WA2000_S.png/revision/latest?cb=20240716105711&path-prefix=ru"
+      },
+      "tag2": {
+        "id": "t0031",
+        "name": "remilia_scarlet",
+        "proper_name": "Remilia Scarlet",
+        "category": "character",
+        "encrypted_count": "el1ubUg=",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/e/e7/Th105Remilia.png/revision/latest?cb=20241004093502"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0605",
+        "name": "sunny_(omori)",
+        "proper_name": "Sunny",
+        "category": "character",
+        "encrypted_count": "e1RnaA==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/4/45/SUNNY_CUERPO_COMPLETO.png/revision/latest?cb=20240312190414&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0182",
+        "name": "kamado_nezuko",
+        "proper_name": "Kamado Nezuko",
+        "category": "character",
+        "encrypted_count": "eldnaw==",
+        "copyright": "Demon Slayer",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/eromanga/images/1/19/Sagiri_Izumi_anime.jpg/revision/latest?cb=20211121182256"
-      },
-      "tag2": {
-        "id": "t0360",
-        "name": "male_byleth_(fire_emblem)",
-        "proper_name": "Byleth (Male)",
-        "category": "character",
-        "encrypted_count": "el1uYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Nezuko_anime.png/revision/latest?cb=20211119014953"
       }
     },
     {
       "tag1": {
-        "id": "t0953",
-        "name": "aqua_(konosuba)",
-        "proper_name": "Aqua",
+        "id": "t0660",
+        "name": "sonic_the_hedgehog",
+        "proper_name": "Sonic the Hedgehog",
         "category": "character",
-        "encrypted_count": "dlJhYw==",
-        "copyright": "KonoSuba",
-        "material": "Light Novel",
-        "image_reference": "https://vignette.wikia.nocookie.net/konosuba/images/d/db/Aqua_-_Anime.png/revision/latest?cb=20170127234540&path-prefix=es"
+        "encrypted_count": "eFFvbw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonicthehedgehog/images/6/68/Sonic_profil_Sonic-X-Shadow-Generations.png/revision/latest?cb=20240817165317&path-prefix=fr"
       },
       "tag2": {
-        "id": "t0388",
-        "name": "kunikida_hanamaru",
-        "proper_name": "Kunikida Hanamaru",
+        "id": "t0005",
+        "name": "pokemon",
+        "proper_name": "Pok\u00e9mon",
+        "category": "copyright",
+        "encrypted_count": "elFlbUYB",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0205",
+        "name": "uehara_ayumu",
+        "proper_name": "Uehara Ayumu",
         "category": "character",
-        "encrypted_count": "elFibg==",
-        "copyright": "Love Live! Sunshine!!",
+        "encrypted_count": "el1maQ==",
+        "copyright": "Love Live! Series",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/c/c1/Sunshine%21%21_infobox_-_Kunikida_Hanamaru.png/revision/latest?cb=20170402074009"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0571",
-        "name": "gintama",
-        "proper_name": "Gintama",
-        "category": "copyright",
-        "encrypted_count": "eFNmYg==",
-        "copyright": "Gintama",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Gintama_English_Logo.png/revision/latest?cb=20210101181027"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
       },
       "tag2": {
-        "id": "t0802",
-        "name": "haikyuu!!",
-        "proper_name": "Haikyuu!!",
-        "category": "copyright",
-        "encrypted_count": "e1Jmag==",
-        "copyright": "Haikyuu!!",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
+        "id": "t0735",
+        "name": "arlecchino_(genshin_impact)",
+        "proper_name": "Arlecchino",
+        "category": "character",
+        "encrypted_count": "elBjag==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gen-impact/images/4/4a/Carta_de_personaje_Arlecchino.png/revision/latest?cb=20240311102048&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0371",
-        "name": "lilith_(darkstalkers)",
-        "proper_name": "Lilith",
+        "id": "t0504",
+        "name": "ooyodo_(kancolle)",
+        "proper_name": "Ooyodo",
         "category": "character",
-        "encrypted_count": "elZvaQ==",
-        "copyright": "Darkstalkers",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
-      },
-      "tag2": {
-        "id": "t0252",
-        "name": "kochou_shinobu",
-        "proper_name": "Kochou Shinobu",
-        "category": "character",
-        "encrypted_count": "fVNjaA==",
-        "copyright": "Demon Slayer: Kimetsu no Yaiba",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png/revision/latest/scale-to-width-down/1200?cb=20211119011810"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0856",
-        "name": "metal_gear_(series)",
-        "proper_name": "Metal Gear Series",
-        "category": "copyright",
-        "encrypted_count": "el1uag==",
-        "copyright": "Metal Gear Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/konamiverse/images/6/60/Metal_Gear_Series_Logo_a.png/revision/latest/scale-to-width-down/350?cb=20190803173003"
-      },
-      "tag2": {
-        "id": "t0601",
-        "name": "midori_(blue_archive)",
-        "proper_name": "Midori",
-        "category": "character",
-        "encrypted_count": "el1jbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/e/ee/Midori.png?version=aec01d62bf6034e8c2582827b8eb2a2c"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0733",
-        "name": "takagaki_kaede",
-        "proper_name": "Takagaki Kaede",
-        "category": "character",
-        "encrypted_count": "elJmaA==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/f/f6/Cinderella_master_004_cover.jpg/1200px-Cinderella_master_004_cover.jpg"
-      },
-      "tag2": {
-        "id": "t0510",
-        "name": "watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!",
-        "proper_name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-        "category": "copyright",
-        "encrypted_count": "eFBlbg==",
-        "copyright": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/7d/ce/f7/7dcef7efe40b9739963376bb23afa323.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0300",
-        "name": "urakaze_(kancolle)",
-        "proper_name": "Urakaze",
-        "category": "character",
-        "encrypted_count": "fFxiYg==",
+        "encrypted_count": "e1BnbQ==",
         "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Urakaze.(Kantai.Collection).full.4330635.jpg"
+        "material": "Video Game"
       },
       "tag2": {
-        "id": "t0906",
-        "name": "aru_(blue_archive)",
-        "proper_name": "Aru",
-        "category": "character",
-        "encrypted_count": "eFZvYg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Aru_Portrait.png/revision/latest?cb=20220420065116"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0482",
-        "name": "sakura_kyoko_(magical_girl)",
-        "proper_name": "Sakura Kyoko",
-        "category": "character",
-        "encrypted_count": "eFRhYw==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/madoka/images/2/24/Kyoko_Sakura_Profile.png/revision/latest?cb=20200520131323"
-      },
-      "tag2": {
-        "id": "t0065",
-        "name": "ichika_(blue_archive)",
-        "proper_name": "Ichika",
-        "category": "character",
-        "encrypted_count": "fVdgYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0903",
-        "name": "twisted_wonderland",
-        "proper_name": "Twisted Wonderland",
+        "id": "t0025",
+        "name": "girls_und_panzer",
+        "proper_name": "Girls und Panzer",
         "category": "copyright",
-        "encrypted_count": "e1xnYg==",
-        "copyright": "Twisted Wonderland",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/736x/96/8e/d1/968ed1c1dc79180402437af995b9e753.jpg"
-      },
-      "tag2": {
-        "id": "t0844",
-        "name": "kyon",
-        "proper_name": "Kyon",
-        "category": "character",
-        "encrypted_count": "elZlaQ==",
-        "copyright": "The Melancholy of Haruhi Suzumiya",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/a0/fd/09/a0fd091b54d8f0cc1207a7d5d8a6ee3e.jpg"
+        "encrypted_count": "eVFuY0g=",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/f0/Girls_und_Panzer_TV_key_visual.png"
       }
     },
     {
       "tag1": {
-        "id": "t0074",
-        "name": "sanya_v._litvyak",
-        "proper_name": "Sanya V. Litvyak",
+        "id": "t0853",
+        "name": "mikasa_ackerman",
+        "proper_name": "Mikasa Ackerman",
         "category": "character",
-        "encrypted_count": "fVxkbA==",
-        "copyright": "Strike Witches",
+        "encrypted_count": "e1djag==",
+        "copyright": "Attack on Titan",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
+        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png/revision/latest?cb=20231105175401"
       },
       "tag2": {
-        "id": "t0061",
-        "name": "hiroi_kikuri",
-        "proper_name": "Hiroi Kikuri",
-        "category": "character",
-        "encrypted_count": "fVFlbA==",
-        "copyright": "Bocchi The Rock!",
+        "id": "t0728",
+        "name": "little_witch_academia",
+        "proper_name": "Little Witch Academia",
+        "category": "copyright",
+        "encrypted_count": "eVZhbA==",
+        "copyright": "Little Witch Academia",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/8/88/Kikuri_Hiroi.png/revision/latest?cb=20221213205501"
+        "image_reference": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/Little_Witch_Academia_Logo.png/revision/latest?cb=20230313220247"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0132",
+        "name": "jeanne_d'arc_alter_(avenger)_(fate)",
+        "proper_name": "Jeanne D'Arc Alter (Avenger)",
+        "category": "character",
+        "encrypted_count": "eVVhaA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/78/AvengerJeanneAlterStage1nb.png/revision/latest?cb=20211001014408&path-prefix=vi"
+      },
+      "tag2": {
+        "id": "t0060",
+        "name": "march_7th_(preservation)_(honkai:_star_rail)",
+        "proper_name": "March 7th (Preservation)",
+        "category": "character",
+        "encrypted_count": "fVRkbQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Character_March_7th_%28Preservation%29_Splash_Art.png/revision/latest/scale-to-width/360?cb=20230525090156"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0020",
+        "name": "hololive_english",
+        "proper_name": "Hololive English",
+        "category": "copyright",
+        "encrypted_count": "d1Vja0Y=",
+        "copyright": "Hololive English",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
+      },
+      "tag2": {
+        "id": "t0648",
+        "name": "la+_darknesss",
+        "proper_name": "La+ Darknesss",
+        "category": "character",
+        "encrypted_count": "e1Znbg==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6f/Illustrator_Artwork_-_holoX_01.jpg/revision/latest/scale-to-width-down/1200?cb=20230312194809"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0441",
+        "name": "monokuma",
+        "proper_name": "Monokuma",
+        "category": "character",
+        "encrypted_count": "fFNubQ==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Danganronpa_V3_Monokuma_Sprite_(Standing)_(6).png/revision/latest?cb=20180430003830"
+      },
+      "tag2": {
+        "id": "t0515",
+        "name": "sakamata_chloe",
+        "proper_name": "Sakamata Chloe",
+        "category": "character",
+        "encrypted_count": "eFBgbQ==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/61/Sakamata_Chloe_-_Portrait_01.png/800px-Sakamata_Chloe_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0390",
+        "name": "takane_lui",
+        "proper_name": "Takane Lui",
+        "category": "character",
+        "encrypted_count": "fFNnbA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/Takane_Lui_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20211202201955"
+      },
+      "tag2": {
+        "id": "t0835",
+        "name": "don_quixote_(project_moon)",
+        "proper_name": "Don Quixote",
+        "category": "character",
+        "encrypted_count": "fVNhYw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://cdn.donmai.us/original/3c/f6/3cf6f87b76563d2c5a3724ec391f9976.jpg"
       }
     }
   ]
