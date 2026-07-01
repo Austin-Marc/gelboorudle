@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-06-30T07:42:27.484559+00:00
-// Date: 2026-06-30
+// Generated on: 2026-07-01T08:03:53.525538+00:00
+// Date: 2026-07-01
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0526",
-        "name": "girls'_frontline_2:_exilium",
-        "proper_name": "Girls' Frontline 2: Exilium",
+        "id": "t0530",
+        "name": "suzuran_(arknights)",
+        "proper_name": "Suzuran",
+        "category": "character",
+        "encrypted_count": "e1Nlag==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cc/Suzuran.png/revision/latest?cb=20200711010008"
+      },
+      "tag2": {
+        "id": "t0083",
+        "name": "alice_gear_aegis",
+        "proper_name": "Alice Gear Aegis",
         "category": "copyright",
-        "encrypted_count": "e1Jgbg==",
-        "copyright": "Girls' Frontline 2: Exilium",
+        "encrypted_count": "fVFhag==",
+        "copyright": "Alice Gear Aegis",
         "material": "Video Game",
-        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
-      },
-      "tag2": {
-        "id": "t0532",
-        "name": "mutsu_(kancolle)",
-        "proper_name": "Mutsu",
-        "category": "character",
-        "encrypted_count": "e1BjYw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2018/01/74b7b170-f222-400e-942d-3a40dc073a2b.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/alicegearaegis/images/0/00/Alice_Gear_Aegis_Expansion_Key_Visual.png/revision/latest?cb=20230322170433"
       }
     },
     {
       "tag1": {
-        "id": "t0548",
-        "name": "phantasy_star",
-        "proper_name": "Phantasy Star",
-        "category": "copyright",
-        "encrypted_count": "eFBgaQ==",
-        "copyright": "Phantasy Star",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
-      },
-      "tag2": {
-        "id": "t0218",
-        "name": "mizi_(alien_stage)",
-        "proper_name": "Mizi",
+        "id": "t0951",
+        "name": "dio_brando",
+        "proper_name": "Dio Brando",
         "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Alien Stage",
-        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0505",
-        "name": "cu_chulainn_(fate)",
-        "proper_name": "Cu Chulainn",
-        "category": "character",
-        "encrypted_count": "eFVmYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
-      },
-      "tag2": {
-        "id": "t0605",
-        "name": "sunny_(omori)",
-        "proper_name": "Sunny",
-        "category": "character",
-        "encrypted_count": "e1RnaA==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/4/45/SUNNY_CUERPO_COMPLETO.png/revision/latest?cb=20240312190414&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0289",
-        "name": "seele_vollerei",
-        "proper_name": "Seele Vollerei",
-        "category": "character",
-        "encrypted_count": "fFxvbQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
-      },
-      "tag2": {
-        "id": "t0197",
-        "name": "trafalgar_law",
-        "proper_name": "Trafalgar Law",
-        "category": "character",
-        "encrypted_count": "elxvaA==",
-        "copyright": "One Piece",
+        "encrypted_count": "eFdvYw==",
+        "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240109232516&path-prefix=pt"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0237",
-        "name": "snk",
-        "proper_name": "Shingeki no Kyojin",
-        "category": "copyright",
-        "encrypted_count": "fFNubUU=",
-        "copyright": "Attack on Titan",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo.png"
+        "image_reference": "https://static.jojowiki.com/images/thumb/0/0a/latest/20210424101455/DIO_Normal_SC_Infobox_Anime.png/800px-DIO_Normal_SC_Infobox_Anime.png"
       },
       "tag2": {
-        "id": "t0166",
-        "name": "dizzy_(guilty_gear)",
-        "proper_name": "Dizzy",
+        "id": "t0868",
+        "name": "agnes_tachyon_(tach-nology)_(umamusume)",
+        "proper_name": "Agnes Tachyon",
         "category": "character",
-        "encrypted_count": "elVjbw==",
-        "copyright": "Guilty Gear",
+        "encrypted_count": "fVZlag==",
+        "copyright": "Umamusume",
         "material": "Video Game",
-        "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
+        "image_reference": "https://s1.zerochan.net/Agnes.Tachyon.600.3657644.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0044",
-        "name": "marie_(splatoon)",
-        "proper_name": "Marie",
+        "id": "t0746",
+        "name": "yelan_(genshin_impact)",
+        "proper_name": "Yelan",
         "category": "character",
-        "encrypted_count": "elNubw==",
-        "copyright": "Splatoon",
+        "encrypted_count": "elJhYw==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S_Marie_render_2.png"
+        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
       },
       "tag2": {
-        "id": "t0364",
-        "name": "black_survival",
-        "proper_name": "Black Survival",
+        "id": "t0581",
+        "name": "asuna_(sao)",
+        "proper_name": "Asuna",
+        "category": "character",
+        "encrypted_count": "eVRnYw==",
+        "copyright": "Sword Art Online",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0609",
+        "name": "library_of_ruina",
+        "proper_name": "Library of Ruina",
         "category": "copyright",
-        "encrypted_count": "fFxibw==",
-        "copyright": "Black Survival",
+        "encrypted_count": "e1VkaA==",
+        "copyright": "Library of Ruina",
         "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/227-2274467_black-survival-game-logo-hd-png-download.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0729",
-        "name": "dungeon_and_fighter",
-        "proper_name": "Dungeon and Fighter",
-        "category": "copyright",
-        "encrypted_count": "e1NnaA==",
-        "copyright": "Dungeon and Fighter",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/32/Dfo_new_logo.jpg"
+        "image_reference": "https://libraryofruina.wiki.gg/images/e/e6/Site-logo.png"
       },
       "tag2": {
-        "id": "t0189",
-        "name": "tsukihime_(remake)",
-        "proper_name": "Tsukihime Remake",
+        "id": "t0682",
+        "name": "pokemon_rse",
+        "proper_name": "Pokemon Ruby/Sapphire/Emerald",
         "category": "copyright",
-        "encrypted_count": "fFdnaA==",
-        "copyright": "Tsukihime",
-        "material": "Visual Novel",
-        "image_reference": "https://tsukihime-en.com/assets/img/main/logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0227",
-        "name": "futari_wa_precure",
-        "proper_name": "Futari wa Precure",
-        "category": "copyright",
-        "encrypted_count": "elZlYw==",
-        "copyright": "Futari wa Precure",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0311",
-        "name": "makaino_ririmu",
-        "proper_name": "Makaino Ririmu",
-        "category": "character",
-        "encrypted_count": "fFxjaA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0950",
-        "name": "asashio_(kancolle)",
-        "proper_name": "Asashio",
-        "category": "character",
-        "encrypted_count": "e1xlbA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-963719350.png"
-      },
-      "tag2": {
-        "id": "t0431",
-        "name": "hayate_no_gotoku!",
-        "proper_name": "Hayate no Gotoku!",
-        "category": "copyright",
-        "encrypted_count": "fVxubQ==",
-        "copyright": "Hayate no Gotoku!",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0092",
-        "name": "eren_yeager",
-        "proper_name": "Eren Yeager",
-        "category": "character",
-        "encrypted_count": "fV1uYw==",
-        "copyright": "Attack on Titan",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
-      },
-      "tag2": {
-        "id": "t0244",
-        "name": "lana_(pokemon)",
-        "proper_name": "Lana",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
+        "encrypted_count": "dlxvaA==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
+        "image_reference": "https://logowik.com/content/uploads/images/pokemon-ruby-sapphire8525.logowik.com.webp"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0042",
+        "name": "shiroko_terror_(blue_archive)",
+        "proper_name": "Shiroko Terror",
+        "category": "character",
+        "encrypted_count": "fVdvbg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
+      },
+      "tag2": {
+        "id": "t0726",
+        "name": "idolmaster_1",
+        "proper_name": "The Idolmaster",
+        "category": "copyright",
+        "encrypted_count": "elRkbA==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikiwiki.jp/to/w/idolmaster/FrontPage/::ref/logo_the_idolmaster.png?rev=5a915d03e828445793207cd3caa7d286&t=20180804233405"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0646",
+        "name": "octoling_player_character",
+        "proper_name": "Octoling Player Character",
+        "category": "character",
+        "encrypted_count": "e1VkbQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/Octo_Expansion_multiplayer_gear.jpg/1200px-Octo_Expansion_multiplayer_gear.jpg"
+      },
+      "tag2": {
+        "id": "t0565",
+        "name": "medusa_(fate)",
+        "proper_name": "Medusa",
+        "category": "character",
+        "encrypted_count": "e1BgaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/62/47/c6/6247c687ccb4fa6323b7c16415278027.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0193",
+        "name": "omaru_polka",
+        "proper_name": "Omaru Polka",
+        "category": "character",
+        "encrypted_count": "fVRjbQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://www.previewsworld.com/SiteImage/MainImage/STL314355.jpg"
+      },
+      "tag2": {
+        "id": "t0877",
+        "name": "atelier_ryza_1",
+        "proper_name": "Atelier Ryza 1",
+        "category": "copyright",
+        "encrypted_count": "fFFuag==",
+        "copyright": "Atelier Ryza",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0955",
+        "name": "hieda_no_akyuu",
+        "proper_name": "Hieda no Akyuu",
+        "category": "character",
+        "encrypted_count": "eldmag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1105378225.png"
+      },
+      "tag2": {
+        "id": "t0185",
+        "name": "hazbin_hotel",
+        "proper_name": "Hazbin Hotel",
+        "category": "copyright",
+        "encrypted_count": "fVZnaw==",
+        "copyright": "Hazbin Hotel",
+        "material": "Anime",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0591",
+        "name": "belle_(zenless_zone_zero)",
+        "proper_name": "Belle",
+        "category": "character",
+        "encrypted_count": "elNlbg==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6e/Agent_Belle_Portrait.png/revision/latest?cb=20240707002545"
+      },
+      "tag2": {
+        "id": "t0034",
+        "name": "florence_nightingale_(fate)",
+        "proper_name": "Florence Nightingale",
+        "category": "character",
+        "encrypted_count": "elZmYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/51/BerserkerFloranceStage3.png/revision/latest?cb=20170217232053"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0583",
+        "name": "amami_haruka",
+        "proper_name": "Amami Haruka",
+        "category": "character",
+        "encrypted_count": "e1xjbg==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/1/1a/Normal_Haruka_Amami_Mobage_Transparent.png/revision/latest?cb=20180709223230"
+      },
+      "tag2": {
+        "id": "t0146",
+        "name": "nia_(xenoblade)",
+        "proper_name": "Nia",
+        "category": "character",
+        "encrypted_count": "fVxiYw==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
       }
     }
   ]
