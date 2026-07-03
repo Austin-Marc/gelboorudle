@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-02T07:22:48.302461+00:00
-// Date: 2026-07-02
+// Generated on: 2026-07-03T06:54:03.207966+00:00
+// Date: 2026-07-03
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0573",
-        "name": "nilou_(genshin_impact)",
-        "proper_name": "Nilou",
+        "id": "t0125",
+        "name": "ethan_(pokemon)",
+        "proper_name": "Ethan",
         "category": "character",
-        "encrypted_count": "e1FgaA==",
+        "encrypted_count": "fVJlbg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/Ethan_(Pok\u00e9mon_Masters).png/revision/latest?cb=20220818005918&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0148",
+        "name": "waver_velvet",
+        "proper_name": "Waver Velvet",
+        "category": "character",
+        "encrypted_count": "fVRuaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/c7/af/52/c7af5289325440f1d4372f96af41445a.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0531",
+        "name": "xiao_(genshin_impact)",
+        "proper_name": "Xiao",
+        "category": "character",
+        "encrypted_count": "e1FjYw==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
       },
       "tag2": {
-        "id": "t0895",
-        "name": "diarmuid_ua_duibhne_(fate)",
-        "proper_name": "Diarmuid Ua Duibhne",
+        "id": "t0106",
+        "name": "uchiha_sasuke",
+        "proper_name": "Uchiha Sasuke",
         "category": "character",
-        "encrypted_count": "fFBmaw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/factvsfiction/images/2/28/Diarmuid.png/revision/latest?cb=20160116010006"
+        "encrypted_count": "eFJgbQ==",
+        "copyright": "Naruto",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest/scale-to-width-down/1200?cb=20170716092103"
       }
     },
     {
       "tag1": {
-        "id": "t0062",
-        "name": "yamakaze_(kancolle)",
-        "proper_name": "Yamakaze",
+        "id": "t0108",
+        "name": "ange_katrina",
+        "proper_name": "Ange Katrina",
         "category": "character",
-        "encrypted_count": "fVZubA==",
+        "encrypted_count": "fVZhaQ==",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/2/29/Ange_Katrina_Portrait.png/revision/latest?cb=20210327041754"
+      },
+      "tag2": {
+        "id": "t0180",
+        "name": "tokitsukaze_(kancolle)",
+        "proper_name": "Tokitsukaze",
+        "category": "character",
+        "encrypted_count": "fFxgaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/7/72/Yamakaze_Card.png/revision/latest?cb=20180818103021"
+        "image_reference": "https://static.zerochan.net/Tokitsukaze.(Kantai.Collection).full.2191858.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0245",
+        "name": "lelouch_vi_britannia",
+        "proper_name": "Lelouch vi Britannia",
+        "category": "character",
+        "encrypted_count": "fVdmbw==",
+        "copyright": "Code Geass",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/codegeass/images/0/0a/Lelouch_empereur.jpg/revision/latest?cb=20150611020318&path-prefix=fr"
       },
       "tag2": {
-        "id": "t0550",
-        "name": "aikatsu!",
-        "proper_name": "Aikatsu!",
+        "id": "t0030",
+        "name": "mahou_shoujo_madoka_magica_(anime)",
+        "proper_name": "Mahou Shoujo Madoka Magica",
         "category": "copyright",
-        "encrypted_count": "eFdlbg==",
-        "copyright": "Aikatsu!",
+        "encrypted_count": "el1vYkQ=",
+        "copyright": "Mahou Shoujo Madoka Magica",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/Aikatsu222.jpg"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/MadokaBD.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0079",
-        "name": "zeta_gundam",
-        "proper_name": "Mobile Suit Zeta Gundam",
+        "id": "t0878",
+        "name": "death_note",
+        "proper_name": "Death Note",
         "category": "copyright",
-        "encrypted_count": "elFnbg==",
-        "copyright": "Mobile Suit Gundam",
-        "material": "Anime",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BNTRlYzIwYmYtMzUzYy00YmFmLTllMjItOWYzYmNmYjQ2YmI5XkEyXkFqcGc@._V1_.jpg"
+        "encrypted_count": "fVZjag==",
+        "copyright": "Death Note",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/12/Death-Note-Logo.jpg"
       },
       "tag2": {
-        "id": "t0639",
-        "name": "souryuu_(kancolle)",
-        "proper_name": "Souryuu",
-        "category": "character",
-        "encrypted_count": "elFhaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/e/e7/Ship_Card_Souryuu.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0353",
-        "name": "merlin_prismriver",
-        "proper_name": "Merlin Prismriver",
-        "category": "character",
-        "encrypted_count": "fFFkaw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://pm1.aminoapps.com/6373/c4ea5075242be120a6e74045d9f3259bca213a98_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0680",
-        "name": "kal'tsit_(arknights)",
-        "proper_name": "Kal'tsit",
-        "category": "character",
-        "encrypted_count": "elFmaw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0810",
-        "name": "furude_rika",
-        "proper_name": "Furude Rika",
-        "category": "character",
-        "encrypted_count": "elBhYg==",
-        "copyright": "Higurashi When They Cry",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/when-they-cry/images/e/ee/RikaGou.png/revision/latest?cb=20210202063349&path-prefix=pt-br"
-      },
-      "tag2": {
-        "id": "t0093",
-        "name": "pecorine_(princess_connect!)",
-        "proper_name": "Peorine",
-        "category": "character",
-        "encrypted_count": "fVxgYw==",
-        "copyright": "Princess Connect!",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png/revision/latest?cb=20180219083648"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0534",
-        "name": "kaban_(kemono_friends)",
-        "proper_name": "Kaban",
-        "category": "character",
-        "encrypted_count": "e1dhbg==",
-        "copyright": "Kemono Friends",
-        "material": "Anime",
-        "image_reference": "https://www.japari-library.com/images/3/3e/KabanS2.png"
-      },
-      "tag2": {
-        "id": "t0198",
-        "name": "jeanne_d'arc_(ruler)_(fate)",
-        "proper_name": "Jeanne d'Arc (Ruler)",
-        "category": "character",
-        "encrypted_count": "dlFlag==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://get.wallhere.com/photo/Fate-Series-Fate-Apocrypha-anime-girls-Ruler-Fate-Apocrypha-Jeanne-d-Arc-blonde-1504105.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0275",
-        "name": "muv-luv",
-        "proper_name": "Muv-Luv",
+        "id": "t0618",
+        "name": "kagerou_project",
+        "proper_name": "Kagerou Project",
         "category": "copyright",
-        "encrypted_count": "fV1mbQ==",
-        "copyright": "Muv-Luv",
-        "material": "Visual Novel",
-        "image_reference": "https://image.librewiki.net/thumb/2/29/Muv-Luv_logo.png/1200px-Muv-Luv_logo.png"
-      },
-      "tag2": {
-        "id": "t0941",
-        "name": "minamoto_no_raikou_(fate)",
-        "proper_name": "Minamoto no Raikou",
-        "category": "character",
-        "encrypted_count": "eVNuYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/full/Jjune-Anime-Artist-Anime-minamoto-no-raikou-(fategrand-order)-3857226.jpeg"
+        "encrypted_count": "e1VlbQ==",
+        "copyright": "Kagerou Project",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/kagerouproject/images/e/e6/Site-logo.png/revision/latest?cb=20210720114629&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0499",
-        "name": "mahou_shoujo_lyrical_nanoha_a's",
-        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
-        "category": "copyright",
-        "encrypted_count": "eFFjbg==",
-        "copyright": "Magical Girl Lyrical Nanoha",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
-      },
-      "tag2": {
-        "id": "t0890",
-        "name": "kuchiki_rukia",
-        "proper_name": "Kuchiki Rukia",
+        "id": "t0070",
+        "name": "koshimizu_sachiko",
+        "proper_name": "Koshimizu Sachiko",
         "category": "character",
-        "encrypted_count": "elFhbg==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bleach/images/b/b2/Kuchiki_Rukia.png/revision/latest?cb=20210626172949&path-prefix=pt"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0434",
-        "name": "futami_mami",
-        "proper_name": "Futami Mami",
-        "category": "character",
-        "encrypted_count": "fFxvYg==",
+        "encrypted_count": "fVdvaw==",
         "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/4/46/Mami_Futami_2nd_Vision_Normal.png/revision/latest?cb=20200608040131"
+        "image_reference": "https://project-imas.wiki/images/d/d0/Sachiko_SS.png"
       },
       "tag2": {
-        "id": "t0874",
-        "name": "dragon_ball_(classic)",
-        "proper_name": "Dragon Ball (Classic)",
+        "id": "t0756",
+        "name": "inazuma_eleven",
+        "proper_name": "Inazuma Eleven",
         "category": "copyright",
-        "encrypted_count": "fVRnbQ==",
-        "copyright": "Dragon Ball",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/81/Dragonball_Anime-Serie_Original-Logo.svg/revision/latest?cb=20190209043952"
+        "encrypted_count": "d1xnbQ==",
+        "copyright": "Inazuma Eleven",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/inazuma/images/7/70/Logo_japon\u00e9s_de_IE.PNG/revision/latest?cb=20191114162736&path-prefix=es"
       }
     },
     {
       "tag1": {
-        "id": "t0671",
-        "name": "dungeons_&_dragons",
-        "proper_name": "Dungeons & Dragons",
-        "category": "copyright",
-        "encrypted_count": "e1RvaA==",
-        "copyright": "Dungeons & Dragons",
-        "material": "Tabletop Game",
-        "image_reference": "https://logo-marque.com/wp-content/uploads/2022/01/Dungeons-Dragons-Logo-2008-2014.jpg"
+        "id": "t0388",
+        "name": "kunikida_hanamaru",
+        "proper_name": "Kunikida Hanamaru",
+        "category": "character",
+        "encrypted_count": "elFibg==",
+        "copyright": "Love Live! Sunshine!!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/c/c1/Sunshine%21%21_infobox_-_Kunikida_Hanamaru.png/revision/latest?cb=20170402074009"
       },
       "tag2": {
-        "id": "t0406",
-        "name": "princess_daisy",
-        "proper_name": "Princess Daisy",
+        "id": "t0215",
+        "name": "kuma_(kancolle)",
+        "proper_name": "Kuma",
         "category": "character",
-        "encrypted_count": "eFxvYg==",
-        "copyright": "Mario",
+        "encrypted_count": "fFJuYg==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://www.mariowiki.com/images/thumb/a/a9/SuperMarioParty_Daisy.png/1200px-SuperMarioParty_Daisy.png"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0506",
+        "name": "shirogane_noel",
+        "proper_name": "Shirogane Noel",
+        "category": "character",
+        "encrypted_count": "eFJkaA==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/d/d1/Shirogane_Noel_3D.png/revision/latest?cb=20240901173516"
+      },
+      "tag2": {
+        "id": "t0405",
+        "name": "gran_(granblue_fantasy)",
+        "proper_name": "Gran",
+        "category": "character",
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Granblue Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/granblue/images/3/33/FighterM.png/revision/latest?cb=20210313172546"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0835",
+        "name": "don_quixote_(project_moon)",
+        "proper_name": "Don Quixote",
+        "category": "character",
+        "encrypted_count": "fVNhYw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://cdn.donmai.us/original/3c/f6/3cf6f87b76563d2c5a3724ec391f9976.jpg"
+      },
+      "tag2": {
+        "id": "t0111",
+        "name": "iskandar_(fate)",
+        "proper_name": "Iskandar",
+        "category": "character",
+        "encrypted_count": "fVRuYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0489",
+        "name": "street_fighter_6",
+        "proper_name": "Street Fighter 6",
+        "category": "copyright",
+        "encrypted_count": "dlJjaA==",
+        "copyright": "Street Fighter",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/streetfighter/images/4/47/Street_fighter_6_logo.png/revision/latest?cb=20220603151920"
+      },
+      "tag2": {
+        "id": "t0875",
+        "name": "osomatsu-kun",
+        "proper_name": "Osomatsu-kun",
+        "category": "copyright",
+        "encrypted_count": "elZjbw==",
+        "copyright": "Osomatsu-kun",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/osomatsukun/images/e/e6/Site-logo.png/revision/latest?cb=20210713152445"
       }
     }
   ]
