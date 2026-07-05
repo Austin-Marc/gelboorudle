@@ -1,230 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-04T06:39:58.125259+00:00
-// Date: 2026-07-04
+// Generated on: 2026-07-05T07:17:17.994634+00:00
+// Date: 2026-07-05
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0436",
-        "name": "yi_sang_(project_moon)",
-        "proper_name": "Yi Sang",
+        "id": "t0472",
+        "name": "ningguang_(genshin_impact)",
+        "proper_name": "Ningguang",
         "category": "character",
-        "encrypted_count": "fFBjYw==",
-        "copyright": "Project Moon",
+        "encrypted_count": "fFFvbQ==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
+        "image_reference": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/5/59/Ningguang.jpg"
       },
       "tag2": {
-        "id": "t0541",
-        "name": "minami_kotori",
-        "proper_name": "Minami Kotori",
+        "id": "t0866",
+        "name": "bowsette",
+        "proper_name": "Bowsette",
         "category": "character",
-        "encrypted_count": "dlJlaA==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjaPdIt9a2JBqPM2ogg68Gw8TSwNPuvsggg&s"
+        "encrypted_count": "e1dgag==",
+        "image_reference": "https://static.wikia.nocookie.net/mariofanon/images/6/68/Bowsette_.png/revision/latest?cb=20241228024714"
       }
     },
     {
       "tag1": {
-        "id": "t0679",
-        "name": "hoshizora_rin",
-        "proper_name": "Hoshizora Rin",
+        "id": "t0337",
+        "name": "kaenbyou_rin_(cat)",
+        "proper_name": "Kaenbyou Rin",
         "category": "character",
-        "encrypted_count": "eF1jbg==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-fanon/images/7/72/LL-SIF-ASA-Rin.png/revision/latest?cb=20240813083711"
+        "encrypted_count": "fFBlYg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/b/b2/RinSubAni.png/revision/latest/thumbnail/width/360/height/450?cb=20091025143107"
       },
       "tag2": {
-        "id": "t0497",
-        "name": "little_busters!",
-        "proper_name": "Little Busters!",
+        "id": "t0739",
+        "name": "wise_(zenless_zone_zero)",
+        "proper_name": "Wise",
+        "category": "character",
+        "encrypted_count": "fVNkaA==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e8/Agent_Wise_Portrait.png/revision/latest?cb=20240707002534"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0042",
+        "name": "shiroko_terror_(blue_archive)",
+        "proper_name": "Shiroko Terror",
+        "category": "character",
+        "encrypted_count": "fVdvbg==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
+      },
+      "tag2": {
+        "id": "t0950",
+        "name": "asashio_(kancolle)",
+        "proper_name": "Asashio",
+        "category": "character",
+        "encrypted_count": "e1xlbA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-963719350.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0116",
+        "name": "shadowverse",
+        "proper_name": "Shadowverse",
         "category": "copyright",
-        "encrypted_count": "eFxgYw==",
-        "copyright": "Little Busters!",
+        "encrypted_count": "fVFmag==",
+        "copyright": "Shadowverse",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/shadowverse/images/f/f9/Top_key_logo.png/revision/latest?cb=20161011045849"
+      },
+      "tag2": {
+        "id": "t0642",
+        "name": "bremerton_(azur_lane)",
+        "proper_name": "Bremerton",
+        "category": "character",
+        "encrypted_count": "e1Jkbw==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/dd/Bremerton.png/1223px-Bremerton.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0637",
+        "name": "golden_kamuy",
+        "proper_name": "Golden Kamuy",
+        "category": "copyright",
+        "encrypted_count": "elxnbg==",
+        "copyright": "Golden Kamuy",
+        "material": "Manga",
+        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
+      },
+      "tag2": {
+        "id": "t0740",
+        "name": "ex-keine",
+        "proper_name": "Ex-Keine",
+        "category": "character",
+        "encrypted_count": "fV1vaQ==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://en.touhouwiki.net/images/thumb/d/d6/Th08KeineKamishirasawa1.png/180px-Th08KeineKamishirasawa1.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0606",
+        "name": "serena_(pokemon)",
+        "proper_name": "Serena",
+        "category": "character",
+        "encrypted_count": "dlZnbg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/7/7f/Serena_(anime_XY)_3.png/revision/latest?cb=20150527212218"
+      },
+      "tag2": {
+        "id": "t0431",
+        "name": "hayate_no_gotoku!",
+        "proper_name": "Hayate no Gotoku!",
+        "category": "copyright",
+        "encrypted_count": "fVxubQ==",
+        "copyright": "Hayate no Gotoku!",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0577",
+        "name": "mirko",
+        "proper_name": "Mirko",
+        "category": "character",
+        "encrypted_count": "dlZvaw==",
+        "copyright": "My Hero Academia",
+        "material": "Anime",
+        "image_reference": "https://anibase.net/files/700520fd441958ed48e83800b93815f7"
+      },
+      "tag2": {
+        "id": "t0347",
+        "name": "peroro_(blue_archive)",
+        "proper_name": "Peroro",
+        "category": "character",
+        "encrypted_count": "fFFibQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Perorodzilla_Banner_1.png/revision/latest/scale-to-width-down/700?cb=20211028155953"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0049",
+        "name": "gokou_ruri",
+        "proper_name": "Gokou Ruri",
+        "category": "character",
+        "encrypted_count": "fVxhbA==",
+        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/oreimo/images/c/cd/Kuroneko_Appearance.png/revision/latest?cb=20240414210944"
+      },
+      "tag2": {
+        "id": "t0872",
+        "name": "fate/samurai_remnant",
+        "proper_name": "Fate/Samurai Remnant",
+        "category": "copyright",
+        "encrypted_count": "fFdhbQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/7/7e/Fate_Samurai_Remnant_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0253",
+        "name": "beatrice_(umineko)",
+        "proper_name": "Beatrice",
+        "category": "character",
+        "encrypted_count": "fVVnYg==",
+        "copyright": "Umineko no Naku Koro ni",
         "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/littlebusters/images/e/e6/Site-logo.png/revision/latest?cb=20210713161239"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0403",
-        "name": "rotom_phone",
-        "proper_name": "Rotom Phone",
-        "category": "character",
-        "encrypted_count": "fFxlbg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/2/23/Rotom_Phone.png/revision/latest/scale-to-width-down/2000?cb=20200627164134"
+        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
       },
       "tag2": {
-        "id": "t0550",
-        "name": "aikatsu!",
-        "proper_name": "Aikatsu!",
-        "category": "copyright",
-        "encrypted_count": "eFdlbg==",
-        "copyright": "Aikatsu!",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/Aikatsu222.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0801",
-        "name": "sakurauchi_riko",
-        "proper_name": "Sakurauchi Riko",
+        "id": "t0844",
+        "name": "kyon",
+        "proper_name": "Kyon",
         "category": "character",
-        "encrypted_count": "eF1kaw==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/llsif/images/e/e7/Riko787.jpg/revision/latest?cb=20161223004658"
-      },
-      "tag2": {
-        "id": "t0051",
-        "name": "cyberpunk:_edgerunners",
-        "proper_name": "Cyberpunk: Edgerunners",
-        "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "Cyberpunk: Edgerunners",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg/revision/latest?cb=20220801170122"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0084",
-        "name": "urusei_yatsura",
-        "proper_name": "Urusei Yatsura",
-        "category": "copyright",
-        "encrypted_count": "elJhaQ==",
-        "copyright": "Urusei Yatsura",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
-      },
-      "tag2": {
-        "id": "t0069",
-        "name": "hiiragi_tsukasa",
-        "proper_name": "Hiiragi Tsukasa",
-        "category": "character",
-        "encrypted_count": "elVgYw==",
-        "copyright": "Lucky Star",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/9/92/Tsukasa-san.gif/revision/latest?cb=20120723133432"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0526",
-        "name": "girls'_frontline_2:_exilium",
-        "proper_name": "Girls' Frontline 2: Exilium",
-        "category": "copyright",
-        "encrypted_count": "e1Jgbg==",
-        "copyright": "Girls' Frontline 2: Exilium",
-        "material": "Video Game",
-        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
-      },
-      "tag2": {
-        "id": "t0090",
-        "name": "artoria_pendragon_(lancer)_(fate)",
-        "proper_name": "Artoria Pendragon (Lancer)",
-        "category": "character",
-        "encrypted_count": "elFhaw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/character-stats-and-profiles/images/9/93/LancerArturiaStage3.jpg/revision/latest?cb=20191026015024"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0204",
-        "name": "sheryl_nome",
-        "proper_name": "Sheryl Nome",
-        "category": "character",
-        "encrypted_count": "fVBvaA==",
-        "copyright": "Macross",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/macross/images/e/e1/Sheryl_Nome.jpg/revision/latest?cb=20090430231804&path-prefix=de"
-      },
-      "tag2": {
-        "id": "t0166",
-        "name": "dizzy_(guilty_gear)",
-        "proper_name": "Dizzy",
-        "category": "character",
-        "encrypted_count": "elVjbw==",
-        "copyright": "Guilty Gear",
-        "material": "Video Game",
-        "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0082",
-        "name": "samurai_spirits",
-        "proper_name": "Samurai Spirits",
-        "category": "copyright",
-        "encrypted_count": "f1ZjaUQ=",
-        "copyright": "Samurai Spirits",
-        "material": "Video Game",
-        "image_reference": "https://www.snk-corp.co.jp/us/games/samuraishodown/img/characters/chara_01.png"
-      },
-      "tag2": {
-        "id": "t0211",
-        "name": "lucario",
-        "proper_name": "Lucario",
-        "category": "character",
-        "encrypted_count": "elJiaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0438",
-        "name": "tamamo_cat_(fate)",
-        "proper_name": "Tamamo Cat",
-        "category": "character",
-        "encrypted_count": "fFBibA==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
-      },
-      "tag2": {
-        "id": "t0858",
-        "name": "yu-gi-oh!_gx",
-        "proper_name": "Yu-Gi-Oh! GX",
-        "category": "copyright",
-        "encrypted_count": "eFVjbg==",
-        "copyright": "Yu-Gi-Oh!",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ2fSuWXPeQEHgCTFtB4cTeraW2LcY8bBBDNRhjHv6c3LMh1hB"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0187",
-        "name": "pokemon_journeys",
-        "proper_name": "Pok\u00e9mon Journeys",
-        "category": "copyright",
-        "encrypted_count": "elFkaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
-      },
-      "tag2": {
-        "id": "t0350",
-        "name": "kamijou_touma",
-        "proper_name": "Kamijou Touma",
-        "category": "character",
-        "encrypted_count": "fFNjaQ==",
-        "copyright": "A Certain Magical Index",
+        "encrypted_count": "elZlaQ==",
+        "copyright": "The Melancholy of Haruhi Suzumiya",
         "material": "Light Novel",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
+        "image_reference": "https://i.pinimg.com/originals/a0/fd/09/a0fd091b54d8f0cc1207a7d5d8a6ee3e.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0551",
+        "name": "stone_ocean",
+        "proper_name": "Stone Ocean",
+        "category": "copyright",
+        "encrypted_count": "fVZvbA==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/6/6b/latest/20210404125436/Stone_Ocean_Anime_Logo.png"
+      },
+      "tag2": {
+        "id": "t0913",
+        "name": "hoshii_miki",
+        "proper_name": "Hoshii Miki",
+        "category": "character",
+        "encrypted_count": "eFNlaw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/millionlive/images/3/3f/Miki_Hoshii_infobox.png/revision/latest/scale-to-width-down/278?cb=20180414125723"
       }
     }
   ]
