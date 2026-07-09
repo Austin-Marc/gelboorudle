@@ -1,230 +1,224 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-08T06:21:31.809960+00:00
-// Date: 2026-07-08
+// Generated on: 2026-07-09T07:29:43.081238+00:00
+// Date: 2026-07-09
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0680",
-        "name": "kal'tsit_(arknights)",
-        "proper_name": "Kal'tsit",
+        "id": "t0165",
+        "name": "z1_leberecht_maass_(kancolle)",
+        "proper_name": "Z1 Leberecht Maass",
         "category": "character",
-        "encrypted_count": "elFmaw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
-      },
-      "tag2": {
-        "id": "t0426",
-        "name": "avatar_legends",
-        "proper_name": "Avatar Legends",
-        "category": "copyright",
-        "encrypted_count": "elBvaA==",
-        "copyright": "Avatar: The Last Airbender",
-        "material": "Tabletop Game",
-        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0377",
-        "name": "sendai_kai_ni_(kancolle)",
-        "proper_name": "Sendai Kai Ni",
-        "category": "character",
-        "encrypted_count": "f1duYg==",
+        "encrypted_count": "fVRhbA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/c/ce/Sendai_Kai_Ni_Full.png/revision/latest/scale-to-width-down/284?cb=20180817193836"
+        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
       },
       "tag2": {
-        "id": "t0088",
-        "name": "youkai_watch",
-        "proper_name": "Youkai Watch",
-        "category": "copyright",
-        "encrypted_count": "el1hbQ==",
-        "copyright": "Youkai Watch",
+        "id": "t0453",
+        "name": "carmine_(pokemon)",
+        "proper_name": "Carmine",
+        "category": "character",
+        "encrypted_count": "fFJuag==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/e/ed/Youkaiwatch2019.jpg"
+        "image_reference": "https://archives.bulbagarden.net/media/upload/e/e6/Scarlet_Violet_Carmine.png"
       }
     },
     {
       "tag1": {
-        "id": "t0526",
-        "name": "girls'_frontline_2:_exilium",
-        "proper_name": "Girls' Frontline 2: Exilium",
-        "category": "copyright",
-        "encrypted_count": "e1Jgbg==",
-        "copyright": "Girls' Frontline 2: Exilium",
+        "id": "t0829",
+        "name": "jougasaki_mika",
+        "proper_name": "Jougasaki Mika",
+        "category": "character",
+        "encrypted_count": "elZjbg==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/d/dd/R_Rare_Mika_Jougasaki_Unawakened.jpg/revision/latest?cb=20181107024950"
       },
       "tag2": {
-        "id": "t0776",
-        "name": "ahri_(league_of_legends)",
-        "proper_name": "Ahri",
+        "id": "t0343",
+        "name": "hatsuyuki_(kancolle)",
+        "proper_name": "Hatsuyuki",
         "category": "character",
-        "encrypted_count": "e1duaA==",
-        "copyright": "League of Legends",
+        "encrypted_count": "fFZvaQ==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://liquipedia.net/commons/images/3/3f/League_Infobox_Ahri.jpg"
+        "image_reference": "https://static.zerochan.net/Hatsuyuki.(Kantai.Collection).full.2014249.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0911",
-        "name": "morrigan_aensland",
-        "proper_name": "Morrigan Aensland",
+        "id": "t0724",
+        "name": "kishin_sagume",
+        "proper_name": "Kishin Sagume",
         "category": "character",
-        "encrypted_count": "f1RnbEU=",
-        "copyright": "Darkstalkers",
-        "material": "Video Game",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/morrigan_90.png"
-      },
-      "tag2": {
-        "id": "t0032",
-        "name": "flandre_scarlet",
-        "proper_name": "Flandre Scarlet",
-        "category": "character",
-        "encrypted_count": "e1djaEM=",
+        "encrypted_count": "elZkbg==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fcs-vs-battle/images/e/ef/Flandre_Scarlet_Vector.png/revision/latest/scale-to-width-down/370?cb=20200521120624"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0939",
-        "name": "shenhe_(genshin_impact)",
-        "proper_name": "Shenhe",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5a/TH15Sagume.png/revision/latest?cb=20150908222725"
+      },
+      "tag2": {
+        "id": "t0217",
+        "name": "piplup",
+        "proper_name": "Piplup",
         "category": "character",
-        "encrypted_count": "eFBvaw==",
-        "copyright": "Genshin Impact",
+        "encrypted_count": "fVFmaA==",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/shenhe-character-portrait-genshin-impact-wiki-guide-200px.png"
-      },
-      "tag2": {
-        "id": "t0238",
-        "name": "yu-gi-oh!_5d's",
-        "proper_name": "Yu-Gi-Oh! 5D's",
-        "category": "copyright",
-        "encrypted_count": "elJvaw==",
-        "copyright": "Yu-Gi-Oh! 5D's",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yugioh/images/e/e1/Yu-Gi-Oh!_5Ds_logo.png/revision/latest?cb=20091226000453"
+        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork0393_DLPS.png/1200px-Artwork0393_DLPS.png"
       }
     },
     {
       "tag1": {
-        "id": "t0350",
-        "name": "kamijou_touma",
-        "proper_name": "Kamijou Touma",
+        "id": "t0373",
+        "name": "hatsuzuki_(kancolle)",
+        "proper_name": "Hatsuzuki",
         "category": "character",
-        "encrypted_count": "fFNjaQ==",
-        "copyright": "A Certain Magical Index",
-        "material": "Light Novel",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
-      },
-      "tag2": {
-        "id": "t0626",
-        "name": "shiranui_(kancolle)",
-        "proper_name": "Shiranui",
-        "category": "character",
-        "encrypted_count": "elJkaQ==",
+        "encrypted_count": "fFFvaw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/736x/a4/09/63/a4096367108d3f3fd39fbe4c3ca1bb30.jpg"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
+      },
+      "tag2": {
+        "id": "t0249",
+        "name": "asakura_toru",
+        "proper_name": "Asakura Toru",
+        "category": "character",
+        "encrypted_count": "fVRjYw==",
+        "image_reference": "https://image.shinycolors.wiki/thumb/2/2d/ToruProfile.png/400px-ToruProfile.png"
       }
     },
     {
       "tag1": {
-        "id": "t0476",
-        "name": "inazuma_eleven_go",
-        "proper_name": "Inazuma Eleven Go",
-        "category": "copyright",
-        "encrypted_count": "eVdkag==",
-        "copyright": "Inazuma Eleven",
+        "id": "t0296",
+        "name": "zhu_yuan",
+        "proper_name": "Zhu Yuan",
+        "category": "character",
+        "encrypted_count": "fFxvYw==",
+        "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/b7995b75332722ca39fea2066973e3fc.png"
+        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
       },
       "tag2": {
-        "id": "t0963",
-        "name": "acheron_(honkai:_star_rail)",
-        "proper_name": "Acheron",
+        "id": "t0122",
+        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
+        "proper_name": "Elysia",
         "category": "character",
-        "encrypted_count": "e1JkYg==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "fVVgYw==",
+        "copyright": "Honkai Impact",
         "material": "Video Game",
-        "image_reference": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/12/honkai-star-rail-acheron-3.jpeg"
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
       }
     },
     {
       "tag1": {
-        "id": "t0154",
-        "name": "stellive",
-        "proper_name": "Stellive",
-        "category": "copyright",
-        "encrypted_count": "fVZhbA==",
-        "copyright": "Stellive",
-        "material": "Video Game",
-        "image_reference": "https://wiki.ruliweb.com/images/a/a2/STELLIVE_logo.png"
+        "id": "t0089",
+        "name": "ruby_rose",
+        "proper_name": "Ruby Rose",
+        "category": "character",
+        "encrypted_count": "e1ZkbQ==",
+        "copyright": "RWBY",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/rwby/images/9/9b/RubyRose-V8C14.png/revision/latest?cb=20241205032544"
       },
       "tag2": {
-        "id": "t0155",
-        "name": "summer_pockets",
-        "proper_name": "Summer Pockets",
+        "id": "t0153",
+        "name": "melty_blood",
+        "proper_name": "Melty Blood",
         "category": "copyright",
-        "encrypted_count": "fVVlYw==",
-        "copyright": "Summer Pockets",
-        "material": "Visual Novel",
-        "image_reference": "https://wiki.ruliweb.com/images/thumb/6/66/\uc11c\uba38\ud3ec\ucf13_logo.png/640px-\uc11c\uba38\ud3ec\ucf13_logo.png"
+        "encrypted_count": "fVxiag==",
+        "copyright": "Melty Blood",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/1/16/Melty_Blood.png/revision/latest/scale-to-width-down/1200?cb=20220210035841"
       }
     },
     {
       "tag1": {
-        "id": "t0799",
-        "name": "yuki_miku",
-        "proper_name": "Yuki Miku",
+        "id": "t0444",
+        "name": "akagi_miria",
+        "proper_name": "Akagi Miria",
         "category": "character",
-        "encrypted_count": "elRvaw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://cdn.donmai.us/original/54/a6/54a61785c7441a153935164eacef5845.jpg"
+        "encrypted_count": "fVRjaw==",
+        "image_reference": "https://static.wikia.nocookie.net/deresute/images/1/12/Miria_N.jpg/revision/latest?cb=20160919163515&path-prefix=it"
       },
       "tag2": {
-        "id": "t0581",
-        "name": "asuna_(sao)",
-        "proper_name": "Asuna",
+        "id": "t0694",
+        "name": "cookie_run",
+        "proper_name": "Cookie Run",
+        "category": "copyright",
+        "encrypted_count": "e1ZmaA==",
+        "copyright": "Cookie Run",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Cookie_Run_series_logo.png/revision/latest/scale-to-width-down/1200?cb=20211123144049"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0779",
+        "name": "anyoji_hime",
+        "proper_name": "Anyoji Hime",
         "category": "character",
-        "encrypted_count": "eVRnYw==",
-        "copyright": "Sword Art Online",
+        "encrypted_count": "fVduaA==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/fb/Hime_Anyoji_2025.png/revision/latest/scale-to-width-down/250?cb=20250410121127"
+      },
+      "tag2": {
+        "id": "t0094",
+        "name": "eila_ilmatar_juutilainen",
+        "proper_name": "Eila Ilmatar Juutilainen",
+        "category": "character",
+        "encrypted_count": "fVxnbA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0510",
+        "name": "watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!",
+        "proper_name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+        "category": "copyright",
+        "encrypted_count": "eFBlbg==",
+        "copyright": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
         "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
+        "image_reference": "https://i.pinimg.com/originals/7d/ce/f7/7dcef7efe40b9739963376bb23afa323.jpg"
+      },
+      "tag2": {
+        "id": "t0263",
+        "name": "ashigara_(kancolle)",
+        "proper_name": "Ashigara",
+        "category": "character",
+        "encrypted_count": "fFJubA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/c/c6/Ship_Card_Ashigara.png/218px-Ship_Card_Ashigara.png"
       }
     },
     {
       "tag1": {
-        "id": "t0722",
-        "name": "ishtar_(fate)",
-        "proper_name": "Ishtar",
+        "id": "t0661",
+        "name": "nero_claudius_(fate/extra)",
+        "proper_name": "Nero Claudius",
         "category": "character",
-        "encrypted_count": "e1Rkbg==",
+        "encrypted_count": "e1JubA==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/FGO-Ishtar.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S005_Stage1.webp/revision/latest?cb=20220910072246"
       },
       "tag2": {
-        "id": "t0820",
-        "name": "kaedehara_kazuha",
-        "proper_name": "Kaedehara Kazuha",
-        "category": "character",
-        "encrypted_count": "fVxjbQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/a/a5/Kazuha_Karte.png/revision/latest?cb=20211123185236&path-prefix=de"
+        "id": "t0803",
+        "name": "suite_precure",
+        "proper_name": "Suite Precure",
+        "category": "copyright",
+        "encrypted_count": "elNkbQ==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Suite_pretty_cure_logo.jpg/revision/latest/scale-to-width-down/300?cb=20150213050340"
       }
     }
   ]
