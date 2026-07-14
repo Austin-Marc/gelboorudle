@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-13T06:45:25.806835+00:00
-// Date: 2026-07-13
+// Generated on: 2026-07-14T06:03:54.009493+00:00
+// Date: 2026-07-14
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0616",
-        "name": "osomatsu_(series)",
-        "proper_name": "Osomatsu Series",
-        "category": "copyright",
-        "encrypted_count": "e1JkaA==",
-        "copyright": "Osomatsu",
+        "id": "t0643",
+        "name": "kosaka_honoka",
+        "proper_name": "Kosaka Honoka",
+        "category": "character",
+        "encrypted_count": "eVVnbA==",
+        "copyright": "Love Live!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/a/a7/Osomatsu_Logo.png/revision/latest/scale-to-width-down/400?cb=20240220045128"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaWWcxlRz4wHbM_ZoGliMXb7LE18vs8kMZA&s"
       },
       "tag2": {
-        "id": "t0771",
-        "name": "cyberpunk_(series)",
-        "proper_name": "Cyberpunk Series",
-        "category": "copyright",
-        "encrypted_count": "e1Jlaw==",
-        "copyright": "Cyberpunk",
-        "material": "Video Game",
-        "image_reference": "https://wallpaperaccess.com/full/3594200.jpg"
+        "id": "t0792",
+        "name": "kasane_teto_(utau)",
+        "proper_name": "Kasane Teto",
+        "category": "character",
+        "encrypted_count": "fVNubw==",
+        "copyright": "UTAU",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/utau/images/b/b6/Tetostand.png/revision/latest?cb=20221221222057"
       }
     },
     {
       "tag1": {
-        "id": "t0507",
-        "name": "watanabe_you",
-        "proper_name": "Watanabe You",
+        "id": "t0776",
+        "name": "ahri_(league_of_legends)",
+        "proper_name": "Ahri",
         "category": "character",
-        "encrypted_count": "d1FnaQ==",
-        "copyright": "Love Live! Sunshine!!",
+        "encrypted_count": "e1duaA==",
+        "copyright": "League of Legends",
+        "material": "Video Game",
+        "image_reference": "https://liquipedia.net/commons/images/3/3f/League_Infobox_Ahri.jpg"
+      },
+      "tag2": {
+        "id": "t0591",
+        "name": "belle_(zenless_zone_zero)",
+        "proper_name": "Belle",
+        "category": "character",
+        "encrypted_count": "elNlbg==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6e/Agent_Belle_Portrait.png/revision/latest?cb=20240707002545"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0147",
+        "name": "rika_(pokemon)",
+        "proper_name": "Rika",
+        "category": "character",
+        "encrypted_count": "fVVibg==",
+        "copyright": "Pokemon",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Watanabe.You.full.2918010.png"
+        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/f/fa/Rika.png/revision/latest?cb=20161129170046"
       },
       "tag2": {
-        "id": "t0328",
-        "name": "panty_(psg)",
-        "proper_name": "Panty",
+        "id": "t0747",
+        "name": "devil_may_cry_(series)",
+        "proper_name": "Devil May Cry Series",
+        "category": "copyright",
+        "encrypted_count": "e1BibA==",
+        "copyright": "Devil May Cry Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Logo_of_the_Devil_May_Cry_series.png/375px-Logo_of_the_Devil_May_Cry_series.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0466",
+        "name": "clorinde_(genshin_impact)",
+        "proper_name": "Clorinde",
         "category": "character",
-        "encrypted_count": "elZjbw==",
-        "copyright": "Panty & Stocking with Garterbelt",
+        "encrypted_count": "fFBiaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Clorinde_Introduction_Card.png/revision/latest?cb=20240422100307"
+      },
+      "tag2": {
+        "id": "t0181",
+        "name": "jinx_(league_of_legends)",
+        "proper_name": "Jinx",
+        "category": "character",
+        "encrypted_count": "elZmYw==",
+        "copyright": "League of Legends",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0350",
+        "name": "kamijou_touma",
+        "proper_name": "Kamijou Touma",
+        "category": "character",
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "A Certain Magical Index",
+        "material": "Light Novel",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
+      },
+      "tag2": {
+        "id": "t0046",
+        "name": "unicorn_(azur_lane)",
+        "proper_name": "Unicorn",
+        "category": "character",
+        "encrypted_count": "fVJhbA==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/b/b6/UnicornKai.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0497",
+        "name": "little_busters!",
+        "proper_name": "Little Busters!",
+        "category": "copyright",
+        "encrypted_count": "eFxgYw==",
+        "copyright": "Little Busters!",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/littlebusters/images/e/e6/Site-logo.png/revision/latest?cb=20210713161239"
+      },
+      "tag2": {
+        "id": "t0176",
+        "name": "raora_panthera",
+        "proper_name": "Raora Panthera",
+        "category": "character",
+        "encrypted_count": "fVRmaA==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0437",
+        "name": "tighnari_(genshin_impact)",
+        "proper_name": "Tighnari",
+        "category": "character",
+        "encrypted_count": "fFFkaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Tighnari_Full_Wish.png/revision/latest?cb=20220824042927"
+      },
+      "tag2": {
+        "id": "t0204",
+        "name": "sheryl_nome",
+        "proper_name": "Sheryl Nome",
+        "category": "character",
+        "encrypted_count": "fVBvaA==",
+        "copyright": "Macross",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
+        "image_reference": "https://static.wikia.nocookie.net/macross/images/e/e1/Sheryl_Nome.jpg/revision/latest?cb=20090430231804&path-prefix=de"
       }
     },
     {
       "tag1": {
-        "id": "t0562",
-        "name": "nico_robin",
-        "proper_name": "Nico Robin",
+        "id": "t0907",
+        "name": "kitakami_(kancolle)",
+        "proper_name": "Kitakami",
         "category": "character",
-        "encrypted_count": "f1FuYkE=",
-        "copyright": "One Piece",
-        "material": "Manga",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/3/3f/470853-render_nicorobin.png/revision/latest?cb=20130913194656&path-prefix=pt"
-      },
-      "tag2": {
-        "id": "t0802",
-        "name": "haikyuu!!",
-        "proper_name": "Haikyuu!!",
-        "category": "copyright",
-        "encrypted_count": "e1Jmag==",
-        "copyright": "Haikyuu!!",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
-        "category": "character",
-        "encrypted_count": "fFdubw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
-      },
-      "tag2": {
-        "id": "t0852",
-        "name": "arch_bishop_(ragnarok_online)",
-        "proper_name": "Arch Bishop",
-        "category": "character",
-        "encrypted_count": "fVJibQ==",
-        "copyright": "Ragnarok Online",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/ragnarok_gamepedia_en/2/20/Character_Archbishop.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0168",
-        "name": "castorice_(honkai:_star_rail)",
-        "proper_name": "Castorice",
-        "category": "character",
-        "encrypted_count": "fF1ubg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
-      },
-      "tag2": {
-        "id": "t0671",
-        "name": "dungeons_&_dragons",
-        "proper_name": "Dungeons & Dragons",
-        "category": "copyright",
-        "encrypted_count": "e1RvaA==",
-        "copyright": "Dungeons & Dragons",
-        "material": "Tabletop Game",
-        "image_reference": "https://logo-marque.com/wp-content/uploads/2022/01/Dungeons-Dragons-Logo-2008-2014.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0171",
-        "name": "taihou_(kancolle)",
-        "proper_name": "Taihou",
-        "category": "character",
-        "encrypted_count": "fVRmaQ==",
+        "encrypted_count": "e1RibA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b1/Ship_Card_Taihou_Damaged.png"
+        "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/8/83/Kitakami_(Kantai_Collection)_Render_01.png/revision/latest?cb=20250502044836"
       },
       "tag2": {
-        "id": "t0593",
-        "name": "sukuna_shinmyoumaru",
-        "proper_name": "Sukuna Shinmyoumaru",
+        "id": "t0179",
+        "name": "z3_max_schultz_(kancolle)",
+        "proper_name": "Z3 Max Schultz",
         "category": "character",
-        "encrypted_count": "elBjaA==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "fVVibw==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://wiki.koumakan.jp/images/shinpiroku/6/6b/ShinmyoumaruULiL.png"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/10/Z3.png/revision/latest?cb=20150604195539&path-prefix=protagonist"
       }
     },
     {
       "tag1": {
-        "id": "t0540",
-        "name": "shishiro_botan",
-        "proper_name": "Shishiro Botan",
-        "category": "character",
-        "encrypted_count": "e1Nnbw==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_02.png"
-      },
-      "tag2": {
-        "id": "t0832",
-        "name": "giorno_giovanna",
-        "proper_name": "Giorno Giovanna",
-        "category": "character",
-        "encrypted_count": "fV1hag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/4/4a/latest/20210422070411/Giorno_Giovanna_Infobox_Anime.png/400px-Giorno_Giovanna_Infobox_Anime.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0255",
-        "name": "fujita_kotone",
-        "proper_name": "Fujita Kotone",
-        "category": "character",
-        "encrypted_count": "fFxlbw==",
-        "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/7f/Kotone_Portrait.png/revision/latest?cb=20240306193455"
-      },
-      "tag2": {
-        "id": "t0060",
-        "name": "march_7th_(preservation)_(honkai:_star_rail)",
-        "proper_name": "March 7th (Preservation)",
-        "category": "character",
-        "encrypted_count": "fVRkbQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Character_March_7th_%28Preservation%29_Splash_Art.png/revision/latest/scale-to-width/360?cb=20230525090156"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0217",
-        "name": "piplup",
-        "proper_name": "Piplup",
-        "category": "character",
-        "encrypted_count": "fVFmaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork0393_DLPS.png/1200px-Artwork0393_DLPS.png"
-      },
-      "tag2": {
-        "id": "t0516",
-        "name": "inoue_takina",
-        "proper_name": "Inoue Takina",
-        "category": "character",
-        "encrypted_count": "e1NiaQ==",
-        "copyright": "Lycoris Recoil",
+        "id": "t0323",
+        "name": "working!!",
+        "proper_name": "Working!!",
+        "category": "copyright",
+        "encrypted_count": "fVFkaQ==",
+        "copyright": "Working!!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/lycoris-recoil/images/e/e1/Takina_Inoue.png/revision/latest?cb=20220621164845"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
+      },
+      "tag2": {
+        "id": "t0880",
+        "name": "senran_kagura_shoujo-tachi_no_shin'ei",
+        "proper_name": "Senran Kagura: Shoujo-tachi no Shin'ei",
+        "category": "copyright",
+        "encrypted_count": "eFxl",
+        "copyright": "Senran Kagura",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cc/Senran_Kagura.png/revision/latest?cb=20210114042723"
       }
     },
     {
       "tag1": {
-        "id": "t0283",
-        "name": "mother_(series)",
-        "proper_name": "Mother Series",
-        "category": "copyright",
-        "encrypted_count": "elZjaA==",
-        "copyright": "Mother Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MOTHER_1989_Boxart_%28Nintendo%29.png/1200px-MOTHER_1989_Boxart_%28Nintendo%29.png"
+        "id": "t0758",
+        "name": "sailor_moon",
+        "proper_name": "Sailor Moon",
+        "category": "character",
+        "encrypted_count": "eFBhYw==",
+        "copyright": "Sailor Moon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_(1992).png/revision/latest?cb=20231109134853&path-prefix=es"
       },
       "tag2": {
-        "id": "t0276",
-        "name": "kanon",
-        "proper_name": "Kanon",
-        "category": "copyright",
-        "encrypted_count": "fVRlYg==",
-        "copyright": "Kanon",
-        "material": "Visual Novel",
-        "image_reference": "https://images.wikia.com/kanon/images/b/bc/Wiki.png"
+        "id": "t0742",
+        "name": "exusiai_(arknights)",
+        "proper_name": "Exusiai",
+        "category": "character",
+        "encrypted_count": "elBiaA==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/2/24/Exusiai.png/revision/latest?cb=20190623025141"
       }
     }
   ]
