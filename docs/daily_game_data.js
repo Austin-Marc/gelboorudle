@@ -1,230 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-17T06:08:51.089250+00:00
-// Date: 2026-07-17
+// Generated on: 2026-07-18T05:57:10.943097+00:00
+// Date: 2026-07-18
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0954",
-        "name": "izumi_konata",
-        "proper_name": "Konata Izumi",
+        "id": "t0341",
+        "name": "non-human_admiral_(kancolle)",
+        "proper_name": "Non-Human Admiral",
         "category": "character",
-        "encrypted_count": "eVNmbA==",
-        "copyright": "Lucky Star",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/7/73/Konata-san.gif/revision/latest?cb=20120723133321"
+        "encrypted_count": "f1FuaA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
       },
       "tag2": {
-        "id": "t0598",
-        "name": "len'en",
-        "proper_name": "Len'en",
-        "category": "copyright",
-        "encrypted_count": "e1ZiaA==",
-        "copyright": "Len'en",
-        "material": "Video Game",
-        "image_reference": "https://lenen.wiki.gg/images/Site-logo.png?b36d97"
+        "id": "t0534",
+        "name": "kaban_(kemono_friends)",
+        "proper_name": "Kaban",
+        "category": "character",
+        "encrypted_count": "e1dhbg==",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://www.japari-library.com/images/3/3e/KabanS2.png"
       }
     },
     {
       "tag1": {
-        "id": "t0400",
-        "name": "aigis_(persona)",
-        "proper_name": "Aigis",
+        "id": "t0532",
+        "name": "mutsu_(kancolle)",
+        "proper_name": "Mutsu",
         "category": "character",
-        "encrypted_count": "fF1hYg==",
-        "copyright": "Persona",
+        "encrypted_count": "e1BjYw==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
+        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2018/01/74b7b170-f222-400e-942d-3a40dc073a2b.jpg"
       },
       "tag2": {
-        "id": "t0891",
-        "name": "akagi_(azur_lane)",
-        "proper_name": "Akagi",
+        "id": "t0554",
+        "name": "c.c.",
+        "proper_name": "C.C.",
         "category": "character",
-        "encrypted_count": "fFBkaw==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
+        "encrypted_count": "eFBnag==",
+        "copyright": "Code Geass",
+        "material": "Anime",
+        "image_reference": "https://i.pinimg.com/736x/b5/e7/21/b5e7210af75a27e7c79b2b7e18b2a754.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0550",
-        "name": "aikatsu!",
-        "proper_name": "Aikatsu!",
-        "category": "copyright",
-        "encrypted_count": "eFdlbg==",
-        "copyright": "Aikatsu!",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/Aikatsu222.jpg"
+        "id": "t0595",
+        "name": "kanna_(blue_archive)",
+        "proper_name": "Kanna",
+        "category": "character",
+        "encrypted_count": "e1Vvag==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/47/Kanna.png?version=09ce58bc6b8b274502da1550c549a7aa"
       },
       "tag2": {
-        "id": "t0531",
-        "name": "xiao_(genshin_impact)",
-        "proper_name": "Xiao",
+        "id": "t0560",
+        "name": "kisaragi_chihaya",
+        "proper_name": "Kisaragi Chihaya",
         "category": "character",
-        "encrypted_count": "e1FjYw==",
+        "encrypted_count": "e1xjbw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/11/Chihaya_Kisaragi_2nd_Vision_Normal.png/revision/latest?cb=20180806222028"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0848",
+        "name": "doremy_sweet",
+        "proper_name": "Doremy Sweet",
+        "category": "character",
+        "encrypted_count": "fVBjYg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1354156714.png"
+      },
+      "tag2": {
+        "id": "t0570",
+        "name": "fullmetal_alchemist",
+        "proper_name": "Fullmetal Alchemist",
+        "category": "copyright",
+        "encrypted_count": "eVVubg==",
+        "copyright": "Fullmetal Alchemist",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/a/a6/FMA_logo.jpg/revision/latest?cb=20130923075031"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0374",
+        "name": "sinclair_(project_moon)",
+        "proper_name": "Sinclair",
+        "category": "character",
+        "encrypted_count": "fFJnaw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest?cb=20230228041304"
+      },
+      "tag2": {
+        "id": "t0674",
+        "name": "iowa_(kancolle)",
+        "proper_name": "Iowa",
+        "category": "character",
+        "encrypted_count": "elNnbw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/a/a5/Iowa_Full.png/revision/latest?cb=20180817192145"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0127",
+        "name": "yagami_hayate",
+        "proper_name": "Yagami Hayate",
+        "category": "character",
+        "encrypted_count": "fVFnaQ==",
+        "copyright": "Magical Girl Lyrical Nanoha",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/nanoha/images/e/ed/Character_hayate.png/revision/latest?cb=20170327192812"
+      },
+      "tag2": {
+        "id": "t0917",
+        "name": "asuna_(bunny)_(blue_archive)",
+        "proper_name": "Asuna (Bunny)",
+        "category": "character",
+        "encrypted_count": "eFZgaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/6/66/Asuna_(Bunny_Girl)_00.png/326px-Asuna_(Bunny_Girl)_00.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0885",
+        "name": "male_rover_(wuthering_waves)",
+        "proper_name": "Male Rover",
+        "category": "character",
+        "encrypted_count": "fFVvbg==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Rover.(Male).full.3938446.png"
+      },
+      "tag2": {
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
+        "category": "character",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0948",
+        "name": "eula_(genshin_impact)",
+        "proper_name": "Eula",
+        "category": "character",
+        "encrypted_count": "eFNkaw==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0087",
-        "name": "mahou_sensei_negima!",
-        "proper_name": "Mahou Sensei Negima!",
-        "category": "copyright",
-        "encrypted_count": "elZlbQ==",
-        "copyright": "Mahou Sensei Negima!",
-        "material": "Manga",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/3a/Negima%21_Magister_Negi_Magi_1.png"
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Eula_Character_Card.png/revision/latest?cb=20230302031310"
       },
       "tag2": {
-        "id": "t0439",
-        "name": "cheval_grand_(umamusume)",
-        "proper_name": "Cheval Grand",
-        "category": "character",
-        "encrypted_count": "fFZnaQ==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/6/64/Cheval_Grand_%28Race%29.png/revision/latest?cb=20240728193832"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0260",
-        "name": "nian_(arknights)",
-        "proper_name": "Nian",
-        "category": "character",
-        "encrypted_count": "fFxgbQ==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
-      },
-      "tag2": {
-        "id": "t0611",
-        "name": "puzzle_&_dragons",
-        "proper_name": "Puzzle & Dragons",
+        "id": "t0826",
+        "name": "shingeki_no_bahamut",
+        "proper_name": "Shingeki no Bahamut",
         "category": "copyright",
-        "encrypted_count": "e1xuYw==",
-        "copyright": "Puzzle & Dragons",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Main_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20150516042650"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0362",
-        "name": "soulcalibur",
-        "proper_name": "Soulcalibur",
-        "category": "copyright",
-        "encrypted_count": "elVvbg==",
-        "copyright": "Soulcalibur",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cb/Soul_Calibur_logo.png/revision/latest?cb=20140721234029"
-      },
-      "tag2": {
-        "id": "t0279",
-        "name": "shakugan_no_shana",
-        "proper_name": "Shakugan no Shana",
-        "category": "copyright",
-        "encrypted_count": "fVNjYg==",
-        "copyright": "Shakugan no Shana",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/shakugan/images/3/34/First_season_title_card.jpg/revision/latest?cb=20120915105459"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0192",
-        "name": "nia_teppelin",
-        "proper_name": "Nia Teppelin",
-        "category": "character",
-        "encrypted_count": "fVdlaA==",
-        "copyright": "Tengen Toppa Gurren Lagann",
+        "encrypted_count": "elBjbQ==",
+        "copyright": "Shingeki no Bahamut",
         "material": "Anime",
-        "image_reference": "https://vignette2.wikia.nocookie.net/gurennlagann/images/6/60/Nialove.jpg/revision/latest?cb=20131125032633"
+        "image_reference": "https://image.librewiki.net/2/20/Shingeki_no_Bahamut_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0186",
+        "name": "ado_(utaite)",
+        "proper_name": "Ado",
+        "category": "copyright",
+        "encrypted_count": "fVVubA==",
+        "copyright": "Ado",
+        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
       },
       "tag2": {
-        "id": "t0188",
-        "name": "mega_man_zero_(series)",
-        "proper_name": "Mega Man Zero Series",
-        "category": "copyright",
-        "encrypted_count": "elRvbg==",
-        "copyright": "Mega Man",
+        "id": "t0246",
+        "name": "qiqi_(genshin_impact)",
+        "proper_name": "Qiqi",
+        "category": "character",
+        "encrypted_count": "fVVibQ==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8b/Personagem_Qiqi_Cart\u00e3o.jpg/revision/latest?cb=20210330004500&path-prefix=pt-br"
       }
     },
     {
       "tag1": {
-        "id": "t0802",
-        "name": "haikyuu!!",
-        "proper_name": "Haikyuu!!",
-        "category": "copyright",
-        "encrypted_count": "e1Jmag==",
-        "copyright": "Haikyuu!!",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
-      },
-      "tag2": {
-        "id": "t0013",
-        "name": "honkai_(series)",
-        "proper_name": "Honkai Series",
-        "category": "copyright",
-        "encrypted_count": "f1dgbEkC",
-        "copyright": "Honkai Series",
+        "id": "t0072",
+        "name": "anastasia_(idolmaster)",
+        "proper_name": "Anastasia",
+        "category": "character",
+        "encrypted_count": "fVFhaA==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/da/Honkai_Impact_3rd_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0248",
-        "name": "kanna_kamui",
-        "proper_name": "Kanna Kamui",
-        "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Miss Kobayashi's Dragon Maid",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png"
+        "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
       },
       "tag2": {
-        "id": "t0273",
-        "name": "voicevox",
-        "proper_name": "VoiceVox",
-        "category": "copyright",
-        "encrypted_count": "fFJvYg==",
-        "copyright": "VoiceVox",
-        "material": "Music Software",
-        "image_reference": "https://prtimes.jp/data/corp/132725/ogp/0fc2c0b4cc844511409698e0d4cef820-963b6c7c0403ec1027cb2432a3e966c1.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0623",
-        "name": "shijou_takane",
-        "proper_name": "Shijou Takane",
+        "id": "t0384",
+        "name": "chitanda_eru",
+        "proper_name": "Chitanda Eru",
         "category": "character",
-        "encrypted_count": "e1xubA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/b/bd/Takane_Shijou_2nd_Vision_Normal.png/revision/latest?cb=20200510063245"
-      },
-      "tag2": {
-        "id": "t0223",
-        "name": "matsuura_kanan",
-        "proper_name": "Matsuura Kanan",
-        "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Love Live!",
+        "encrypted_count": "fFxibA==",
+        "copyright": "Hyouka",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
+        "image_reference": "https://static.wikia.nocookie.net/hyouka/images/0/0f/Chitanda_eru.jpg/revision/latest/scale-to-width-down/1200?cb=20161113165236&path-prefix=vi"
       }
     }
   ]
