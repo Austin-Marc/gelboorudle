@@ -1,230 +1,227 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-19T06:23:12.212361+00:00
-// Date: 2026-07-19
+// Generated on: 2026-07-20T06:38:30.076078+00:00
+// Date: 2026-07-20
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0551",
-        "name": "stone_ocean",
-        "proper_name": "Stone Ocean",
-        "category": "copyright",
-        "encrypted_count": "fVZvbA==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/6/6b/latest/20210404125436/Stone_Ocean_Anime_Logo.png"
+        "id": "t0952",
+        "name": "otomune_kozue",
+        "proper_name": "Kozue Otomune",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d1/Kozue_Otomune.png/revision/latest/scale-to-width-down/250?cb=20230210134757"
       },
       "tag2": {
-        "id": "t0735",
-        "name": "arlecchino_(genshin_impact)",
-        "proper_name": "Arlecchino",
-        "category": "character",
-        "encrypted_count": "elBjag==",
-        "copyright": "Genshin Impact",
+        "id": "t0488",
+        "name": "nikki_(series)",
+        "proper_name": "Nikki Series",
+        "category": "copyright",
+        "encrypted_count": "eFZmaA==",
+        "copyright": "Nikki Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gen-impact/images/4/4a/Carta_de_personaje_Arlecchino.png/revision/latest?cb=20240311102048&path-prefix=es"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0823",
-        "name": "fire_emblem:_the_binding_blade",
-        "proper_name": "Fire Emblem: The Binding Blade",
+        "id": "t0730",
+        "name": "star_wars",
+        "proper_name": "Star Wars",
         "category": "copyright",
-        "encrypted_count": "e1VlaA==",
+        "encrypted_count": "e11laA==",
+        "copyright": "Star Wars",
+        "material": "TV Show",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/320px-Star_Wars_Logo.svg.png"
+      },
+      "tag2": {
+        "id": "t0318",
+        "name": "promare",
+        "proper_name": "Promare",
+        "category": "copyright",
+        "encrypted_count": "fVRvYw==",
+        "copyright": "Promare",
+        "material": "Anime",
+        "image_reference": "https://i0.kym-cdn.com/photos/images/original/001/270/904/f6a.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0512",
+        "name": "archer_(fate)",
+        "proper_name": "Archer",
+        "category": "character",
+        "encrypted_count": "eFRjaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
+      },
+      "tag2": {
+        "id": "t0019",
+        "name": "final_fantasy",
+        "proper_name": "Final Fantasy",
+        "category": "copyright",
+        "encrypted_count": "f1ZnbkcB",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0565",
+        "name": "medusa_(fate)",
+        "proper_name": "Medusa",
+        "category": "character",
+        "encrypted_count": "e1BgaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/62/47/c6/6247c687ccb4fa6323b7c16415278027.jpg"
+      },
+      "tag2": {
+        "id": "t0162",
+        "name": "satonaka_chie",
+        "proper_name": "Satonaka Chie",
+        "category": "character",
+        "encrypted_count": "elVhaw==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0780",
+        "name": "ui_(blue_archive)",
+        "proper_name": "Ui",
+        "category": "character",
+        "encrypted_count": "eldubA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/1/18/Ui.png?version=9d1ebe8f93c452bc3cea698a3676d4e7"
+      },
+      "tag2": {
+        "id": "t0846",
+        "name": "kirigiri_kyoko",
+        "proper_name": "Kirigiri Kyoko",
+        "category": "character",
+        "encrypted_count": "elVgbg==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0686",
+        "name": "hiei_(kancolle)",
+        "proper_name": "Hiei",
+        "category": "character",
+        "encrypted_count": "elRubQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
+      },
+      "tag2": {
+        "id": "t0542",
+        "name": "shiori_novella",
+        "proper_name": "Shiori Novella",
+        "category": "character",
+        "encrypted_count": "e1FmYw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/hololivewiki/0/03/Shiori_Novella_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0363",
+        "name": "m.u.g.e.n",
+        "proper_name": "M.U.G.E.N",
+        "category": "copyright",
+        "encrypted_count": "fVNhaw==",
+        "copyright": "M.U.G.E.N",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/roblox/images/7/7f/MugenIcon2020February.png/revision/latest?cb=20210219071459"
+      },
+      "tag2": {
+        "id": "t0380",
+        "name": "michishio_(kancolle)",
+        "proper_name": "Michishio",
+        "category": "character",
+        "encrypted_count": "fFdgag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0301",
+        "name": "tomoe_gozen_(fate)",
+        "proper_name": "Tomoe Gozen",
+        "category": "character",
+        "encrypted_count": "fVRmaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6999/99662f2ac78d6680faaed4cc6b30d0b4757f43dcr1-850-1073v2_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0268",
+        "name": "uzuki_(kancolle)",
+        "proper_name": "Uzuki",
+        "category": "character",
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/8/88/Uzuki.png/revision/latest?cb=20140312175607&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0445",
+        "name": "female_robin_(fire_emblem)",
+        "proper_name": "Female Robin",
+        "category": "character",
+        "encrypted_count": "fVZjaw==",
         "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
+        "image_reference": "https://gamepedia.cursecdn.com/fewarriors_gamepedia_en/1/16/Robin_(Female)_Artwork.png"
       },
       "tag2": {
-        "id": "t0426",
-        "name": "avatar_legends",
-        "proper_name": "Avatar Legends",
-        "category": "copyright",
-        "encrypted_count": "elBvaA==",
-        "copyright": "Avatar: The Last Airbender",
-        "material": "Tabletop Game",
-        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
+        "id": "t0800",
+        "name": "amate_yuzuriha",
+        "proper_name": "Amate Yuzuriha",
+        "category": "character",
+        "encrypted_count": "elZvbQ==",
+        "copyright": "Unknown",
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
       }
     },
     {
       "tag1": {
-        "id": "t0214",
-        "name": "mari_(omori)",
-        "proper_name": "Mari",
+        "id": "t0884",
+        "name": "shinku",
+        "proper_name": "Shinku",
         "category": "character",
-        "encrypted_count": "fVZubw==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/d/d1/DW_Mari_Fullbody_Profile.png/revision/latest?cb=20221031040609"
-      },
-      "tag2": {
-        "id": "t0487",
-        "name": "kemono_friends_3",
-        "proper_name": "Kemono Friends 3",
-        "category": "copyright",
-        "encrypted_count": "eFFvaw==",
-        "copyright": "Kemono Friends",
-        "material": "Video Game",
-        "image_reference": "https://www.japari-library.com/images/b/bb/Kemono_Friends_3_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0377",
-        "name": "sendai_kai_ni_(kancolle)",
-        "proper_name": "Sendai Kai Ni",
-        "category": "character",
-        "encrypted_count": "f1duYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/c/ce/Sendai_Kai_Ni_Full.png/revision/latest/scale-to-width-down/284?cb=20180817193836"
-      },
-      "tag2": {
-        "id": "t0244",
-        "name": "lana_(pokemon)",
-        "proper_name": "Lana",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0643",
-        "name": "kosaka_honoka",
-        "proper_name": "Kosaka Honoka",
-        "category": "character",
-        "encrypted_count": "eVVnbA==",
-        "copyright": "Love Live!",
+        "encrypted_count": "fFFuYg==",
+        "copyright": "Rozen Maiden",
         "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaWWcxlRz4wHbM_ZoGliMXb7LE18vs8kMZA&s"
+        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/b/bb/Artwork_Shinku_2013.png/revision/latest?cb=20140901224243&path-prefix=es"
       },
       "tag2": {
-        "id": "t0495",
-        "name": "kurodani_yamame",
-        "proper_name": "Kurodani Yamame",
+        "id": "t0061",
+        "name": "hiroi_kikuri",
+        "proper_name": "Hiroi Kikuri",
         "category": "character",
-        "encrypted_count": "e1xiaA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5b/Th175Yamame.png/revision/latest?cb=20201023221601"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0119",
-        "name": "maria-sama_ga_miteru",
-        "proper_name": "Maria-sama ga Miteru",
-        "category": "copyright",
-        "encrypted_count": "fVFmbA==",
-        "copyright": "Maria-sama ga Miteru",
+        "encrypted_count": "fVFlbA==",
+        "copyright": "Bocchi The Rock!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/animeland-index/images/6/6a/Maria_sama_ga_miteru.jpg/revision/latest?cb=20220526195420&path-prefix=fr"
-      },
-      "tag2": {
-        "id": "t0431",
-        "name": "hayate_no_gotoku!",
-        "proper_name": "Hayate no Gotoku!",
-        "category": "copyright",
-        "encrypted_count": "fVxubQ==",
-        "copyright": "Hayate no Gotoku!",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0703",
-        "name": "gojou_satoru",
-        "proper_name": "Gojou Satoru",
-        "category": "character",
-        "encrypted_count": "e1VvYg==",
-        "copyright": "Jujutsu Kaisen",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Gojou.Satoru.full.3974287.jpg"
-      },
-      "tag2": {
-        "id": "t0230",
-        "name": "kid_icarus_uprising",
-        "proper_name": "Kid Icarus: Uprising",
-        "category": "copyright",
-        "encrypted_count": "elVvbw==",
-        "copyright": "Kid Icarus: Uprising",
-        "material": "Video Game",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdlhz0SDnycIXAyHMifpNYjHFY6xq8cTkg2sR9Ff8zE9PQAbqyap13XnTJ0g4_WFdFg8WvA"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0913",
-        "name": "hoshii_miki",
-        "proper_name": "Hoshii Miki",
-        "category": "character",
-        "encrypted_count": "eFNlaw==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/millionlive/images/3/3f/Miki_Hoshii_infobox.png/revision/latest/scale-to-width-down/278?cb=20180414125723"
-      },
-      "tag2": {
-        "id": "t0449",
-        "name": "azki_(hololive)",
-        "proper_name": "AZKi",
-        "category": "character",
-        "encrypted_count": "fFJnYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/9/99/AZKi_-_Portrait_02-2-2.png/580px-AZKi_-_Portrait_02-2-2.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0199",
-        "name": "yuki_setsuna",
-        "proper_name": "Yuki Setsuna",
-        "category": "character",
-        "encrypted_count": "e1dmaQ==",
-        "copyright": "Love Live! Series",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/a/ab/PDP_Profile_Image_-_Setsuna_Yuki.png/revision/latest?cb=20181005192611"
-      },
-      "tag2": {
-        "id": "t0499",
-        "name": "mahou_shoujo_lyrical_nanoha_a's",
-        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
-        "category": "copyright",
-        "encrypted_count": "eFFjbg==",
-        "copyright": "Magical Girl Lyrical Nanoha",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0620",
-        "name": "yoko_littner",
-        "proper_name": "Yoko Littner",
-        "category": "character",
-        "encrypted_count": "eVdmYg==",
-        "copyright": "Tengen Toppa Gurren Lagann",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gurennlagann/images/f/f0/Fsfsdddsfds.png/revision/latest?cb=20131209080110"
-      },
-      "tag2": {
-        "id": "t0626",
-        "name": "shiranui_(kancolle)",
-        "proper_name": "Shiranui",
-        "category": "character",
-        "encrypted_count": "elJkaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/736x/a4/09/63/a4096367108d3f3fd39fbe4c3ca1bb30.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/8/88/Kikuri_Hiroi.png/revision/latest?cb=20221213205501"
       }
     }
   ]
