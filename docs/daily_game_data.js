@@ -1,56 +1,112 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-20T06:38:30.076078+00:00
-// Date: 2026-07-20
+// Generated on: 2026-07-21T06:21:41.384525+00:00
+// Date: 2026-07-21
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0952",
-        "name": "otomune_kozue",
-        "proper_name": "Kozue Otomune",
+        "id": "t0810",
+        "name": "furude_rika",
+        "proper_name": "Furude Rika",
         "category": "character",
-        "encrypted_count": "elJvag==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d1/Kozue_Otomune.png/revision/latest/scale-to-width-down/250?cb=20230210134757"
+        "encrypted_count": "elBhYg==",
+        "copyright": "Higurashi When They Cry",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/when-they-cry/images/e/ee/RikaGou.png/revision/latest?cb=20210202063349&path-prefix=pt-br"
       },
       "tag2": {
-        "id": "t0488",
-        "name": "nikki_(series)",
-        "proper_name": "Nikki Series",
-        "category": "copyright",
-        "encrypted_count": "eFZmaA==",
-        "copyright": "Nikki Series",
+        "id": "t0357",
+        "name": "accelerator_(toaru_majutsu_no_index)",
+        "proper_name": "Accelerator",
+        "category": "character",
+        "encrypted_count": "fFBlag==",
+        "copyright": "Toaru Majutsu no Index",
+        "material": "Light Novel",
+        "image_reference": "https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/9/96/Accelerator_Novel.jpg/revision/latest?cb=20160121115001"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0738",
+        "name": "hikari_(blue_archive)",
+        "proper_name": "Hikari",
+        "category": "character",
+        "encrypted_count": "elBkaw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0730",
-        "name": "star_wars",
-        "proper_name": "Star Wars",
-        "category": "copyright",
-        "encrypted_count": "e11laA==",
-        "copyright": "Star Wars",
-        "material": "TV Show",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/320px-Star_Wars_Logo.svg.png"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/13/Hikari_Portrait.png/revision/latest?cb=20240412140144"
       },
       "tag2": {
-        "id": "t0318",
-        "name": "promare",
-        "proper_name": "Promare",
-        "category": "copyright",
-        "encrypted_count": "fVRvYw==",
-        "copyright": "Promare",
-        "material": "Anime",
-        "image_reference": "https://i0.kym-cdn.com/photos/images/original/001/270/904/f6a.jpg"
+        "id": "t0046",
+        "name": "unicorn_(azur_lane)",
+        "proper_name": "Unicorn",
+        "category": "character",
+        "encrypted_count": "fVJhbA==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/b/b6/UnicornKai.png"
       }
     },
     {
       "tag1": {
+        "id": "t0373",
+        "name": "hatsuzuki_(kancolle)",
+        "proper_name": "Hatsuzuki",
+        "category": "character",
+        "encrypted_count": "fFFvaw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
+      },
+      "tag2": {
+        "id": "t0931",
+        "name": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka",
+        "proper_name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "category": "copyright",
+        "encrypted_count": "dldvYg==",
+        "copyright": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "material": "Light Novel",
+        "image_reference": "https://images.justwatch.com/poster/162530069/s718/season-2.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0758",
+        "name": "sailor_moon",
+        "proper_name": "Sailor Moon",
+        "category": "character",
+        "encrypted_count": "eFBhYw==",
+        "copyright": "Sailor Moon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_(1992).png/revision/latest?cb=20231109134853&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0086",
+        "name": "final_fantasy_vi",
+        "proper_name": "Final Fantasy VI",
+        "category": "copyright",
+        "encrypted_count": "elxkbw==",
+        "copyright": "Final Fantasy VI",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0070",
+        "name": "koshimizu_sachiko",
+        "proper_name": "Koshimizu Sachiko",
+        "category": "character",
+        "encrypted_count": "fVdvaw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/d/d0/Sachiko_SS.png"
+      },
+      "tag2": {
         "id": "t0512",
         "name": "archer_(fate)",
         "proper_name": "Archer",
@@ -59,169 +115,113 @@ const DAILY_GAME_DATA = {
         "copyright": "Fate Series",
         "material": "Video Game",
         "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
-      },
-      "tag2": {
-        "id": "t0019",
-        "name": "final_fantasy",
-        "proper_name": "Final Fantasy",
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0318",
+        "name": "promare",
+        "proper_name": "Promare",
         "category": "copyright",
-        "encrypted_count": "f1ZnbkcB",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0565",
-        "name": "medusa_(fate)",
-        "proper_name": "Medusa",
-        "category": "character",
-        "encrypted_count": "e1BgaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/62/47/c6/6247c687ccb4fa6323b7c16415278027.jpg"
+        "encrypted_count": "fVRvYw==",
+        "copyright": "Promare",
+        "material": "Anime",
+        "image_reference": "https://i0.kym-cdn.com/photos/images/original/001/270/904/f6a.jpg"
       },
       "tag2": {
-        "id": "t0162",
-        "name": "satonaka_chie",
-        "proper_name": "Satonaka Chie",
-        "category": "character",
-        "encrypted_count": "elVhaw==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0780",
-        "name": "ui_(blue_archive)",
-        "proper_name": "Ui",
-        "category": "character",
-        "encrypted_count": "eldubA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/1/18/Ui.png?version=9d1ebe8f93c452bc3cea698a3676d4e7"
-      },
-      "tag2": {
-        "id": "t0846",
-        "name": "kirigiri_kyoko",
-        "proper_name": "Kirigiri Kyoko",
-        "category": "character",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0686",
-        "name": "hiei_(kancolle)",
-        "proper_name": "Hiei",
-        "category": "character",
-        "encrypted_count": "elRubQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
-      },
-      "tag2": {
-        "id": "t0542",
-        "name": "shiori_novella",
-        "proper_name": "Shiori Novella",
-        "category": "character",
-        "encrypted_count": "e1FmYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/hololivewiki/0/03/Shiori_Novella_-_Portrait_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0363",
-        "name": "m.u.g.e.n",
-        "proper_name": "M.U.G.E.N",
+        "id": "t0613",
+        "name": "the_hundred_line_-last_defense_academy-",
+        "proper_name": "The Hundred Line -Last Defense Academy-",
         "category": "copyright",
-        "encrypted_count": "fVNhaw==",
-        "copyright": "M.U.G.E.N",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/roblox/images/7/7f/MugenIcon2020February.png/revision/latest?cb=20210219071459"
-      },
-      "tag2": {
-        "id": "t0380",
-        "name": "michishio_(kancolle)",
-        "proper_name": "Michishio",
-        "category": "character",
-        "encrypted_count": "fFdgag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
+        "encrypted_count": "dlZgbw==",
+        "copyright": "The Hundred Line -Last Defense Academy-",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
       }
     },
     {
       "tag1": {
-        "id": "t0301",
-        "name": "tomoe_gozen_(fate)",
-        "proper_name": "Tomoe Gozen",
+        "id": "t0169",
+        "name": "hagiwara_yukiho",
+        "proper_name": "Hagiwara Yukiho",
         "category": "character",
-        "encrypted_count": "fVRmaw==",
-        "copyright": "Fate Series",
+        "encrypted_count": "fVBgbQ==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/6999/99662f2ac78d6680faaed4cc6b30d0b4757f43dcr1-850-1073v2_hq.jpg"
+        "image_reference": "https://project-imas.wiki/images/4/45/MASTER_ARTIST_4_11.png"
       },
       "tag2": {
-        "id": "t0268",
-        "name": "uzuki_(kancolle)",
-        "proper_name": "Uzuki",
+        "id": "t0947",
+        "name": "midoriya_izuku",
+        "proper_name": "Izuku Midoriya",
         "category": "character",
-        "encrypted_count": "fFNjaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/8/88/Uzuki.png/revision/latest?cb=20140312175607&path-prefix=protagonist"
+        "encrypted_count": "d1ViaQ==",
+        "copyright": "My Hero Academia",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/db/Izuku_Midoriya_%28My_Hero_Academia_character%29.png"
       }
     },
     {
       "tag1": {
-        "id": "t0445",
-        "name": "female_robin_(fire_emblem)",
-        "proper_name": "Female Robin",
+        "id": "t0585",
+        "name": "kawaragi_momoka",
+        "proper_name": "Kawaragi Momoka",
         "category": "character",
-        "encrypted_count": "fVZjaw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/fewarriors_gamepedia_en/1/16/Robin_(Female)_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0800",
-        "name": "amate_yuzuriha",
-        "proper_name": "Amate Yuzuriha",
-        "category": "character",
-        "encrypted_count": "elZvbQ==",
-        "copyright": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0884",
-        "name": "shinku",
-        "proper_name": "Shinku",
-        "category": "character",
-        "encrypted_count": "fFFuYg==",
-        "copyright": "Rozen Maiden",
+        "encrypted_count": "elxnaA==",
+        "copyright": "D4DJ",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/b/bb/Artwork_Shinku_2013.png/revision/latest?cb=20140901224243&path-prefix=es"
+        "image_reference": "https://static.zerochan.net/Kawaragi.Momoka.full.4222907.jpg"
       },
       "tag2": {
-        "id": "t0061",
-        "name": "hiroi_kikuri",
-        "proper_name": "Hiroi Kikuri",
-        "category": "character",
-        "encrypted_count": "fVFlbA==",
-        "copyright": "Bocchi The Rock!",
+        "id": "t0115",
+        "name": "gundam_seed_destiny",
+        "proper_name": "Gundam Seed Destiny",
+        "category": "copyright",
+        "encrypted_count": "elJmYg==",
+        "copyright": "Mobile Suit Gundam",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/8/88/Kikuri_Hiroi.png/revision/latest?cb=20221213205501"
+        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/0/0c/Logo_Mobile_Suit_Gundam_Seed_Destiny.jpg/revision/latest/scale-to-width-down/310?cb=20181204163359"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0048",
+        "name": "rosalina",
+        "proper_name": "Rosalina",
+        "category": "character",
+        "encrypted_count": "eFBubA==",
+        "copyright": "Super Mario",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rosalina_by_Shigehisa_Nakaue.png/250px-Rosalina_by_Shigehisa_Nakaue.png"
+      },
+      "tag2": {
+        "id": "t0405",
+        "name": "gran_(granblue_fantasy)",
+        "proper_name": "Gran",
+        "category": "character",
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Granblue Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/granblue/images/3/33/FighterM.png/revision/latest?cb=20210313172546"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0607",
+        "name": "murano_sayaka",
+        "proper_name": "Murano Sayaka",
+        "category": "character",
+        "encrypted_count": "elduaA==",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/c/cb/Murano_Sayaka_Icon.png/revision/latest?cb=20230210121923"
+      },
+      "tag2": {
+        "id": "t0159",
+        "name": "miura_azusa",
+        "proper_name": "Miura Azusa",
+        "category": "character",
+        "encrypted_count": "fVNhaQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/6/67/MASTER_ARTIST_3_11.jpg"
       }
     }
   ]
