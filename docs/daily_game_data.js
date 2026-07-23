@@ -1,176 +1,44 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-22T06:21:35.708205+00:00
-// Date: 2026-07-22
+// Generated on: 2026-07-23T06:23:41.913709+00:00
+// Date: 2026-07-23
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0840",
-        "name": "kizuna_akari",
-        "proper_name": "Kizuna Akari",
+        "id": "t0225",
+        "name": "kiyohime_(fate)",
+        "proper_name": "Kiyohime",
         "category": "character",
-        "encrypted_count": "fV1vbw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/1/18/Vocaloid_akari.png/revision/latest?cb=20180329051055"
-      },
-      "tag2": {
-        "id": "t0432",
-        "name": "breath_of_fire",
-        "proper_name": "Breath of Fire",
-        "category": "copyright",
-        "encrypted_count": "fVRmbg==",
-        "copyright": "Breath of Fire",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/capcomdatabase/images/4/49/BoF_Logo.png/revision/latest?cb=20140626001848"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0216",
-        "name": "i-401_(kancolle)",
-        "proper_name": "I-401",
-        "category": "character",
-        "encrypted_count": "fFxhbA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/35/Ship_Card_I-401.png/218px-Ship_Card_I-401.png"
-      },
-      "tag2": {
-        "id": "t0951",
-        "name": "dio_brando",
-        "proper_name": "Dio Brando",
-        "category": "character",
-        "encrypted_count": "eFdvYw==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/0/0a/latest/20210424101455/DIO_Normal_SC_Infobox_Anime.png/800px-DIO_Normal_SC_Infobox_Anime.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0408",
-        "name": "skyla_(pokemon)",
-        "proper_name": "Skyla",
-        "category": "character",
-        "encrypted_count": "e1Fgbg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/d/d2/Spr_Masters_Skyla.png"
-      },
-      "tag2": {
-        "id": "t0760",
-        "name": "tsushima_yoshiko",
-        "proper_name": "Tsushima Yoshiko",
-        "category": "character",
-        "encrypted_count": "eVduaw==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/44/Tsushima_Yoshiko_ALL_STARS.png/revision/latest?cb=20200323032830&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0280",
-        "name": "project_voltage",
-        "proper_name": "Project Voltage",
-        "category": "copyright",
-        "encrypted_count": "fVdnYg==",
-        "copyright": "Project Voltage",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230905142316/Logo_Project_Voltage.png/600px-Logo_Project_Voltage.png"
-      },
-      "tag2": {
-        "id": "t0581",
-        "name": "asuna_(sao)",
-        "proper_name": "Asuna",
-        "category": "character",
-        "encrypted_count": "eVRnYw==",
-        "copyright": "Sword Art Online",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0231",
-        "name": "tokyo_ghoul",
-        "proper_name": "Tokyo Ghoul",
-        "category": "copyright",
-        "encrypted_count": "fVZhaQ==",
-        "copyright": "Tokyo Ghoul",
-        "material": "Manga",
-        "image_reference": "https://bayanbox.ir/view/167939588418032986/tokyo-ghoul-logo-png.png"
-      },
-      "tag2": {
-        "id": "t0373",
-        "name": "hatsuzuki_(kancolle)",
-        "proper_name": "Hatsuzuki",
-        "category": "character",
-        "encrypted_count": "fFFvaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0895",
-        "name": "diarmuid_ua_duibhne_(fate)",
-        "proper_name": "Diarmuid Ua Duibhne",
-        "category": "character",
-        "encrypted_count": "fFBmaw==",
+        "encrypted_count": "fVRgYg==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/factvsfiction/images/2/28/Diarmuid.png/revision/latest?cb=20160116010006"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
       },
       "tag2": {
-        "id": "t0183",
-        "name": "atlanta_(kancolle)",
-        "proper_name": "Atlanta",
+        "id": "t0619",
+        "name": "saori_(blue_archive)",
+        "proper_name": "Saori",
         "category": "character",
-        "encrypted_count": "fFxiaA==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "e1VkbA==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/42711-1127415922.png"
+        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait/10048.webp"
       }
     },
     {
       "tag1": {
-        "id": "t0083",
-        "name": "alice_gear_aegis",
-        "proper_name": "Alice Gear Aegis",
+        "id": "t0826",
+        "name": "shingeki_no_bahamut",
+        "proper_name": "Shingeki no Bahamut",
         "category": "copyright",
-        "encrypted_count": "fVFhag==",
-        "copyright": "Alice Gear Aegis",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/alicegearaegis/images/0/00/Alice_Gear_Aegis_Expansion_Key_Visual.png/revision/latest?cb=20230322170433"
-      },
-      "tag2": {
-        "id": "t0406",
-        "name": "princess_daisy",
-        "proper_name": "Princess Daisy",
-        "category": "character",
-        "encrypted_count": "eFxvYg==",
-        "copyright": "Mario",
-        "material": "Video Game",
-        "image_reference": "https://www.mariowiki.com/images/thumb/a/a9/SuperMarioParty_Daisy.png/1200px-SuperMarioParty_Daisy.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0342",
-        "name": "jintsuu_(kancolle)",
-        "proper_name": "Jintsuu",
-        "category": "character",
-        "encrypted_count": "fFduYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b0/Jintsu_kai2.png"
+        "encrypted_count": "elBjbQ==",
+        "copyright": "Shingeki no Bahamut",
+        "material": "Anime",
+        "image_reference": "https://image.librewiki.net/2/20/Shingeki_no_Bahamut_logo.png"
       },
       "tag2": {
         "id": "t0707",
@@ -185,46 +53,178 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0578",
-        "name": "musashi_(kancolle)",
-        "proper_name": "Musashi",
+        "id": "t0471",
+        "name": "kirlia",
+        "proper_name": "Kirlia",
         "category": "character",
-        "encrypted_count": "e1Rhbg==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fVdjag==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/73/Musashi_Full.webp/revision/latest?cb=20221203120134&path-prefix=protagonist"
+        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
       },
       "tag2": {
-        "id": "t0258",
-        "name": "azusa_(blue_archive)",
-        "proper_name": "Azusa",
+        "id": "t0717",
+        "name": "prinz_eugen_(azur_lane)",
+        "proper_name": "Prinz Eugen",
         "category": "character",
-        "encrypted_count": "fFxjaw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "elNnag==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
       }
     },
     {
       "tag1": {
-        "id": "t0535",
-        "name": "mahou_shoujo_madoka_magica:_hangyaku_no_monogatari",
-        "proper_name": "Mahou Shoujo Madoka Magica: Hangyaku no Monogatari",
-        "category": "copyright",
-        "encrypted_count": "e1Bhaw==",
-        "copyright": "Mahou Shoujo Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://www.animeclick.it/immagini/manga/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari/cover/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari-cover.jpg"
+        "id": "t0110",
+        "name": "itadori_yuuji",
+        "proper_name": "Itadori Yuuji",
+        "category": "character",
+        "encrypted_count": "fVJvaw==",
+        "copyright": "Jujutsu Kaisen",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/66/Yuji_Itadori_-_Anime.jpg/revision/latest?cb=20201031200040&path-prefix=es"
       },
       "tag2": {
-        "id": "t0515",
-        "name": "sakamata_chloe",
-        "proper_name": "Sakamata Chloe",
+        "id": "t0900",
+        "name": "female_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Female)",
         "category": "character",
-        "encrypted_count": "eFBgbQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/61/Sakamata_Chloe_-_Portrait_01.png/800px-Sakamata_Chloe_-_Portrait_01.png"
+        "encrypted_count": "eVdmbQ==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0065",
+        "name": "ichika_(blue_archive)",
+        "proper_name": "Ichika",
+        "category": "character",
+        "encrypted_count": "fVdgYw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0135",
+        "name": "juliana_(pokemon)",
+        "proper_name": "Juliana",
+        "category": "character",
+        "encrypted_count": "fVBhag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Juliana_concept_art.jpg/680px-Juliana_concept_art.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0227",
+        "name": "futari_wa_precure",
+        "proper_name": "Futari wa Precure",
+        "category": "copyright",
+        "encrypted_count": "elZlYw==",
+        "copyright": "Futari wa Precure",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0623",
+        "name": "shijou_takane",
+        "proper_name": "Shijou Takane",
+        "category": "character",
+        "encrypted_count": "e1xubA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/b/bd/Takane_Shijou_2nd_Vision_Normal.png/revision/latest?cb=20200510063245"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0689",
+        "name": "edelgard_von_hresvelg",
+        "proper_name": "Edelgard von Hresvelg",
+        "category": "character",
+        "encrypted_count": "e1Fgbw==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/09/Edelgard_Portr\u00e4t.png/revision/latest?cb=20201210092653&path-prefix=de"
+      },
+      "tag2": {
+        "id": "t0600",
+        "name": "hecatia_lapislazuli",
+        "proper_name": "Hecatia Lapislazuli",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0767",
+        "name": "alice's_adventures_in_wonderland",
+        "proper_name": "Alice's Adventures in Wonderland",
+        "category": "copyright",
+        "encrypted_count": "e1dubQ==",
+        "copyright": "Alice's Adventures in Wonderland",
+        "material": "Novel",
+        "image_reference": "https://logodix.com/logo/867893.jpg"
+      },
+      "tag2": {
+        "id": "t0949",
+        "name": "hinata_hajime",
+        "proper_name": "Hajime Hinata",
+        "category": "character",
+        "encrypted_count": "e1FjbQ==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Hajime_Hinata.png/revision/latest?cb=20171229205740&path-prefix=ro"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0139",
+        "name": "yoshida_yuuko",
+        "proper_name": "Yoshida Yuuko",
+        "category": "character",
+        "encrypted_count": "fVVvbQ==",
+        "copyright": "Machikado Mazoku",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Yoshida.Yuuko.(Machikado.Mazoku).full.3883983.jpg"
+      },
+      "tag2": {
+        "id": "t0703",
+        "name": "gojou_satoru",
+        "proper_name": "Gojou Satoru",
+        "category": "character",
+        "encrypted_count": "e1VvYg==",
+        "copyright": "Jujutsu Kaisen",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Gojou.Satoru.full.3974287.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0349",
+        "name": "laffey_(azur_lane)",
+        "proper_name": "Laffey",
+        "category": "character",
+        "encrypted_count": "fFxnbg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/2/2a/Laffey.png"
+      },
+      "tag2": {
+        "id": "t0246",
+        "name": "qiqi_(genshin_impact)",
+        "proper_name": "Qiqi",
+        "category": "character",
+        "encrypted_count": "fVVibQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8b/Personagem_Qiqi_Cart\u00e3o.jpg/revision/latest?cb=20210330004500&path-prefix=pt-br"
       }
     }
   ]
