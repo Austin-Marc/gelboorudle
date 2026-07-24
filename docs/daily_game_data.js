@@ -1,154 +1,110 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-23T06:23:41.913709+00:00
-// Date: 2026-07-23
+// Generated on: 2026-07-24T06:18:45.273255+00:00
+// Date: 2026-07-24
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0225",
-        "name": "kiyohime_(fate)",
-        "proper_name": "Kiyohime",
+        "id": "t0350",
+        "name": "kamijou_touma",
+        "proper_name": "Kamijou Touma",
         "category": "character",
-        "encrypted_count": "fVRgYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "A Certain Magical Index",
+        "material": "Light Novel",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
       },
       "tag2": {
-        "id": "t0619",
-        "name": "saori_(blue_archive)",
-        "proper_name": "Saori",
+        "id": "t0745",
+        "name": "haruno_sakura",
+        "proper_name": "Haruno Sakura",
         "category": "character",
-        "encrypted_count": "e1VkbA==",
+        "encrypted_count": "f1RnbUA=",
+        "copyright": "Naruto",
+        "material": "Manga",
+        "image_reference": "https://vignette.wikia.nocookie.net/naruto/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160531055927&path-prefix=pl"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0631",
+        "name": "dark_souls_(series)",
+        "proper_name": "Dark Souls Series",
+        "category": "copyright",
+        "encrypted_count": "eFVlYg==",
+        "copyright": "Dark Souls Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dark_Souls_Cover_Art.jpg"
+      },
+      "tag2": {
+        "id": "t0362",
+        "name": "soulcalibur",
+        "proper_name": "Soulcalibur",
+        "category": "copyright",
+        "encrypted_count": "elVvbg==",
+        "copyright": "Soulcalibur",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cb/Soul_Calibur_logo.png/revision/latest?cb=20140721234029"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0044",
+        "name": "marie_(splatoon)",
+        "proper_name": "Marie",
+        "category": "character",
+        "encrypted_count": "elNubw==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S_Marie_render_2.png"
+      },
+      "tag2": {
+        "id": "t0374",
+        "name": "sinclair_(project_moon)",
+        "proper_name": "Sinclair",
+        "category": "character",
+        "encrypted_count": "fFJnaw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest?cb=20230228041304"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0884",
+        "name": "shinku",
+        "proper_name": "Shinku",
+        "category": "character",
+        "encrypted_count": "fFFuYg==",
+        "copyright": "Rozen Maiden",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/b/bb/Artwork_Shinku_2013.png/revision/latest?cb=20140901224243&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0258",
+        "name": "azusa_(blue_archive)",
+        "proper_name": "Azusa",
+        "category": "character",
+        "encrypted_count": "fFxjaw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait/10048.webp"
+        "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
       }
     },
     {
       "tag1": {
-        "id": "t0826",
-        "name": "shingeki_no_bahamut",
-        "proper_name": "Shingeki no Bahamut",
-        "category": "copyright",
-        "encrypted_count": "elBjbQ==",
-        "copyright": "Shingeki no Bahamut",
-        "material": "Anime",
-        "image_reference": "https://image.librewiki.net/2/20/Shingeki_no_Bahamut_logo.png"
-      },
-      "tag2": {
-        "id": "t0707",
-        "name": "steel_ball_run",
-        "proper_name": "Steel Ball Run",
-        "category": "copyright",
-        "encrypted_count": "eldjYw==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/4/4f/latest/20250412184658/Steel_Ball_Run_Anime_Logo.png?20250412184658"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0471",
-        "name": "kirlia",
-        "proper_name": "Kirlia",
+        "id": "t0738",
+        "name": "hikari_(blue_archive)",
+        "proper_name": "Hikari",
         "category": "character",
-        "encrypted_count": "fVdjag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
-      },
-      "tag2": {
-        "id": "t0717",
-        "name": "prinz_eugen_(azur_lane)",
-        "proper_name": "Prinz Eugen",
-        "category": "character",
-        "encrypted_count": "elNnag==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0110",
-        "name": "itadori_yuuji",
-        "proper_name": "Itadori Yuuji",
-        "category": "character",
-        "encrypted_count": "fVJvaw==",
-        "copyright": "Jujutsu Kaisen",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/66/Yuji_Itadori_-_Anime.jpg/revision/latest?cb=20201031200040&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0900",
-        "name": "female_byleth_(fire_emblem)",
-        "proper_name": "Byleth (Female)",
-        "category": "character",
-        "encrypted_count": "eVdmbQ==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0065",
-        "name": "ichika_(blue_archive)",
-        "proper_name": "Ichika",
-        "category": "character",
-        "encrypted_count": "fVdgYw==",
+        "encrypted_count": "elBkaw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0135",
-        "name": "juliana_(pokemon)",
-        "proper_name": "Juliana",
-        "category": "character",
-        "encrypted_count": "fVBhag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Juliana_concept_art.jpg/680px-Juliana_concept_art.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0227",
-        "name": "futari_wa_precure",
-        "proper_name": "Futari wa Precure",
-        "category": "copyright",
-        "encrypted_count": "elZlYw==",
-        "copyright": "Futari wa Precure",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0623",
-        "name": "shijou_takane",
-        "proper_name": "Shijou Takane",
-        "category": "character",
-        "encrypted_count": "e1xubA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/b/bd/Takane_Shijou_2nd_Vision_Normal.png/revision/latest?cb=20200510063245"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0689",
-        "name": "edelgard_von_hresvelg",
-        "proper_name": "Edelgard von Hresvelg",
-        "category": "character",
-        "encrypted_count": "e1Fgbw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/09/Edelgard_Portr\u00e4t.png/revision/latest?cb=20201210092653&path-prefix=de"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/13/Hikari_Portrait.png/revision/latest?cb=20240412140144"
       },
       "tag2": {
         "id": "t0600",
@@ -163,16 +119,72 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0767",
-        "name": "alice's_adventures_in_wonderland",
-        "proper_name": "Alice's Adventures in Wonderland",
-        "category": "copyright",
-        "encrypted_count": "e1dubQ==",
-        "copyright": "Alice's Adventures in Wonderland",
-        "material": "Novel",
-        "image_reference": "https://logodix.com/logo/867893.jpg"
+        "id": "t0245",
+        "name": "lelouch_vi_britannia",
+        "proper_name": "Lelouch vi Britannia",
+        "category": "character",
+        "encrypted_count": "fVdmbw==",
+        "copyright": "Code Geass",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/codegeass/images/0/0a/Lelouch_empereur.jpg/revision/latest?cb=20150611020318&path-prefix=fr"
       },
       "tag2": {
+        "id": "t0713",
+        "name": "shiranui_flare",
+        "proper_name": "Shiranui Flare",
+        "category": "character",
+        "encrypted_count": "elBhag==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://product-images.tcgplayer.com/267097.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0943",
+        "name": "hk416_(girls'_frontline)",
+        "proper_name": "HK416",
+        "category": "character",
+        "encrypted_count": "eFVlbQ==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://gf.rus.wiki/media/uploads/gf.rus.wiki-hk416-hk4161.png"
+      },
+      "tag2": {
+        "id": "t0780",
+        "name": "ui_(blue_archive)",
+        "proper_name": "Ui",
+        "category": "character",
+        "encrypted_count": "eldubA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/1/18/Ui.png?version=9d1ebe8f93c452bc3cea698a3676d4e7"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0184",
+        "name": "phase_connect",
+        "proper_name": "Phase Connect",
+        "category": "copyright",
+        "encrypted_count": "fV1uaA==",
+        "copyright": "Phase Connect",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/phase_connect___logo.png"
+      },
+      "tag2": {
+        "id": "t0368",
+        "name": "black_swan_(honkai:_star_rail)",
+        "proper_name": "Black Swan",
+        "category": "character",
+        "encrypted_count": "fFFvbA==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Character_Black_Swan_Introduction.png/revision/latest?cb=20231212041201"
+      }
+    },
+    {
+      "tag1": {
         "id": "t0949",
         "name": "hinata_hajime",
         "proper_name": "Hajime Hinata",
@@ -181,50 +193,38 @@ const DAILY_GAME_DATA = {
         "copyright": "Danganronpa",
         "material": "Video Game",
         "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Hajime_Hinata.png/revision/latest?cb=20171229205740&path-prefix=ro"
+      },
+      "tag2": {
+        "id": "t0768",
+        "name": "taimanin_(series)",
+        "proper_name": "Taimanin Series",
+        "category": "copyright",
+        "encrypted_count": "fVNjYkk=",
+        "copyright": "Taimanin Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/anime/images/8/80/TA-logo.png/revision/latest?cb=20240303183926&path-prefix=pt-br"
       }
     },
     {
       "tag1": {
-        "id": "t0139",
-        "name": "yoshida_yuuko",
-        "proper_name": "Yoshida Yuuko",
-        "category": "character",
-        "encrypted_count": "fVVvbQ==",
-        "copyright": "Machikado Mazoku",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Yoshida.Yuuko.(Machikado.Mazoku).full.3883983.jpg"
+        "id": "t0232",
+        "name": "fire_emblem_echoes:_shadows_of_valentia",
+        "proper_name": "Fire Emblem Echoes: Shadows of Valentia",
+        "category": "copyright",
+        "encrypted_count": "fV1jYg==",
+        "copyright": "Fire Emblem Echoes: Shadows of Valentia",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/c/c9/Fire_Emblem_Echoes_logo.png/400px-Fire_Emblem_Echoes_logo.png"
       },
       "tag2": {
-        "id": "t0703",
-        "name": "gojou_satoru",
-        "proper_name": "Gojou Satoru",
-        "category": "character",
-        "encrypted_count": "e1VvYg==",
-        "copyright": "Jujutsu Kaisen",
+        "id": "t0227",
+        "name": "futari_wa_precure",
+        "proper_name": "Futari wa Precure",
+        "category": "copyright",
+        "encrypted_count": "elZlYw==",
+        "copyright": "Futari wa Precure",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Gojou.Satoru.full.3974287.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0349",
-        "name": "laffey_(azur_lane)",
-        "proper_name": "Laffey",
-        "category": "character",
-        "encrypted_count": "fFxnbg==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/2/2a/Laffey.png"
-      },
-      "tag2": {
-        "id": "t0246",
-        "name": "qiqi_(genshin_impact)",
-        "proper_name": "Qiqi",
-        "category": "character",
-        "encrypted_count": "fVVibQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8b/Personagem_Qiqi_Cart\u00e3o.jpg/revision/latest?cb=20210330004500&path-prefix=pt-br"
+        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
       }
     }
   ]
