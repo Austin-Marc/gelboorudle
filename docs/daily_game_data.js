@@ -1,80 +1,176 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-26T06:28:56.801453+00:00
-// Date: 2026-07-26
+// Generated on: 2026-07-27T06:54:48.416236+00:00
+// Date: 2026-07-27
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0438",
-        "name": "tamamo_cat_(fate)",
-        "proper_name": "Tamamo Cat",
+        "id": "t0181",
+        "name": "jinx_(league_of_legends)",
+        "proper_name": "Jinx",
         "category": "character",
-        "encrypted_count": "fFBibA==",
-        "copyright": "Fate Series",
+        "encrypted_count": "elZmYw==",
+        "copyright": "League of Legends",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
+        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
       },
       "tag2": {
-        "id": "t0447",
-        "name": "toshinou_kyouko",
-        "proper_name": "Toshinou Kyouko",
+        "id": "t0190",
+        "name": "shin_megami_tensei",
+        "proper_name": "Shin Megami Tensei",
+        "category": "copyright",
+        "encrypted_count": "eVZvbw==",
+        "copyright": "Shin Megami Tensei",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/6/66/Shin_Megami_Tensei_logo.svg/800px-Shin_Megami_Tensei_logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0917",
+        "name": "asuna_(bunny)_(blue_archive)",
+        "proper_name": "Asuna (Bunny)",
         "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "YuruYuri",
+        "encrypted_count": "eFZgaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/6/66/Asuna_(Bunny_Girl)_00.png/326px-Asuna_(Bunny_Girl)_00.png"
+      },
+      "tag2": {
+        "id": "t0497",
+        "name": "little_busters!",
+        "proper_name": "Little Busters!",
+        "category": "copyright",
+        "encrypted_count": "eFxgYw==",
+        "copyright": "Little Busters!",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/littlebusters/images/e/e6/Site-logo.png/revision/latest?cb=20210713161239"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0371",
+        "name": "lilith_(darkstalkers)",
+        "proper_name": "Lilith",
+        "category": "character",
+        "encrypted_count": "elZvaQ==",
+        "copyright": "Darkstalkers",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
+      },
+      "tag2": {
+        "id": "t0607",
+        "name": "murano_sayaka",
+        "proper_name": "Murano Sayaka",
+        "category": "character",
+        "encrypted_count": "elduaA==",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/c/cb/Murano_Sayaka_Icon.png/revision/latest?cb=20230210121923"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0654",
+        "name": "xenoblade_chronicles_3",
+        "proper_name": "Xenoblade Chronicles 3",
+        "category": "copyright",
+        "encrypted_count": "e11hag==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/5/52/Xenoblade_Chronicles_3_HQ_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221119001600"
+      },
+      "tag2": {
+        "id": "t0006",
+        "name": "fate/grand_order",
+        "proper_name": "Fate/Grand Order",
+        "category": "copyright",
+        "encrypted_count": "fFNva0gF",
+        "copyright": "Fate/Grand Order",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/3e/FGOBabylonia.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0579",
+        "name": "heartcatch_precure!",
+        "proper_name": "Heartcatch Precure!",
+        "category": "copyright",
+        "encrypted_count": "eFZnbg==",
+        "copyright": "Precure",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0512",
-        "name": "archer_(fate)",
-        "proper_name": "Archer",
-        "category": "character",
-        "encrypted_count": "eFRjaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/de5shxw-01a69a49-e4f7-4987-b7b7-d4eda00bd7f8.png/v1/fill/w_1600,h_911/heartcatch_pretty_cure_logo_by_joshuat1306_de5shxw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kZTVzaHh3LTAxYTY5YTQ5LWU0ZjctNDk4Ny1iN2I3LWQ0ZWRhMDBiZDdmOC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CVHZAac5yav0HgjR_KGO1Yy9qGk64nAIG56xG-3f6g0"
       },
       "tag2": {
-        "id": "t0206",
-        "name": "blue_oak",
-        "proper_name": "Blue Oak",
+        "id": "t0467",
+        "name": "fou_(fate)",
+        "proper_name": "Fou",
         "category": "character",
-        "encrypted_count": "fF1nYg==",
-        "copyright": "Pokemon",
+        "encrypted_count": "fFdkaQ==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://comicvine.gamespot.com/a/uploads/square_medium/11/114183/5216642-243px-heartgold_soulsilver_blue.png"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
       }
     },
     {
       "tag1": {
-        "id": "t0391",
-        "name": "yahagi_(kancolle)",
-        "proper_name": "Yahagi",
+        "id": "t0759",
+        "name": "djeeta_(granblue_fantasy)",
+        "proper_name": "Djeeta",
         "category": "character",
-        "encrypted_count": "fFFvag==",
+        "encrypted_count": "eldkbg==",
+        "copyright": "Granblue Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/granblue-fantasy-versus/images/a/a9/Djeeta.png/revision/latest?cb=20200309164257"
+      },
+      "tag2": {
+        "id": "t0815",
+        "name": "hakui_koyori",
+        "proper_name": "Hakui Koyori",
+        "category": "character",
+        "encrypted_count": "elRhaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c2/Hakui_Koyori_Portrait.png/revision/latest?cb=20211203043838"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0204",
+        "name": "sheryl_nome",
+        "proper_name": "Sheryl Nome",
+        "category": "character",
+        "encrypted_count": "fVBvaA==",
+        "copyright": "Macross",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/macross/images/e/e1/Sheryl_Nome.jpg/revision/latest?cb=20090430231804&path-prefix=de"
+      },
+      "tag2": {
+        "id": "t0578",
+        "name": "musashi_(kancolle)",
+        "proper_name": "Musashi",
+        "category": "character",
+        "encrypted_count": "e1Rhbg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Yahagi.(Kantai.Collection).full.4307028.jpg"
-      },
-      "tag2": {
-        "id": "t0775",
-        "name": "satono_diamond_(umamusume)",
-        "proper_name": "Satono Diamond",
-        "category": "character",
-        "encrypted_count": "fV1uaQ==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://anibase.net/files/9c255b349e46f9a689fdc5f6574199f5/320"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/73/Musashi_Full.webp/revision/latest?cb=20221203120134&path-prefix=protagonist"
       }
     },
     {
       "tag1": {
+        "id": "t0135",
+        "name": "juliana_(pokemon)",
+        "proper_name": "Juliana",
+        "category": "character",
+        "encrypted_count": "fVBhag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Juliana_concept_art.jpg/680px-Juliana_concept_art.jpg"
+      },
+      "tag2": {
         "id": "t0222",
         "name": "mostima_(arknights)",
         "proper_name": "Mostima",
@@ -83,148 +179,50 @@ const DAILY_GAME_DATA = {
         "copyright": "Arknights",
         "material": "Video Game",
         "image_reference": "https://static.wikia.nocookie.net/mrfz/images/3/31/Mostima.png/revision/latest?cb=20200520090244"
-      },
-      "tag2": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
-        "category": "character",
-        "encrypted_count": "fFdubw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
       }
     },
     {
       "tag1": {
-        "id": "t0093",
-        "name": "pecorine_(princess_connect!)",
-        "proper_name": "Peorine",
+        "id": "t0906",
+        "name": "aru_(blue_archive)",
+        "proper_name": "Aru",
         "category": "character",
-        "encrypted_count": "fVxgYw==",
-        "copyright": "Princess Connect!",
+        "encrypted_count": "eFZvYg==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png/revision/latest?cb=20180219083648"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Aru_Portrait.png/revision/latest?cb=20220420065116"
       },
       "tag2": {
-        "id": "t0150",
-        "name": "rowlet",
-        "proper_name": "Rowlet",
+        "id": "t0217",
+        "name": "piplup",
+        "proper_name": "Piplup",
         "category": "character",
-        "encrypted_count": "fVZmaA==",
-        "copyright": "Pokemon",
+        "encrypted_count": "fVFmaA==",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/f/ff/Rowlet.png/revision/latest?cb=20180622184738&path-prefix=pl"
+        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork0393_DLPS.png/1200px-Artwork0393_DLPS.png"
       }
     },
     {
       "tag1": {
-        "id": "t0852",
-        "name": "arch_bishop_(ragnarok_online)",
-        "proper_name": "Arch Bishop",
+        "id": "t0890",
+        "name": "kuchiki_rukia",
+        "proper_name": "Kuchiki Rukia",
         "category": "character",
-        "encrypted_count": "fVJibQ==",
-        "copyright": "Ragnarok Online",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/ragnarok_gamepedia_en/2/20/Character_Archbishop.jpg"
-      },
-      "tag2": {
-        "id": "t0280",
-        "name": "project_voltage",
-        "proper_name": "Project Voltage",
-        "category": "copyright",
-        "encrypted_count": "fVdnYg==",
-        "copyright": "Project Voltage",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230905142316/Logo_Project_Voltage.png/600px-Logo_Project_Voltage.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0413",
-        "name": "makinami_mari_illustrious",
-        "proper_name": "Makinami Mari Illustrious",
-        "category": "character",
-        "encrypted_count": "fVFibA==",
-        "copyright": "Neon Genesis Evangelion",
+        "encrypted_count": "elFhbg==",
+        "copyright": "Bleach",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Makinami.Mari.Illustrious.full.2292748.png"
+        "image_reference": "https://static.wikia.nocookie.net/bleach/images/b/b2/Kuchiki_Rukia.png/revision/latest?cb=20210626172949&path-prefix=pt"
       },
       "tag2": {
-        "id": "t0618",
-        "name": "kagerou_project",
-        "proper_name": "Kagerou Project",
-        "category": "copyright",
-        "encrypted_count": "e1VlbQ==",
-        "copyright": "Kagerou Project",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/kagerouproject/images/e/e6/Site-logo.png/revision/latest?cb=20210720114629&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0796",
-        "name": "misty_(pokemon)",
-        "proper_name": "Misty",
+        "id": "t0304",
+        "name": "oberon_(fate)",
+        "proper_name": "Oberon",
         "category": "character",
-        "encrypted_count": "f1duakc=",
-        "copyright": "Pokemon",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png"
-      },
-      "tag2": {
-        "id": "t0029",
-        "name": "zenless_zone_zero",
-        "proper_name": "Zenless Zone Zero",
-        "category": "copyright",
-        "encrypted_count": "e1xgb0I=",
-        "copyright": "Zenless Zone Zero",
+        "encrypted_count": "fFxvbg==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Zenless_Zone_Zero_curved_box_logo.svg/250px-Zenless_Zone_Zero_curved_box_logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0687",
-        "name": "ro-500_(kancolle)",
-        "proper_name": "Ro-500",
-        "category": "character",
-        "encrypted_count": "el1kaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ro-500.(Kantai.Collection).600.2131087.jpg"
-      },
-      "tag2": {
-        "id": "t0610",
-        "name": "fire_emblem:_radiant_dawn",
-        "proper_name": "Fire Emblem: Radiant Dawn",
-        "category": "copyright",
-        "encrypted_count": "eFZkYw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://vignette2.wikia.nocookie.net/fireemblem/images/1/11/Logo_Fire_Emblem_Radiant_Dawn.png/revision/latest?cb=20170222084554&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0599",
-        "name": "monster_musume_no_iru_nichijou",
-        "proper_name": "Monster Musume no Iru Nichijou",
-        "category": "copyright",
-        "encrypted_count": "eVBiYg==",
-        "copyright": "Monster Musume no Iru Nichijou",
-        "material": "Anime",
-        "image_reference": "https://image.pngaaa.com/602/2661602-middle.png"
-      },
-      "tag2": {
-        "id": "t0819",
-        "name": "kujo_jolyne",
-        "proper_name": "Kujo Jolyne",
-        "category": "character",
-        "encrypted_count": "f1Njag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/7/74/latest/20210409215727/Jolyne_ASB.png/800px-Jolyne_ASB.png"
+        "image_reference": "https://pm1.aminoapps.com/8013/ff4bf082deaeb0bce85c456b82cc04ae6b676231r1-600-858v2_hq.jpg"
       }
     }
   ]
