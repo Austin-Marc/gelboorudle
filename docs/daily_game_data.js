@@ -1,230 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-07-29T06:23:55.794394+00:00
-// Date: 2026-07-29
+// Generated on: 2026-07-30T06:19:40.211503+00:00
+// Date: 2026-07-30
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0523",
-        "name": "angel_beats!",
-        "proper_name": "Angel Beats!",
-        "category": "copyright",
-        "encrypted_count": "eFRlaw==",
-        "copyright": "Angel Beats!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/dc/Angel-Beats!-Logo.png/revision/latest/scale-to-width-down/300?cb=20150404023825"
-      },
-      "tag2": {
-        "id": "t0958",
-        "name": "steins;gate",
-        "proper_name": "Steins;Gate",
-        "category": "copyright",
-        "encrypted_count": "eFxhbA==",
-        "copyright": "Steins;Gate",
-        "material": "Visual Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0013",
-        "name": "honkai_(series)",
-        "proper_name": "Honkai Series",
-        "category": "copyright",
-        "encrypted_count": "f1dgbEkC",
-        "copyright": "Honkai Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/da/Honkai_Impact_3rd_logo.png"
-      },
-      "tag2": {
-        "id": "t0929",
-        "name": "caelus_(honkai:_star_rail)",
-        "proper_name": "Caelus",
+        "id": "t0659",
+        "name": "kasumi_(kancolle)",
+        "proper_name": "Kasumi",
         "category": "character",
-        "encrypted_count": "e1RgaQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Caelus.600.3864625.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0401",
-        "name": "ohtsuki_yui",
-        "proper_name": "Ohtsuki Yui",
-        "category": "character",
-        "encrypted_count": "fFJhbA==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/9/99/Yui_Ohtsuki.png/revision/latest?cb=20211229073705"
-      },
-      "tag2": {
-        "id": "t0438",
-        "name": "tamamo_cat_(fate)",
-        "proper_name": "Tamamo Cat",
-        "category": "character",
-        "encrypted_count": "fFBibA==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0471",
-        "name": "kirlia",
-        "proper_name": "Kirlia",
-        "category": "character",
-        "encrypted_count": "fVdjag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
-      },
-      "tag2": {
-        "id": "t0015",
-        "name": "hatsune_miku",
-        "proper_name": "Hatsune Miku",
-        "category": "character",
-        "encrypted_count": "f1Zvb0II",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0080",
-        "name": "baldur's_gate",
-        "proper_name": "Baldur's Gate",
-        "category": "copyright",
-        "encrypted_count": "fVdgbQ==",
-        "copyright": "Baldur's Gate",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/forgottenrealms/images/1/1a/BG3_logo_1.png/revision/latest/scale-to-width-down/1200?cb=20200910182711"
-      },
-      "tag2": {
-        "id": "t0427",
-        "name": "senran_kagura_new_link",
-        "proper_name": "Senran Kagura: New Link",
-        "category": "copyright",
-        "encrypted_count": "fFxhbg==",
-        "copyright": "Senran Kagura",
-        "material": "Video Game",
-        "image_reference": "https://www.giantbomb.com/a/uploads/scale_medium/0/9536/2954447-7552396149-logo_.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0019",
-        "name": "final_fantasy",
-        "proper_name": "Final Fantasy",
-        "category": "copyright",
-        "encrypted_count": "f1ZnbkcB",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
-      },
-      "tag2": {
-        "id": "t0083",
-        "name": "alice_gear_aegis",
-        "proper_name": "Alice Gear Aegis",
-        "category": "copyright",
-        "encrypted_count": "fVFhag==",
-        "copyright": "Alice Gear Aegis",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/alicegearaegis/images/0/00/Alice_Gear_Aegis_Expansion_Key_Visual.png/revision/latest?cb=20230322170433"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0557",
-        "name": "oshino_shinobu",
-        "proper_name": "Oshino Shinobu",
-        "category": "character",
-        "encrypted_count": "eF1iag==",
-        "copyright": "Monogatari Series",
-        "material": "Light Novel",
-        "image_reference": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3Tn37nBnU8-trotYrRJ690Z-_yTEtTw_yNP1pGJs0p73coRZz-4LukF74hUjWw40NbbM38KO7_t25vpTE3DmRnuvrwfKfBQ_AKFc8dBytGDN7tSt7s1bfBeU30u6hE1TdETfQZk-HpkZ/s1600/zY7EiHT.jpg"
-      },
-      "tag2": {
-        "id": "t0168",
-        "name": "castorice_(honkai:_star_rail)",
-        "proper_name": "Castorice",
-        "category": "character",
-        "encrypted_count": "fF1ubg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0203",
-        "name": "changli_(wuthering_waves)",
-        "proper_name": "Changli",
-        "category": "character",
-        "encrypted_count": "fF1uYg==",
-        "copyright": "Wuthering Waves",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Changli_Introduction.png/revision/latest?cb=20240518045554"
-      },
-      "tag2": {
-        "id": "t0886",
-        "name": "skadi_the_corrupting_heart_(arknights)",
-        "proper_name": "Skadi the Corrupting Heart",
-        "category": "character",
-        "encrypted_count": "fFdvbA==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cf/Skadi_the_Corrupting_Heart.png/revision/latest?cb=20210501130244"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0324",
-        "name": "tate_no_yuusha_no_nariagari",
-        "proper_name": "Tate no Yuusha no Nariagari",
-        "category": "copyright",
-        "encrypted_count": "fVNjaQ==",
-        "copyright": "Tate no Yuusha no Nariagari",
-        "material": "Light Novel",
-        "image_reference": "https://vectorseek.com/wp-content/uploads/2023/11/Tate-no-Yuusha-no-Nariagari-Logo-Vector.svg-.png"
-      },
-      "tag2": {
-        "id": "t0475",
-        "name": "akebono_(kancolle)",
-        "proper_name": "Akebono",
-        "category": "character",
-        "encrypted_count": "e1Jgbw==",
+        "encrypted_count": "elFibQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/kancolle/images/c/c8/Akebono_Kai_Spring_Bouquet_Full.png/revision/latest/scale-to-width-down/300?cb=20200427091639"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/6b/Kasumi.png/revision/latest?cb=20150606171159&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0328",
+        "name": "panty_(psg)",
+        "proper_name": "Panty",
+        "category": "character",
+        "encrypted_count": "elZjbw==",
+        "copyright": "Panty & Stocking with Garterbelt",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
       }
     },
     {
       "tag1": {
-        "id": "t0957",
-        "name": "clannad",
-        "proper_name": "Clannad",
+        "id": "t0057",
+        "name": "boku_wa_tomodachi_ga_sukunai",
+        "proper_name": "Boku wa Tomodachi ga Sukunai",
         "category": "copyright",
-        "encrypted_count": "eFZgag==",
-        "copyright": "Clannad",
-        "material": "Visual Novel",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/dedbbd60c592c7adb64f8ef8f0a025dc.png"
+        "encrypted_count": "elNgbQ==",
+        "copyright": "Boku wa Tomodachi ga Sukunai",
+        "material": "Light Novel",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BMmJlNTQ1MDEtY2I2NS00OWQxLWI1NzQtYzAyNjhkMTRlNTcyXkEyXkFqcGc@._V1_.jpg"
       },
       "tag2": {
-        "id": "t0882",
-        "name": "seiken_densetsu",
-        "proper_name": "Seiken Densetsu",
-        "category": "copyright",
-        "encrypted_count": "elZnaQ==",
-        "copyright": "Seiken Densetsu",
+        "id": "t0410",
+        "name": "specter_(arknights)",
+        "proper_name": "Specter",
+        "category": "character",
+        "encrypted_count": "fFFvbw==",
+        "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/2/2a/Seiken_Densetsu_logo.jpg"
+        "image_reference": "https://arknights.wiki.gg/images/thumb/0/0d/Specter_the_Unchained.png/800px-Specter_the_Unchained.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0100",
+        "name": "katyusha_(girls_und_panzer)",
+        "proper_name": "Katyusha",
+        "category": "character",
+        "encrypted_count": "fVZkaw==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/c/ce/Katyusha.png/revision/latest?cb=20170123061132"
+      },
+      "tag2": {
+        "id": "t0151",
+        "name": "miyu_edelfelt",
+        "proper_name": "Miyu Edelfelt",
+        "category": "character",
+        "encrypted_count": "elRjaA==",
+        "copyright": "Fate Series",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/typemoon/images/3/37/Miyu_Edelfelt_(Fate_Kaleid_-_Uniforme).png/revision/latest?cb=20200808040558&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0753",
+        "name": "mega_man_(classic)",
+        "proper_name": "Mega Man (Classic)",
+        "category": "copyright",
+        "encrypted_count": "eF1kaw==",
+        "copyright": "Mega Man",
+        "material": "Video Game",
+        "image_reference": "https://cdn.megamanwiki.com/0/0c/Wiki_-_Icon_Classic.png"
+      },
+      "tag2": {
+        "id": "t0247",
+        "name": "laios_touden",
+        "proper_name": "Laios Touden",
+        "category": "character",
+        "encrypted_count": "fFNmbw==",
+        "image_reference": "https://static.wikitide.net/thefinalrumblewiki/8/82/Laius_Thorden.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
+      },
+      "tag2": {
+        "id": "t0767",
+        "name": "alice's_adventures_in_wonderland",
+        "proper_name": "Alice's Adventures in Wonderland",
+        "category": "copyright",
+        "encrypted_count": "e1dubQ==",
+        "copyright": "Alice's Adventures in Wonderland",
+        "material": "Novel",
+        "image_reference": "https://logodix.com/logo/867893.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0446",
+        "name": "saten_ruiko",
+        "proper_name": "Saten Ruiko",
+        "category": "character",
+        "encrypted_count": "fVRubg==",
+        "copyright": "Toaru Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
+      },
+      "tag2": {
+        "id": "t0781",
+        "name": "kiso_(kancolle)",
+        "proper_name": "Kiso",
+        "category": "character",
+        "encrypted_count": "fVNjbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Kiso.(Kantai.Collection).full.1763723.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0748",
+        "name": "the_legend_of_zelda:_twilight_princess",
+        "proper_name": "The Legend of Zelda: Twilight Princess",
+        "category": "copyright",
+        "encrypted_count": "eVVmaA==",
+        "copyright": "The Legend of Zelda",
+        "material": "Video Game",
+        "image_reference": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/c/c3/TP_White_Logo.png/1200px-TP_White_Logo.png"
+      },
+      "tag2": {
+        "id": "t0849",
+        "name": "kasane_teto_(sv)",
+        "proper_name": "Kasane Teto",
+        "category": "character",
+        "encrypted_count": "fVFlbA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/4/4f/Kasane_Teto_CAFFEIN-Cropped.PNG/revision/latest?cb=20150509152327"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0211",
+        "name": "lucario",
+        "proper_name": "Lucario",
+        "category": "character",
+        "encrypted_count": "elJiaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
+      },
+      "tag2": {
+        "id": "t0898",
+        "name": "chando_(ado)",
+        "proper_name": "Chando",
+        "category": "character",
+        "encrypted_count": "fFBjbg==",
+        "copyright": "Ado",
+        "material": "Music",
+        "image_reference": "https://cdn.donmai.us/original/94/2a/942a7f049d0af9bc21016fe18c7ed8ea.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0006",
+        "name": "fate/grand_order",
+        "proper_name": "Fate/Grand Order",
+        "category": "copyright",
+        "encrypted_count": "fFNva0gF",
+        "copyright": "Fate/Grand Order",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/3e/FGOBabylonia.jpg"
+      },
+      "tag2": {
+        "id": "t0630",
+        "name": "letty_whiterock",
+        "proper_name": "Letty Whiterock",
+        "category": "character",
+        "encrypted_count": "el1gaw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6315/c24bd14b452c00397597058250a72032e0353200_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0303",
+        "name": "kiyoshimo_(kancolle)",
+        "proper_name": "Kiyoshimo",
+        "category": "character",
+        "encrypted_count": "fFJvbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
+      },
+      "tag2": {
+        "id": "t0268",
+        "name": "uzuki_(kancolle)",
+        "proper_name": "Uzuki",
+        "category": "character",
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/8/88/Uzuki.png/revision/latest?cb=20140312175607&path-prefix=protagonist"
       }
     }
   ]
