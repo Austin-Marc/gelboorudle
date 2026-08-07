@@ -1,196 +1,194 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-08-06T06:22:31.714622+00:00
-// Date: 2026-08-06
+// Generated on: 2026-08-07T05:27:31.744058+00:00
+// Date: 2026-08-07
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0492",
-        "name": "joseph_joestar_(young)",
-        "proper_name": "Young Joseph Joestar",
+        "id": "t0167",
+        "name": "arima_kana",
+        "proper_name": "Arima Kana",
         "category": "character",
-        "encrypted_count": "eFViag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
+        "encrypted_count": "fVdmbA==",
+        "copyright": "Kagurazaka Kyouka",
+        "material": "Anime",
+        "image_reference": "https://i.pinimg.com/originals/b8/54/67/b854676be50d9e15483c0aac5c85901b.png"
       },
       "tag2": {
-        "id": "t0280",
-        "name": "project_voltage",
-        "proper_name": "Project Voltage",
-        "category": "copyright",
-        "encrypted_count": "fVdnYg==",
-        "copyright": "Project Voltage",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230905142316/Logo_Project_Voltage.png/600px-Logo_Project_Voltage.png"
+        "id": "t0220",
+        "name": "sakurai_momoka",
+        "proper_name": "Sakurai Momoka",
+        "category": "character",
+        "encrypted_count": "fVJjbQ==",
+        "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/72/Sakurai_Momoka.png/revision/latest?cb=20230408124811"
       }
     },
     {
       "tag1": {
-        "id": "t0894",
-        "name": "brendan_(pokemon)",
-        "proper_name": "Brendan",
+        "id": "t0455",
+        "name": "akuma_homura",
+        "proper_name": "Akuma Homura",
         "category": "character",
-        "encrypted_count": "fVVubw==",
+        "encrypted_count": "fFFhbA==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
+      },
+      "tag2": {
+        "id": "t0765",
+        "name": "tachibana_arisu",
+        "proper_name": "Tachibana Arisu",
+        "category": "character",
+        "encrypted_count": "e1RibQ==",
+        "copyright": "D4DJ",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/17/Arisu_Tachibana.jpg/revision/latest?cb=20241231030351&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0798",
+        "name": "nakano_nino",
+        "proper_name": "Nakano Nino",
+        "category": "character",
+        "encrypted_count": "elJibw==",
+        "copyright": "The Quintessential Quintuplets",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/gotoubunnohanayome/images/4/45/Nino_Nakano_Anime.png/revision/latest?cb=20190530175443&path-prefix=pl"
+      },
+      "tag2": {
+        "id": "t0697",
+        "name": "sephiroth",
+        "proper_name": "Sephiroth",
+        "category": "character",
+        "encrypted_count": "e1Rnag==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/1/17/Sephiroth_FFVII_Remake_render.png/revision/latest?cb=20200210184912&path-prefix=pt-br"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0952",
+        "name": "otomune_kozue",
+        "proper_name": "Kozue Otomune",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d1/Kozue_Otomune.png/revision/latest/scale-to-width-down/250?cb=20230210134757"
+      },
+      "tag2": {
+        "id": "t0431",
+        "name": "hayate_no_gotoku!",
+        "proper_name": "Hayate no Gotoku!",
+        "category": "copyright",
+        "encrypted_count": "fVxubQ==",
+        "copyright": "Hayate no Gotoku!",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0775",
+        "name": "satono_diamond_(umamusume)",
+        "proper_name": "Satono Diamond",
+        "category": "character",
+        "encrypted_count": "fV1uaQ==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://anibase.net/files/9c255b349e46f9a689fdc5f6574199f5/320"
+      },
+      "tag2": {
+        "id": "t0944",
+        "name": "pokemon_frlg",
+        "proper_name": "Pokemon FireRed and LeafGreen",
+        "category": "copyright",
+        "encrypted_count": "eVdkaA==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/c/ce/Brendan_Omega_Ruby_and_Alpha_Sapphire_concept_art.png/revision/latest?cb=20160513212418"
-      },
-      "tag2": {
-        "id": "t0916",
-        "name": "tsukino_usagi",
-        "proper_name": "Tsukino Usagi",
-        "category": "character",
-        "encrypted_count": "dlVkYg==",
-        "copyright": "Sailor Moon",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/e/e1/Usagi_Tsukino_Sailor_Moon_-_Anime.png/revision/latest?cb=20210217021645"
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d98e9d8-a584-4ca2-99ed-decc4d5e5e3b/dbar2e9-159cad99-8f7a-4ad0-b79f-08030df1d35a.png/v1/fill/w_1192,h_670/pokemon_fire_red__leaf_green_logo_youtube_by_the_trainer_ruby_dbar2e9-pre.png"
       }
     },
     {
       "tag1": {
-        "id": "t0369",
-        "name": "vegeta",
-        "proper_name": "Vegeta",
+        "id": "t0452",
+        "name": "ump9_(girls'_frontline)",
+        "proper_name": "UMP9",
         "category": "character",
-        "encrypted_count": "elRnbg==",
-        "copyright": "Dragon Ball",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/dragonballfighterz/images/4/4f/Vegeta_Artwork.png/revision/latest?cb=20180902173806"
+        "encrypted_count": "fFBvaw==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/UMP9.(Girls.Frontline).full.3776038.jpg"
       },
       "tag2": {
-        "id": "t0859",
-        "name": "spice_and_wolf",
-        "proper_name": "Spice and Wolf",
+        "id": "t0136",
+        "name": "mercy_(overwatch)",
+        "proper_name": "Mercy",
+        "category": "character",
+        "encrypted_count": "eldvaQ==",
+        "copyright": "Overwatch",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/overwatch/images/7/75/Mercy-ow2.png/revision/latest?cb=20201122032817"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0660",
+        "name": "sonic_the_hedgehog",
+        "proper_name": "Sonic the Hedgehog",
+        "category": "character",
+        "encrypted_count": "eFFvbw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonicthehedgehog/images/6/68/Sonic_profil_Sonic-X-Shadow-Generations.png/revision/latest?cb=20240817165317&path-prefix=fr"
+      },
+      "tag2": {
+        "id": "t0964",
+        "name": "lappland_(arknights)",
+        "proper_name": "Lappland",
+        "category": "character",
+        "encrypted_count": "e1JkaQ==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/d/d7/Lappland.png/revision/latest?cb=20190627031236"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0279",
+        "name": "shakugan_no_shana",
+        "proper_name": "Shakugan no Shana",
         "category": "copyright",
-        "encrypted_count": "elBgbw==",
-        "copyright": "Spice and Wolf",
+        "encrypted_count": "fVNjYg==",
+        "copyright": "Shakugan no Shana",
         "material": "Light Novel",
-        "image_reference": "https://images.fanart.tv/fanart/spice-and-wolf-576941a008b12.png"
+        "image_reference": "https://static.wikia.nocookie.net/shakugan/images/3/34/First_season_title_card.jpg/revision/latest?cb=20120915105459"
+      },
+      "tag2": {
+        "id": "t0565",
+        "name": "medusa_(fate)",
+        "proper_name": "Medusa",
+        "category": "character",
+        "encrypted_count": "e1BgaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/62/47/c6/6247c687ccb4fa6323b7c16415278027.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0681",
-        "name": "super_robot_wars",
-        "proper_name": "Super Robot Wars",
+        "id": "t0919",
+        "name": "disgaea",
+        "proper_name": "Disgaea",
         "category": "copyright",
-        "encrypted_count": "eFJhag==",
-        "copyright": "Super Robot Wars",
+        "encrypted_count": "d1Fgbg==",
+        "copyright": "Disgaea",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/superrobotwars/images/5/58/Super_Robot_Wars.png/revision/latest?cb=20171219155107"
-      },
-      "tag2": {
-        "id": "t0147",
-        "name": "rika_(pokemon)",
-        "proper_name": "Rika",
-        "category": "character",
-        "encrypted_count": "fVVibg==",
-        "copyright": "Pokemon",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/f/fa/Rika.png/revision/latest?cb=20161129170046"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0640",
-        "name": "akiyama_yukari",
-        "proper_name": "Akiyama Yukari",
-        "category": "character",
-        "encrypted_count": "e1RkYw==",
-        "image_reference": "https://vignette.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png/revision/latest?cb=20170124073104"
-      },
-      "tag2": {
-        "id": "t0196",
-        "name": "charizard",
-        "proper_name": "Charizard",
-        "category": "character",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0350",
-        "name": "kamijou_touma",
-        "proper_name": "Kamijou Touma",
-        "category": "character",
-        "encrypted_count": "fFNjaQ==",
-        "copyright": "A Certain Magical Index",
-        "material": "Light Novel",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
-      },
-      "tag2": {
-        "id": "t0526",
-        "name": "girls'_frontline_2:_exilium",
-        "proper_name": "Girls' Frontline 2: Exilium",
-        "category": "copyright",
-        "encrypted_count": "e1Jgbg==",
-        "copyright": "Girls' Frontline 2: Exilium",
-        "material": "Video Game",
-        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0441",
-        "name": "monokuma",
-        "proper_name": "Monokuma",
-        "category": "character",
-        "encrypted_count": "fFNubQ==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Danganronpa_V3_Monokuma_Sprite_(Standing)_(6).png/revision/latest?cb=20180430003830"
-      },
-      "tag2": {
-        "id": "t0595",
-        "name": "kanna_(blue_archive)",
-        "proper_name": "Kanna",
-        "category": "character",
-        "encrypted_count": "e1Vvag==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/47/Kanna.png?version=09ce58bc6b8b274502da1550c549a7aa"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0077",
-        "name": "higashikata_josuke",
-        "proper_name": "Higashikata Josuke",
-        "category": "character",
-        "encrypted_count": "fVdmbg==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
-      },
-      "tag2": {
-        "id": "t0269",
-        "name": "fushiguro_megumi",
-        "proper_name": "Fushiguro Megumi",
-        "category": "character",
-        "encrypted_count": "elRkaw==",
-        "copyright": "Jujutsu Kaisen",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8d/Megumi_Fushiguro_(Anime).png/revision/latest?cb=20201213115916&path-prefix=pl"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0290",
-        "name": "asuna_(school_uniform)_(blue_archive)",
-        "proper_name": "Asuna (School Uniform)",
-        "category": "character",
-        "encrypted_count": "f1JmYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/0/01/Asuna_(School_Uniform).png/399px-Asuna_(School_Uniform).png"
+        "image_reference": "https://static.wikia.nocookie.net/disgaea/images/3/38/Disgaea-logo.jpg/revision/latest?cb=20080820161217&path-prefix=en"
       },
       "tag2": {
         "id": "t0815",
@@ -205,24 +203,24 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0577",
-        "name": "mirko",
-        "proper_name": "Mirko",
+        "id": "t0893",
+        "name": "simon_(ttgl)",
+        "proper_name": "Simon",
         "category": "character",
-        "encrypted_count": "dlZvaw==",
-        "copyright": "My Hero Academia",
+        "encrypted_count": "fFNnbw==",
+        "copyright": "Tengen Toppa Gurren Lagann",
         "material": "Anime",
-        "image_reference": "https://anibase.net/files/700520fd441958ed48e83800b93815f7"
+        "image_reference": "https://vignette.wikia.nocookie.net/p__/images/d/d6/Simon_the_Digger_(Post-Timeskip).png/revision/latest?cb=20181004055713&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0177",
-        "name": "wei_wuxian",
-        "proper_name": "Wei Wuxian",
+        "id": "t0698",
+        "name": "selene_(pokemon)",
+        "proper_name": "Selene",
         "category": "character",
-        "encrypted_count": "fVVlaQ==",
-        "copyright": "Mo Dao Zu Shi",
-        "material": "Novel",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mdzs_wwx_1.png"
+        "encrypted_count": "e1JkaA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/2/2a/Ultra_Sun_Ultra_Moon_Selene.png"
       }
     }
   ]
