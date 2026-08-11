@@ -1,36 +1,112 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-08-10T05:16:44.391890+00:00
-// Date: 2026-08-10
+// Generated on: 2026-08-11T04:58:10.658757+00:00
+// Date: 2026-08-11
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0784",
-        "name": "akamatsu_kaede",
-        "proper_name": "Akamatsu Kaede",
-        "category": "character",
-        "encrypted_count": "eldhYw==",
-        "copyright": "Danganronpa",
+        "id": "t0017",
+        "name": "fire_emblem",
+        "proper_name": "Fire Emblem",
+        "category": "copyright",
+        "encrypted_count": "f1diYkMC",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/1/1b/Fire_Emblem_Engage_Box_Art.png/revision/latest/thumbnail/width/360/height/450?cb=20220914001431"
       },
       "tag2": {
-        "id": "t0467",
-        "name": "fou_(fate)",
-        "proper_name": "Fou",
+        "id": "t0705",
+        "name": "irys_(hololive)",
+        "proper_name": "Irys",
         "category": "character",
-        "encrypted_count": "fFdkaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
+        "encrypted_count": "elFnaQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6c/IRyS_Portrait.jpg/revision/latest?cb=20210707044450"
       }
     },
     {
       "tag1": {
+        "id": "t0691",
+        "name": "rover_(wuthering_waves)",
+        "proper_name": "Rover",
+        "category": "character",
+        "encrypted_count": "eldnYw==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png/revision/latest?cb=20240420140302"
+      },
+      "tag2": {
+        "id": "t0386",
+        "name": "kurosawa_ruby",
+        "proper_name": "Kurosawa Ruby",
+        "category": "character",
+        "encrypted_count": "e1VuYw==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://lovelive-sif2.com/wp-content/uploads/2022/12/28174743/img_ruby_JxDJ5ziaMRBh.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0554",
+        "name": "c.c.",
+        "proper_name": "C.C.",
+        "category": "character",
+        "encrypted_count": "eFBnag==",
+        "copyright": "Code Geass",
+        "material": "Anime",
+        "image_reference": "https://i.pinimg.com/736x/b5/e7/21/b5e7210af75a27e7c79b2b7e18b2a754.jpg"
+      },
+      "tag2": {
+        "id": "t0870",
+        "name": "final_fantasy_vii_advent_children",
+        "proper_name": "Final Fantasy VII: Advent Children",
+        "category": "copyright",
+        "encrypted_count": "fFxlaQ==",
+        "copyright": "Final Fantasy VII",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/Ffviiaclogo.jpg/revision/latest?cb=20181221213823"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0511",
+        "name": "gundam_seed",
+        "proper_name": "Gundam Seed",
+        "category": "copyright",
+        "encrypted_count": "dlVkbw==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
+      },
+      "tag2": {
+        "id": "t0265",
+        "name": "mankanshoku_mako",
+        "proper_name": "Mankanshoku Mako",
+        "category": "character",
+        "encrypted_count": "fVFgYw==",
+        "copyright": "Kill la Kill",
+        "material": "Anime",
+        "image_reference": "https://www.pngkey.com/png/detail/790-7906667_mako-mankanshoku-drawings-kill-la-kill-mako-senketsu.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0321",
+        "name": "pokemon_gsc",
+        "proper_name": "Pokemon Gold and Silver",
+        "category": "copyright",
+        "encrypted_count": "elVjag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/4/4f/Pok\u00e9mon_the_Series_Gold_and_Silver_logo.png/240px-Pok\u00e9mon_the_Series_Gold_and_Silver_logo.png"
+      },
+      "tag2": {
         "id": "t0849",
         "name": "kasane_teto_(sv)",
         "proper_name": "Kasane Teto",
@@ -39,190 +115,116 @@ const DAILY_GAME_DATA = {
         "copyright": "Vocaloid",
         "material": "Music Software",
         "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/4/4f/Kasane_Teto_CAFFEIN-Cropped.PNG/revision/latest?cb=20150509152327"
-      },
-      "tag2": {
-        "id": "t0341",
-        "name": "non-human_admiral_(kancolle)",
-        "proper_name": "Non-Human Admiral",
-        "category": "character",
-        "encrypted_count": "f1FuaA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
       }
     },
     {
       "tag1": {
-        "id": "t0703",
-        "name": "gojou_satoru",
-        "proper_name": "Gojou Satoru",
+        "id": "t0678",
+        "name": "murasaki_shion",
+        "proper_name": "Murasaki Shion",
         "category": "character",
-        "encrypted_count": "e1VvYg==",
-        "copyright": "Jujutsu Kaisen",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Gojou.Satoru.full.3974287.jpg"
+        "encrypted_count": "e1Riaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/3/3f/Murasaki_Shion_Portrait.png/revision/latest?cb=20200616011940"
       },
       "tag2": {
-        "id": "t0198",
-        "name": "jeanne_d'arc_(ruler)_(fate)",
-        "proper_name": "Jeanne d'Arc (Ruler)",
+        "id": "t0009",
+        "name": "idolmaster",
+        "proper_name": "The Idolmaster",
+        "category": "copyright",
+        "encrypted_count": "fFNhakEB",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0876",
+        "name": "infinity_nikki",
+        "proper_name": "Infinity Nikki",
+        "category": "copyright",
+        "encrypted_count": "fFdgag==",
+        "copyright": "Infinity Nikki",
+        "material": "Video Game",
+        "image_reference": "https://infinitynikki.wiki/assets/logo.png"
+      },
+      "tag2": {
+        "id": "t0750",
+        "name": "marvel_rivals",
+        "proper_name": "Marvel Rivals",
+        "category": "copyright",
+        "encrypted_count": "el1jaw==",
+        "copyright": "Marvel",
+        "material": "Comic",
+        "image_reference": "https://marvelrivals.wiki.gg/images/e/e6/Site-logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0782",
+        "name": "medusa_(rider)_(fate)",
+        "proper_name": "Medusa (Rider)",
         "category": "character",
-        "encrypted_count": "dlFlag==",
+        "encrypted_count": "e1BiYw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://get.wallhere.com/photo/Fate-Series-Fate-Apocrypha-anime-girls-Ruler-Fate-Apocrypha-Jeanne-d-Arc-blonde-1504105.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0040",
-        "name": "yoimiya_(genshin_impact)",
-        "proper_name": "Yoimiya",
-        "category": "character",
-        "encrypted_count": "elVhaw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Character_Yoimiya_Game.png/revision/latest/scale-to-width/360?cb=20241004030432"
+        "image_reference": "https://vignette.wikia.nocookie.net/vsbattles/images/d/dc/Fate_Grand_Order_Rider_Medusa.png/revision/latest?cb=20180103064846"
       },
       "tag2": {
-        "id": "t0570",
-        "name": "fullmetal_alchemist",
-        "proper_name": "Fullmetal Alchemist",
-        "category": "copyright",
-        "encrypted_count": "eVVubg==",
-        "copyright": "Fullmetal Alchemist",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/a/a6/FMA_logo.jpg/revision/latest?cb=20130923075031"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0488",
-        "name": "nikki_(series)",
-        "proper_name": "Nikki Series",
-        "category": "copyright",
-        "encrypted_count": "eFZmaA==",
-        "copyright": "Nikki Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
-      },
-      "tag2": {
-        "id": "t0387",
-        "name": "harusame_(kancolle)",
-        "proper_name": "Harusame",
+        "id": "t0808",
+        "name": "sirius_(azur_lane)",
+        "proper_name": "Sirius",
         "category": "character",
-        "encrypted_count": "fFJkaA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/6/6d/Harusame_Full.png/revision/latest/scale-to-width-down/284?cb=20180817191835"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0314",
-        "name": "aotsuki_eito",
-        "proper_name": "Aotsuki Eito",
-        "category": "character",
-        "encrypted_count": "fVNhbg==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/the-hundred-line/images/b/b3/Eito_Fullbody.png/revision/latest?cb=20250114130334"
-      },
-      "tag2": {
-        "id": "t0469",
-        "name": "takao_(azur_lane)",
-        "proper_name": "Takao",
-        "category": "character",
-        "encrypted_count": "fFJvaQ==",
+        "encrypted_count": "eldvbg==",
         "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/2/28/Takao.png/revision/latest?cb=20230427040443"
+        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/1/18/Sirius.png/revision/latest?cb=20190220204411"
       }
     },
     {
       "tag1": {
-        "id": "t0419",
-        "name": "dark_souls_i",
-        "proper_name": "Dark Souls I",
-        "category": "copyright",
-        "encrypted_count": "fVVuYg==",
-        "copyright": "Dark Souls",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Dark_Souls_Cover_Art.jpg/250px-Dark_Souls_Cover_Art.jpg"
-      },
-      "tag2": {
-        "id": "t0565",
-        "name": "medusa_(fate)",
-        "proper_name": "Medusa",
+        "id": "t0394",
+        "name": "lyra_(pokemon)",
+        "proper_name": "Lyra",
         "category": "character",
-        "encrypted_count": "e1BgaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/62/47/c6/6247c687ccb4fa6323b7c16415278027.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0333",
-        "name": "kise_yayoi",
-        "proper_name": "Kise Yayoi",
-        "category": "character",
-        "encrypted_count": "fVRibA==",
-        "copyright": "The iDOLM@STER",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
-      },
-      "tag2": {
-        "id": "t0178",
-        "name": "tsukishiro_yanagi",
-        "proper_name": "Tsukishiro Yanagi",
-        "category": "character",
-        "encrypted_count": "fFxubg==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0641",
-        "name": "morgan_le_fay_(fate)",
-        "proper_name": "Morgan le Fay",
-        "category": "character",
-        "encrypted_count": "el1vag==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/newkomica-kari/images/4/42/Morgan_le_Fay_(Fate)II.jpg/revision/latest?cb=20230709170531&path-prefix=zh-tw"
-      },
-      "tag2": {
-        "id": "t0389",
-        "name": "mega_gardevoir",
-        "proper_name": "Mega Gardevoir",
-        "category": "character",
-        "encrypted_count": "fF1iYg==",
+        "encrypted_count": "fVZkag==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/66/d5/17/66d517e6be088e8593678091fe19277a.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/d/d8/Lyra.png/revision/latest?cb=20160116133943"
+      },
+      "tag2": {
+        "id": "t0795",
+        "name": "sanji_(one_piece)",
+        "proper_name": "Sanji",
+        "category": "character",
+        "encrypted_count": "eFJibw==",
+        "copyright": "One Piece",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
       }
     },
     {
       "tag1": {
-        "id": "t0575",
-        "name": "nerissa_ravencroft",
-        "proper_name": "Nerissa Ravencroft",
-        "category": "character",
-        "encrypted_count": "e1Zhaw==",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_pr-img_01.png"
+        "id": "t0317",
+        "name": "shining_nikki",
+        "proper_name": "Shining Nikki",
+        "category": "copyright",
+        "encrypted_count": "fFNgbw==",
+        "copyright": "Shining Nikki",
+        "material": "Mobile Game",
+        "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
       },
       "tag2": {
-        "id": "t0376",
-        "name": "vivian_banshee",
-        "proper_name": "Vivian Banshee",
+        "id": "t0701",
+        "name": "stocking_(psg)",
+        "proper_name": "Stocking",
         "category": "character",
-        "encrypted_count": "fFFhaQ==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
+        "encrypted_count": "eFFjaA==",
+        "copyright": "Panty & Stocking with Garterbelt",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
       }
     }
   ]
