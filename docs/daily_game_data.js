@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-08-12T05:23:55.627660+00:00
-// Date: 2026-08-12
+// Generated on: 2026-08-13T05:27:16.215294+00:00
+// Date: 2026-08-13
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0314",
-        "name": "aotsuki_eito",
-        "proper_name": "Aotsuki Eito",
+        "id": "t0893",
+        "name": "simon_(ttgl)",
+        "proper_name": "Simon",
         "category": "character",
-        "encrypted_count": "fVNhbg==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/the-hundred-line/images/b/b3/Eito_Fullbody.png/revision/latest?cb=20250114130334"
+        "encrypted_count": "fFNnbw==",
+        "copyright": "Tengen Toppa Gurren Lagann",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/p__/images/d/d6/Simon_the_Digger_(Post-Timeskip).png/revision/latest?cb=20181004055713&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0183",
-        "name": "atlanta_(kancolle)",
-        "proper_name": "Atlanta",
+        "id": "t0784",
+        "name": "akamatsu_kaede",
+        "proper_name": "Akamatsu Kaede",
         "category": "character",
-        "encrypted_count": "fFxiaA==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "eldhYw==",
+        "copyright": "Danganronpa",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/42711-1127415922.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
       }
     },
     {
       "tag1": {
-        "id": "t0891",
-        "name": "akagi_(azur_lane)",
-        "proper_name": "Akagi",
+        "id": "t0656",
+        "name": "sparkle_(honkai:_star_rail)",
+        "proper_name": "Sparkle",
         "category": "character",
-        "encrypted_count": "fFBkaw==",
-        "copyright": "Azur Lane",
+        "encrypted_count": "el1hbQ==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
+        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
       },
       "tag2": {
-        "id": "t0550",
-        "name": "aikatsu!",
-        "proper_name": "Aikatsu!",
+        "id": "t0667",
+        "name": "yurucamp",
+        "proper_name": "Yuru Camp",
         "category": "copyright",
-        "encrypted_count": "eFdlbg==",
-        "copyright": "Aikatsu!",
+        "encrypted_count": "e1JhYg==",
+        "copyright": "Yuru Camp",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/Aikatsu222.jpg"
+        "image_reference": "https://logowik.com/content/uploads/images/yuru-camp1673.logowik.com.webp"
       }
     },
     {
       "tag1": {
-        "id": "t0080",
-        "name": "baldur's_gate",
-        "proper_name": "Baldur's Gate",
+        "id": "t0069",
+        "name": "hiiragi_tsukasa",
+        "proper_name": "Hiiragi Tsukasa",
+        "category": "character",
+        "encrypted_count": "elVgYw==",
+        "copyright": "Lucky Star",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/9/92/Tsukasa-san.gif/revision/latest?cb=20120723133432"
+      },
+      "tag2": {
+        "id": "t0488",
+        "name": "nikki_(series)",
+        "proper_name": "Nikki Series",
         "category": "copyright",
-        "encrypted_count": "fVdgbQ==",
-        "copyright": "Baldur's Gate",
+        "encrypted_count": "eFZmaA==",
+        "copyright": "Nikki Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/forgottenrealms/images/1/1a/BG3_logo_1.png/revision/latest/scale-to-width-down/1200?cb=20200910182711"
-      },
-      "tag2": {
-        "id": "t0722",
-        "name": "ishtar_(fate)",
-        "proper_name": "Ishtar",
-        "category": "character",
-        "encrypted_count": "e1Rkbg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/FGO-Ishtar.jpg"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a5/Infinity_Nikki.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0271",
-        "name": "hanako_(swimsuit)_(blue_archive)",
-        "proper_name": "Hanako (Swimsuit)",
+        "id": "t0168",
+        "name": "castorice_(honkai:_star_rail)",
+        "proper_name": "Castorice",
         "category": "character",
-        "encrypted_count": "fF1gYw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "fF1ubg==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/c/c5/Hanako_(Swimsuit).png/266px-Hanako_(Swimsuit).png"
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
       },
       "tag2": {
-        "id": "t0376",
-        "name": "vivian_banshee",
-        "proper_name": "Vivian Banshee",
-        "category": "character",
-        "encrypted_count": "fFFhaQ==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0373",
-        "name": "hatsuzuki_(kancolle)",
-        "proper_name": "Hatsuzuki",
-        "category": "character",
-        "encrypted_count": "fFFvaw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1830692261.png"
-      },
-      "tag2": {
-        "id": "t0399",
-        "name": "saki_(blue_archive)",
-        "proper_name": "Saki",
-        "category": "character",
-        "encrypted_count": "fFFlbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0948",
-        "name": "eula_(genshin_impact)",
-        "proper_name": "Eula",
-        "category": "character",
-        "encrypted_count": "eFNkaw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Eula_Character_Card.png/revision/latest?cb=20230302031310"
-      },
-      "tag2": {
-        "id": "t0717",
-        "name": "prinz_eugen_(azur_lane)",
-        "proper_name": "Prinz Eugen",
-        "category": "character",
-        "encrypted_count": "elNnag==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0467",
-        "name": "fou_(fate)",
-        "proper_name": "Fou",
-        "category": "character",
-        "encrypted_count": "fFdkaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
-      },
-      "tag2": {
-        "id": "t0790",
-        "name": "takarada_rikka",
-        "proper_name": "Takarada Rikka",
-        "category": "character",
-        "encrypted_count": "e1Jgbw==",
-        "copyright": "SSSS.Gridman",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0928",
-        "name": "rensouhou-chan",
-        "proper_name": "Rensouhou-chan",
-        "category": "character",
-        "encrypted_count": "e11jaA==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://pm1.narvii.com/6354/7519811fa279795bd39dd0a3a2437bdc061fbaaa_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0813",
-        "name": "koizumi_hanayo",
-        "proper_name": "Koizumi Hanayo",
+        "id": "t0642",
+        "name": "bremerton_(azur_lane)",
+        "proper_name": "Bremerton",
         "category": "character",
         "encrypted_count": "e1Jkbw==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-super-sentai/images/2/27/Hanayo_01_01.png/revision/latest?cb=20180827052255"
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/dd/Bremerton.png/1223px-Bremerton.png"
       }
     },
     {
       "tag1": {
-        "id": "t0766",
-        "name": "zero_two_(darling_in_the_franxx)",
-        "proper_name": "Zero Two",
+        "id": "t0248",
+        "name": "kanna_kamui",
+        "proper_name": "Kanna Kamui",
         "category": "character",
-        "encrypted_count": "e1xuaw==",
-        "copyright": "Darling in the Franxx",
+        "encrypted_count": "e1NnbA==",
+        "copyright": "Miss Kobayashi's Dragon Maid",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/darling-in-the-franxx/images/7/72/Zero_Dwa.png/revision/latest?cb=20180428173801&path-prefix=pl"
+        "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png"
       },
       "tag2": {
-        "id": "t0407",
-        "name": "lyn_(fire_emblem)",
-        "proper_name": "Lyn",
-        "category": "character",
-        "encrypted_count": "fVBmbg==",
-        "copyright": "Fire Emblem",
+        "id": "t0367",
+        "name": "warcraft",
+        "proper_name": "Warcraft",
+        "category": "copyright",
+        "encrypted_count": "fFxnbg==",
+        "copyright": "Warcraft",
         "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/3/3a/FEA_Lyn.png/1200px-FEA_Lyn.png"
+        "image_reference": "https://logos-world.net/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png"
       }
     },
     {
       "tag1": {
-        "id": "t0081",
-        "name": "final_fantasy_vii_rebirth",
-        "proper_name": "Final Fantasy VII Rebirth",
-        "category": "copyright",
-        "encrypted_count": "fVxgaQ==",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/75/Boxart_for_Final_Fantasy_VII_Rebirth.png"
+        "id": "t0719",
+        "name": "mococo_abyssgard",
+        "proper_name": "Mococo Abyssgard",
+        "category": "character",
+        "encrypted_count": "elZhaw==",
+        "copyright": "N/A",
+        "material": "N/A",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2021/07/Mococo-Abyssgard_pr-img_03.png"
       },
       "tag2": {
-        "id": "t0016",
-        "name": "love_live!",
-        "proper_name": "Love Live!",
+        "id": "t0176",
+        "name": "raora_panthera",
+        "proper_name": "Raora Panthera",
+        "category": "character",
+        "encrypted_count": "fVRmaA==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0122",
+        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
+        "proper_name": "Elysia",
+        "category": "character",
+        "encrypted_count": "fVVgYw==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
+      },
+      "tag2": {
+        "id": "t0539",
+        "name": "hasumi_(blue_archive)",
+        "proper_name": "Hasumi",
+        "category": "character",
+        "encrypted_count": "eFRmaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Hasumi_Portrait.png/revision/latest?cb=20220423095508"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0411",
+        "name": "hanekawa_tsubasa",
+        "proper_name": "Hanekawa Tsubasa",
+        "category": "character",
+        "encrypted_count": "fVdhbA==",
+        "copyright": "Monogatari Series",
+        "material": "Light Novel",
+        "image_reference": "https://static.wikia.nocookie.net/bakemonogatari1645/images/b/be/Bakehane.png/revision/latest/scale-to-width-down/1200?cb=20181125055426"
+      },
+      "tag2": {
+        "id": "t0278",
+        "name": "arcane:_league_of_legends",
+        "proper_name": "Arcane: League of Legends",
         "category": "copyright",
-        "encrypted_count": "f1NjbEAH",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b9/Love_Live%21_promotional_image.jpg"
+        "encrypted_count": "fF1maA==",
+        "copyright": "League of Legends",
+        "material": "TV Show",
+        "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0402",
+        "name": "sessyoin_kiara",
+        "proper_name": "Sessyoin Kiara",
+        "category": "character",
+        "encrypted_count": "fFJgbg==",
+        "copyright": "Fate Grand/Order",
+        "material": "Video game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
+      },
+      "tag2": {
+        "id": "t0461",
+        "name": "burnice_white",
+        "proper_name": "Burnice White",
+        "category": "character",
+        "encrypted_count": "fFJhbg==",
+        "copyright": "Zenlesss Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/d/d1/Agent_Burnice_White_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240930234702"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0140",
+        "name": "kel_(omori)",
+        "proper_name": "Kel",
+        "category": "character",
+        "encrypted_count": "fFxgaw==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
+      },
+      "tag2": {
+        "id": "t0111",
+        "name": "iskandar_(fate)",
+        "proper_name": "Iskandar",
+        "category": "character",
+        "encrypted_count": "fVRuYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
       }
     }
   ]
