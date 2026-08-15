@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-08-14T05:24:58.920641+00:00
-// Date: 2026-08-14
+// Generated on: 2026-08-15T04:20:40.445555+00:00
+// Date: 2026-08-15
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0470",
-        "name": "florian_(pokemon)",
-        "proper_name": "Florian",
-        "category": "character",
-        "encrypted_count": "fFJubA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20230826015011/Artwork_de_Florian_y_Fuecoco.png/376px-Artwork_de_Florian_y_Fuecoco.png"
-      },
-      "tag2": {
-        "id": "t0622",
-        "name": "cammy_white",
-        "proper_name": "Cammy White",
-        "category": "character",
-        "encrypted_count": "d1JjbQ==",
-        "copyright": "Street Fighter",
-        "material": "Video Game",
-        "image_reference": "https://www.writeups.org/wp-content/uploads/Cammy-Street-Fighters-h61-big.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0928",
-        "name": "rensouhou-chan",
-        "proper_name": "Rensouhou-chan",
-        "category": "character",
-        "encrypted_count": "e11jaA==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://pm1.narvii.com/6354/7519811fa279795bd39dd0a3a2437bdc061fbaaa_hq.jpg"
-      },
-      "tag2": {
-        "id": "t0264",
-        "name": "ram_(re:zero)",
-        "proper_name": "Ram",
-        "category": "character",
-        "encrypted_count": "fVBlYg==",
-        "copyright": "Re:Zero",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/rezero/images/e/ee/Ram_-_Re_Zero_Anime_BD_-_6.png/revision/latest?cb=20160914125706"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0158",
-        "name": "amber_(genshin_impact)",
-        "proper_name": "Amber",
-        "category": "character",
-        "encrypted_count": "fVJmYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest?cb=20220725204839"
-      },
-      "tag2": {
-        "id": "t0256",
-        "name": "mihono_bourbon_(umamusume)",
-        "proper_name": "Mihono Bourbon",
-        "category": "character",
-        "encrypted_count": "fFFmbw==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Mihono.Bourbon.600.3657614.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0020",
-        "name": "hololive_english",
-        "proper_name": "Hololive English",
+        "id": "t0085",
+        "name": "tales_of_vesperia",
+        "proper_name": "Tales of Vesperia",
         "category": "copyright",
-        "encrypted_count": "d1Vja0Y=",
-        "copyright": "Hololive English",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
+        "encrypted_count": "elZnaQ==",
+        "copyright": "Tales Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/dc/Tales_of_Vesperia_Game_Cover.jpg"
       },
       "tag2": {
-        "id": "t0248",
-        "name": "kanna_kamui",
-        "proper_name": "Kanna Kamui",
+        "id": "t0260",
+        "name": "nian_(arknights)",
+        "proper_name": "Nian",
         "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Miss Kobayashi's Dragon Maid",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png"
+        "encrypted_count": "fFxgbQ==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://arknights.wiki.gg/images/Nian.png?c8bb3f"
       }
     },
     {
       "tag1": {
-        "id": "t0772",
-        "name": "pokemon_adventures",
-        "proper_name": "Pok\u00e9mon Adventures",
+        "id": "t0854",
+        "name": "path_to_nowhere",
+        "proper_name": "Path to Nowhere",
         "category": "copyright",
-        "encrypted_count": "elJuaQ==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Manga",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/5/55/Pokemon_Adventures_logo.png"
+        "encrypted_count": "fVxmaw==",
+        "copyright": "Path to Nowhere",
+        "material": "Video Game",
+        "image_reference": "https://static.jojowiki.com/images/archive/f/f2/20240126233527!Path_to_Nowhere_Logo.png"
       },
       "tag2": {
-        "id": "t0562",
-        "name": "nico_robin",
-        "proper_name": "Nico Robin",
-        "category": "character",
-        "encrypted_count": "f1FuYkE=",
-        "copyright": "One Piece",
-        "material": "Manga",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/3/3f/470853-render_nicorobin.png/revision/latest?cb=20130913194656&path-prefix=pt"
+        "id": "t0114",
+        "name": "fresh_precure!",
+        "proper_name": "Fresh Precure!",
+        "category": "copyright",
+        "encrypted_count": "elJgYg==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/9/98/Fresh_Pretty_Cure_(English_2009).png/revision/latest?cb=20230828060448"
       }
     },
     {
       "tag1": {
-        "id": "t0219",
-        "name": "admire_vega_(umamusume)",
-        "proper_name": "Admire Vega",
+        "id": "t0518",
+        "name": "prinz_eugen_(kancolle)",
+        "proper_name": "Prinz Eugen",
         "category": "character",
-        "encrypted_count": "fFJibw==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Admire.Vega.full.3896993.jpg"
-      },
-      "tag2": {
-        "id": "t0773",
-        "name": "ishmael_(project_moon)",
-        "proper_name": "Ishmael",
-        "category": "character",
-        "encrypted_count": "elVlbA==",
-        "copyright": "Project Moon",
-        "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/720x720/79/cd/79cd551dc8403cc82cc0ce2f61546382.webp"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0137",
-        "name": "bea_(pokemon)",
-        "proper_name": "Bea",
-        "category": "character",
-        "encrypted_count": "elJhaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/6b/7e/37/6b7e3723b7b1f832563928a9e4b4f65c.png"
-      },
-      "tag2": {
-        "id": "t0072",
-        "name": "anastasia_(idolmaster)",
-        "proper_name": "Anastasia",
-        "category": "character",
-        "encrypted_count": "fVFhaA==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0950",
-        "name": "asashio_(kancolle)",
-        "proper_name": "Asashio",
-        "category": "character",
-        "encrypted_count": "e1xlbA==",
+        "encrypted_count": "e1JvbQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-963719350.png"
+        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2019/12/32a534dd-532a-4502-a638-38fb406d971e.jpg"
       },
       "tag2": {
-        "id": "t0225",
-        "name": "kiyohime_(fate)",
-        "proper_name": "Kiyohime",
+        "id": "t0823",
+        "name": "fire_emblem:_the_binding_blade",
+        "proper_name": "Fire Emblem: The Binding Blade",
+        "category": "copyright",
+        "encrypted_count": "e1VlaA==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0825",
+        "name": "bemani",
+        "proper_name": "BEMANI",
+        "category": "copyright",
+        "encrypted_count": "e1VlYw==",
+        "copyright": "BEMANI",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e3/BEMANI_alt_logo.png/revision/latest?cb=20240414213707"
+      },
+      "tag2": {
+        "id": "t0064",
+        "name": "nessa_(pokemon)",
+        "proper_name": "Nessa",
         "category": "character",
-        "encrypted_count": "fVRgYg==",
+        "encrypted_count": "e1VmaQ==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Pokemon-Nessa.png/220px-Pokemon-Nessa.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0841",
+        "name": "natsuiro_matsuri",
+        "proper_name": "Natsuiro Matsuri",
+        "category": "character",
+        "encrypted_count": "elVhbQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/bg_Natsuiro-Matsuri_01.png"
+      },
+      "tag2": {
+        "id": "t0406",
+        "name": "princess_daisy",
+        "proper_name": "Princess Daisy",
+        "category": "character",
+        "encrypted_count": "eFxvYg==",
+        "copyright": "Mario",
+        "material": "Video Game",
+        "image_reference": "https://www.mariowiki.com/images/thumb/a/a9/SuperMarioParty_Daisy.png/1200px-SuperMarioParty_Daisy.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0656",
+        "name": "sparkle_(honkai:_star_rail)",
+        "proper_name": "Sparkle",
+        "category": "character",
+        "encrypted_count": "el1hbQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
+      },
+      "tag2": {
+        "id": "t0012",
+        "name": "azur_lane",
+        "proper_name": "Azur Lane",
+        "category": "copyright",
+        "encrypted_count": "f1BvbEYI",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BN2JlOGM2MWUtNjhkNi00NmY2LWE3ODYtZDQ2YTc5ZGExMmNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0791",
+        "name": "sangonomiya_kokomi",
+        "proper_name": "Sangonomiya Kokomi",
+        "category": "character",
+        "encrypted_count": "elZmaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20230429082521&path-prefix=de"
+      },
+      "tag2": {
+        "id": "t0303",
+        "name": "kiyoshimo_(kancolle)",
+        "proper_name": "Kiyoshimo",
+        "category": "character",
+        "encrypted_count": "fFJvbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0766",
+        "name": "zero_two_(darling_in_the_franxx)",
+        "proper_name": "Zero Two",
+        "category": "character",
+        "encrypted_count": "e1xuaw==",
+        "copyright": "Darling in the Franxx",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/darling-in-the-franxx/images/7/72/Zero_Dwa.png/revision/latest?cb=20180428173801&path-prefix=pl"
+      },
+      "tag2": {
+        "id": "t0383",
+        "name": "yoru_(chainsaw_man)",
+        "proper_name": "Yoru",
+        "category": "character",
+        "encrypted_count": "fF1mbw==",
+        "copyright": "Chainsaw Man",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b7/Img_cm_yoru_manga.png/revision/latest?cb=20231025061200&path-prefix=pt-br"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0590",
+        "name": "kieran_(pokemon)",
+        "proper_name": "Kieran",
+        "category": "character",
+        "encrypted_count": "e1ZhbQ==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/a/a7/Kieran_Pokemon_SV.png/revision/latest?cb=20230918055948&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0133",
+        "name": "nitocris_(fate)",
+        "proper_name": "Nitocris",
+        "category": "character",
+        "encrypted_count": "fVdmaw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
+        "image_reference": "https://static.wikia.nocookie.net/fatedomination/images/4/44/Catalyst_Nitocris.png/revision/latest?cb=20230702184029"
       }
     },
     {
       "tag1": {
-        "id": "t0940",
-        "name": "iseri_nina",
-        "proper_name": "Iseri Nina",
+        "id": "t0540",
+        "name": "shishiro_botan",
+        "proper_name": "Shishiro Botan",
         "category": "character",
-        "encrypted_count": "e1dubg==",
-        "image_reference": "https://static.wikitide.net/saimoewiki/thumb/1/11/Nina_Iseri_wiki_pfp.png/280px-Nina_Iseri_wiki_pfp.png"
+        "encrypted_count": "e1Nnbw==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_02.png"
       },
       "tag2": {
-        "id": "t0447",
-        "name": "toshinou_kyouko",
-        "proper_name": "Toshinou Kyouko",
+        "id": "t0385",
+        "name": "yang_xiao_long",
+        "proper_name": "Yang Xiao Long",
         "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "YuruYuri",
+        "encrypted_count": "elVlaA==",
+        "copyright": "RWBY",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0214",
-        "name": "mari_(omori)",
-        "proper_name": "Mari",
-        "category": "character",
-        "encrypted_count": "fVZubw==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/d/d1/DW_Mari_Fullbody_Profile.png/revision/latest?cb=20221031040609"
-      },
-      "tag2": {
-        "id": "t0611",
-        "name": "puzzle_&_dragons",
-        "proper_name": "Puzzle & Dragons",
-        "category": "copyright",
-        "encrypted_count": "e1xuYw==",
-        "copyright": "Puzzle & Dragons",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Main_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20150516042650"
+        "image_reference": "https://static.wikia.nocookie.net/rwby/images/8/89/Yang-v8-infobox.png/revision/latest/scale-to-width-down/1200?cb=20200726010350"
       }
     }
   ]
