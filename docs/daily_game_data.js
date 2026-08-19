@@ -1,230 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-08-18T04:25:51.213714+00:00
-// Date: 2026-08-18
+// Generated on: 2026-08-19T04:27:45.639895+00:00
+// Date: 2026-08-19
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0424",
-        "name": "spider-verse",
-        "proper_name": "Spider-Verse",
-        "category": "copyright",
-        "encrypted_count": "fVVubg==",
-        "copyright": "Marvel Comics",
-        "material": "Comic",
-        "image_reference": "https://cdn.freelogovectors.net/wp-content/uploads/2023/10/spider_man-across-the-spider-verse-logo-freelogovectors.net_.png"
+        "id": "t0792",
+        "name": "kasane_teto_(utau)",
+        "proper_name": "Kasane Teto",
+        "category": "character",
+        "encrypted_count": "fVNubw==",
+        "copyright": "UTAU",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/utau/images/b/b6/Tetostand.png/revision/latest?cb=20221221222057"
       },
       "tag2": {
-        "id": "t0823",
-        "name": "fire_emblem:_the_binding_blade",
-        "proper_name": "Fire Emblem: The Binding Blade",
-        "category": "copyright",
-        "encrypted_count": "e1VlaA==",
-        "copyright": "Fire Emblem",
+        "id": "t0243",
+        "name": "matara_okina",
+        "proper_name": "Matara Okina",
+        "category": "character",
+        "encrypted_count": "fFBhbw==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
+        "image_reference": "https://pm1.narvii.com/6626/12a7432efa65b8fd5cc4aa821a60c67f99850263_hq.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0256",
-        "name": "mihono_bourbon_(umamusume)",
-        "proper_name": "Mihono Bourbon",
+        "id": "t0015",
+        "name": "hatsune_miku",
+        "proper_name": "Hatsune Miku",
         "category": "character",
-        "encrypted_count": "fFFmbw==",
-        "copyright": "Umamusume: Pretty Derby",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Mihono.Bourbon.600.3657614.jpg"
+        "encrypted_count": "f1Zvb0II",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
       },
       "tag2": {
-        "id": "t0327",
-        "name": "bleach:_sennen_kessen-hen",
-        "proper_name": "Bleach: Thousand-Year Blood War",
-        "category": "copyright",
-        "encrypted_count": "elNmag==",
-        "copyright": "Bleach",
-        "material": "Anime",
-        "image_reference": "https://latestlogo.com/wp-content/uploads/2024/01/bleach-thousand-year-blood-war-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0400",
-        "name": "aigis_(persona)",
-        "proper_name": "Aigis",
+        "id": "t0929",
+        "name": "caelus_(honkai:_star_rail)",
+        "proper_name": "Caelus",
         "category": "character",
-        "encrypted_count": "fF1hYg==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/thumb/d/d4/P3R_Aigis_Battle_Artwork.png/1200px-P3R_Aigis_Battle_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0253",
-        "name": "beatrice_(umineko)",
-        "proper_name": "Beatrice",
-        "category": "character",
-        "encrypted_count": "fVVnYg==",
-        "copyright": "Umineko no Naku Koro ni",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0443",
-        "name": "tsumiki_mikan",
-        "proper_name": "Tsumiki Mikan",
-        "category": "character",
-        "encrypted_count": "fFxiYw==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/736x/8d/d6/86/8dd686f3d14630bd560ec334b981be25.jpg"
-      },
-      "tag2": {
-        "id": "t0468",
-        "name": "aoki_reika",
-        "proper_name": "Aoki Reika",
-        "category": "character",
-        "encrypted_count": "fFJlaw==",
-        "copyright": "Pretty Cure",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/5/58/Reika_Aoki_Perfil.png/revision/latest?cb=20160918201752&path-prefix=pt-br"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0548",
-        "name": "phantasy_star",
-        "proper_name": "Phantasy Star",
-        "category": "copyright",
-        "encrypted_count": "eFBgaQ==",
-        "copyright": "Phantasy Star",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
-      },
-      "tag2": {
-        "id": "t0128",
-        "name": "omori_(omori)",
-        "proper_name": "Omori",
-        "category": "character",
-        "encrypted_count": "fVRibA==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/c/ce/Group_hug_dw.gif/revision/latest?cb=20220217114528&path-prefix=zh"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0680",
-        "name": "kal'tsit_(arknights)",
-        "proper_name": "Kal'tsit",
-        "category": "character",
-        "encrypted_count": "elFmaw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
-      },
-      "tag2": {
-        "id": "t0168",
-        "name": "castorice_(honkai:_star_rail)",
-        "proper_name": "Castorice",
-        "category": "character",
-        "encrypted_count": "fF1ubg==",
+        "encrypted_count": "e1RgaQ==",
         "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
+        "image_reference": "https://s1.zerochan.net/Caelus.600.3864625.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0956",
-        "name": "amagami",
-        "proper_name": "Amagami",
-        "category": "copyright",
-        "encrypted_count": "eFNvbA==",
-        "copyright": "Amagami",
+        "id": "t0360",
+        "name": "male_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Male)",
+        "category": "character",
+        "encrypted_count": "el1uYg==",
+        "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://de-academic.com/pictures/dewiki/65/Amagami_SS_(Logo).png"
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
       },
       "tag2": {
-        "id": "t0145",
-        "name": "lize_helesta",
-        "proper_name": "Lize Helesta",
-        "category": "character",
-        "encrypted_count": "fVdvaw==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/1/13/Lize_Helesta_Portrait.png/revision/latest?cb=20210327042159"
+        "id": "t0052",
+        "name": "zero_no_tsukaima",
+        "proper_name": "Zero no Tsukaima",
+        "category": "copyright",
+        "encrypted_count": "e1xnYg==",
+        "copyright": "Zero no Tsukaima",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/ZnT_novel01.png"
       }
     },
     {
       "tag1": {
-        "id": "t0229",
-        "name": "nichijou",
-        "proper_name": "Nichijou",
-        "category": "copyright",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Nichijou",
-        "material": "Anime",
-        "image_reference": "https://nichijou.wiki.gg/images/e/e6/Site-logo.png"
+        "id": "t0557",
+        "name": "oshino_shinobu",
+        "proper_name": "Oshino Shinobu",
+        "category": "character",
+        "encrypted_count": "eF1iag==",
+        "copyright": "Monogatari Series",
+        "material": "Light Novel",
+        "image_reference": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3Tn37nBnU8-trotYrRJ690Z-_yTEtTw_yNP1pGJs0p73coRZz-4LukF74hUjWw40NbbM38KO7_t25vpTE3DmRnuvrwfKfBQ_AKFc8dBytGDN7tSt7s1bfBeU30u6hE1TdETfQZk-HpkZ/s1600/zY7EiHT.jpg"
       },
       "tag2": {
-        "id": "t0476",
-        "name": "inazuma_eleven_go",
-        "proper_name": "Inazuma Eleven Go",
-        "category": "copyright",
-        "encrypted_count": "eVdkag==",
-        "copyright": "Inazuma Eleven",
-        "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/b7995b75332722ca39fea2066973e3fc.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0661",
-        "name": "nero_claudius_(fate/extra)",
-        "proper_name": "Nero Claudius",
+        "id": "t0845",
+        "name": "kama_(fate)",
+        "proper_name": "Kama",
         "category": "character",
-        "encrypted_count": "e1JubA==",
+        "encrypted_count": "elRmaQ==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S005_Stage1.webp/revision/latest?cb=20220910072246"
-      },
-      "tag2": {
-        "id": "t0735",
-        "name": "arlecchino_(genshin_impact)",
-        "proper_name": "Arlecchino",
-        "category": "character",
-        "encrypted_count": "elBjag==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gen-impact/images/4/4a/Carta_de_personaje_Arlecchino.png/revision/latest?cb=20240311102048&path-prefix=es"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/0/01/AssassinKamaStage3.png/revision/latest?cb=20210330120437"
       }
     },
     {
       "tag1": {
-        "id": "t0211",
-        "name": "lucario",
-        "proper_name": "Lucario",
+        "id": "t0456",
+        "name": "tachibana_kanade",
+        "proper_name": "Tachibana Kanade",
         "category": "character",
-        "encrypted_count": "elJiaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
+        "encrypted_count": "f1Zi",
+        "copyright": "Angel Beats!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/angelbeats/images/d/d4/Kanade_anime.png/revision/latest/scale-to-width-down/1200?cb=20190414062510"
       },
       "tag2": {
-        "id": "t0059",
-        "name": "iori_(blue_archive)",
-        "proper_name": "Iori",
+        "id": "t0717",
+        "name": "prinz_eugen_(azur_lane)",
+        "proper_name": "Prinz Eugen",
         "category": "character",
-        "encrypted_count": "fVBlbg==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "elNnag==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/8/82/Iori_Portrait.png/revision/latest?cb=20220221085942"
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0527",
+        "name": "macross_frontier",
+        "proper_name": "Macross Frontier",
+        "category": "copyright",
+        "encrypted_count": "eFdnag==",
+        "copyright": "Macross Frontier",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/macross/images/4/4d/Logo_Macross_Frontier.svg/revision/latest?cb=20130403214204"
+      },
+      "tag2": {
+        "id": "t0575",
+        "name": "nerissa_ravencroft",
+        "proper_name": "Nerissa Ravencroft",
+        "category": "character",
+        "encrypted_count": "e1Zhaw==",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_pr-img_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0084",
+        "name": "urusei_yatsura",
+        "proper_name": "Urusei Yatsura",
+        "category": "copyright",
+        "encrypted_count": "elJhaQ==",
+        "copyright": "Urusei Yatsura",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
+      },
+      "tag2": {
+        "id": "t0005",
+        "name": "pokemon",
+        "proper_name": "Pok\u00e9mon",
+        "category": "copyright",
+        "encrypted_count": "elFlbUYB",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0207",
+        "name": "aoba_(kancolle)",
+        "proper_name": "Aoba",
+        "category": "character",
+        "encrypted_count": "fFJgYw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/4/42/Aoba.png/revision/latest?cb=20140504163245&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0427",
+        "name": "senran_kagura_new_link",
+        "proper_name": "Senran Kagura: New Link",
+        "category": "copyright",
+        "encrypted_count": "fFxhbg==",
+        "copyright": "Senran Kagura",
+        "material": "Video Game",
+        "image_reference": "https://www.giantbomb.com/a/uploads/scale_medium/0/9536/2954447-7552396149-logo_.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0894",
+        "name": "brendan_(pokemon)",
+        "proper_name": "Brendan",
+        "category": "character",
+        "encrypted_count": "fVVubw==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/c/ce/Brendan_Omega_Ruby_and_Alpha_Sapphire_concept_art.png/revision/latest?cb=20160513212418"
+      },
+      "tag2": {
+        "id": "t0402",
+        "name": "sessyoin_kiara",
+        "proper_name": "Sessyoin Kiara",
+        "category": "character",
+        "encrypted_count": "fFJgbg==",
+        "copyright": "Fate Grand/Order",
+        "material": "Video game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0187",
+        "name": "pokemon_journeys",
+        "proper_name": "Pok\u00e9mon Journeys",
+        "category": "copyright",
+        "encrypted_count": "elFkaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
+      },
+      "tag2": {
+        "id": "t0371",
+        "name": "lilith_(darkstalkers)",
+        "proper_name": "Lilith",
+        "category": "character",
+        "encrypted_count": "elZvaQ==",
+        "copyright": "Darkstalkers",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
       }
     }
   ]
