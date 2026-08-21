@@ -1,226 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-08-20T04:27:27.866886+00:00
-// Date: 2026-08-20
+// Generated on: 2026-08-21T04:28:47.980310+00:00
+// Date: 2026-08-21
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0052",
-        "name": "zero_no_tsukaima",
-        "proper_name": "Zero no Tsukaima",
-        "category": "copyright",
-        "encrypted_count": "e1xnYg==",
-        "copyright": "Zero no Tsukaima",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/ZnT_novel01.png"
-      },
-      "tag2": {
-        "id": "t0940",
-        "name": "iseri_nina",
-        "proper_name": "Iseri Nina",
+        "id": "t0389",
+        "name": "mega_gardevoir",
+        "proper_name": "Mega Gardevoir",
         "category": "character",
-        "encrypted_count": "e1dubg==",
-        "image_reference": "https://static.wikitide.net/saimoewiki/thumb/1/11/Nina_Iseri_wiki_pfp.png/280px-Nina_Iseri_wiki_pfp.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0529",
-        "name": "shiina_taki",
-        "proper_name": "Shiina Taki",
-        "category": "character",
-        "encrypted_count": "e1Rvaw==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikitide.net/houkai2ndwiki/thumb/1/12/Shiina_Taki_Awaken.webp/310px-Shiina_Taki_Awaken.webp.png"
-      },
-      "tag2": {
-        "id": "t0026",
-        "name": "gundam",
-        "proper_name": "Gundam",
-        "category": "copyright",
-        "encrypted_count": "eVNmaEY=",
-        "copyright": "Gundam",
-        "material": "Anime",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjQ3MmU1M2QtODc5My00MDhkLWEwZmItMGM2ODUzODA2YzY0XkEyXkFqcGc@._V1_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0860",
-        "name": "yu-gi-oh!_duel_monsters",
-        "proper_name": "Yu-Gi-Oh! Duel Monsters",
-        "category": "copyright",
-        "encrypted_count": "d1BmaQ==",
-        "copyright": "Yu-Gi-Oh!",
-        "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png"
-      },
-      "tag2": {
-        "id": "t0842",
-        "name": "futaba_anzu",
-        "proper_name": "Futaba Anzu",
-        "category": "character",
-        "encrypted_count": "elZgbQ==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/c/c3/Cinderella_master_002_cover.jpg/1200px-Cinderella_master_002_cover.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0841",
-        "name": "natsuiro_matsuri",
-        "proper_name": "Natsuiro Matsuri",
-        "category": "character",
-        "encrypted_count": "elVhbQ==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/bg_Natsuiro-Matsuri_01.png"
-      },
-      "tag2": {
-        "id": "t0113",
-        "name": "bloodborne",
-        "proper_name": "Bloodborne",
-        "category": "copyright",
-        "encrypted_count": "fVBubg==",
-        "copyright": "Bloodborne",
-        "material": "Video Game",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Bloodborne-Logo.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0692",
-        "name": "miyamoto_musashi_(fate)",
-        "proper_name": "Miyamoto Musashi",
-        "category": "character",
-        "encrypted_count": "e1dvag==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/c/c2/S153_Stage1.webp/revision/latest?cb=20220911082704"
-      },
-      "tag2": {
-        "id": "t0787",
-        "name": "kouyoku_senki_exs-tia",
-        "proper_name": "Kouyoku Senki Exs-Tia",
-        "category": "copyright",
-        "encrypted_count": "elBnag==",
-        "copyright": "Kouyoku Senki Exs-Tia",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0838",
-        "name": "hestia_(danmachi)",
-        "proper_name": "Hestia",
-        "category": "character",
-        "encrypted_count": "e1Rmbg==",
-        "copyright": "DanMachi",
-        "material": "Light Novel",
-        "image_reference": "https://static.zerochan.net/Hestia.(DanMachi).full.2789461.png"
-      },
-      "tag2": {
-        "id": "t0745",
-        "name": "haruno_sakura",
-        "proper_name": "Haruno Sakura",
-        "category": "character",
-        "encrypted_count": "f1RnbUA=",
-        "copyright": "Naruto",
-        "material": "Manga",
-        "image_reference": "https://vignette.wikia.nocookie.net/naruto/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160531055927&path-prefix=pl"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0575",
-        "name": "nerissa_ravencroft",
-        "proper_name": "Nerissa Ravencroft",
-        "category": "character",
-        "encrypted_count": "e1Zhaw==",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_pr-img_01.png"
-      },
-      "tag2": {
-        "id": "t0956",
-        "name": "amagami",
-        "proper_name": "Amagami",
-        "category": "copyright",
-        "encrypted_count": "eFNvbA==",
-        "copyright": "Amagami",
-        "material": "Video Game",
-        "image_reference": "https://de-academic.com/pictures/dewiki/65/Amagami_SS_(Logo).png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0813",
-        "name": "koizumi_hanayo",
-        "proper_name": "Koizumi Hanayo",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-super-sentai/images/2/27/Hanayo_01_01.png/revision/latest?cb=20180827052255"
-      },
-      "tag2": {
-        "id": "t0291",
-        "name": "hilbert_(pokemon)",
-        "proper_name": "Hilbert",
-        "category": "character",
-        "encrypted_count": "fVJubg==",
+        "encrypted_count": "fF1iYg==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/Spr_Masters_Hilbert.png/800px-Spr_Masters_Hilbert.png"
+        "image_reference": "https://i.pinimg.com/originals/66/d5/17/66d517e6be088e8593678091fe19277a.png"
+      },
+      "tag2": {
+        "id": "t0174",
+        "name": "dimitri_alexandre_blaiddyd",
+        "proper_name": "Dimitri Alexandre Blaiddyd",
+        "category": "character",
+        "encrypted_count": "fVFhaQ==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
       }
     },
     {
       "tag1": {
-        "id": "t0471",
-        "name": "kirlia",
-        "proper_name": "Kirlia",
+        "id": "t0606",
+        "name": "serena_(pokemon)",
+        "proper_name": "Serena",
         "category": "character",
-        "encrypted_count": "fVdjag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
+        "encrypted_count": "dlZnbg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/7/7f/Serena_(anime_XY)_3.png/revision/latest?cb=20150527212218"
       },
       "tag2": {
-        "id": "t0138",
-        "name": "yorigami_jo'on",
-        "proper_name": "Yorigami Joon",
+        "id": "t0790",
+        "name": "takarada_rikka",
+        "proper_name": "Takarada Rikka",
         "category": "character",
-        "encrypted_count": "fFJmbw==",
+        "encrypted_count": "e1Jgbw==",
+        "copyright": "SSSS.Gridman",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0247",
+        "name": "laios_touden",
+        "proper_name": "Laios Touden",
+        "category": "character",
+        "encrypted_count": "fFNmbw==",
+        "image_reference": "https://static.wikitide.net/thefinalrumblewiki/8/82/Laius_Thorden.png"
+      },
+      "tag2": {
+        "id": "t0024",
+        "name": "girls'_frontline",
+        "proper_name": "Girls' Frontline",
+        "category": "copyright",
+        "encrypted_count": "e1xnbEc=",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://cdn2.steamgriddb.com/logo/81594380e009d61a67688e4805265058.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0611",
+        "name": "puzzle_&_dragons",
+        "proper_name": "Puzzle & Dragons",
+        "category": "copyright",
+        "encrypted_count": "e1xuYw==",
+        "copyright": "Puzzle & Dragons",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Main_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20150516042650"
+      },
+      "tag2": {
+        "id": "t0328",
+        "name": "panty_(psg)",
+        "proper_name": "Panty",
+        "category": "character",
+        "encrypted_count": "elZjbw==",
+        "copyright": "Panty & Stocking with Garterbelt",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0898",
+        "name": "chando_(ado)",
+        "proper_name": "Chando",
+        "category": "character",
+        "encrypted_count": "fFBjbg==",
+        "copyright": "Ado",
+        "material": "Music",
+        "image_reference": "https://cdn.donmai.us/original/94/2a/942a7f049d0af9bc21016fe18c7ed8ea.jpg"
+      },
+      "tag2": {
+        "id": "t0754",
+        "name": "gegege_no_kitarou",
+        "proper_name": "GeGeGe no Kitarou",
+        "category": "copyright",
+        "encrypted_count": "e1RlYg==",
+        "copyright": "GeGeGe no Kitarou",
+        "material": "Anime",
+        "image_reference": "https://images.launchbox-app.com/82f56e88-1d89-4c7f-95d4-b5ffdf87c0be.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0006",
+        "name": "fate/grand_order",
+        "proper_name": "Fate/Grand Order",
+        "category": "copyright",
+        "encrypted_count": "fFNva0gF",
+        "copyright": "Fate/Grand Order",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/3e/FGOBabylonia.jpg"
+      },
+      "tag2": {
+        "id": "t0058",
+        "name": "narmaya_(granblue_fantasy)",
+        "proper_name": "Narmaya",
+        "category": "character",
+        "encrypted_count": "fV1iYw==",
+        "copyright": "Granblue Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://gbf.wiki/images/thumb/f/fc/Npc_zoom_3040063000_01.png/480px-Npc_zoom_3040063000_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0188",
+        "name": "mega_man_zero_(series)",
+        "proper_name": "Mega Man Zero Series",
+        "category": "copyright",
+        "encrypted_count": "elRvbg==",
+        "copyright": "Mega Man",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
+      },
+      "tag2": {
+        "id": "t0072",
+        "name": "anastasia_(idolmaster)",
+        "proper_name": "Anastasia",
+        "category": "character",
+        "encrypted_count": "fVFhaA==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0039",
+        "name": "mordred_(fate/apocrypha)",
+        "proper_name": "Mordred",
+        "category": "character",
+        "encrypted_count": "e1ZlbA==",
+        "copyright": "Fate/Apocrypha",
+        "material": "anime",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest/scale-to-width/360?cb=20220910153017"
+      },
+      "tag2": {
+        "id": "t0590",
+        "name": "kieran_(pokemon)",
+        "proper_name": "Kieran",
+        "category": "character",
+        "encrypted_count": "e1ZhbQ==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/a/a7/Kieran_Pokemon_SV.png/revision/latest?cb=20230918055948&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0337",
+        "name": "kaenbyou_rin_(cat)",
+        "proper_name": "Kaenbyou Rin",
+        "category": "character",
+        "encrypted_count": "fFBlYg==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/6/6e/JoonYorigami1.2.png/revision/latest?cb=20230430211416"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/b/b2/RinSubAni.png/revision/latest/thumbnail/width/360/height/450?cb=20091025143107"
+      },
+      "tag2": {
+        "id": "t0339",
+        "name": "unzan",
+        "proper_name": "Unzan",
+        "category": "character",
+        "encrypted_count": "fFdvbw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://img10.reactor.cc/pics/post/Anime-Kumoi-Ichirin-Touhou-Project-Unzan-4343995.png"
       }
     },
     {
       "tag1": {
-        "id": "t0343",
-        "name": "hatsuyuki_(kancolle)",
-        "proper_name": "Hatsuyuki",
+        "id": "t0290",
+        "name": "asuna_(school_uniform)_(blue_archive)",
+        "proper_name": "Asuna (School Uniform)",
         "category": "character",
-        "encrypted_count": "fFZvaQ==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "f1JmYw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Hatsuyuki.(Kantai.Collection).full.2014249.jpg"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/0/01/Asuna_(School_Uniform).png/399px-Asuna_(School_Uniform).png"
       },
       "tag2": {
-        "id": "t0819",
-        "name": "kujo_jolyne",
-        "proper_name": "Kujo Jolyne",
+        "id": "t0098",
+        "name": "akigumo_(kancolle)",
+        "proper_name": "Akigumo",
         "category": "character",
-        "encrypted_count": "f1Njag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/7/74/latest/20210409215727/Jolyne_ASB.png/800px-Jolyne_ASB.png"
+        "encrypted_count": "fFxvaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e5/Akigumo_Card.png/revision/latest?cb=20180817195311"
       }
     }
   ]
