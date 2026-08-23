@@ -1,229 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-08-22T04:22:51.203900+00:00
-// Date: 2026-08-22
+// Generated on: 2026-08-23T04:27:55.818619+00:00
+// Date: 2026-08-23
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0263",
-        "name": "ashigara_(kancolle)",
-        "proper_name": "Ashigara",
+        "id": "t0820",
+        "name": "kaedehara_kazuha",
+        "proper_name": "Kaedehara Kazuha",
         "category": "character",
-        "encrypted_count": "fFJubA==",
+        "encrypted_count": "fVxjbQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/a/a5/Kazuha_Karte.png/revision/latest?cb=20211123185236&path-prefix=de"
+      },
+      "tag2": {
+        "id": "t0240",
+        "name": "fennec_(kemono_friends)",
+        "proper_name": "Fennec",
+        "category": "character",
+        "encrypted_count": "fFNnaQ==",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://www.japari-library.com/images/8/8b/Fennec_FoxOriginal.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0718",
+        "name": "kirishima_(kancolle)",
+        "proper_name": "Kirishima",
+        "category": "character",
+        "encrypted_count": "fVJvbw==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/c/c6/Ship_Card_Ashigara.png/218px-Ship_Card_Ashigara.png"
+        "image_reference": "https://static.zerochan.net/Kirishima.(Kantai.Collection).full.1906714.jpg"
       },
       "tag2": {
-        "id": "t0397",
-        "name": "lyrica_prismriver",
-        "proper_name": "Lyrica Prismriver",
+        "id": "t0704",
+        "name": "raiden_mei",
+        "proper_name": "Raiden Mei",
         "category": "character",
-        "encrypted_count": "fFdubw==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "elFmbg==",
+        "copyright": "Honkai Impact 3rd",
         "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+        "image_reference": "https://gamepedia.cursecdn.com/honkaiimpact3_gamepedia_en/c/c6/Crimson_Impulse.png"
       }
     },
     {
       "tag1": {
-        "id": "t0868",
-        "name": "agnes_tachyon_(tach-nology)_(umamusume)",
-        "proper_name": "Agnes Tachyon",
+        "id": "t0954",
+        "name": "izumi_konata",
+        "proper_name": "Konata Izumi",
         "category": "character",
-        "encrypted_count": "fVZlag==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Agnes.Tachyon.600.3657644.jpg"
-      },
-      "tag2": {
-        "id": "t0530",
-        "name": "suzuran_(arknights)",
-        "proper_name": "Suzuran",
-        "category": "character",
-        "encrypted_count": "e1Nlag==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cc/Suzuran.png/revision/latest?cb=20200711010008"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0431",
-        "name": "hayate_no_gotoku!",
-        "proper_name": "Hayate no Gotoku!",
-        "category": "copyright",
-        "encrypted_count": "fVxubQ==",
-        "copyright": "Hayate no Gotoku!",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
-      },
-      "tag2": {
-        "id": "t0733",
-        "name": "takagaki_kaede",
-        "proper_name": "Takagaki Kaede",
-        "category": "character",
-        "encrypted_count": "elJmaA==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/f/f6/Cinderella_master_004_cover.jpg/1200px-Cinderella_master_004_cover.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0213",
-        "name": "satou_kazuma",
-        "proper_name": "Kazuma Satou",
-        "category": "character",
-        "encrypted_count": "fVdubQ==",
-        "copyright": "KonoSuba",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/44/Kazuma_Sato.png"
-      },
-      "tag2": {
-        "id": "t0251",
-        "name": "kicchou_yachie",
-        "proper_name": "Kicchou Yachie",
-        "category": "character",
-        "encrypted_count": "fFFgbg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0066",
-        "name": "cyrene_(honkai:_star_rail)",
-        "proper_name": "Cyrene",
-        "category": "character",
-        "encrypted_count": "fVdhbw==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Character_Cyrene_Introduction.png/revision/latest/scale-to-width/360?cb=20250909040027"
-      },
-      "tag2": {
-        "id": "t0670",
-        "name": "skullgirls",
-        "proper_name": "Skullgirls",
-        "category": "copyright",
-        "encrypted_count": "f1Nmb0g=",
-        "copyright": "Skullgirls",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/skullgirls/images/8/8c/Skullgirls_logo.png/revision/latest/scale-to-width-down/1200?cb=20150502183112"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0445",
-        "name": "female_robin_(fire_emblem)",
-        "proper_name": "Female Robin",
-        "category": "character",
-        "encrypted_count": "fVZjaw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/fewarriors_gamepedia_en/1/16/Robin_(Female)_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0822",
-        "name": "gundam_build_fighters",
-        "proper_name": "Gundam Build Fighters",
-        "category": "copyright",
-        "encrypted_count": "eVdlaw==",
-        "copyright": "Gundam",
+        "encrypted_count": "eVNmbA==",
+        "copyright": "Lucky Star",
         "material": "Anime",
-        "image_reference": "https://en.gundam.info/series/buildfighters/wp-content/themes/series/images/buildfighters/logo_en.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0456",
-        "name": "tachibana_kanade",
-        "proper_name": "Tachibana Kanade",
-        "category": "character",
-        "encrypted_count": "f1Zi",
-        "copyright": "Angel Beats!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/angelbeats/images/d/d4/Kanade_anime.png/revision/latest/scale-to-width-down/1200?cb=20190414062510"
+        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/7/73/Konata-san.gif/revision/latest?cb=20120723133321"
       },
       "tag2": {
-        "id": "t0378",
-        "name": "kaga_(azur_lane)",
-        "proper_name": "Kaga",
+        "id": "t0725",
+        "name": "commander_(azur_lane)",
+        "proper_name": "Commander",
         "category": "character",
-        "encrypted_count": "fFdmaQ==",
+        "encrypted_count": "fFBkYg==",
         "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/9/9a/Kaga.png"
+        "image_reference": "https://wiki.wgcdn.co/images/thumb/7/73/Legends_Commander_Full_Azur_Lane_Azuma.png/440px-Legends_Commander_Full_Azur_Lane_Azuma.png"
       }
     },
     {
       "tag1": {
-        "id": "t0218",
-        "name": "mizi_(alien_stage)",
-        "proper_name": "Mizi",
-        "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Alien Stage",
-        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
-      },
-      "tag2": {
-        "id": "t0518",
-        "name": "prinz_eugen_(kancolle)",
-        "proper_name": "Prinz Eugen",
-        "category": "character",
-        "encrypted_count": "e1JvbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2019/12/32a534dd-532a-4502-a638-38fb406d971e.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0235",
-        "name": "kara_no_kyoukai",
-        "proper_name": "Kara no Kyoukai",
+        "id": "t0422",
+        "name": "ultra_series",
+        "proper_name": "Ultra Series",
         "category": "copyright",
-        "encrypted_count": "fVZvaA==",
-        "copyright": "Kara no Kyoukai",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/f/f0/KnK_logo.png/revision/latest?cb=20130716091824"
+        "encrypted_count": "fVViYw==",
+        "copyright": "Ultraman",
+        "material": "TV Show",
+        "image_reference": "https://static.wikia.nocookie.net/ultramananthology/images/7/7a/Ultraman_Series_Official_Logo.png/revision/latest?cb=20210118211502"
       },
       "tag2": {
-        "id": "t0935",
-        "name": "noa_(blue_archive)",
-        "proper_name": "Noa",
+        "id": "t0446",
+        "name": "saten_ruiko",
+        "proper_name": "Saten Ruiko",
         "category": "character",
-        "encrypted_count": "eFRgaQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Noa_Portrait.png"
+        "encrypted_count": "fVRubg==",
+        "copyright": "Toaru Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
       }
     },
     {
       "tag1": {
-        "id": "t0015",
-        "name": "hatsune_miku",
-        "proper_name": "Hatsune Miku",
+        "id": "t0679",
+        "name": "hoshizora_rin",
+        "proper_name": "Hoshizora Rin",
         "category": "character",
-        "encrypted_count": "f1Zvb0II",
+        "encrypted_count": "eF1jbg==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live-fanon/images/7/72/LL-SIF-ASA-Rin.png/revision/latest?cb=20240813083711"
+      },
+      "tag2": {
+        "id": "t0547",
+        "name": "dokidoki!_precure",
+        "proper_name": "Dokidoki! Precure",
+        "category": "copyright",
+        "encrypted_count": "eFZjaA==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrf6u-538d0742-2dbd-4af1-8a2f-3905c35af6bd.png/v1/fill/w_1174,h_486/dokidoki_precure_logo_by_ffprecurespain_defrf6u-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDg2IiwicGF0aCI6IlwvZlwvZDZhYmMzOTAtODUwOS00ZmE0LTk4NjctMzk4ZGQ0ODA0NjNjXC9kZWZyZjZ1LTUzOGQwNzQyLTJkYmQtNGFmMS04YTJmLTM5MDVjMzVhZjZiZC5wbmciLCJ3aWR0aCI6Ijw9MTE3NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tyTE0XTJZfyE1vrH2mqrFiRcjVpMZy_sf0EnhqFE4iU"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0787",
+        "name": "kouyoku_senki_exs-tia",
+        "proper_name": "Kouyoku Senki Exs-Tia",
+        "category": "copyright",
+        "encrypted_count": "elBnag==",
+        "copyright": "Kouyoku Senki Exs-Tia",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
+      },
+      "tag2": {
+        "id": "t0356",
+        "name": "sakura_miku",
+        "proper_name": "Sakura Miku",
+        "category": "character",
+        "encrypted_count": "fFNnbg==",
         "copyright": "Vocaloid",
         "material": "Music Software",
-        "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
+        "image_reference": "https://pm1.aminoapps.com/6321/de459a5e34e092632072e93c61dc913a84a12e05_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0402",
+        "name": "sessyoin_kiara",
+        "proper_name": "Sessyoin Kiara",
+        "category": "character",
+        "encrypted_count": "fFJgbg==",
+        "copyright": "Fate Grand/Order",
+        "material": "Video game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
       },
       "tag2": {
-        "id": "t0755",
-        "name": "cevio",
-        "proper_name": "CeVIO",
+        "id": "t0302",
+        "name": "citlali_(genshin_impact)",
+        "proper_name": "Citlali",
+        "category": "character",
+        "encrypted_count": "fFxjaw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Citlali.full.4224518.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0594",
+        "name": "bismarck_(kancolle)",
+        "proper_name": "Bismarck",
+        "category": "character",
+        "encrypted_count": "el1vag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Bismarck.(Kantai.Collection).600.2131132.jpg"
+      },
+      "tag2": {
+        "id": "t0479",
+        "name": "northern_ocean_princess",
+        "proper_name": "Northern Ocean Princess",
+        "category": "character",
+        "encrypted_count": "eFZlag==",
+        "image_reference": "https://cdn.donmai.us/original/5c/b6/5cb6821d322f01d1e28cef2b4f00f740.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0140",
+        "name": "kel_(omori)",
+        "proper_name": "Kel",
+        "category": "character",
+        "encrypted_count": "fFxgaw==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/7/7a/DW_Kel_Fullbody_Profile.png/revision/latest?cb=20221031042126"
+      },
+      "tag2": {
+        "id": "t0927",
+        "name": "kijin_seija",
+        "proper_name": "Kijin Seija",
+        "category": "character",
+        "encrypted_count": "e1ZlaA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://en.touhouwiki.net/images/thumb/6/67/Th14Seija.png/200px-Th14Seija.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0942",
+        "name": "bb_(fate)",
+        "proper_name": "BB",
+        "category": "character",
+        "encrypted_count": "eFZlYw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.mana.wiki/grandorder/166_BB_1.png"
+      },
+      "tag2": {
+        "id": "t0234",
+        "name": "final_fantasy_vii_ever_crisis",
+        "proper_name": "Final Fantasy VII: Ever Crisis",
         "category": "copyright",
-        "encrypted_count": "fV1iYw==",
-        "copyright": "CeVIO",
-        "material": "Music Software",
-        "image_reference": "https://cevio.jp/wp-content/uploads/2020/11/CeVIOAI_LOGO_data.png"
+        "encrypted_count": "fVRiYg==",
+        "copyright": "Final Fantasy VII: Ever Crisis",
+        "material": "Video Game",
+        "image_reference": "https://www.rpgfan.com/wp-content/uploads/2021/02/Final-Fantasy-VII-Ever-Crisis-Logo-001-1134x720.jpg"
       }
     }
   ]
