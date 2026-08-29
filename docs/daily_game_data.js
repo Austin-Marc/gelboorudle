@@ -1,54 +1,164 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-08-28T15:47:50.407631+00:00
-// Date: 2026-08-28
+// Generated on: 2026-08-29T10:36:02.540063+00:00
+// Date: 2026-08-29
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0209",
-        "name": "lum",
-        "proper_name": "Lum",
-        "category": "character",
-        "encrypted_count": "elVvaw==",
-        "copyright": "Urusei Yatsura",
+        "id": "t0536",
+        "name": "gundam_00",
+        "proper_name": "Gundam 00",
+        "category": "copyright",
+        "encrypted_count": "eF1hbQ==",
+        "copyright": "Mobile Suit Gundam",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/urusei/images/8/80/Lum_wikia.jpg/revision/latest?cb=20210717072234"
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/0/0c/Gundam_00_title.png/revision/latest?cb=20150707141603"
       },
       "tag2": {
-        "id": "t0020",
-        "name": "hololive_english",
-        "proper_name": "Hololive English",
-        "category": "copyright",
-        "encrypted_count": "d1Vja0Y=",
-        "copyright": "Hololive English",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
+        "id": "t0505",
+        "name": "cu_chulainn_(fate)",
+        "proper_name": "Cu Chulainn",
+        "category": "character",
+        "encrypted_count": "eFVmYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
       }
     },
     {
       "tag1": {
-        "id": "t0345",
-        "name": "kousaka_kirino",
-        "proper_name": "Kousaka Kirino",
+        "id": "t0721",
+        "name": "wakasagihime",
+        "proper_name": "Wakasagihime",
         "category": "character",
-        "encrypted_count": "fVNjbQ==",
-        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
-        "material": "Light Novel",
-        "image_reference": "https://static.zerochan.net/Kousaka.Kirino.full.1735927.jpg"
+        "encrypted_count": "fVxvbA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/3262-1482788206.png"
       },
       "tag2": {
-        "id": "t0884",
-        "name": "shinku",
-        "proper_name": "Shinku",
+        "id": "t0892",
+        "name": "hero_(omori)",
+        "proper_name": "Hero",
         "category": "character",
-        "encrypted_count": "fFFuYg==",
-        "copyright": "Rozen Maiden",
+        "encrypted_count": "fFZhbQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0896",
+        "name": "fukumaru_koito",
+        "proper_name": "Fukumaru Koito",
+        "category": "character",
+        "encrypted_count": "fFBmaA==",
+        "copyright": "IdolMaster Shiny Colors",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/b/bb/Artwork_Shinku_2013.png/revision/latest?cb=20140901224243&path-prefix=es"
+        "image_reference": "https://image.shinycolors.wiki/8/85/KoitoProfile.png"
+      },
+      "tag2": {
+        "id": "t0735",
+        "name": "arlecchino_(genshin_impact)",
+        "proper_name": "Arlecchino",
+        "category": "character",
+        "encrypted_count": "elBjag==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gen-impact/images/4/4a/Carta_de_personaje_Arlecchino.png/revision/latest?cb=20240311102048&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0403",
+        "name": "rotom_phone",
+        "proper_name": "Rotom Phone",
+        "category": "character",
+        "encrypted_count": "fFxlbg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/2/23/Rotom_Phone.png/revision/latest/scale-to-width-down/2000?cb=20200627164134"
+      },
+      "tag2": {
+        "id": "t0455",
+        "name": "akuma_homura",
+        "proper_name": "Akuma Homura",
+        "category": "character",
+        "encrypted_count": "fFFhbA==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0163",
+        "name": "harukawa_maki",
+        "proper_name": "Harukawa Maki",
+        "category": "character",
+        "encrypted_count": "fVZkbw==",
+        "copyright": "Project Sekai",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Harukawa.Maki.full.4175270.png"
+      },
+      "tag2": {
+        "id": "t0768",
+        "name": "taimanin_(series)",
+        "proper_name": "Taimanin Series",
+        "category": "copyright",
+        "encrypted_count": "fVNjYkk=",
+        "copyright": "Taimanin Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/anime/images/8/80/TA-logo.png/revision/latest?cb=20240303183926&path-prefix=pt-br"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0684",
+        "name": "uraraka_ochaco",
+        "proper_name": "Uraraka Ochaco",
+        "category": "character",
+        "encrypted_count": "dl1lbQ==",
+        "copyright": "My Hero Academia",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/boku-no-hero-academia-italia/images/6/66/Ochaco27s_second_hero_costume_28anime29.png/revision/latest?cb=20210926181953&path-prefix=it"
+      },
+      "tag2": {
+        "id": "t0538",
+        "name": "animal_crossing",
+        "proper_name": "Animal Crossing",
+        "category": "copyright",
+        "encrypted_count": "f1Ria0M=",
+        "copyright": "Animal Crossing",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/animalcrossing/images/1/1e/NH-boxart.png/revision/latest?cb=20200102220852"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0604",
+        "name": "okita_souji_(koha-ace)",
+        "proper_name": "Okita Souji",
+        "category": "character",
+        "encrypted_count": "e1NgbA==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/be/5c/4d/be5c4d182c79b9fa602ffa6537784489.png"
+      },
+      "tag2": {
+        "id": "t0187",
+        "name": "pokemon_journeys",
+        "proper_name": "Pok\u00e9mon Journeys",
+        "category": "copyright",
+        "encrypted_count": "elFkaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
       }
     },
     {
@@ -63,168 +173,58 @@ const DAILY_GAME_DATA = {
         "image_reference": "https://static.wikia.nocookie.net/typemoon/images/0/01/AssassinKamaStage3.png/revision/latest?cb=20210330120437"
       },
       "tag2": {
-        "id": "t0277",
-        "name": "oshiro_project:re",
-        "proper_name": "Oshiro Project: Re",
-        "category": "copyright",
-        "encrypted_count": "fVRjaQ==",
-        "copyright": "Oshiro Project: Re",
-        "material": "Video Game",
-        "image_reference": "https://play-lh.googleusercontent.com/mZqL67H8JkcYvkTYS1ZFA2ZswkmlAJeo4XjEZZUCfvw5JXiBLhp9ExrXKiigv0gfzSE=w526-h296-rw"
+        "id": "t0585",
+        "name": "kawaragi_momoka",
+        "proper_name": "Kawaragi Momoka",
+        "category": "character",
+        "encrypted_count": "elxnaA==",
+        "copyright": "D4DJ",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Kawaragi.Momoka.full.4222907.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0415",
-        "name": "kasumi_kai_ni_(kancolle)",
-        "proper_name": "Kasumi Kai Ni",
+        "id": "t0900",
+        "name": "female_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Female)",
         "category": "character",
-        "encrypted_count": "f1NiaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/f/f3/Ship_Card_Kasumi_Kai_Ni.png/218px-Ship_Card_Kasumi_Kai_Ni.png"
-      },
-      "tag2": {
-        "id": "t0474",
-        "name": "seia_(blue_archive)",
-        "proper_name": "Seia",
-        "category": "character",
-        "encrypted_count": "eFdhYg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/46/Seia.png?version=fbe732a3685f04d8148ab32bce834791"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0605",
-        "name": "sunny_(omori)",
-        "proper_name": "Sunny",
-        "category": "character",
-        "encrypted_count": "e1RnaA==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/4/45/SUNNY_CUERPO_COMPLETO.png/revision/latest?cb=20240312190414&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0817",
-        "name": "female_corrin_(fire_emblem)",
-        "proper_name": "Female Corrin",
-        "category": "character",
-        "encrypted_count": "el1jYg==",
+        "encrypted_count": "eVdmbQ==",
         "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/fireemblem/images/a/aa/Female_Corrin_Heroes.png/revision/latest?cb=20170210061649"
+        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
+      },
+      "tag2": {
+        "id": "t0416",
+        "name": "high_priest_(ragnarok_online)",
+        "proper_name": "High Priest",
+        "category": "character",
+        "encrypted_count": "fFBgaw==",
+        "copyright": "Ragnarok Online",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
       }
     },
     {
       "tag1": {
-        "id": "t0501",
-        "name": "ijichi_nijika",
-        "proper_name": "Ijichi Nijika",
+        "id": "t0353",
+        "name": "merlin_prismriver",
+        "proper_name": "Merlin Prismriver",
         "category": "character",
-        "encrypted_count": "eFZgbA==",
-        "copyright": "Bocchi the Rock!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
+        "encrypted_count": "fFFkaw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://pm1.aminoapps.com/6373/c4ea5075242be120a6e74045d9f3259bca213a98_hq.jpg"
       },
       "tag2": {
-        "id": "t0211",
-        "name": "lucario",
-        "proper_name": "Lucario",
+        "id": "t0173",
+        "name": "hex_maniac_(pokemon_xy)",
+        "proper_name": "Hex Maniac",
         "category": "character",
-        "encrypted_count": "elJiaA==",
+        "encrypted_count": "eVVvYg==",
         "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork0448_DLPS.png/1200px-Artwork0448_DLPS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0554",
-        "name": "c.c.",
-        "proper_name": "C.C.",
-        "category": "character",
-        "encrypted_count": "eFBnag==",
-        "copyright": "Code Geass",
-        "material": "Anime",
-        "image_reference": "https://i.pinimg.com/736x/b5/e7/21/b5e7210af75a27e7c79b2b7e18b2a754.jpg"
-      },
-      "tag2": {
-        "id": "t0485",
-        "name": "oozora_subaru",
-        "proper_name": "Oozora Subaru",
-        "category": "character",
-        "encrypted_count": "eFBibw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/4/49/Oozora_Subaru_Portrait.png/revision/latest?cb=20200622133539"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0756",
-        "name": "inazuma_eleven",
-        "proper_name": "Inazuma Eleven",
-        "category": "copyright",
-        "encrypted_count": "d1xnbQ==",
-        "copyright": "Inazuma Eleven",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/inazuma/images/7/70/Logo_japon\u00e9s_de_IE.PNG/revision/latest?cb=20191114162736&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0160",
-        "name": "toga_himiko",
-        "proper_name": "Toga Himiko",
-        "category": "character",
-        "encrypted_count": "eFJjaQ==",
-        "copyright": "My Hero Academia",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0450",
-        "name": "hachimiya_meguru",
-        "proper_name": "Hachimiya Meguru",
-        "category": "character",
-        "encrypted_count": "fVRmbw==",
-        "copyright": "IdolMaster Shiny Colors",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://image.shinycolors.wiki/4/4b/MeguruProfile.png"
-      },
-      "tag2": {
-        "id": "t0712",
-        "name": "wo-class_aircraft_carrier",
-        "proper_name": "Wo-Class Aircraft Carrier",
-        "category": "character",
-        "encrypted_count": "fVNnbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://img10.reactor.cc/pics/post/Kantai-Collection-Anime-Wo-Class-Aircraft-Carrier-Kantai-Collection-2839849.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0401",
-        "name": "ohtsuki_yui",
-        "proper_name": "Ohtsuki Yui",
-        "category": "character",
-        "encrypted_count": "fFJhbA==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/9/99/Yui_Ohtsuki.png/revision/latest?cb=20211229073705"
-      },
-      "tag2": {
-        "id": "t0788",
-        "name": "hiryuu_(kancolle)",
-        "proper_name": "Hiryuu",
-        "category": "character",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/0/05/Ship_Card_Hiryuu_Damaged.png"
+        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/07/HexManiac.png/revision/latest?cb=20211128202648"
       }
     }
   ]
