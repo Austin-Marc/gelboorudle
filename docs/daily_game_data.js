@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-03T08:24:00.344983+00:00
-// Date: 2026-09-03
+// Generated on: 2026-09-04T08:19:52.260711+00:00
+// Date: 2026-09-04
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0196",
-        "name": "charizard",
-        "proper_name": "Charizard",
-        "category": "character",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Pok\u00e9mon",
+        "id": "t0537",
+        "name": "kingdom_hearts",
+        "proper_name": "Kingdom Hearts",
+        "category": "copyright",
+        "encrypted_count": "dlViYg==",
+        "copyright": "Kingdom Hearts",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
+        "image_reference": "https://static.wikia.nocookie.net/kingdomhearts/images/d/db/Kingdom_Hearts_front_cover_%28US%29.png/revision/latest?cb=20231231113847"
       },
       "tag2": {
-        "id": "t0869",
-        "name": "inui_toko",
-        "proper_name": "Inui Toko",
+        "id": "t0182",
+        "name": "kamado_nezuko",
+        "proper_name": "Kamado Nezuko",
         "category": "character",
-        "encrypted_count": "fFFibA==",
-        "copyright": "Nijisanji",
+        "encrypted_count": "eldnaw==",
+        "copyright": "Demon Slayer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Nezuko_anime.png/revision/latest?cb=20211119014953"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0916",
+        "name": "tsukino_usagi",
+        "proper_name": "Tsukino Usagi",
+        "category": "character",
+        "encrypted_count": "dlVkYg==",
+        "copyright": "Sailor Moon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/e/e1/Usagi_Tsukino_Sailor_Moon_-_Anime.png/revision/latest?cb=20210217021645"
+      },
+      "tag2": {
+        "id": "t0092",
+        "name": "eren_yeager",
+        "proper_name": "Eren Yeager",
+        "category": "character",
+        "encrypted_count": "fV1uYw==",
+        "copyright": "Attack on Titan",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0964",
+        "name": "lappland_(arknights)",
+        "proper_name": "Lappland",
+        "category": "character",
+        "encrypted_count": "e1JkaQ==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/d/d7/Lappland.png/revision/latest?cb=20190627031236"
+      },
+      "tag2": {
+        "id": "t0934",
+        "name": "yukihana_lamy",
+        "proper_name": "Yukihana Lamy",
+        "category": "character",
+        "encrypted_count": "eFZmbA==",
+        "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/6/68/Yukihana_Lamy_-_Portrait_01.png/1200px-Yukihana_Lamy_-_Portrait_01.png"
       }
     },
     {
       "tag1": {
-        "id": "t0231",
-        "name": "tokyo_ghoul",
-        "proper_name": "Tokyo Ghoul",
-        "category": "copyright",
-        "encrypted_count": "fVZhaQ==",
-        "copyright": "Tokyo Ghoul",
-        "material": "Manga",
-        "image_reference": "https://bayanbox.ir/view/167939588418032986/tokyo-ghoul-logo-png.png"
+        "id": "t0457",
+        "name": "frisk_(undertale)",
+        "proper_name": "Frisk",
+        "category": "character",
+        "encrypted_count": "fVRmag==",
+        "copyright": "Undertale",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/undertale/images/a/a7/Undertale_frisk_front_by_ldinos-d9ywr9e.png/revision/latest?cb=20170105221708&path-prefix=es"
       },
       "tag2": {
-        "id": "t0330",
-        "name": "hyuuga_(kancolle)",
-        "proper_name": "Hyuuga",
-        "category": "character",
-        "encrypted_count": "fFRgYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Hyuuga.(Kantai.Collection).1024.4351400.webp"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0870",
-        "name": "final_fantasy_vii_advent_children",
-        "proper_name": "Final Fantasy VII: Advent Children",
-        "category": "copyright",
-        "encrypted_count": "fFxlaQ==",
-        "copyright": "Final Fantasy VII",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/Ffviiaclogo.jpg/revision/latest?cb=20181221213823"
-      },
-      "tag2": {
-        "id": "t0187",
-        "name": "pokemon_journeys",
-        "proper_name": "Pok\u00e9mon Journeys",
-        "category": "copyright",
-        "encrypted_count": "elFkaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0482",
-        "name": "sakura_kyoko_(magical_girl)",
-        "proper_name": "Sakura Kyoko",
-        "category": "character",
-        "encrypted_count": "eFRhYw==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/madoka/images/2/24/Kyoko_Sakura_Profile.png/revision/latest?cb=20200520131323"
-      },
-      "tag2": {
-        "id": "t0623",
-        "name": "shijou_takane",
-        "proper_name": "Shijou Takane",
-        "category": "character",
-        "encrypted_count": "e1xubA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/b/bd/Takane_Shijou_2nd_Vision_Normal.png/revision/latest?cb=20200510063245"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0681",
-        "name": "super_robot_wars",
-        "proper_name": "Super Robot Wars",
-        "category": "copyright",
-        "encrypted_count": "eFJhag==",
-        "copyright": "Super Robot Wars",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/superrobotwars/images/5/58/Super_Robot_Wars.png/revision/latest?cb=20171219155107"
-      },
-      "tag2": {
-        "id": "t0022",
-        "name": "kirisame_marisa",
-        "proper_name": "Kirisame Marisa",
-        "category": "character",
-        "encrypted_count": "eFdhaEA=",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/2/29/Th20Marisa.png/revision/latest?cb=20250505062007"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0040",
-        "name": "yoimiya_(genshin_impact)",
-        "proper_name": "Yoimiya",
-        "category": "character",
-        "encrypted_count": "elVhaw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Character_Yoimiya_Game.png/revision/latest/scale-to-width/360?cb=20241004030432"
-      },
-      "tag2": {
-        "id": "t0365",
-        "name": "aria_(manga)",
-        "proper_name": "Aria",
-        "category": "copyright",
-        "encrypted_count": "fF1kbg==",
-        "copyright": "Aria",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Aria-Logo-New.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0168",
-        "name": "castorice_(honkai:_star_rail)",
-        "proper_name": "Castorice",
-        "category": "character",
-        "encrypted_count": "fF1ubg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
-      },
-      "tag2": {
-        "id": "t0610",
-        "name": "fire_emblem:_radiant_dawn",
-        "proper_name": "Fire Emblem: Radiant Dawn",
-        "category": "copyright",
-        "encrypted_count": "eFZkYw==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://vignette2.wikia.nocookie.net/fireemblem/images/1/11/Logo_Fire_Emblem_Radiant_Dawn.png/revision/latest?cb=20170222084554&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0294",
-        "name": "umbreon",
-        "proper_name": "Umbreon",
+        "id": "t0827",
+        "name": "hifumi_(blue_archive)",
+        "proper_name": "Hifumi",
         "category": "character",
         "encrypted_count": "fV1kbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Ajitani.Hifumi.600.3693607.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0711",
+        "name": "fuwawa_abyssgard",
+        "proper_name": "Fuwawa Abyssgard",
+        "category": "character",
+        "encrypted_count": "eldibA==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/ca/Fuwawa_Abyssgard_3D.png/revision/latest?cb=20240902203521"
+      },
+      "tag2": {
+        "id": "t0096",
+        "name": "mash_kyrielight_(demi-servant)",
+        "proper_name": "Mash Kyrielight",
+        "category": "character",
+        "encrypted_count": "f1Bmbw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0845",
+        "name": "kama_(fate)",
+        "proper_name": "Kama",
+        "category": "character",
+        "encrypted_count": "elRmaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/0/01/AssassinKamaStage3.png/revision/latest?cb=20210330120437"
+      },
+      "tag2": {
+        "id": "t0660",
+        "name": "sonic_the_hedgehog",
+        "proper_name": "Sonic the Hedgehog",
+        "category": "character",
+        "encrypted_count": "eFFvbw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonicthehedgehog/images/6/68/Sonic_profil_Sonic-X-Shadow-Generations.png/revision/latest?cb=20240817165317&path-prefix=fr"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0471",
+        "name": "kirlia",
+        "proper_name": "Kirlia",
+        "category": "character",
+        "encrypted_count": "fVdjag==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemony/images/9/9f/Umbreon.png/revision/latest?cb=20150823181058&path-prefix=pl"
+        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
       },
       "tag2": {
-        "id": "t0694",
-        "name": "cookie_run",
-        "proper_name": "Cookie Run",
-        "category": "copyright",
-        "encrypted_count": "e1ZmaA==",
-        "copyright": "Cookie Run",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Cookie_Run_series_logo.png/revision/latest/scale-to-width-down/1200?cb=20211123144049"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0175",
-        "name": "koseki_bijou",
-        "proper_name": "Koseki Bijou",
+        "id": "t0404",
+        "name": "higashiyama_kobeni",
+        "proper_name": "Higashiyama Kobeni",
         "category": "character",
-        "encrypted_count": "fVViag==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/9/9f/Koseki_Bijou_-_Portrait_01.png"
-      },
-      "tag2": {
-        "id": "t0017",
-        "name": "fire_emblem",
-        "proper_name": "Fire Emblem",
-        "category": "copyright",
-        "encrypted_count": "f1diYkMC",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/1/1b/Fire_Emblem_Engage_Box_Art.png/revision/latest/thumbnail/width/360/height/450?cb=20220914001431"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0282",
-        "name": "soul_eater",
-        "proper_name": "Soul Eater",
-        "category": "copyright",
-        "encrypted_count": "elJmYg==",
-        "copyright": "Soul Eater",
+        "encrypted_count": "fVZlbQ==",
+        "copyright": "Chainsaw Man",
         "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2023/08/Soul-Eater-Logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0257",
+        "name": "senjougahara_hitagi",
+        "proper_name": "Senjougahara Hitagi",
+        "category": "character",
+        "encrypted_count": "fVZuaQ==",
+        "copyright": "Monogatari Series",
+        "material": "Anime",
+        "image_reference": "https://1.bp.blogspot.com/-Su1PAdKQzao/WHHpgH_v2QI/AAAAAAAABMg/wvAO-6iJMp0n84RNYlC1aye6wSBeH9vuwCEw/s1600/Hitagi_bake_designs.jpg"
       },
       "tag2": {
-        "id": "t0519",
-        "name": "hakos_baelz",
-        "proper_name": "Hakos Baelz",
+        "id": "t0200",
+        "name": "tsunomaki_watame",
+        "proper_name": "Tsunomaki Watame",
         "category": "character",
-        "encrypted_count": "e1JmYg==",
+        "encrypted_count": "fVRmaw==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/68/Hakos_Baelz_3D.png/revision/latest?cb=20240901181420"
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0055",
+        "name": "fate/prototype",
+        "proper_name": "Fate/prototype",
+        "category": "copyright",
+        "encrypted_count": "elVnaA==",
+        "copyright": "Fate Series",
+        "material": "Light Novel",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0449",
+        "name": "azki_(hololive)",
+        "proper_name": "AZKi",
+        "category": "character",
+        "encrypted_count": "fFJnYg==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/9/99/AZKi_-_Portrait_02-2-2.png/580px-AZKi_-_Portrait_02-2-2.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0306",
+        "name": "kurosawa_dia",
+        "proper_name": "Kurosawa Dia",
+        "category": "character",
+        "encrypted_count": "elJkYg==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/love-live/images/d/db/789Transparent.png/revision/latest?cb=20160601025120&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0672",
+        "name": "osomatsu-san",
+        "proper_name": "Osomatsu-san",
+        "category": "copyright",
+        "encrypted_count": "e1dkbw==",
+        "copyright": "Osomatsu-san",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/osomatsu/images/e/e6/Site-logo.png/revision/latest?cb=20210720132516&path-prefix=es"
       }
     }
   ]
