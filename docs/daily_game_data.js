@@ -1,141 +1,186 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-09T08:29:09.661869+00:00
-// Date: 2026-09-09
+// Generated on: 2026-09-10T08:30:58.055948+00:00
+// Date: 2026-09-10
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0010",
-        "name": "arknights",
-        "proper_name": "Arknights",
+        "id": "t0380",
+        "name": "michishio_(kancolle)",
+        "proper_name": "Michishio",
+        "category": "character",
+        "encrypted_count": "fFdgag==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
+      },
+      "tag2": {
+        "id": "t0155",
+        "name": "summer_pockets",
+        "proper_name": "Summer Pockets",
         "category": "copyright",
-        "encrypted_count": "f1NnaEMG",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Arknights_English_Release_Logo.svg/2560px-Arknights_English_Release_Logo.svg.png"
-      },
-      "tag2": {
-        "id": "t0328",
-        "name": "panty_(psg)",
-        "proper_name": "Panty",
-        "category": "character",
-        "encrypted_count": "elZjbw==",
-        "copyright": "Panty & Stocking with Garterbelt",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
+        "encrypted_count": "fVVlYw==",
+        "copyright": "Summer Pockets",
+        "material": "Visual Novel",
+        "image_reference": "https://wiki.ruliweb.com/images/thumb/6/66/\uc11c\uba38\ud3ec\ucf13_logo.png/640px-\uc11c\uba38\ud3ec\ucf13_logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0509",
-        "name": "sanrio",
-        "proper_name": "Sanrio",
-        "category": "copyright",
-        "encrypted_count": "eFVlaw==",
-        "copyright": "Sanrio",
-        "image_reference": "https://static.wikia.nocookie.net/hellokitty/images/a/a5/Mv-cinnamon.png/revision/latest/scale-to-width/360?cb=20250930161135"
-      },
-      "tag2": {
-        "id": "t0366",
-        "name": "kuro_no_kiseki_(series)",
-        "proper_name": "Kuro no Kiseki",
-        "category": "copyright",
-        "encrypted_count": "fFxibg==",
-        "copyright": "Kuro no Kiseki",
-        "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/61b44e77aae5bfa464aa71914d0043a7.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0223",
-        "name": "matsuura_kanan",
-        "proper_name": "Matsuura Kanan",
+        "id": "t0133",
+        "name": "nitocris_(fate)",
+        "proper_name": "Nitocris",
         "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
-      },
-      "tag2": {
-        "id": "t0812",
-        "name": "takatsuki_yayoi",
-        "proper_name": "Takatsuki Yayoi",
-        "category": "character",
-        "encrypted_count": "elBhbA==",
-        "copyright": "The iDOLM@STER",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/e/e1/MASTER_ARTIST_3_10.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0567",
-        "name": "fire_emblem:_genealogy_of_the_holy_war",
-        "proper_name": "Fire Emblem: Genealogy of the Holy War",
-        "category": "copyright",
-        "encrypted_count": "e11kYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/2/2c/FESK_Logo.png/1200px-FESK_Logo.png"
-      },
-      "tag2": {
-        "id": "t0644",
-        "name": "yahata_umiri",
-        "proper_name": "Yahata Umiri",
-        "category": "character",
-        "encrypted_count": "elJuag==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0501",
-        "name": "ijichi_nijika",
-        "proper_name": "Ijichi Nijika",
-        "category": "character",
-        "encrypted_count": "eFZgbA==",
-        "copyright": "Bocchi the Rock!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
-      },
-      "tag2": {
-        "id": "t0378",
-        "name": "kaga_(azur_lane)",
-        "proper_name": "Kaga",
-        "category": "character",
-        "encrypted_count": "fFdmaQ==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/9/9a/Kaga.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0505",
-        "name": "cu_chulainn_(fate)",
-        "proper_name": "Cu Chulainn",
-        "category": "character",
-        "encrypted_count": "eFVmYg==",
+        "encrypted_count": "fVdmaw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
+        "image_reference": "https://static.wikia.nocookie.net/fatedomination/images/4/44/Catalyst_Nitocris.png/revision/latest?cb=20230702184029"
       },
       "tag2": {
-        "id": "t0793",
-        "name": "jane_doe_(zenless_zone_zero)",
-        "proper_name": "Jane Doe",
-        "category": "character",
-        "encrypted_count": "elZiag==",
-        "copyright": "Zenless Zone Zero",
+        "id": "t0425",
+        "name": "persona_3_portable",
+        "proper_name": "Persona 3 Portable",
+        "category": "copyright",
+        "encrypted_count": "fFJkaQ==",
+        "copyright": "Persona",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Agent_Jane_Doe_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240712062618"
+        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0323",
+        "name": "working!!",
+        "proper_name": "Working!!",
+        "category": "copyright",
+        "encrypted_count": "fVFkaQ==",
+        "copyright": "Working!!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
+      },
+      "tag2": {
+        "id": "t0519",
+        "name": "hakos_baelz",
+        "proper_name": "Hakos Baelz",
+        "category": "character",
+        "encrypted_count": "e1JmYg==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/68/Hakos_Baelz_3D.png/revision/latest?cb=20240901181420"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0708",
+        "name": "atelier_ryza",
+        "proper_name": "Atelier Ryza",
+        "category": "copyright",
+        "encrypted_count": "e1NkaQ==",
+        "copyright": "Atelier",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/0/01/A21_Logo_English.jpg/revision/latest/scale-to-width-down/2000?cb=20190627170224"
+      },
+      "tag2": {
+        "id": "t0374",
+        "name": "sinclair_(project_moon)",
+        "proper_name": "Sinclair",
+        "category": "character",
+        "encrypted_count": "fFJnaw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest?cb=20230228041304"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0371",
+        "name": "lilith_(darkstalkers)",
+        "proper_name": "Lilith",
+        "category": "character",
+        "encrypted_count": "elZvaQ==",
+        "copyright": "Darkstalkers",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
+      },
+      "tag2": {
+        "id": "t0512",
+        "name": "archer_(fate)",
+        "proper_name": "Archer",
+        "category": "character",
+        "encrypted_count": "eFRjaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0882",
+        "name": "seiken_densetsu",
+        "proper_name": "Seiken Densetsu",
+        "category": "copyright",
+        "encrypted_count": "elZnaQ==",
+        "copyright": "Seiken Densetsu",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/2/2a/Seiken_Densetsu_logo.jpg"
+      },
+      "tag2": {
+        "id": "t0185",
+        "name": "hazbin_hotel",
+        "proper_name": "Hazbin Hotel",
+        "category": "copyright",
+        "encrypted_count": "fVZnaw==",
+        "copyright": "Hazbin Hotel",
+        "material": "Anime",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0459",
+        "name": "shinonome_ena",
+        "proper_name": "Shinonome Ena",
+        "category": "character",
+        "encrypted_count": "fFZgYw==",
+        "copyright": "D4DJ",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
+      },
+      "tag2": {
+        "id": "t0096",
+        "name": "mash_kyrielight_(demi-servant)",
+        "proper_name": "Mash Kyrielight",
+        "category": "character",
+        "encrypted_count": "f1Bmbw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0222",
+        "name": "mostima_(arknights)",
+        "proper_name": "Mostima",
+        "category": "character",
+        "encrypted_count": "fF1vYw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/3/31/Mostima.png/revision/latest?cb=20200520090244"
+      },
+      "tag2": {
+        "id": "t0441",
+        "name": "monokuma",
+        "proper_name": "Monokuma",
+        "category": "character",
+        "encrypted_count": "fFNubQ==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Danganronpa_V3_Monokuma_Sprite_(Standing)_(6).png/revision/latest?cb=20180430003830"
       }
     },
     {
@@ -149,80 +194,36 @@ const DAILY_GAME_DATA = {
         "material": "Manga"
       },
       "tag2": {
-        "id": "t0900",
-        "name": "female_byleth_(fire_emblem)",
-        "proper_name": "Byleth (Female)",
+        "id": "t0807",
+        "name": "belfast_(azur_lane)",
+        "proper_name": "Belfast",
         "category": "character",
-        "encrypted_count": "eVdmbQ==",
-        "copyright": "Fire Emblem",
+        "encrypted_count": "elJjbA==",
+        "copyright": "Azur Lane",
         "material": "Video Game",
-        "image_reference": "https://mail.creativeuncut.com/gallery-37/art/feth-byleth-female-portrait.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/8/86/Belfast.png/revision/latest?cb=20190519143402"
       }
     },
     {
       "tag1": {
-        "id": "t0443",
-        "name": "tsumiki_mikan",
-        "proper_name": "Tsumiki Mikan",
+        "id": "t0071",
+        "name": "nicole_demara",
+        "proper_name": "Nicole Demara",
         "category": "character",
-        "encrypted_count": "fFxiYw==",
-        "copyright": "Danganronpa",
+        "encrypted_count": "fVJibQ==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/736x/8d/d6/86/8dd686f3d14630bd560ec334b981be25.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
       },
       "tag2": {
-        "id": "t0028",
-        "name": "precure",
-        "proper_name": "Precure",
-        "category": "copyright",
-        "encrypted_count": "eFNhbEM=",
-        "copyright": "Precure",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5c/PrettyCureS1.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0636",
-        "name": "puyopuyo",
-        "proper_name": "Puyo Puyo",
-        "category": "copyright",
-        "encrypted_count": "eFJgbA==",
-        "copyright": "Puyo Puyo",
+        "id": "t0816",
+        "name": "robin_(honkai:_star_rail)",
+        "proper_name": "Robin",
+        "category": "character",
+        "encrypted_count": "fV1naQ==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/fantendo/images/0/08/Puyo_Puyo_logo.png/revision/latest?cb=20171226110616"
-      },
-      "tag2": {
-        "id": "t0902",
-        "name": "meiko_(vocaloid)",
-        "proper_name": "MEIKO",
-        "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/7/77/MEIKO_V3.png/revision/latest?cb=20140117094450"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0187",
-        "name": "pokemon_journeys",
-        "proper_name": "Pok\u00e9mon Journeys",
-        "category": "copyright",
-        "encrypted_count": "elFkaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Season_23_logo.png/1200px-Season_23_logo.png"
-      },
-      "tag2": {
-        "id": "t0456",
-        "name": "tachibana_kanade",
-        "proper_name": "Tachibana Kanade",
-        "category": "character",
-        "encrypted_count": "f1Zi",
-        "copyright": "Angel Beats!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/angelbeats/images/d/d4/Kanade_anime.png/revision/latest/scale-to-width-down/1200?cb=20190414062510"
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Character_Robin_Introduction.png/revision/latest?cb=20240312040444"
       }
     }
   ]
