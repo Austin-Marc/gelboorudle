@@ -1,229 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-10T08:30:58.055948+00:00
-// Date: 2026-09-10
+// Generated on: 2026-09-11T08:25:22.793846+00:00
+// Date: 2026-09-11
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0380",
-        "name": "michishio_(kancolle)",
-        "proper_name": "Michishio",
+        "id": "t0662",
+        "name": "kiryuuin_satsuki",
+        "proper_name": "Kiryuuin Satsuki",
         "category": "character",
-        "encrypted_count": "fFdgag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
+        "encrypted_count": "eF1nYg==",
+        "copyright": "Kill la Kill",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/kill-la-kill/images/0/01/Satsuki_Kiryuin(1).png/revision/latest?cb=20170301220730&path-prefix=es"
       },
       "tag2": {
-        "id": "t0155",
-        "name": "summer_pockets",
-        "proper_name": "Summer Pockets",
-        "category": "copyright",
-        "encrypted_count": "fVVlYw==",
-        "copyright": "Summer Pockets",
-        "material": "Visual Novel",
-        "image_reference": "https://wiki.ruliweb.com/images/thumb/6/66/\uc11c\uba38\ud3ec\ucf13_logo.png/640px-\uc11c\uba38\ud3ec\ucf13_logo.png"
+        "id": "t0314",
+        "name": "aotsuki_eito",
+        "proper_name": "Aotsuki Eito",
+        "category": "character",
+        "encrypted_count": "fVNhbg==",
+        "copyright": "Unknown",
+        "material": "Unknown",
+        "image_reference": "https://static.wikia.nocookie.net/the-hundred-line/images/b/b3/Eito_Fullbody.png/revision/latest?cb=20250114130334"
       }
     },
     {
       "tag1": {
-        "id": "t0133",
-        "name": "nitocris_(fate)",
-        "proper_name": "Nitocris",
+        "id": "t0467",
+        "name": "fou_(fate)",
+        "proper_name": "Fou",
         "category": "character",
-        "encrypted_count": "fVdmaw==",
+        "encrypted_count": "fFdkaQ==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fatedomination/images/4/44/Catalyst_Nitocris.png/revision/latest?cb=20230702184029"
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/4/4b/Fou_Sheet.webp/revision/latest?cb=20230330141655"
       },
       "tag2": {
-        "id": "t0425",
-        "name": "persona_3_portable",
-        "proper_name": "Persona 3 Portable",
-        "category": "copyright",
-        "encrypted_count": "fFJkaQ==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
+        "id": "t0177",
+        "name": "wei_wuxian",
+        "proper_name": "Wei Wuxian",
+        "category": "character",
+        "encrypted_count": "fVVlaQ==",
+        "copyright": "Mo Dao Zu Shi",
+        "material": "Novel",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mdzs_wwx_1.png"
       }
     },
     {
       "tag1": {
-        "id": "t0323",
-        "name": "working!!",
-        "proper_name": "Working!!",
-        "category": "copyright",
-        "encrypted_count": "fVFkaQ==",
-        "copyright": "Working!!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
-      },
-      "tag2": {
-        "id": "t0519",
-        "name": "hakos_baelz",
-        "proper_name": "Hakos Baelz",
+        "id": "t0604",
+        "name": "okita_souji_(koha-ace)",
+        "proper_name": "Okita Souji",
         "category": "character",
-        "encrypted_count": "e1JmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/68/Hakos_Baelz_3D.png/revision/latest?cb=20240901181420"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0708",
-        "name": "atelier_ryza",
-        "proper_name": "Atelier Ryza",
-        "category": "copyright",
-        "encrypted_count": "e1NkaQ==",
-        "copyright": "Atelier",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/0/01/A21_Logo_English.jpg/revision/latest/scale-to-width-down/2000?cb=20190627170224"
-      },
-      "tag2": {
-        "id": "t0374",
-        "name": "sinclair_(project_moon)",
-        "proper_name": "Sinclair",
-        "category": "character",
-        "encrypted_count": "fFJnaw==",
-        "copyright": "Project Moon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest?cb=20230228041304"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0371",
-        "name": "lilith_(darkstalkers)",
-        "proper_name": "Lilith",
-        "category": "character",
-        "encrypted_count": "elZvaQ==",
-        "copyright": "Darkstalkers",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
-      },
-      "tag2": {
-        "id": "t0512",
-        "name": "archer_(fate)",
-        "proper_name": "Archer",
-        "category": "character",
-        "encrypted_count": "eFRjaQ==",
+        "encrypted_count": "e1NgbA==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0882",
-        "name": "seiken_densetsu",
-        "proper_name": "Seiken Densetsu",
+        "image_reference": "https://i.pinimg.com/originals/be/5c/4d/be5c4d182c79b9fa602ffa6537784489.png"
+      },
+      "tag2": {
+        "id": "t0694",
+        "name": "cookie_run",
+        "proper_name": "Cookie Run",
         "category": "copyright",
-        "encrypted_count": "elZnaQ==",
-        "copyright": "Seiken Densetsu",
+        "encrypted_count": "e1ZmaA==",
+        "copyright": "Cookie Run",
         "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/2/2a/Seiken_Densetsu_logo.jpg"
-      },
-      "tag2": {
-        "id": "t0185",
-        "name": "hazbin_hotel",
-        "proper_name": "Hazbin Hotel",
-        "category": "copyright",
-        "encrypted_count": "fVZnaw==",
-        "copyright": "Hazbin Hotel",
-        "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Cookie_Run_series_logo.png/revision/latest/scale-to-width-down/1200?cb=20211123144049"
       }
     },
     {
       "tag1": {
-        "id": "t0459",
-        "name": "shinonome_ena",
-        "proper_name": "Shinonome Ena",
+        "id": "t0833",
+        "name": "silver_wolf_(honkai:_star_rail)",
+        "proper_name": "Silver Wolf",
         "category": "character",
-        "encrypted_count": "fFZgYw==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
-      },
-      "tag2": {
-        "id": "t0096",
-        "name": "mash_kyrielight_(demi-servant)",
-        "proper_name": "Mash Kyrielight",
-        "category": "character",
-        "encrypted_count": "f1Bmbw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0222",
-        "name": "mostima_(arknights)",
-        "proper_name": "Mostima",
-        "category": "character",
-        "encrypted_count": "fF1vYw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/3/31/Mostima.png/revision/latest?cb=20200520090244"
-      },
-      "tag2": {
-        "id": "t0441",
-        "name": "monokuma",
-        "proper_name": "Monokuma",
-        "category": "character",
-        "encrypted_count": "fFNubQ==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Danganronpa_V3_Monokuma_Sprite_(Standing)_(6).png/revision/latest?cb=20180430003830"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0508",
-        "name": "kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~",
-        "proper_name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
-        "category": "copyright",
-        "encrypted_count": "dlJkaA==",
-        "copyright": "Kaguya-sama wa Kokurasetai",
-        "material": "Manga"
-      },
-      "tag2": {
-        "id": "t0807",
-        "name": "belfast_(azur_lane)",
-        "proper_name": "Belfast",
-        "category": "character",
-        "encrypted_count": "elJjbA==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/8/86/Belfast.png/revision/latest?cb=20190519143402"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0071",
-        "name": "nicole_demara",
-        "proper_name": "Nicole Demara",
-        "category": "character",
-        "encrypted_count": "fVJibQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
-      },
-      "tag2": {
-        "id": "t0816",
-        "name": "robin_(honkai:_star_rail)",
-        "proper_name": "Robin",
-        "category": "character",
-        "encrypted_count": "fV1naQ==",
+        "encrypted_count": "fVxlYg==",
         "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Character_Robin_Introduction.png/revision/latest?cb=20240312040444"
+        "image_reference": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/06/07/Honkai-Star-Rail-Silver-Wolf-Ascension-Trace-materials.jpg"
+      },
+      "tag2": {
+        "id": "t0073",
+        "name": "jonathan_joestar",
+        "proper_name": "Jonathan Joestar",
+        "category": "character",
+        "encrypted_count": "fVFiaw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0182",
+        "name": "kamado_nezuko",
+        "proper_name": "Kamado Nezuko",
+        "category": "character",
+        "encrypted_count": "eldnaw==",
+        "copyright": "Demon Slayer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Nezuko_anime.png/revision/latest?cb=20211119014953"
+      },
+      "tag2": {
+        "id": "t0043",
+        "name": "izuna_(blue_archive)",
+        "proper_name": "Izuna",
+        "category": "character",
+        "encrypted_count": "fVBhaQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0430",
+        "name": "emil_chronicle_online",
+        "proper_name": "Emil Chronicle Online",
+        "category": "copyright",
+        "encrypted_count": "fFJubw==",
+        "copyright": "Emil Chronicle Online",
+        "material": "Video Game",
+        "image_reference": "https://cdn.mobygames.com/covers/9924119-emil-chronicle-online-windows-front-cover.jpg"
+      },
+      "tag2": {
+        "id": "t0504",
+        "name": "ooyodo_(kancolle)",
+        "proper_name": "Ooyodo",
+        "category": "character",
+        "encrypted_count": "e1BnbQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0528",
+        "name": "splatoon_2",
+        "proper_name": "Splatoon 2",
+        "category": "copyright",
+        "encrypted_count": "eVxjaA==",
+        "copyright": "Splatoon 2",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/Splatoon_2_Splatoon_Base_Logo.png/800px-Splatoon_2_Splatoon_Base_Logo.png"
+      },
+      "tag2": {
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
+        "category": "copyright",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
+        "material": "Video Game",
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0017",
+        "name": "fire_emblem",
+        "proper_name": "Fire Emblem",
+        "category": "copyright",
+        "encrypted_count": "f1diYkMC",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/1/1b/Fire_Emblem_Engage_Box_Art.png/revision/latest/thumbnail/width/360/height/450?cb=20220914001431"
+      },
+      "tag2": {
+        "id": "t0342",
+        "name": "jintsuu_(kancolle)",
+        "proper_name": "Jintsuu",
+        "category": "character",
+        "encrypted_count": "fFduYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b0/Jintsu_kai2.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0537",
+        "name": "kingdom_hearts",
+        "proper_name": "Kingdom Hearts",
+        "category": "copyright",
+        "encrypted_count": "dlViYg==",
+        "copyright": "Kingdom Hearts",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/kingdomhearts/images/d/db/Kingdom_Hearts_front_cover_%28US%29.png/revision/latest?cb=20231231113847"
+      },
+      "tag2": {
+        "id": "t0487",
+        "name": "kemono_friends_3",
+        "proper_name": "Kemono Friends 3",
+        "category": "copyright",
+        "encrypted_count": "eFFvaw==",
+        "copyright": "Kemono Friends",
+        "material": "Video Game",
+        "image_reference": "https://www.japari-library.com/images/b/bb/Kemono_Friends_3_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0051",
+        "name": "cyberpunk:_edgerunners",
+        "proper_name": "Cyberpunk: Edgerunners",
+        "category": "copyright",
+        "encrypted_count": "elJlbQ==",
+        "copyright": "Cyberpunk: Edgerunners",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg/revision/latest?cb=20220801170122"
+      },
+      "tag2": {
+        "id": "t0564",
+        "name": "mario",
+        "proper_name": "Mario",
+        "category": "character",
+        "encrypted_count": "dlBmag==",
+        "copyright": "Mario",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/it/5/50/Mario_Nintendo.png"
       }
     }
   ]
