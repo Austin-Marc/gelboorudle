@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-13T08:38:36.245278+00:00
-// Date: 2026-09-13
+// Generated on: 2026-09-14T09:23:49.007287+00:00
+// Date: 2026-09-14
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0905",
-        "name": "splatoon_1",
-        "proper_name": "Splatoon 1",
+        "id": "t0282",
+        "name": "soul_eater",
+        "proper_name": "Soul Eater",
         "category": "copyright",
-        "encrypted_count": "eVdvYw==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://www.pngkit.com/png/full/832-8327989_splatoon-logo.png"
-      },
-      "tag2": {
-        "id": "t0731",
-        "name": "phantom_blood",
-        "proper_name": "Phantom Blood",
-        "category": "copyright",
-        "encrypted_count": "f1NjbQ==",
-        "copyright": "JoJo's Bizarre Adventure",
+        "encrypted_count": "elJmYg==",
+        "copyright": "Soul Eater",
         "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/b/b4/latest/20200325022741/Phantom_Blood_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0410",
-        "name": "specter_(arknights)",
-        "proper_name": "Specter",
-        "category": "character",
-        "encrypted_count": "fFFvbw==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/0/0d/Specter_the_Unchained.png/800px-Specter_the_Unchained.png"
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/08/Soul-Eater-Logo.png"
       },
       "tag2": {
-        "id": "t0717",
-        "name": "prinz_eugen_(azur_lane)",
-        "proper_name": "Prinz Eugen",
+        "id": "t0559",
+        "name": "anchovy_(girls_und_panzer)",
+        "proper_name": "Anchovy",
         "category": "character",
-        "encrypted_count": "elNnag==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0303",
-        "name": "kiyoshimo_(kancolle)",
-        "proper_name": "Kiyoshimo",
-        "category": "character",
-        "encrypted_count": "fFJvbg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
-      },
-      "tag2": {
-        "id": "t0622",
-        "name": "cammy_white",
-        "proper_name": "Cammy White",
-        "category": "character",
-        "encrypted_count": "d1JjbQ==",
-        "copyright": "Street Fighter",
-        "material": "Video Game",
-        "image_reference": "https://www.writeups.org/wp-content/uploads/Cammy-Street-Fighters-h61-big.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0352",
-        "name": "hibiki_(blue_archive)",
-        "proper_name": "Hibiki",
-        "category": "character",
-        "encrypted_count": "fFxibQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/b/bc/Hibiki.png/266px-Hibiki.png"
-      },
-      "tag2": {
-        "id": "t0896",
-        "name": "fukumaru_koito",
-        "proper_name": "Fukumaru Koito",
-        "category": "character",
-        "encrypted_count": "fFBmaA==",
-        "copyright": "IdolMaster Shiny Colors",
+        "encrypted_count": "e1xiaw==",
+        "copyright": "Girls und Panzer",
         "material": "Anime",
-        "image_reference": "https://image.shinycolors.wiki/8/85/KoitoProfile.png"
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/7/79/Anchovy.png/revision/latest?cb=20170123061720"
       }
     },
     {
       "tag1": {
-        "id": "t0913",
-        "name": "hoshii_miki",
-        "proper_name": "Hoshii Miki",
-        "category": "character",
-        "encrypted_count": "eFNlaw==",
-        "copyright": "The Idolmaster",
+        "id": "t0430",
+        "name": "emil_chronicle_online",
+        "proper_name": "Emil Chronicle Online",
+        "category": "copyright",
+        "encrypted_count": "fFJubw==",
+        "copyright": "Emil Chronicle Online",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/millionlive/images/3/3f/Miki_Hoshii_infobox.png/revision/latest/scale-to-width-down/278?cb=20180414125723"
+        "image_reference": "https://cdn.mobygames.com/covers/9924119-emil-chronicle-online-windows-front-cover.jpg"
       },
       "tag2": {
-        "id": "t0814",
-        "name": "miyako_(blue_archive)",
-        "proper_name": "Miyako",
+        "id": "t0775",
+        "name": "satono_diamond_(umamusume)",
+        "proper_name": "Satono Diamond",
         "category": "character",
-        "encrypted_count": "fVxjaw==",
-        "copyright": "Blue Archive",
+        "encrypted_count": "fV1uaQ==",
+        "copyright": "Umamusume",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/3/3e/Miyako.png/266px-Miyako.png"
+        "image_reference": "https://anibase.net/files/9c255b349e46f9a689fdc5f6574199f5/320"
       }
     },
     {
       "tag1": {
-        "id": "t0139",
-        "name": "yoshida_yuuko",
-        "proper_name": "Yoshida Yuuko",
+        "id": "t0760",
+        "name": "tsushima_yoshiko",
+        "proper_name": "Tsushima Yoshiko",
         "category": "character",
-        "encrypted_count": "fVVvbQ==",
-        "copyright": "Machikado Mazoku",
+        "encrypted_count": "eVduaw==",
+        "copyright": "Love Live!",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Yoshida.Yuuko.(Machikado.Mazoku).full.3883983.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/44/Tsushima_Yoshiko_ALL_STARS.png/revision/latest?cb=20200323032830&path-prefix=es"
       },
       "tag2": {
-        "id": "t0825",
-        "name": "bemani",
-        "proper_name": "BEMANI",
+        "id": "t0525",
+        "name": "darling_in_the_franxx",
+        "proper_name": "Darling in the Franxx",
         "category": "copyright",
-        "encrypted_count": "e1VlYw==",
-        "copyright": "BEMANI",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e3/BEMANI_alt_logo.png/revision/latest?cb=20240414213707"
+        "encrypted_count": "eV1iYw==",
+        "copyright": "Darling in the Franxx",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/fr/8/85/Darling_in_the_Franxx_Logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0823",
-        "name": "fire_emblem:_the_binding_blade",
-        "proper_name": "Fire Emblem: The Binding Blade",
+        "id": "t0421",
+        "name": "hidamari_sketch",
+        "proper_name": "Hidamari Sketch",
         "category": "copyright",
-        "encrypted_count": "e1VlaA==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
+        "encrypted_count": "fVFhaA==",
+        "copyright": "Hidamari Sketch",
+        "material": "Anime",
+        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
       },
       "tag2": {
-        "id": "t0272",
-        "name": "kris_(deltarune)",
-        "proper_name": "Kris",
+        "id": "t0630",
+        "name": "letty_whiterock",
+        "proper_name": "Letty Whiterock",
         "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "Deltarune",
+        "encrypted_count": "el1gaw==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/deltarune/images/f/fb/Kris_LINE_sticker_artwork.png/revision/latest?cb=20201120001252"
+        "image_reference": "https://pm1.narvii.com/6315/c24bd14b452c00397597058250a72032e0353200_hq.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0346",
-        "name": "sumino_takumi",
-        "proper_name": "Sumino Takumi",
+        "id": "t0163",
+        "name": "harukawa_maki",
+        "proper_name": "Harukawa Maki",
+        "category": "character",
+        "encrypted_count": "fVZkbw==",
+        "copyright": "Project Sekai",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Harukawa.Maki.full.4175270.png"
+      },
+      "tag2": {
+        "id": "t0145",
+        "name": "lize_helesta",
+        "proper_name": "Lize Helesta",
+        "category": "character",
+        "encrypted_count": "fVdvaw==",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/1/13/Lize_Helesta_Portrait.png/revision/latest?cb=20210327042159"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0251",
+        "name": "kicchou_yachie",
+        "proper_name": "Kicchou Yachie",
+        "category": "character",
+        "encrypted_count": "fFFgbg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
+      },
+      "tag2": {
+        "id": "t0529",
+        "name": "shiina_taki",
+        "proper_name": "Shiina Taki",
+        "category": "character",
+        "encrypted_count": "e1Rvaw==",
+        "copyright": "Unknown",
+        "material": "Unknown",
+        "image_reference": "https://static.wikitide.net/houkai2ndwiki/thumb/1/12/Shiina_Taki_Awaken.webp/310px-Shiina_Taki_Awaken.webp.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0333",
+        "name": "kise_yayoi",
+        "proper_name": "Kise Yayoi",
+        "category": "character",
+        "encrypted_count": "fVRibA==",
+        "copyright": "The iDOLM@STER",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Takatsuki.Yayoi.1024.4489383.webp"
+      },
+      "tag2": {
+        "id": "t0892",
+        "name": "hero_(omori)",
+        "proper_name": "Hero",
+        "category": "character",
+        "encrypted_count": "fFZhbQ==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/f/f9/DW_Hero_Fullbody_Profile.png/revision/latest?cb=20221031041011"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0820",
+        "name": "kaedehara_kazuha",
+        "proper_name": "Kaedehara Kazuha",
         "category": "character",
         "encrypted_count": "fVxjbQ==",
-        "copyright": "KonoSuba: God's Blessing on This Wonderful World!",
-        "material": "Light Novel",
-        "image_reference": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw2bb73cab/rightstuf/9781975371135_manga-konosuba-gods-blessing-on-this-wonderful-world-fantastic-days-novel-primary.jpg"
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/a/a5/Kazuha_Karte.png/revision/latest?cb=20211123185236&path-prefix=de"
       },
       "tag2": {
-        "id": "t0691",
-        "name": "rover_(wuthering_waves)",
-        "proper_name": "Rover",
+        "id": "t0414",
+        "name": "hoshino_(swimsuit)_(blue_archive)",
+        "proper_name": "Hoshino (Swimsuit)",
         "category": "character",
-        "encrypted_count": "eldnYw==",
-        "copyright": "Wuthering Waves",
+        "encrypted_count": "fFFubg==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png/revision/latest?cb=20240420140302"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/c/c2/Hoshino_%28Swimsuit%29.png?version=25af5c07790b064540722a394002a255"
       }
     },
     {
       "tag1": {
-        "id": "t0228",
-        "name": "overlord_(maruyama)",
-        "proper_name": "Overlord",
-        "category": "copyright",
-        "encrypted_count": "e1ZibQ==",
-        "copyright": "Overlord",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Overlord_logo.png"
-      },
-      "tag2": {
-        "id": "t0224",
-        "name": "kumano_(kancolle)",
-        "proper_name": "Kumano",
+        "id": "t0662",
+        "name": "kiryuuin_satsuki",
+        "proper_name": "Kiryuuin Satsuki",
         "category": "character",
-        "encrypted_count": "fFxlbg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/9/9e/Kumano_Kan.jpg/revision/latest/scale-to-width-down/317?cb=20220811111454"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0693",
-        "name": "kemono_friends_v_project",
-        "proper_name": "Kemono Friends V Project",
-        "category": "copyright",
-        "encrypted_count": "dlJgYw==",
-        "copyright": "Kemono Friends",
-        "material": "Video Game",
-        "image_reference": "https://www.japari-library.com/images/d/d4/Logo.jpg"
-      },
-      "tag2": {
-        "id": "t0209",
-        "name": "lum",
-        "proper_name": "Lum",
-        "category": "character",
-        "encrypted_count": "elVvaw==",
-        "copyright": "Urusei Yatsura",
+        "encrypted_count": "eF1nYg==",
+        "copyright": "Kill la Kill",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/urusei/images/8/80/Lum_wikia.jpg/revision/latest?cb=20210717072234"
+        "image_reference": "https://vignette.wikia.nocookie.net/kill-la-kill/images/0/01/Satsuki_Kiryuin(1).png/revision/latest?cb=20170301220730&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0168",
+        "name": "castorice_(honkai:_star_rail)",
+        "proper_name": "Castorice",
+        "category": "character",
+        "encrypted_count": "fF1ubg==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0716",
+        "name": "ultimate_madoka",
+        "proper_name": "Ultimate Madoka",
+        "category": "character",
+        "encrypted_count": "elBmag==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://mangayo.it/31904-full_default/puella-magi-madoka-magica-ultimate-deluxe-edition-1.jpg"
+      },
+      "tag2": {
+        "id": "t0014",
+        "name": "idolmaster_cinderella_girls",
+        "proper_name": "Idolmaster Cinderella Girls",
+        "category": "copyright",
+        "encrypted_count": "f1Bma0cB",
+        "copyright": "Idolmaster Cinderella Girls",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Idolmaster_Cinderella_Girls_promo.jpg"
       }
     }
   ]
