@@ -1,176 +1,152 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-20T08:55:19.997739+00:00
-// Date: 2026-09-20
+// Generated on: 2026-09-21T09:26:24.109892+00:00
+// Date: 2026-09-21
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0816",
-        "name": "robin_(honkai:_star_rail)",
-        "proper_name": "Robin",
+        "id": "t0501",
+        "name": "ijichi_nijika",
+        "proper_name": "Ijichi Nijika",
         "category": "character",
-        "encrypted_count": "fV1naQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Character_Robin_Introduction.png/revision/latest?cb=20240312040444"
-      },
-      "tag2": {
-        "id": "t0063",
-        "name": "diluc_(genshin_impact)",
-        "proper_name": "Diluc",
-        "category": "character",
-        "encrypted_count": "fVBhag==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0737",
-        "name": "uruha_rushia",
-        "proper_name": "Uruha Rushia",
-        "category": "character",
-        "encrypted_count": "elFgbA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/b/be/Uruha_Rushia_-_Portrait_3D_01-1.png"
-      },
-      "tag2": {
-        "id": "t0562",
-        "name": "nico_robin",
-        "proper_name": "Nico Robin",
-        "category": "character",
-        "encrypted_count": "f1FuYkE=",
-        "copyright": "One Piece",
-        "material": "Manga",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/3/3f/470853-render_nicorobin.png/revision/latest?cb=20130913194656&path-prefix=pt"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0679",
-        "name": "hoshizora_rin",
-        "proper_name": "Hoshizora Rin",
-        "category": "character",
-        "encrypted_count": "eF1jbg==",
-        "copyright": "Love Live!",
+        "encrypted_count": "eFZgbA==",
+        "copyright": "Bocchi the Rock!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-fanon/images/7/72/LL-SIF-ASA-Rin.png/revision/latest?cb=20240813083711"
+        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
       },
       "tag2": {
-        "id": "t0246",
-        "name": "qiqi_(genshin_impact)",
-        "proper_name": "Qiqi",
+        "id": "t0120",
+        "name": "yuzu_(blue_archive)",
+        "proper_name": "Yuzu",
         "category": "character",
-        "encrypted_count": "fVVibQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8b/Personagem_Qiqi_Cart\u00e3o.jpg/revision/latest?cb=20210330004500&path-prefix=pt-br"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0835",
-        "name": "don_quixote_(project_moon)",
-        "proper_name": "Don Quixote",
-        "category": "character",
-        "encrypted_count": "fVNhYw==",
-        "copyright": "Project Moon",
-        "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/original/3c/f6/3cf6f87b76563d2c5a3724ec391f9976.jpg"
-      },
-      "tag2": {
-        "id": "t0889",
-        "name": "takakura_ken_(dandadan)",
-        "proper_name": "Takakura Ken",
-        "category": "character",
-        "encrypted_count": "fFJiaQ==",
-        "copyright": "Dandadan",
-        "material": "Manga",
-        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0579",
-        "name": "heartcatch_precure!",
-        "proper_name": "Heartcatch Precure!",
-        "category": "copyright",
-        "encrypted_count": "eFZnbg==",
-        "copyright": "Precure",
-        "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/de5shxw-01a69a49-e4f7-4987-b7b7-d4eda00bd7f8.png/v1/fill/w_1600,h_911/heartcatch_pretty_cure_logo_by_joshuat1306_de5shxw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kZTVzaHh3LTAxYTY5YTQ5LWU0ZjctNDk4Ny1iN2I3LWQ0ZWRhMDBiZDdmOC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CVHZAac5yav0HgjR_KGO1Yy9qGk64nAIG56xG-3f6g0"
-      },
-      "tag2": {
-        "id": "t0506",
-        "name": "shirogane_noel",
-        "proper_name": "Shirogane Noel",
-        "category": "character",
-        "encrypted_count": "eFJkaA==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/d/d1/Shirogane_Noel_3D.png/revision/latest?cb=20240901173516"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0041",
-        "name": "i-19_(kancolle)",
-        "proper_name": "I-19",
-        "category": "character",
-        "encrypted_count": "fVdvag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e9/I-19_Full.png/revision/latest/scale-to-width-down/300?cb=20180817192054"
-      },
-      "tag2": {
-        "id": "t0573",
-        "name": "nilou_(genshin_impact)",
-        "proper_name": "Nilou",
-        "category": "character",
-        "encrypted_count": "e1FgaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0170",
-        "name": "serika_(blue_archive)",
-        "proper_name": "Serika",
-        "category": "character",
-        "encrypted_count": "fF1vbA==",
+        "encrypted_count": "fVVnYw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/68195-1831388089.png"
-      },
-      "tag2": {
-        "id": "t0356",
-        "name": "sakura_miku",
-        "proper_name": "Sakura Miku",
-        "category": "character",
-        "encrypted_count": "fFNnbg==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://pm1.aminoapps.com/6321/de459a5e34e092632072e93c61dc913a84a12e05_hq.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/a/ac/Yuzu_Portrait.png/revision/latest?cb=20220420090226"
       }
     },
     {
       "tag1": {
-        "id": "t0409",
-        "name": "jeanne_d'arc_alter_(swimsuit_berserker)_(fate)",
-        "proper_name": "Jeanne d'Arc Alter (Swimsuit Berserker)",
+        "id": "t0878",
+        "name": "death_note",
+        "proper_name": "Death Note",
+        "category": "copyright",
+        "encrypted_count": "fVZjag==",
+        "copyright": "Death Note",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/12/Death-Note-Logo.jpg"
+      },
+      "tag2": {
+        "id": "t0638",
+        "name": "d.va_(overwatch)",
+        "proper_name": "D.Va",
         "category": "character",
-        "encrypted_count": "eldhbQ==",
-        "copyright": "Fate Series",
+        "encrypted_count": "e1FjbA==",
+        "copyright": "Overwatch",
         "material": "Video Game",
-        "image_reference": "https://pbs.twimg.com/media/F5bt4ELbIAAhnjv.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0952",
+        "name": "otomune_kozue",
+        "proper_name": "Kozue Otomune",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d1/Kozue_Otomune.png/revision/latest/scale-to-width-down/250?cb=20230210134757"
+      },
+      "tag2": {
+        "id": "t0709",
+        "name": "machikado_mazoku",
+        "proper_name": "Machikado Mazoku",
+        "category": "copyright",
+        "encrypted_count": "elNubg==",
+        "copyright": "Machikado Mazoku",
+        "material": "Anime",
+        "image_reference": "https://images.seeklogo.com/logo-png/46/1/machikado-mazoku-logo-png_seeklogo-463180.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0493",
+        "name": "klee_(genshin_impact)",
+        "proper_name": "Klee",
+        "category": "character",
+        "encrypted_count": "eFxnaA==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/2/25/Personagem_Klee_Cart\u00e3o.jpg/revision/latest?cb=20210325003340&path-prefix=pt-br"
+      },
+      "tag2": {
+        "id": "t0323",
+        "name": "working!!",
+        "proper_name": "Working!!",
+        "category": "copyright",
+        "encrypted_count": "fVFkaQ==",
+        "copyright": "Working!!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0418",
+        "name": "mizuno_ami",
+        "proper_name": "Mizuno Ami",
+        "category": "character",
+        "encrypted_count": "eldhYg==",
+        "copyright": "Sailor Moon",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
+      },
+      "tag2": {
+        "id": "t0072",
+        "name": "anastasia_(idolmaster)",
+        "proper_name": "Anastasia",
+        "category": "character",
+        "encrypted_count": "fVFhaA==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0646",
+        "name": "octoling_player_character",
+        "proper_name": "Octoling Player Character",
+        "category": "character",
+        "encrypted_count": "e1VkbQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/Octo_Expansion_multiplayer_gear.jpg/1200px-Octo_Expansion_multiplayer_gear.jpg"
+      },
+      "tag2": {
+        "id": "t0166",
+        "name": "dizzy_(guilty_gear)",
+        "proper_name": "Dizzy",
+        "category": "character",
+        "encrypted_count": "elVjbw==",
+        "copyright": "Guilty Gear",
+        "material": "Video Game",
+        "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0044",
+        "name": "marie_(splatoon)",
+        "proper_name": "Marie",
+        "category": "character",
+        "encrypted_count": "elNubw==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S_Marie_render_2.png"
       },
       "tag2": {
         "id": "t0289",
@@ -185,44 +161,68 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0648",
-        "name": "la+_darknesss",
-        "proper_name": "La+ Darknesss",
+        "id": "t0780",
+        "name": "ui_(blue_archive)",
+        "proper_name": "Ui",
         "category": "character",
-        "encrypted_count": "e1Znbg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6f/Illustrator_Artwork_-_holoX_01.jpg/revision/latest/scale-to-width-down/1200?cb=20230312194809"
+        "encrypted_count": "eldubA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/1/18/Ui.png?version=9d1ebe8f93c452bc3cea698a3676d4e7"
       },
       "tag2": {
-        "id": "t0130",
-        "name": "sunny_milk",
-        "proper_name": "Sunny Milk",
+        "id": "t0435",
+        "name": "akiyama_mizuki",
+        "proper_name": "Akiyama Mizuki",
         "category": "character",
-        "encrypted_count": "fFNiaw==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "fFdjbQ==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/2/22/Sunny-milk-FW.png?20101108015940"
+        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
       }
     },
     {
       "tag1": {
-        "id": "t0858",
-        "name": "yu-gi-oh!_gx",
-        "proper_name": "Yu-Gi-Oh! GX",
+        "id": "t0423",
+        "name": "brave_witches",
+        "proper_name": "Brave Witches",
         "category": "copyright",
-        "encrypted_count": "eFVjbg==",
-        "copyright": "Yu-Gi-Oh!",
+        "encrypted_count": "fVRibA==",
+        "copyright": "Brave Witches",
         "material": "Anime",
-        "image_reference": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ2fSuWXPeQEHgCTFtB4cTeraW2LcY8bBBDNRhjHv6c3LMh1hB"
+        "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
       },
       "tag2": {
-        "id": "t0249",
-        "name": "asakura_toru",
-        "proper_name": "Asakura Toru",
+        "id": "t0453",
+        "name": "carmine_(pokemon)",
+        "proper_name": "Carmine",
         "category": "character",
-        "encrypted_count": "fVRjYw==",
-        "image_reference": "https://image.shinycolors.wiki/thumb/2/2d/ToruProfile.png/400px-ToruProfile.png"
+        "encrypted_count": "fFJuag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/e/e6/Scarlet_Violet_Carmine.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0909",
+        "name": "mordred_(fate)",
+        "proper_name": "Mordred",
+        "category": "character",
+        "encrypted_count": "eFViYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/d9/13/56/d91356ac5b500a9cbeb4dfcb5c0f2a66.png"
+      },
+      "tag2": {
+        "id": "t0788",
+        "name": "hiryuu_(kancolle)",
+        "proper_name": "Hiryuu",
+        "category": "character",
+        "encrypted_count": "fVFnaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/0/05/Ship_Card_Hiryuu_Damaged.png"
       }
     }
   ]
