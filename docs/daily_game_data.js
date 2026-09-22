@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-21T09:26:24.109892+00:00
-// Date: 2026-09-21
+// Generated on: 2026-09-22T08:54:27.815657+00:00
+// Date: 2026-09-22
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0501",
-        "name": "ijichi_nijika",
-        "proper_name": "Ijichi Nijika",
+        "id": "t0172",
+        "name": "illustrious_(azur_lane)",
+        "proper_name": "Illustrious",
         "category": "character",
-        "encrypted_count": "eFZgbA==",
-        "copyright": "Bocchi the Rock!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
+        "encrypted_count": "fVdhbg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/3/39/Illustrious.png"
       },
       "tag2": {
-        "id": "t0120",
-        "name": "yuzu_(blue_archive)",
-        "proper_name": "Yuzu",
+        "id": "t0454",
+        "name": "hishikawa_rikka",
+        "proper_name": "Hishikawa Rikka",
         "category": "character",
-        "encrypted_count": "fVVnYw==",
+        "encrypted_count": "fFFubA==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://static.wikia.nocookie.net/prettycure/images/a/a7/Curediamondmain.jpg/revision/latest?cb=20121226035824"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0838",
+        "name": "hestia_(danmachi)",
+        "proper_name": "Hestia",
+        "category": "character",
+        "encrypted_count": "e1Rmbg==",
+        "copyright": "DanMachi",
+        "material": "Light Novel",
+        "image_reference": "https://static.zerochan.net/Hestia.(DanMachi).full.2789461.png"
+      },
+      "tag2": {
+        "id": "t0814",
+        "name": "miyako_(blue_archive)",
+        "proper_name": "Miyako",
+        "category": "character",
+        "encrypted_count": "fVxjaw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/a/ac/Yuzu_Portrait.png/revision/latest?cb=20220420090226"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/3/3e/Miyako.png/266px-Miyako.png"
       }
     },
     {
       "tag1": {
-        "id": "t0878",
-        "name": "death_note",
-        "proper_name": "Death Note",
-        "category": "copyright",
-        "encrypted_count": "fVZjag==",
-        "copyright": "Death Note",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2023/12/Death-Note-Logo.jpg"
-      },
-      "tag2": {
-        "id": "t0638",
-        "name": "d.va_(overwatch)",
-        "proper_name": "D.Va",
+        "id": "t0310",
+        "name": "kokona_(blue_archive)",
+        "proper_name": "Kokona",
         "category": "character",
-        "encrypted_count": "e1FjbA==",
-        "copyright": "Overwatch",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0952",
-        "name": "otomune_kozue",
-        "proper_name": "Kozue Otomune",
-        "category": "character",
-        "encrypted_count": "elJvag==",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d1/Kozue_Otomune.png/revision/latest/scale-to-width-down/250?cb=20230210134757"
-      },
-      "tag2": {
-        "id": "t0709",
-        "name": "machikado_mazoku",
-        "proper_name": "Machikado Mazoku",
-        "category": "copyright",
-        "encrypted_count": "elNubg==",
-        "copyright": "Machikado Mazoku",
-        "material": "Anime",
-        "image_reference": "https://images.seeklogo.com/logo-png/46/1/machikado-mazoku-logo-png_seeklogo-463180.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0493",
-        "name": "klee_(genshin_impact)",
-        "proper_name": "Klee",
-        "category": "character",
-        "encrypted_count": "eFxnaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/2/25/Personagem_Klee_Cart\u00e3o.jpg/revision/latest?cb=20210325003340&path-prefix=pt-br"
-      },
-      "tag2": {
-        "id": "t0323",
-        "name": "working!!",
-        "proper_name": "Working!!",
-        "category": "copyright",
-        "encrypted_count": "fVFkaQ==",
-        "copyright": "Working!!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0418",
-        "name": "mizuno_ami",
-        "proper_name": "Mizuno Ami",
-        "category": "character",
-        "encrypted_count": "eldhYg==",
-        "copyright": "Sailor Moon",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/sailormoon/images/5/58/Ami_Season_III.png/revision/latest?cb=20170203083132"
-      },
-      "tag2": {
-        "id": "t0072",
-        "name": "anastasia_(idolmaster)",
-        "proper_name": "Anastasia",
-        "category": "character",
-        "encrypted_count": "fVFhaA==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://m.project-imas.wiki/images/thumb/7/70/Anastasia_SS.png/300px-Anastasia_SS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0646",
-        "name": "octoling_player_character",
-        "proper_name": "Octoling Player Character",
-        "category": "character",
-        "encrypted_count": "e1VkbQ==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/Octo_Expansion_multiplayer_gear.jpg/1200px-Octo_Expansion_multiplayer_gear.jpg"
-      },
-      "tag2": {
-        "id": "t0166",
-        "name": "dizzy_(guilty_gear)",
-        "proper_name": "Dizzy",
-        "category": "character",
-        "encrypted_count": "elVjbw==",
-        "copyright": "Guilty Gear",
-        "material": "Video Game",
-        "image_reference": "https://guiltygear.wiki.gg/images/thumb/6/6c/Dizzy_Strive_Art.png/800px-Dizzy_Strive_Art.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0044",
-        "name": "marie_(splatoon)",
-        "proper_name": "Marie",
-        "category": "character",
-        "encrypted_count": "elNubw==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S_Marie_render_2.png"
-      },
-      "tag2": {
-        "id": "t0289",
-        "name": "seele_vollerei",
-        "proper_name": "Seele Vollerei",
-        "category": "character",
-        "encrypted_count": "fFxvbQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0780",
-        "name": "ui_(blue_archive)",
-        "proper_name": "Ui",
-        "category": "character",
-        "encrypted_count": "eldubA==",
+        "encrypted_count": "fF1vaA==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/1/18/Ui.png?version=9d1ebe8f93c452bc3cea698a3676d4e7"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/3/3b/Kokona_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20250515072948"
       },
       "tag2": {
-        "id": "t0435",
-        "name": "akiyama_mizuki",
-        "proper_name": "Akiyama Mizuki",
-        "category": "character",
-        "encrypted_count": "fFdjbQ==",
-        "copyright": "The Idolmaster",
+        "id": "t0116",
+        "name": "shadowverse",
+        "proper_name": "Shadowverse",
+        "category": "copyright",
+        "encrypted_count": "fVFmag==",
+        "copyright": "Shadowverse",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
+        "image_reference": "https://static.wikia.nocookie.net/shadowverse/images/f/f9/Top_key_logo.png/revision/latest?cb=20161011045849"
       }
     },
     {
       "tag1": {
-        "id": "t0423",
-        "name": "brave_witches",
-        "proper_name": "Brave Witches",
-        "category": "copyright",
-        "encrypted_count": "fVRibA==",
-        "copyright": "Brave Witches",
+        "id": "t0625",
+        "name": "roronoa_zoro",
+        "proper_name": "Roronoa Zoro",
+        "category": "character",
+        "encrypted_count": "eVBgYw==",
+        "copyright": "One Piece",
         "material": "Anime",
-        "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20141008195159"
       },
       "tag2": {
-        "id": "t0453",
-        "name": "carmine_(pokemon)",
-        "proper_name": "Carmine",
+        "id": "t0053",
+        "name": "dragon_quest_iii",
+        "proper_name": "Dragon Quest III",
+        "category": "copyright",
+        "encrypted_count": "eFBubg==",
+        "copyright": "Dragon Quest",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/I/91M8HM0QlDL._AC_UF1000,1000_QL80_.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0470",
+        "name": "florian_(pokemon)",
+        "proper_name": "Florian",
         "category": "character",
-        "encrypted_count": "fFJuag==",
+        "encrypted_count": "fFJubA==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/e/e6/Scarlet_Violet_Carmine.png"
+        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20230826015011/Artwork_de_Florian_y_Fuecoco.png/376px-Artwork_de_Florian_y_Fuecoco.png"
+      },
+      "tag2": {
+        "id": "t0595",
+        "name": "kanna_(blue_archive)",
+        "proper_name": "Kanna",
+        "category": "character",
+        "encrypted_count": "e1Vvag==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/47/Kanna.png?version=09ce58bc6b8b274502da1550c549a7aa"
       }
     },
     {
       "tag1": {
-        "id": "t0909",
-        "name": "mordred_(fate)",
-        "proper_name": "Mordred",
+        "id": "t0205",
+        "name": "uehara_ayumu",
+        "proper_name": "Uehara Ayumu",
         "category": "character",
-        "encrypted_count": "eFViYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d9/13/56/d91356ac5b500a9cbeb4dfcb5c0f2a66.png"
+        "encrypted_count": "el1maQ==",
+        "copyright": "Love Live! Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/250?cb=20181005192106"
       },
       "tag2": {
-        "id": "t0788",
-        "name": "hiryuu_(kancolle)",
-        "proper_name": "Hiryuu",
+        "id": "t0548",
+        "name": "phantasy_star",
+        "proper_name": "Phantasy Star",
+        "category": "copyright",
+        "encrypted_count": "eFBgaQ==",
+        "copyright": "Phantasy Star",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0664",
+        "name": "yamashiro_(kancolle)",
+        "proper_name": "Yamashiro",
         "category": "character",
-        "encrypted_count": "fVFnaQ==",
+        "encrypted_count": "eldjaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/0/05/Ship_Card_Hiryuu_Damaged.png"
+        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/6186-1139087745.png"
+      },
+      "tag2": {
+        "id": "t0766",
+        "name": "zero_two_(darling_in_the_franxx)",
+        "proper_name": "Zero Two",
+        "category": "character",
+        "encrypted_count": "e1xuaw==",
+        "copyright": "Darling in the Franxx",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/darling-in-the-franxx/images/7/72/Zero_Dwa.png/revision/latest?cb=20180428173801&path-prefix=pl"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0261",
+        "name": "mika_(girls_und_panzer)",
+        "proper_name": "Mika",
+        "category": "character",
+        "encrypted_count": "fF1lbw==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/3/36/Micahofficial.png/revision/latest?cb=20170123122312"
+      },
+      "tag2": {
+        "id": "t0602",
+        "name": "akashi_(kancolle)",
+        "proper_name": "Akashi",
+        "category": "character",
+        "encrypted_count": "elBgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/1f/Akashi.png/revision/latest?cb=20150930175545&path-prefix=protagonist"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0146",
+        "name": "nia_(xenoblade)",
+        "proper_name": "Nia",
+        "category": "character",
+        "encrypted_count": "fVxiYw==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
+      },
+      "tag2": {
+        "id": "t0854",
+        "name": "path_to_nowhere",
+        "proper_name": "Path to Nowhere",
+        "category": "copyright",
+        "encrypted_count": "fVxmaw==",
+        "copyright": "Path to Nowhere",
+        "material": "Video Game",
+        "image_reference": "https://static.jojowiki.com/images/archive/f/f2/20240126233527!Path_to_Nowhere_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0286",
+        "name": "charlotte_(madoka_magica)",
+        "proper_name": "Charlotte",
+        "category": "character",
+        "encrypted_count": "fFNvYw==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://images.puella-magi.net/b/be/Card_Charlotte.png"
+      },
+      "tag2": {
+        "id": "t0687",
+        "name": "ro-500_(kancolle)",
+        "proper_name": "Ro-500",
+        "category": "character",
+        "encrypted_count": "el1kaw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Ro-500.(Kantai.Collection).600.2131087.jpg"
       }
     }
   ]
