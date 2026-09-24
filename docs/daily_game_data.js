@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-23T08:56:41.946294+00:00
-// Date: 2026-09-23
+// Generated on: 2026-09-24T08:52:20.025358+00:00
+// Date: 2026-09-24
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0447",
-        "name": "toshinou_kyouko",
-        "proper_name": "Toshinou Kyouko",
+        "id": "t0637",
+        "name": "golden_kamuy",
+        "proper_name": "Golden Kamuy",
+        "category": "copyright",
+        "encrypted_count": "elxnbg==",
+        "copyright": "Golden Kamuy",
+        "material": "Manga",
+        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
+      },
+      "tag2": {
+        "id": "t0261",
+        "name": "mika_(girls_und_panzer)",
+        "proper_name": "Mika",
         "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "YuruYuri",
+        "encrypted_count": "fF1lbw==",
+        "copyright": "Girls und Panzer",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/yuruyuri/images/4/46/KyokoToshino-NYS3.png/revision/latest?cb=20201118084325"
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/3/36/Micahofficial.png/revision/latest?cb=20170123122312"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0561",
+        "name": "tatsuta_(kancolle)",
+        "proper_name": "Tatsuta",
+        "category": "character",
+        "encrypted_count": "elJjaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/d/d5/Ship_Card_Tatsuta_Kai_Ni.png/218px-Ship_Card_Tatsuta_Kai_Ni.png"
       },
       "tag2": {
-        "id": "t0008",
-        "name": "genshin_impact",
-        "proper_name": "Genshin Impact",
+        "id": "t0415",
+        "name": "kasumi_kai_ni_(kancolle)",
+        "proper_name": "Kasumi Kai Ni",
+        "category": "character",
+        "encrypted_count": "f1NiaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/f/f3/Ship_Card_Kasumi_Kai_Ni.png/218px-Ship_Card_Kasumi_Kai_Ni.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0707",
+        "name": "steel_ball_run",
+        "proper_name": "Steel Ball Run",
         "category": "copyright",
-        "encrypted_count": "fFNla0gA",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2602/30935168a0f21b6710dc2bd7bb37c23ed937fb9fa747d84c.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0593",
-        "name": "sukuna_shinmyoumaru",
-        "proper_name": "Sukuna Shinmyoumaru",
-        "category": "character",
-        "encrypted_count": "elBjaA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://wiki.koumakan.jp/images/shinpiroku/6/6b/ShinmyoumaruULiL.png"
+        "encrypted_count": "eldjYw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/4/4f/latest/20250412184658/Steel_Ball_Run_Anime_Logo.png?20250412184658"
       },
       "tag2": {
-        "id": "t0789",
-        "name": "tatsumaki",
-        "proper_name": "Tatsumaki",
+        "id": "t0675",
+        "name": "iono_(pokemon)",
+        "proper_name": "Iono",
         "category": "character",
-        "encrypted_count": "eVJgag==",
-        "copyright": "One Punch Man",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepunchman/images/d/d2/Tatsumaki_Manga.png/revision/latest?cb=20190907232753"
+        "encrypted_count": "eFFmaA==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/0/00/Scarlet_Violet_Iono.png/1200px-Scarlet_Violet_Iono.png"
       }
     },
     {
       "tag1": {
-        "id": "t0429",
-        "name": "pokemon_legends:_z-a",
-        "proper_name": "Pok\u00e9mon Legends: Z-A",
-        "category": "copyright",
-        "encrypted_count": "fVdiaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/4/44/Pokemon_Legends_Z-A.png/revision/latest?cb=20240227152222"
-      },
-      "tag2": {
-        "id": "t0349",
-        "name": "laffey_(azur_lane)",
-        "proper_name": "Laffey",
+        "id": "t0869",
+        "name": "inui_toko",
+        "proper_name": "Inui Toko",
         "category": "character",
-        "encrypted_count": "fFxnbg==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/2/2a/Laffey.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0307",
-        "name": "kudamaki_tsukasa",
-        "proper_name": "Kudamaki Tsukasa",
-        "category": "character",
-        "encrypted_count": "fFBjaA==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Kudamaki.Tsukasa.full.3320713.jpg"
-      },
-      "tag2": {
-        "id": "t0784",
-        "name": "akamatsu_kaede",
-        "proper_name": "Akamatsu Kaede",
-        "category": "character",
-        "encrypted_count": "eldhYw==",
-        "copyright": "Danganronpa",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0019",
-        "name": "final_fantasy",
-        "proper_name": "Final Fantasy",
-        "category": "copyright",
-        "encrypted_count": "f1ZnbkcB",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
-      },
-      "tag2": {
-        "id": "t0877",
-        "name": "atelier_ryza_1",
-        "proper_name": "Atelier Ryza 1",
-        "category": "copyright",
-        "encrypted_count": "fFFuag==",
-        "copyright": "Atelier Ryza",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0196",
-        "name": "charizard",
-        "proper_name": "Charizard",
-        "category": "character",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
-      },
-      "tag2": {
-        "id": "t0255",
-        "name": "fujita_kotone",
-        "proper_name": "Fujita Kotone",
-        "category": "character",
-        "encrypted_count": "fFxlbw==",
-        "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/7f/Kotone_Portrait.png/revision/latest?cb=20240306193455"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0459",
-        "name": "shinonome_ena",
-        "proper_name": "Shinonome Ena",
-        "category": "character",
-        "encrypted_count": "fFZgYw==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
-      },
-      "tag2": {
-        "id": "t0020",
-        "name": "hololive_english",
-        "proper_name": "Hololive English",
-        "category": "copyright",
-        "encrypted_count": "d1Vja0Y=",
-        "copyright": "Hololive English",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0145",
-        "name": "lize_helesta",
-        "proper_name": "Lize Helesta",
-        "category": "character",
-        "encrypted_count": "fVdvaw==",
+        "encrypted_count": "fFFibA==",
         "copyright": "Nijisanji",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/1/13/Lize_Helesta_Portrait.png/revision/latest?cb=20210327042159"
+        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
       },
       "tag2": {
-        "id": "t0815",
-        "name": "hakui_koyori",
-        "proper_name": "Hakui Koyori",
+        "id": "t0096",
+        "name": "mash_kyrielight_(demi-servant)",
+        "proper_name": "Mash Kyrielight",
         "category": "character",
-        "encrypted_count": "elRhaw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c2/Hakui_Koyori_Portrait.png/revision/latest?cb=20211203043838"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0505",
-        "name": "cu_chulainn_(fate)",
-        "proper_name": "Cu Chulainn",
-        "category": "character",
-        "encrypted_count": "eFVmYg==",
+        "encrypted_count": "f1Bmbw==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
-      },
-      "tag2": {
-        "id": "t0851",
-        "name": "fischl_(genshin_impact)",
-        "proper_name": "Fischl",
-        "category": "character",
-        "encrypted_count": "elVkaA==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/c/c3/Character_Fischl_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030048&path-prefix=th"
+        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
       }
     },
     {
       "tag1": {
-        "id": "t0033",
-        "name": "kemono_friends",
-        "proper_name": "Kemono Friends",
-        "category": "copyright",
-        "encrypted_count": "e1xibEg=",
-        "copyright": "Kemono Friends",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kemono_Friends_Anime_Key_Visual_Art.jpg/250px-Kemono_Friends_Anime_Key_Visual_Art.jpg"
+        "id": "t0202",
+        "name": "elizabeth_bathory_(fate)",
+        "proper_name": "Elizabeth Bathory",
+        "category": "character",
+        "encrypted_count": "fVZjaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/2/29/S018_Stage1.webp/revision/latest?cb=20220910082212"
       },
       "tag2": {
-        "id": "t0177",
-        "name": "wei_wuxian",
-        "proper_name": "Wei Wuxian",
+        "id": "t0081",
+        "name": "final_fantasy_vii_rebirth",
+        "proper_name": "Final Fantasy VII Rebirth",
+        "category": "copyright",
+        "encrypted_count": "fVxgaQ==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/75/Boxart_for_Final_Fantasy_VII_Rebirth.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0316",
+        "name": "final_fantasy_viii",
+        "proper_name": "Final Fantasy VIII",
+        "category": "copyright",
+        "encrypted_count": "fVNgaw==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://cdn.finalfantasywiki.com/b/b4/FFVIII_logo.jpg"
+      },
+      "tag2": {
+        "id": "t0408",
+        "name": "skyla_(pokemon)",
+        "proper_name": "Skyla",
         "category": "character",
-        "encrypted_count": "fVVlaQ==",
-        "copyright": "Mo Dao Zu Shi",
-        "material": "Novel",
-        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mdzs_wwx_1.png"
+        "encrypted_count": "e1Fgbg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/d/d2/Spr_Masters_Skyla.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0197",
+        "name": "trafalgar_law",
+        "proper_name": "Trafalgar Law",
+        "category": "character",
+        "encrypted_count": "elxvaA==",
+        "copyright": "One Piece",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240109232516&path-prefix=pt"
+      },
+      "tag2": {
+        "id": "t0066",
+        "name": "cyrene_(honkai:_star_rail)",
+        "proper_name": "Cyrene",
+        "category": "character",
+        "encrypted_count": "fVdhbw==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Character_Cyrene_Introduction.png/revision/latest/scale-to-width/360?cb=20250909040027"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0077",
+        "name": "higashikata_josuke",
+        "proper_name": "Higashikata Josuke",
+        "category": "character",
+        "encrypted_count": "fVdmbg==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
+      },
+      "tag2": {
+        "id": "t0915",
+        "name": "junko_(touhou)",
+        "proper_name": "Junko",
+        "category": "character",
+        "encrypted_count": "e1Fgag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fcs-vs-battle/images/a/a9/Touhou_Project_Junko_Vector.png/revision/latest/scale-to-width-down/1200?cb=20180601120243"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0699",
+        "name": "nakiri_ayame",
+        "proper_name": "Nakiri Ayame",
+        "category": "character",
+        "encrypted_count": "elNvaQ==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6a/Nakiri_Ayame_October_'24_3D.png/revision/latest?cb=20241022205421"
+      },
+      "tag2": {
+        "id": "t0495",
+        "name": "kurodani_yamame",
+        "proper_name": "Kurodani Yamame",
+        "category": "character",
+        "encrypted_count": "e1xiaA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5b/Th175Yamame.png/revision/latest?cb=20201023221601"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0949",
+        "name": "hinata_hajime",
+        "proper_name": "Hajime Hinata",
+        "category": "character",
+        "encrypted_count": "e1FjbQ==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Hajime_Hinata.png/revision/latest?cb=20171229205740&path-prefix=ro"
+      },
+      "tag2": {
+        "id": "t0669",
+        "name": "guilty_gear_xrd",
+        "proper_name": "Guilty Gear Xrd",
+        "category": "copyright",
+        "encrypted_count": "eFRhaQ==",
+        "copyright": "Guilty Gear",
+        "material": "Video Game",
+        "image_reference": "https://guiltygear.wiki.gg/images/b/b0/Guilty-Gear-Xrd-Sign-logo.png"
       }
     }
   ]
