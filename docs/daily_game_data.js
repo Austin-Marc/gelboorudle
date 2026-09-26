@@ -1,229 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-25T09:12:58.148945+00:00
-// Date: 2026-09-25
+// Generated on: 2026-09-26T08:56:28.181384+00:00
+// Date: 2026-09-26
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0426",
-        "name": "avatar_legends",
-        "proper_name": "Avatar Legends",
-        "category": "copyright",
-        "encrypted_count": "elBvaA==",
-        "copyright": "Avatar: The Last Airbender",
-        "material": "Tabletop Game",
-        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
+        "id": "t0459",
+        "name": "shinonome_ena",
+        "proper_name": "Shinonome Ena",
+        "category": "character",
+        "encrypted_count": "fFZgYw==",
+        "copyright": "D4DJ",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
       },
       "tag2": {
-        "id": "t0654",
-        "name": "xenoblade_chronicles_3",
-        "proper_name": "Xenoblade Chronicles 3",
+        "id": "t0571",
+        "name": "gintama",
+        "proper_name": "Gintama",
         "category": "copyright",
-        "encrypted_count": "e11hag==",
-        "copyright": "Xenoblade Chronicles",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/5/52/Xenoblade_Chronicles_3_HQ_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221119001600"
+        "encrypted_count": "eFNmYg==",
+        "copyright": "Gintama",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Gintama_English_Logo.png/revision/latest?cb=20210101181027"
       }
     },
     {
       "tag1": {
-        "id": "t0877",
-        "name": "atelier_ryza_1",
-        "proper_name": "Atelier Ryza 1",
-        "category": "copyright",
-        "encrypted_count": "fFFuag==",
-        "copyright": "Atelier Ryza",
+        "id": "t0066",
+        "name": "cyrene_(honkai:_star_rail)",
+        "proper_name": "Cyrene",
+        "category": "character",
+        "encrypted_count": "fVdhbw==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/atelierseries/images/e/e5/A21_Logo_Japanese.png/revision/latest/scale-to-width-down/350?cb=20190528123256"
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Character_Cyrene_Introduction.png/revision/latest/scale-to-width/360?cb=20250909040027"
       },
       "tag2": {
-        "id": "t0045",
-        "name": "seaport_princess",
-        "proper_name": "Seaport Princess",
+        "id": "t0725",
+        "name": "commander_(azur_lane)",
+        "proper_name": "Commander",
         "category": "character",
-        "encrypted_count": "fVdmYw==",
+        "encrypted_count": "fFBkYg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://wiki.wgcdn.co/images/thumb/7/73/Legends_Commander_Full_Azur_Lane_Azuma.png/440px-Legends_Commander_Full_Azur_Lane_Azuma.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0475",
+        "name": "akebono_(kancolle)",
+        "proper_name": "Akebono",
+        "category": "character",
+        "encrypted_count": "e1Jgbw==",
         "copyright": "Kantai Collection",
-        "material": "video game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/2/22/Harbour_Princess_II_Full.png/revision/latest/scale-to-width-down/300?cb=20180818160600"
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/kancolle/images/c/c8/Akebono_Kai_Spring_Bouquet_Full.png/revision/latest/scale-to-width-down/300?cb=20200427091639"
+      },
+      "tag2": {
+        "id": "t0868",
+        "name": "agnes_tachyon_(tach-nology)_(umamusume)",
+        "proper_name": "Agnes Tachyon",
+        "category": "character",
+        "encrypted_count": "fVZlag==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Agnes.Tachyon.600.3657644.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0710",
-        "name": "fire_emblem:_mystery_of_the_emblem",
-        "proper_name": "Fire Emblem: Mystery of the Emblem",
-        "category": "copyright",
-        "encrypted_count": "e1Vvag==",
-        "copyright": "Fire Emblem",
+        "id": "t0295",
+        "name": "nikki_(nikki)",
+        "proper_name": "Nikki",
+        "category": "character",
+        "encrypted_count": "fFJmaQ==",
+        "copyright": "Nikki",
         "material": "Video Game",
-        "image_reference": "https://cdn.fireemblemwiki.org/thumb/1/18/FEMN_logo.png/300px-FEMN_logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/heroe/images/1/14/Nikki_SN_sprite39.png/revision/latest?cb=20220723070732&path-prefix=es"
       },
       "tag2": {
-        "id": "t0949",
-        "name": "hinata_hajime",
-        "proper_name": "Hajime Hinata",
+        "id": "t0911",
+        "name": "morrigan_aensland",
+        "proper_name": "Morrigan Aensland",
         "category": "character",
-        "encrypted_count": "e1FjbQ==",
+        "encrypted_count": "f1RnbEU=",
+        "copyright": "Darkstalkers",
+        "material": "Video Game",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/morrigan_90.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0630",
+        "name": "letty_whiterock",
+        "proper_name": "Letty Whiterock",
+        "category": "character",
+        "encrypted_count": "el1gaw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6315/c24bd14b452c00397597058250a72032e0353200_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0634",
+        "name": "koha-ace",
+        "proper_name": "Koha-Ace",
+        "category": "copyright",
+        "encrypted_count": "elNjag==",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/5/56/Fate_GUDAGUDA_Order_Logo.png/revision/latest?cb=20220611195909"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0065",
+        "name": "ichika_(blue_archive)",
+        "proper_name": "Ichika",
+        "category": "character",
+        "encrypted_count": "fVdgYw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0804",
+        "name": "heaven_burns_red",
+        "proper_name": "Heaven Burns Red",
+        "category": "copyright",
+        "encrypted_count": "fV1vYw==",
+        "copyright": "Heaven Burns Red",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/db/Heaven_Burns_Red_cover.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0784",
+        "name": "akamatsu_kaede",
+        "proper_name": "Akamatsu Kaede",
+        "category": "character",
+        "encrypted_count": "eldhYw==",
         "copyright": "Danganronpa",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Hajime_Hinata.png/revision/latest?cb=20171229205740&path-prefix=ro"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0500",
-        "name": "kasodani_kyouko",
-        "proper_name": "Kasodani Kyouko",
-        "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Touhou Project",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/9/99/Kaede_Akamatsu_Illustration.png/revision/latest?cb=20170429155934"
+      },
+      "tag2": {
+        "id": "t0029",
+        "name": "zenless_zone_zero",
+        "proper_name": "Zenless Zone Zero",
+        "category": "copyright",
+        "encrypted_count": "e1xgb0I=",
+        "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/original/12/27/__kasodani_kyouko_touhou_drawn_by_dairi__1227d63d9dffa3f9e8e6fb34b063a87b.png?download=1"
-      },
-      "tag2": {
-        "id": "t0587",
-        "name": "reze_(chainsaw_man)",
-        "proper_name": "Reze",
-        "category": "character",
-        "encrypted_count": "e1xnaA==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/1/19/Reze_Infobox.png/revision/latest?cb=20230420070115"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Zenless_Zone_Zero_curved_box_logo.svg/250px-Zenless_Zone_Zero_curved_box_logo.svg.png"
       }
     },
     {
       "tag1": {
-        "id": "t0514",
-        "name": "darjeeling_(girls_und_panzer)",
-        "proper_name": "Darjeeling",
-        "category": "character",
-        "encrypted_count": "eFFhbA==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime"
+        "id": "t0117",
+        "name": "pokemon_rgby",
+        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
+        "category": "copyright",
+        "encrypted_count": "e11mYg==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
       },
       "tag2": {
-        "id": "t0834",
-        "name": "kiryu_coco",
-        "proper_name": "Kiryu Coco",
+        "id": "t0846",
+        "name": "kirigiri_kyoko",
+        "proper_name": "Kirigiri Kyoko",
         "category": "character",
-        "encrypted_count": "fVxjaw==",
+        "encrypted_count": "elVgbg==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0033",
+        "name": "kemono_friends",
+        "proper_name": "Kemono Friends",
+        "category": "copyright",
+        "encrypted_count": "e1xibEg=",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kemono_Friends_Anime_Key_Visual_Art.jpg/250px-Kemono_Friends_Anime_Key_Visual_Art.jpg"
+      },
+      "tag2": {
+        "id": "t0577",
+        "name": "mirko",
+        "proper_name": "Mirko",
+        "category": "character",
+        "encrypted_count": "dlZvaw==",
+        "copyright": "My Hero Academia",
+        "material": "Anime",
+        "image_reference": "https://anibase.net/files/700520fd441958ed48e83800b93815f7"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0657",
+        "name": "samidare_(kancolle)",
+        "proper_name": "Samidare",
+        "category": "character",
+        "encrypted_count": "elJgbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://cdn.donmai.us/sample/55/a3/__samidare_kantai_collection_drawn_by_dangan_kurabu__sample-55a33481aaa5fe9a23ab4c80ba009ff8.jpg"
+      },
+      "tag2": {
+        "id": "t0481",
+        "name": "ookami_mio",
+        "proper_name": "Ookami Mio",
+        "category": "character",
+        "encrypted_count": "eFxmbQ==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/c/ce/Kiryu_Coco_-_Portrait_01.png/1200px-Kiryu_Coco_-_Portrait_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0645",
-        "name": "momose_ginko",
-        "proper_name": "Momose Ginko",
-        "category": "character",
-        "encrypted_count": "elRmbg==",
-        "copyright": "Project Sekai",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/f4/Ginko_Momose_2024.webp/revision/latest/scale-to-width-down/268?cb=20240520014334&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0446",
-        "name": "saten_ruiko",
-        "proper_name": "Saten Ruiko",
-        "category": "character",
-        "encrypted_count": "fVRubg==",
-        "copyright": "Toaru Series",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/7/7f/Saten_Ruiko_Winter_Clothing_(Anime).png/revision/latest?cb=20200814135039"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0355",
-        "name": "isokaze_(kancolle)",
-        "proper_name": "Isokaze",
-        "category": "character",
-        "encrypted_count": "fFJkYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Isokaze.(Kantai.Collection).full.2420339.png"
-      },
-      "tag2": {
-        "id": "t0113",
-        "name": "bloodborne",
-        "proper_name": "Bloodborne",
-        "category": "copyright",
-        "encrypted_count": "fVBubg==",
-        "copyright": "Bloodborne",
-        "material": "Video Game",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Bloodborne-Logo.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0531",
-        "name": "xiao_(genshin_impact)",
-        "proper_name": "Xiao",
-        "category": "character",
-        "encrypted_count": "e1FjYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
-      },
-      "tag2": {
-        "id": "t0887",
-        "name": "shiomi_kotone",
-        "proper_name": "Shiomi Kotone",
-        "category": "character",
-        "encrypted_count": "fFFubQ==",
-        "copyright": "Kagurazaka's Work",
-        "material": "Anime",
-        "image_reference": "https://megatenwiki.com/images/thumb/8/8e/P3P_Kotone_Shiomi_Artwork.png/640px-P3P_Kotone_Shiomi_Artwork.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0283",
-        "name": "mother_(series)",
-        "proper_name": "Mother Series",
-        "category": "copyright",
-        "encrypted_count": "elZjaA==",
-        "copyright": "Mother Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MOTHER_1989_Boxart_%28Nintendo%29.png/1200px-MOTHER_1989_Boxart_%28Nintendo%29.png"
-      },
-      "tag2": {
-        "id": "t0557",
-        "name": "oshino_shinobu",
-        "proper_name": "Oshino Shinobu",
-        "category": "character",
-        "encrypted_count": "eF1iag==",
-        "copyright": "Monogatari Series",
-        "material": "Light Novel",
-        "image_reference": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3Tn37nBnU8-trotYrRJ690Z-_yTEtTw_yNP1pGJs0p73coRZz-4LukF74hUjWw40NbbM38KO7_t25vpTE3DmRnuvrwfKfBQ_AKFc8dBytGDN7tSt7s1bfBeU30u6hE1TdETfQZk-HpkZ/s1600/zY7EiHT.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0417",
-        "name": "akitsu_maru_(kancolle)",
-        "proper_name": "Akitsu Maru",
-        "category": "character",
-        "encrypted_count": "fFdubg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b3/166_3.png"
-      },
-      "tag2": {
-        "id": "t0130",
-        "name": "sunny_milk",
-        "proper_name": "Sunny Milk",
-        "category": "character",
-        "encrypted_count": "fFNiaw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://en.touhouwiki.net/images/2/22/Sunny-milk-FW.png?20101108015940"
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/1/18/Ookami_Mio_Portrait.png/revision/latest?cb=20200616012840"
       }
     }
   ]
