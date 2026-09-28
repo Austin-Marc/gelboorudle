@@ -1,154 +1,99 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-27T09:40:03.818067+00:00
-// Date: 2026-09-27
+// Generated on: 2026-09-28T10:20:36.423824+00:00
+// Date: 2026-09-28
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0870",
-        "name": "final_fantasy_vii_advent_children",
-        "proper_name": "Final Fantasy VII: Advent Children",
+        "id": "t0651",
+        "name": "senketsu",
+        "proper_name": "Senketsu",
+        "category": "character",
+        "encrypted_count": "eFRgaw==",
+        "copyright": "Kill la Kill",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kill-la-kill/images/6/64/Senketsu.png/revision/latest/scale-to-width-down/275?cb=20140301064639"
+      },
+      "tag2": {
+        "id": "t0905",
+        "name": "splatoon_1",
+        "proper_name": "Splatoon 1",
         "category": "copyright",
-        "encrypted_count": "fFxlaQ==",
-        "copyright": "Final Fantasy VII",
+        "encrypted_count": "eVdvYw==",
+        "copyright": "Splatoon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/b/b0/Ffviiaclogo.jpg/revision/latest?cb=20181221213823"
-      },
-      "tag2": {
-        "id": "t0471",
-        "name": "kirlia",
-        "proper_name": "Kirlia",
-        "category": "character",
-        "encrypted_count": "fVdjag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
+        "image_reference": "https://www.pngkit.com/png/full/832-8327989_splatoon-logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0181",
-        "name": "jinx_(league_of_legends)",
-        "proper_name": "Jinx",
+        "id": "t0123",
+        "name": "falin_touden",
+        "proper_name": "Falin Touden",
         "category": "character",
-        "encrypted_count": "elZmYw==",
-        "copyright": "League of Legends",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
+        "encrypted_count": "fVBmbA==",
+        "copyright": "Dungeon Meshi",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
       },
       "tag2": {
-        "id": "t0640",
-        "name": "akiyama_yukari",
-        "proper_name": "Akiyama Yukari",
+        "id": "t0493",
+        "name": "klee_(genshin_impact)",
+        "proper_name": "Klee",
         "category": "character",
-        "encrypted_count": "e1RkYw==",
-        "image_reference": "https://vignette.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png/revision/latest?cb=20170124073104"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0746",
-        "name": "yelan_(genshin_impact)",
-        "proper_name": "Yelan",
-        "category": "character",
-        "encrypted_count": "elJhYw==",
+        "encrypted_count": "eFxnaA==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
-      },
-      "tag2": {
-        "id": "t0614",
-        "name": "needy_girl_overdose",
-        "proper_name": "Needy Girl Overdose",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/2/25/Personagem_Klee_Cart\u00e3o.jpg/revision/latest?cb=20210325003340&path-prefix=pt-br"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0119",
+        "name": "maria-sama_ga_miteru",
+        "proper_name": "Maria-sama ga Miteru",
         "category": "copyright",
-        "encrypted_count": "elxhaA==",
-        "copyright": "Needy Girl Overdose",
-        "material": "Video Game",
-        "image_reference": "https://m.media-amazon.com/images/I/91KkAiUigGL._AC_SL1500_.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0098",
-        "name": "akigumo_(kancolle)",
-        "proper_name": "Akigumo",
-        "category": "character",
-        "encrypted_count": "fFxvaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e5/Akigumo_Card.png/revision/latest?cb=20180817195311"
-      },
-      "tag2": {
-        "id": "t0697",
-        "name": "sephiroth",
-        "proper_name": "Sephiroth",
-        "category": "character",
-        "encrypted_count": "e1Rnag==",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/1/17/Sephiroth_FFVII_Remake_render.png/revision/latest?cb=20200210184912&path-prefix=pt-br"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0492",
-        "name": "joseph_joestar_(young)",
-        "proper_name": "Young Joseph Joestar",
-        "category": "character",
-        "encrypted_count": "eFViag==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
-      },
-      "tag2": {
-        "id": "t0225",
-        "name": "kiyohime_(fate)",
-        "proper_name": "Kiyohime",
-        "category": "character",
-        "encrypted_count": "fVRgYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0726",
-        "name": "idolmaster_1",
-        "proper_name": "The Idolmaster",
-        "category": "copyright",
-        "encrypted_count": "elRkbA==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikiwiki.jp/to/w/idolmaster/FrontPage/::ref/logo_the_idolmaster.png?rev=5a915d03e828445793207cd3caa7d286&t=20180804233405"
-      },
-      "tag2": {
-        "id": "t0788",
-        "name": "hiryuu_(kancolle)",
-        "proper_name": "Hiryuu",
-        "category": "character",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/0/05/Ship_Card_Hiryuu_Damaged.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0544",
-        "name": "ash_ketchum",
-        "proper_name": "Ash Ketchum",
-        "category": "character",
-        "encrypted_count": "f1RgY0g=",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "fVFmbA==",
+        "copyright": "Maria-sama ga Miteru",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pokemony/images/c/cd/Ash_JN.png/revision/latest?cb=20200723225043&path-prefix=pl"
+        "image_reference": "https://static.wikia.nocookie.net/animeland-index/images/6/6a/Maria_sama_ga_miteru.jpg/revision/latest?cb=20220526195420&path-prefix=fr"
       },
       "tag2": {
+        "id": "t0514",
+        "name": "darjeeling_(girls_und_panzer)",
+        "proper_name": "Darjeeling",
+        "category": "character",
+        "encrypted_count": "eFFhbA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0940",
+        "name": "iseri_nina",
+        "proper_name": "Iseri Nina",
+        "category": "character",
+        "encrypted_count": "e1dubg==",
+        "image_reference": "https://static.wikitide.net/saimoewiki/thumb/1/11/Nina_Iseri_wiki_pfp.png/280px-Nina_Iseri_wiki_pfp.png"
+      },
+      "tag2": {
+        "id": "t0300",
+        "name": "urakaze_(kancolle)",
+        "proper_name": "Urakaze",
+        "category": "character",
+        "encrypted_count": "fFxiYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Urakaze.(Kantai.Collection).full.4330635.jpg"
+      }
+    },
+    {
+      "tag1": {
         "id": "t0704",
         "name": "raiden_mei",
         "proper_name": "Raiden Mei",
@@ -157,72 +102,126 @@ const DAILY_GAME_DATA = {
         "copyright": "Honkai Impact 3rd",
         "material": "Video Game",
         "image_reference": "https://gamepedia.cursecdn.com/honkaiimpact3_gamepedia_en/c/c6/Crimson_Impulse.png"
+      },
+      "tag2": {
+        "id": "t0399",
+        "name": "saki_(blue_archive)",
+        "proper_name": "Saki",
+        "category": "character",
+        "encrypted_count": "fFFlbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
       }
     },
     {
       "tag1": {
-        "id": "t0296",
-        "name": "zhu_yuan",
-        "proper_name": "Zhu Yuan",
+        "id": "t0036",
+        "name": "usami_sumireko",
+        "proper_name": "Usami Sumireko",
         "category": "character",
-        "encrypted_count": "fFxvYw==",
-        "copyright": "Zenless Zone Zero",
+        "encrypted_count": "fFJnaA==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Zhu.Yuan.full.4253676.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/d/d8/Th145Sumireko.png/revision/latest?cb=20151127030013"
       },
       "tag2": {
-        "id": "t0253",
-        "name": "beatrice_(umineko)",
-        "proper_name": "Beatrice",
+        "id": "t0060",
+        "name": "march_7th_(preservation)_(honkai:_star_rail)",
+        "proper_name": "March 7th (Preservation)",
         "category": "character",
-        "encrypted_count": "fVVnYg==",
-        "copyright": "Umineko no Naku Koro ni",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
+        "encrypted_count": "fVRkbQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Character_March_7th_%28Preservation%29_Splash_Art.png/revision/latest/scale-to-width/360?cb=20230525090156"
       }
     },
     {
       "tag1": {
-        "id": "t0670",
-        "name": "skullgirls",
-        "proper_name": "Skullgirls",
-        "category": "copyright",
-        "encrypted_count": "f1Nmb0g=",
-        "copyright": "Skullgirls",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/skullgirls/images/8/8c/Skullgirls_logo.png/revision/latest/scale-to-width-down/1200?cb=20150502183112"
+        "id": "t0534",
+        "name": "kaban_(kemono_friends)",
+        "proper_name": "Kaban",
+        "category": "character",
+        "encrypted_count": "e1dhbg==",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://www.japari-library.com/images/3/3e/KabanS2.png"
       },
       "tag2": {
-        "id": "t0287",
-        "name": "satsuki_(kancolle)",
-        "proper_name": "Satsuki",
+        "id": "t0171",
+        "name": "taihou_(kancolle)",
+        "proper_name": "Taihou",
         "category": "character",
-        "encrypted_count": "fFJgaQ==",
+        "encrypted_count": "fVRmaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
+        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b1/Ship_Card_Taihou_Damaged.png"
       }
     },
     {
       "tag1": {
-        "id": "t0235",
-        "name": "kara_no_kyoukai",
-        "proper_name": "Kara no Kyoukai",
+        "id": "t0881",
+        "name": "final_fantasy_iv",
+        "proper_name": "Final Fantasy IV",
         "category": "copyright",
-        "encrypted_count": "fVZvaA==",
-        "copyright": "Kara no Kyoukai",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/f/f0/KnK_logo.png/revision/latest?cb=20130716091824"
+        "encrypted_count": "fVxmbA==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://cdn.finalfantasywiki.com/f/fe/FFIV_logo.png"
       },
       "tag2": {
-        "id": "t0577",
-        "name": "mirko",
-        "proper_name": "Mirko",
+        "id": "t0932",
+        "name": "son_goku",
+        "proper_name": "Son Goku",
         "category": "character",
-        "encrypted_count": "dlZvaw==",
+        "encrypted_count": "dlJlYg==",
+        "copyright": "Dragon Ball",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/dragon-ball-super1627/images/4/44/Goku_base_form.png/revision/latest/scale-to-width-down/300?cb=20160410013838"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0827",
+        "name": "hifumi_(blue_archive)",
+        "proper_name": "Hifumi",
+        "category": "character",
+        "encrypted_count": "fV1kbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Ajitani.Hifumi.600.3693607.jpg"
+      },
+      "tag2": {
+        "id": "t0013",
+        "name": "honkai_(series)",
+        "proper_name": "Honkai Series",
+        "category": "copyright",
+        "encrypted_count": "f1dgbEkC",
+        "copyright": "Honkai Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/da/Honkai_Impact_3rd_logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0684",
+        "name": "uraraka_ochaco",
+        "proper_name": "Uraraka Ochaco",
+        "category": "character",
+        "encrypted_count": "dl1lbQ==",
         "copyright": "My Hero Academia",
         "material": "Anime",
-        "image_reference": "https://anibase.net/files/700520fd441958ed48e83800b93815f7"
+        "image_reference": "https://static.wikia.nocookie.net/boku-no-hero-academia-italia/images/6/66/Ochaco27s_second_hero_costume_28anime29.png/revision/latest?cb=20210926181953&path-prefix=it"
+      },
+      "tag2": {
+        "id": "t0167",
+        "name": "arima_kana",
+        "proper_name": "Arima Kana",
+        "category": "character",
+        "encrypted_count": "fVdmbA==",
+        "copyright": "Kagurazaka Kyouka",
+        "material": "Anime",
+        "image_reference": "https://i.pinimg.com/originals/b8/54/67/b854676be50d9e15483c0aac5c85901b.png"
       }
     }
   ]
