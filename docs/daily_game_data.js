@@ -1,152 +1,197 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-09-29T10:15:24.818357+00:00
-// Date: 2026-09-29
+// Generated on: 2026-09-30T10:06:36.048594+00:00
+// Date: 2026-09-30
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0104",
-        "name": "luna_child",
-        "proper_name": "Luna Child",
+        "id": "t0303",
+        "name": "kiyoshimo_(kancolle)",
+        "proper_name": "Kiyoshimo",
         "category": "character",
-        "encrypted_count": "fFNvbw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png/revision/latest?cb=20241205032544"
-      },
-      "tag2": {
-        "id": "t0568",
-        "name": "kamitsubaki_studio",
-        "proper_name": "Kamitsubaki Studio",
-        "category": "copyright",
-        "encrypted_count": "e1dnbw==",
-        "copyright": "Kamitsubaki Studio",
-        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/01/Company-Logo_KAMITSUBAKI-STUDIO.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0613",
-        "name": "the_hundred_line_-last_defense_academy-",
-        "proper_name": "The Hundred Line -Last Defense Academy-",
-        "category": "copyright",
-        "encrypted_count": "dlZgbw==",
-        "copyright": "The Hundred Line -Last Defense Academy-",
-        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
-      },
-      "tag2": {
-        "id": "t0606",
-        "name": "serena_(pokemon)",
-        "proper_name": "Serena",
-        "category": "character",
-        "encrypted_count": "dlZnbg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/7/7f/Serena_(anime_XY)_3.png/revision/latest?cb=20150527212218"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0638",
-        "name": "d.va_(overwatch)",
-        "proper_name": "D.Va",
-        "category": "character",
-        "encrypted_count": "e1FjbA==",
-        "copyright": "Overwatch",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
-      },
-      "tag2": {
-        "id": "t0494",
-        "name": "amane_kanata",
-        "proper_name": "Amane Kanata",
-        "category": "character",
-        "encrypted_count": "eFFlbQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/3/36/Amane_Kanata_-_Portrait_01.png/1200px-Amane_Kanata_-_Portrait_01.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0570",
-        "name": "fullmetal_alchemist",
-        "proper_name": "Fullmetal Alchemist",
-        "category": "copyright",
-        "encrypted_count": "eVVubg==",
-        "copyright": "Fullmetal Alchemist",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/a/a6/FMA_logo.jpg/revision/latest?cb=20130923075031"
-      },
-      "tag2": {
-        "id": "t0659",
-        "name": "kasumi_(kancolle)",
-        "proper_name": "Kasumi",
-        "category": "character",
-        "encrypted_count": "elFibQ==",
+        "encrypted_count": "fFJvbg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/6b/Kasumi.png/revision/latest?cb=20150606171159&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0079",
-        "name": "zeta_gundam",
-        "proper_name": "Mobile Suit Zeta Gundam",
-        "category": "copyright",
-        "encrypted_count": "elFnbg==",
-        "copyright": "Mobile Suit Gundam",
-        "material": "Anime",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BNTRlYzIwYmYtMzUzYy00YmFmLTllMjItOWYzYmNmYjQ2YmI5XkEyXkFqcGc@._V1_.jpg"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/34133-1254423722.png"
       },
       "tag2": {
-        "id": "t0389",
-        "name": "mega_gardevoir",
-        "proper_name": "Mega Gardevoir",
-        "category": "character",
-        "encrypted_count": "fF1iYg==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/66/d5/17/66d517e6be088e8593678091fe19277a.png"
+        "id": "t0957",
+        "name": "clannad",
+        "proper_name": "Clannad",
+        "category": "copyright",
+        "encrypted_count": "eFZgag==",
+        "copyright": "Clannad",
+        "material": "Visual Novel",
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/dedbbd60c592c7adb64f8ef8f0a025dc.png"
       }
     },
     {
       "tag1": {
-        "id": "t0004",
-        "name": "blue_archive",
-        "proper_name": "Blue Archive",
-        "category": "copyright",
-        "encrypted_count": "fVBibUgC",
+        "id": "t0097",
+        "name": "kikyou_(blue_archive)",
+        "proper_name": "Kikyou",
+        "category": "character",
+        "encrypted_count": "fVRubg==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/8/84/Kikyou_Portrait.png/revision/latest?cb=20231122112635"
       },
       "tag2": {
-        "id": "t0810",
-        "name": "furude_rika",
-        "proper_name": "Furude Rika",
+        "id": "t0047",
+        "name": "akari_(pokemon)",
+        "proper_name": "Akari",
         "category": "character",
-        "encrypted_count": "elBhYg==",
-        "copyright": "Higurashi When They Cry",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/when-they-cry/images/e/ee/RikaGou.png/revision/latest?cb=20210202063349&path-prefix=pt-br"
+        "encrypted_count": "fV1jaQ==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/3/38/Legends_Arceus_Akari.png/1200px-Legends_Arceus_Akari.png"
       }
     },
     {
       "tag1": {
-        "id": "t0317",
-        "name": "shining_nikki",
-        "proper_name": "Shining Nikki",
+        "id": "t0546",
+        "name": "queen's_blade",
+        "proper_name": "Queen's Blade",
         "category": "copyright",
-        "encrypted_count": "fFNgbw==",
-        "copyright": "Shining Nikki",
-        "material": "Mobile Game",
-        "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
+        "encrypted_count": "f1Bna0M=",
+        "copyright": "Queen's Blade",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
+      },
+      "tag2": {
+        "id": "t0490",
+        "name": "tartaglia_(genshin_impact)",
+        "proper_name": "Tartaglia",
+        "category": "character",
+        "encrypted_count": "eVJiag==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png/revision/latest?cb=20201106023840"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0824",
+        "name": "hellaverse",
+        "proper_name": "Hellaverse",
+        "category": "copyright",
+        "encrypted_count": "elVlbg==",
+        "copyright": "Hellaverse",
+        "image_reference": "https://d1m9vqlvl3fy94.cloudfront.net/project/attachment/287217/947776hellaverselogo.jpg"
+      },
+      "tag2": {
+        "id": "t0658",
+        "name": "silence_suzuka_(umamusume)",
+        "proper_name": "Silence Suzuka",
+        "category": "character",
+        "encrypted_count": "eldgYg==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/uma-musume-pretty-derby/images/c/c1/Silence_Suzuka_(Stage).png/revision/latest?cb=20220724182241"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0178",
+        "name": "tsukishiro_yanagi",
+        "proper_name": "Tsukishiro Yanagi",
+        "category": "character",
+        "encrypted_count": "fFxubg==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cb/Agent_Tsukishiro_Yanagi_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20241106030347"
+      },
+      "tag2": {
+        "id": "t0016",
+        "name": "love_live!",
+        "proper_name": "Love Live!",
+        "category": "copyright",
+        "encrypted_count": "f1NjbEAH",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b9/Love_Live%21_promotional_image.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0424",
+        "name": "spider-verse",
+        "proper_name": "Spider-Verse",
+        "category": "copyright",
+        "encrypted_count": "fVVubg==",
+        "copyright": "Marvel Comics",
+        "material": "Comic",
+        "image_reference": "https://cdn.freelogovectors.net/wp-content/uploads/2023/10/spider_man-across-the-spider-verse-logo-freelogovectors.net_.png"
+      },
+      "tag2": {
+        "id": "t0324",
+        "name": "tate_no_yuusha_no_nariagari",
+        "proper_name": "Tate no Yuusha no Nariagari",
+        "category": "copyright",
+        "encrypted_count": "fVNjaQ==",
+        "copyright": "Tate no Yuusha no Nariagari",
+        "material": "Light Novel",
+        "image_reference": "https://vectorseek.com/wp-content/uploads/2023/11/Tate-no-Yuusha-no-Nariagari-Logo-Vector.svg-.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0557",
+        "name": "oshino_shinobu",
+        "proper_name": "Oshino Shinobu",
+        "category": "character",
+        "encrypted_count": "eF1iag==",
+        "copyright": "Monogatari Series",
+        "material": "Light Novel",
+        "image_reference": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3Tn37nBnU8-trotYrRJ690Z-_yTEtTw_yNP1pGJs0p73coRZz-4LukF74hUjWw40NbbM38KO7_t25vpTE3DmRnuvrwfKfBQ_AKFc8dBytGDN7tSt7s1bfBeU30u6hE1TdETfQZk-HpkZ/s1600/zY7EiHT.jpg"
+      },
+      "tag2": {
+        "id": "t0419",
+        "name": "dark_souls_i",
+        "proper_name": "Dark Souls I",
+        "category": "copyright",
+        "encrypted_count": "fVVuYg==",
+        "copyright": "Dark Souls",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Dark_Souls_Cover_Art.jpg/250px-Dark_Souls_Cover_Art.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0100",
+        "name": "katyusha_(girls_und_panzer)",
+        "proper_name": "Katyusha",
+        "category": "character",
+        "encrypted_count": "fVZkaw==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/c/ce/Katyusha.png/revision/latest?cb=20170123061132"
+      },
+      "tag2": {
+        "id": "t0315",
+        "name": "curren_chan_(umamusume)",
+        "proper_name": "Curren Chan",
+        "category": "character",
+        "encrypted_count": "fFFiYg==",
+        "copyright": "Uma Musume Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Curren.Chan.full.3657664.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0111",
+        "name": "iskandar_(fate)",
+        "proper_name": "Iskandar",
+        "category": "character",
+        "encrypted_count": "fVRuYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/02/7a/51/027a5120100b54ed0470eadcdb54594a.png"
       },
       "tag2": {
         "id": "t0597",
@@ -161,68 +206,24 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0734",
-        "name": "lily_white",
-        "proper_name": "Lily White",
+        "id": "t0313",
+        "name": "natsu_(blue_archive)",
+        "proper_name": "Natsu",
         "category": "character",
-        "encrypted_count": "elZuYw==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "fFNkaw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fumo-city/images/7/7a/Lilywhitesbf.png/revision/latest?cb=20241003014301"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/9/90/Natsu.png"
       },
       "tag2": {
-        "id": "t0499",
-        "name": "mahou_shoujo_lyrical_nanoha_a's",
-        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
-        "category": "copyright",
-        "encrypted_count": "eFFjbg==",
-        "copyright": "Magical Girl Lyrical Nanoha",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0379",
-        "name": "female_rover_(wuthering_waves)",
-        "proper_name": "Female Rover",
+        "id": "t0736",
+        "name": "sagisawa_fumika",
+        "proper_name": "Sagisawa Fumika",
         "category": "character",
-        "encrypted_count": "fFFnbw==",
-        "copyright": "Wuthering Waves",
+        "encrypted_count": "elFhbw==",
+        "copyright": "The Idolmaster",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Rover.(Female).full.3915197.jpg"
-      },
-      "tag2": {
-        "id": "t0626",
-        "name": "shiranui_(kancolle)",
-        "proper_name": "Shiranui",
-        "category": "character",
-        "encrypted_count": "elJkaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/736x/a4/09/63/a4096367108d3f3fd39fbe4c3ca1bb30.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0466",
-        "name": "clorinde_(genshin_impact)",
-        "proper_name": "Clorinde",
-        "category": "character",
-        "encrypted_count": "fFBiaQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Clorinde_Introduction_Card.png/revision/latest?cb=20240422100307"
-      },
-      "tag2": {
-        "id": "t0739",
-        "name": "wise_(zenless_zone_zero)",
-        "proper_name": "Wise",
-        "category": "character",
-        "encrypted_count": "fVNkaA==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e8/Agent_Wise_Portrait.png/revision/latest?cb=20240707002534"
+        "image_reference": "https://project-imas.wiki/images/thumb/1/1d/Cinderella_master_031_cover.jpg/1200px-Cinderella_master_031_cover.jpg"
       }
     }
   ]
