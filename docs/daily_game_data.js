@@ -1,230 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-01T10:35:23.150866+00:00
-// Date: 2026-10-01
+// Generated on: 2026-10-02T10:09:57.097904+00:00
+// Date: 2026-10-02
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0229",
-        "name": "nichijou",
-        "proper_name": "Nichijou",
-        "category": "copyright",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Nichijou",
-        "material": "Anime",
-        "image_reference": "https://nichijou.wiki.gg/images/e/e6/Site-logo.png"
+        "id": "t0725",
+        "name": "commander_(azur_lane)",
+        "proper_name": "Commander",
+        "category": "character",
+        "encrypted_count": "fFBkYg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://wiki.wgcdn.co/images/thumb/7/73/Legends_Commander_Full_Azur_Lane_Azuma.png/440px-Legends_Commander_Full_Azur_Lane_Azuma.png"
       },
       "tag2": {
-        "id": "t0928",
-        "name": "rensouhou-chan",
-        "proper_name": "Rensouhou-chan",
-        "category": "character",
-        "encrypted_count": "e11jaA==",
-        "copyright": "Girls und Panzer",
+        "id": "t0281",
+        "name": "happinesscharge_precure!",
+        "proper_name": "HappinessCharge Precure!",
+        "category": "copyright",
+        "encrypted_count": "fVZubg==",
+        "copyright": "HappinessCharge Precure!",
         "material": "Anime",
-        "image_reference": "https://pm1.narvii.com/6354/7519811fa279795bd39dd0a3a2437bdc061fbaaa_hq.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/prettycureseries/images/4/43/HappinessChargePrettyCureLogo1.jpg/revision/latest?cb=20160704142946&path-prefix=pl"
       }
     },
     {
       "tag1": {
-        "id": "t0887",
-        "name": "shiomi_kotone",
-        "proper_name": "Shiomi Kotone",
+        "id": "t0165",
+        "name": "z1_leberecht_maass_(kancolle)",
+        "proper_name": "Z1 Leberecht Maass",
         "category": "character",
-        "encrypted_count": "fFFubQ==",
-        "copyright": "Kagurazaka's Work",
-        "material": "Anime",
-        "image_reference": "https://megatenwiki.com/images/thumb/8/8e/P3P_Kotone_Shiomi_Artwork.png/640px-P3P_Kotone_Shiomi_Artwork.png"
-      },
-      "tag2": {
-        "id": "t0368",
-        "name": "black_swan_(honkai:_star_rail)",
-        "proper_name": "Black Swan",
-        "category": "character",
-        "encrypted_count": "fFFvbA==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Character_Black_Swan_Introduction.png/revision/latest?cb=20231212041201"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0748",
-        "name": "the_legend_of_zelda:_twilight_princess",
-        "proper_name": "The Legend of Zelda: Twilight Princess",
-        "category": "copyright",
-        "encrypted_count": "eVVmaA==",
-        "copyright": "The Legend of Zelda",
-        "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/c/c3/TP_White_Logo.png/1200px-TP_White_Logo.png"
-      },
-      "tag2": {
-        "id": "t0657",
-        "name": "samidare_(kancolle)",
-        "proper_name": "Samidare",
-        "category": "character",
-        "encrypted_count": "elJgbg==",
+        "encrypted_count": "fVRhbA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/sample/55/a3/__samidare_kantai_collection_drawn_by_dangan_kurabu__sample-55a33481aaa5fe9a23ab4c80ba009ff8.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0109",
-        "name": "weiss_schnee",
-        "proper_name": "Weiss Schnee",
-        "category": "character",
-        "encrypted_count": "elNkbQ==",
-        "copyright": "RWBY",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png/revision/latest?cb=20241205032544"
+        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
       },
       "tag2": {
-        "id": "t0793",
-        "name": "jane_doe_(zenless_zone_zero)",
-        "proper_name": "Jane Doe",
-        "category": "character",
-        "encrypted_count": "elZiag==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Agent_Jane_Doe_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240712062618"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0270",
-        "name": "izumi_sagiri",
-        "proper_name": "Izumi Sagiri",
-        "category": "character",
-        "encrypted_count": "fVNvbA==",
-        "copyright": "Eromanga Sensei",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/eromanga/images/1/19/Sagiri_Izumi_anime.jpg/revision/latest?cb=20211121182256"
-      },
-      "tag2": {
-        "id": "t0669",
-        "name": "guilty_gear_xrd",
-        "proper_name": "Guilty Gear Xrd",
+        "id": "t0186",
+        "name": "ado_(utaite)",
+        "proper_name": "Ado",
         "category": "copyright",
-        "encrypted_count": "eFRhaQ==",
-        "copyright": "Guilty Gear",
-        "material": "Video Game",
-        "image_reference": "https://guiltygear.wiki.gg/images/b/b0/Guilty-Gear-Xrd-Sign-logo.png"
+        "encrypted_count": "fVVubA==",
+        "copyright": "Ado",
+        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0076",
-        "name": "karin_(bunny)_(blue_archive)",
-        "proper_name": "Karin (Bunny)",
+        "id": "t0466",
+        "name": "clorinde_(genshin_impact)",
+        "proper_name": "Clorinde",
         "category": "character",
-        "encrypted_count": "fVJubg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/d/de/Karin_Bunny_Girl_Portrait.png/revision/latest?cb=20211001143254"
-      },
-      "tag2": {
-        "id": "t0603",
-        "name": "kikuchi_makoto",
-        "proper_name": "Kikuchi Makoto",
-        "category": "character",
-        "encrypted_count": "e1JiYw==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/d/d1/Normal_Makoto_Kikuchi_Mobage_Transparent.png/revision/latest?cb=20190202042832"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0728",
-        "name": "little_witch_academia",
-        "proper_name": "Little Witch Academia",
-        "category": "copyright",
-        "encrypted_count": "eVZhbA==",
-        "copyright": "Little Witch Academia",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/Little_Witch_Academia_Logo.png/revision/latest?cb=20230313220247"
-      },
-      "tag2": {
-        "id": "t0041",
-        "name": "i-19_(kancolle)",
-        "proper_name": "I-19",
-        "category": "character",
-        "encrypted_count": "fVdvag==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e9/I-19_Full.png/revision/latest/scale-to-width-down/300?cb=20180817192054"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0216",
-        "name": "i-401_(kancolle)",
-        "proper_name": "I-401",
-        "category": "character",
-        "encrypted_count": "fFxhbA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/35/Ship_Card_I-401.png/218px-Ship_Card_I-401.png"
-      },
-      "tag2": {
-        "id": "t0474",
-        "name": "seia_(blue_archive)",
-        "proper_name": "Seia",
-        "category": "character",
-        "encrypted_count": "eFdhYg==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/46/Seia.png?version=fbe732a3685f04d8148ab32bce834791"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0176",
-        "name": "raora_panthera",
-        "proper_name": "Raora Panthera",
-        "category": "character",
-        "encrypted_count": "fVRmaA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
-      },
-      "tag2": {
-        "id": "t0901",
-        "name": "inugami_korone",
-        "proper_name": "Inugami Korone",
-        "category": "character",
-        "encrypted_count": "eFdmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c6/Inugami_Korone_Portrait.png/revision/latest?cb=20200609201058"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0490",
-        "name": "tartaglia_(genshin_impact)",
-        "proper_name": "Tartaglia",
-        "category": "character",
-        "encrypted_count": "eVJiag==",
+        "encrypted_count": "fFBiaQ==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png/revision/latest?cb=20201106023840"
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Clorinde_Introduction_Card.png/revision/latest?cb=20240422100307"
       },
       "tag2": {
-        "id": "t0117",
-        "name": "pokemon_rgby",
-        "proper_name": "Pok\u00e9mon Ruby and Sapphire",
+        "id": "t0422",
+        "name": "ultra_series",
+        "proper_name": "Ultra Series",
         "category": "copyright",
-        "encrypted_count": "e11mYg==",
-        "copyright": "Pok\u00e9mon",
+        "encrypted_count": "fVViYw==",
+        "copyright": "Ultraman",
+        "material": "TV Show",
+        "image_reference": "https://static.wikia.nocookie.net/ultramananthology/images/7/7a/Ultraman_Series_Official_Logo.png/revision/latest?cb=20210118211502"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0322",
+        "name": "cookie_run:_kingdom",
+        "proper_name": "Cookie Run: Kingdom",
+        "category": "copyright",
+        "encrypted_count": "fFNiaQ==",
+        "copyright": "Cookie Run: Kingdom",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/2/28/Pok\u00e9mon_the_Series_Ruby_and_Sapphire_logo.png"
+        "image_reference": "https://videogamedatabank.com/application/files/1516/1212/6345/cookie_run_kingdom_logo.png"
+      },
+      "tag2": {
+        "id": "t0158",
+        "name": "amber_(genshin_impact)",
+        "proper_name": "Amber",
+        "category": "character",
+        "encrypted_count": "fVJmYw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest?cb=20220725204839"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0631",
+        "name": "dark_souls_(series)",
+        "proper_name": "Dark Souls Series",
+        "category": "copyright",
+        "encrypted_count": "eFVlYg==",
+        "copyright": "Dark Souls Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dark_Souls_Cover_Art.jpg"
+      },
+      "tag2": {
+        "id": "t0571",
+        "name": "gintama",
+        "proper_name": "Gintama",
+        "category": "copyright",
+        "encrypted_count": "eFNmYg==",
+        "copyright": "Gintama",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Gintama_English_Logo.png/revision/latest?cb=20210101181027"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0452",
+        "name": "ump9_(girls'_frontline)",
+        "proper_name": "UMP9",
+        "category": "character",
+        "encrypted_count": "fFBvaw==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/UMP9.(Girls.Frontline).full.3776038.jpg"
+      },
+      "tag2": {
+        "id": "t0431",
+        "name": "hayate_no_gotoku!",
+        "proper_name": "Hayate no Gotoku!",
+        "category": "copyright",
+        "encrypted_count": "fVxubQ==",
+        "copyright": "Hayate no Gotoku!",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0833",
+        "name": "silver_wolf_(honkai:_star_rail)",
+        "proper_name": "Silver Wolf",
+        "category": "character",
+        "encrypted_count": "fVxlYg==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/06/07/Honkai-Star-Rail-Silver-Wolf-Ascension-Trace-materials.jpg"
+      },
+      "tag2": {
+        "id": "t0570",
+        "name": "fullmetal_alchemist",
+        "proper_name": "Fullmetal Alchemist",
+        "category": "copyright",
+        "encrypted_count": "eVVubg==",
+        "copyright": "Fullmetal Alchemist",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/a/a6/FMA_logo.jpg/revision/latest?cb=20130923075031"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0451",
+        "name": "albedo_(genshin_impact)",
+        "proper_name": "Albedo",
+        "category": "character",
+        "encrypted_count": "fFBlaw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest?cb=20210302092013"
+      },
+      "tag2": {
+        "id": "t0223",
+        "name": "matsuura_kanan",
+        "proper_name": "Matsuura Kanan",
+        "category": "character",
+        "encrypted_count": "e1Rhag==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0797",
+        "name": "oguri_cap_(umamusume)",
+        "proper_name": "Oguri Cap",
+        "category": "character",
+        "encrypted_count": "fVBmbw==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/e/e7/Oguri_cap_new.png/revision/latest?cb=20181030225520"
+      },
+      "tag2": {
+        "id": "t0526",
+        "name": "girls'_frontline_2:_exilium",
+        "proper_name": "Girls' Frontline 2: Exilium",
+        "category": "copyright",
+        "encrypted_count": "e1Jgbg==",
+        "copyright": "Girls' Frontline 2: Exilium",
+        "material": "Video Game",
+        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0385",
+        "name": "yang_xiao_long",
+        "proper_name": "Yang Xiao Long",
+        "category": "character",
+        "encrypted_count": "elVlaA==",
+        "copyright": "RWBY",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/rwby/images/8/89/Yang-v8-infobox.png/revision/latest/scale-to-width-down/1200?cb=20200726010350"
+      },
+      "tag2": {
+        "id": "t0215",
+        "name": "kuma_(kancolle)",
+        "proper_name": "Kuma",
+        "category": "character",
+        "encrypted_count": "fFJuYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
       }
     }
   ]
