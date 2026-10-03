@@ -1,229 +1,226 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-02T10:09:57.097904+00:00
-// Date: 2026-10-02
+// Generated on: 2026-10-03T09:32:15.123061+00:00
+// Date: 2026-10-03
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0725",
-        "name": "commander_(azur_lane)",
-        "proper_name": "Commander",
-        "category": "character",
-        "encrypted_count": "fFBkYg==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://wiki.wgcdn.co/images/thumb/7/73/Legends_Commander_Full_Azur_Lane_Azuma.png/440px-Legends_Commander_Full_Azur_Lane_Azuma.png"
+        "id": "t0613",
+        "name": "the_hundred_line_-last_defense_academy-",
+        "proper_name": "The Hundred Line -Last Defense Academy-",
+        "category": "copyright",
+        "encrypted_count": "dlZgbw==",
+        "copyright": "The Hundred Line -Last Defense Academy-",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
       },
       "tag2": {
-        "id": "t0281",
-        "name": "happinesscharge_precure!",
-        "proper_name": "HappinessCharge Precure!",
+        "id": "t0654",
+        "name": "xenoblade_chronicles_3",
+        "proper_name": "Xenoblade Chronicles 3",
         "category": "copyright",
-        "encrypted_count": "fVZubg==",
-        "copyright": "HappinessCharge Precure!",
+        "encrypted_count": "e11hag==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/5/52/Xenoblade_Chronicles_3_HQ_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221119001600"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0071",
+        "name": "nicole_demara",
+        "proper_name": "Nicole Demara",
+        "category": "character",
+        "encrypted_count": "fVJibQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Agent_Nicole_Demara_Portrait.png/revision/latest?cb=20240707011646"
+      },
+      "tag2": {
+        "id": "t0026",
+        "name": "gundam",
+        "proper_name": "Gundam",
+        "category": "copyright",
+        "encrypted_count": "eVNmaEY=",
+        "copyright": "Gundam",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/prettycureseries/images/4/43/HappinessChargePrettyCureLogo1.jpg/revision/latest?cb=20160704142946&path-prefix=pl"
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjQ3MmU1M2QtODc5My00MDhkLWEwZmItMGM2ODUzODA2YzY0XkEyXkFqcGc@._V1_.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0165",
-        "name": "z1_leberecht_maass_(kancolle)",
-        "proper_name": "Z1 Leberecht Maass",
+        "id": "t0568",
+        "name": "kamitsubaki_studio",
+        "proper_name": "Kamitsubaki Studio",
+        "category": "copyright",
+        "encrypted_count": "e1dnbw==",
+        "copyright": "Kamitsubaki Studio",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/01/Company-Logo_KAMITSUBAKI-STUDIO.png"
+      },
+      "tag2": {
+        "id": "t0038",
+        "name": "super_sonico",
+        "proper_name": "Super Sonico",
         "category": "character",
-        "encrypted_count": "fVRhbA==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
-      },
-      "tag2": {
-        "id": "t0186",
-        "name": "ado_(utaite)",
-        "proper_name": "Ado",
-        "category": "copyright",
-        "encrypted_count": "fVVubA==",
-        "copyright": "Ado",
-        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0466",
-        "name": "clorinde_(genshin_impact)",
-        "proper_name": "Clorinde",
-        "category": "character",
-        "encrypted_count": "fFBiaQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Clorinde_Introduction_Card.png/revision/latest?cb=20240422100307"
-      },
-      "tag2": {
-        "id": "t0422",
-        "name": "ultra_series",
-        "proper_name": "Ultra Series",
-        "category": "copyright",
-        "encrypted_count": "fVViYw==",
-        "copyright": "Ultraman",
-        "material": "TV Show",
-        "image_reference": "https://static.wikia.nocookie.net/ultramananthology/images/7/7a/Ultraman_Series_Official_Logo.png/revision/latest?cb=20210118211502"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0322",
-        "name": "cookie_run:_kingdom",
-        "proper_name": "Cookie Run: Kingdom",
-        "category": "copyright",
-        "encrypted_count": "fFNiaQ==",
-        "copyright": "Cookie Run: Kingdom",
-        "material": "Video Game",
-        "image_reference": "https://videogamedatabank.com/application/files/1516/1212/6345/cookie_run_kingdom_logo.png"
-      },
-      "tag2": {
-        "id": "t0158",
-        "name": "amber_(genshin_impact)",
-        "proper_name": "Amber",
-        "category": "character",
-        "encrypted_count": "fVJmYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest?cb=20220725204839"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0631",
-        "name": "dark_souls_(series)",
-        "proper_name": "Dark Souls Series",
-        "category": "copyright",
-        "encrypted_count": "eFVlYg==",
-        "copyright": "Dark Souls Series",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dark_Souls_Cover_Art.jpg"
-      },
-      "tag2": {
-        "id": "t0571",
-        "name": "gintama",
-        "proper_name": "Gintama",
-        "category": "copyright",
-        "encrypted_count": "eFNmYg==",
-        "copyright": "Gintama",
+        "encrypted_count": "e1dkbQ==",
+        "copyright": "Super Sonico",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Gintama_English_Logo.png/revision/latest?cb=20210101181027"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Supersonicocharacter.jpg/250px-Supersonicocharacter.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0452",
-        "name": "ump9_(girls'_frontline)",
-        "proper_name": "UMP9",
+        "id": "t0206",
+        "name": "blue_oak",
+        "proper_name": "Blue Oak",
         "category": "character",
-        "encrypted_count": "fFBvaw==",
-        "copyright": "Girls' Frontline",
+        "encrypted_count": "fF1nYg==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/UMP9.(Girls.Frontline).full.3776038.jpg"
+        "image_reference": "https://comicvine.gamespot.com/a/uploads/square_medium/11/114183/5216642-243px-heartgold_soulsilver_blue.png"
       },
       "tag2": {
-        "id": "t0431",
-        "name": "hayate_no_gotoku!",
-        "proper_name": "Hayate no Gotoku!",
-        "category": "copyright",
-        "encrypted_count": "fVxubQ==",
-        "copyright": "Hayate no Gotoku!",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0833",
-        "name": "silver_wolf_(honkai:_star_rail)",
-        "proper_name": "Silver Wolf",
+        "id": "t0543",
+        "name": "tokai_teio_(umamusume)",
+        "proper_name": "Tokai Teio",
         "category": "character",
-        "encrypted_count": "fVxlYg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/06/07/Honkai-Star-Rail-Silver-Wolf-Ascension-Trace-materials.jpg"
-      },
-      "tag2": {
-        "id": "t0570",
-        "name": "fullmetal_alchemist",
-        "proper_name": "Fullmetal Alchemist",
-        "category": "copyright",
-        "encrypted_count": "eVVubg==",
-        "copyright": "Fullmetal Alchemist",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/a/a6/FMA_logo.jpg/revision/latest?cb=20130923075031"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0451",
-        "name": "albedo_(genshin_impact)",
-        "proper_name": "Albedo",
-        "category": "character",
-        "encrypted_count": "fFBlaw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest?cb=20210302092013"
-      },
-      "tag2": {
-        "id": "t0223",
-        "name": "matsuura_kanan",
-        "proper_name": "Matsuura Kanan",
-        "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-all-stars/images/5/54/Matsuura_Kanan_(Idol).png/revision/latest?cb=20200112185302"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0797",
-        "name": "oguri_cap_(umamusume)",
-        "proper_name": "Oguri Cap",
-        "category": "character",
-        "encrypted_count": "fVBmbw==",
+        "encrypted_count": "elJhbA==",
         "copyright": "Umamusume",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/e/e7/Oguri_cap_new.png/revision/latest?cb=20181030225520"
-      },
-      "tag2": {
-        "id": "t0526",
-        "name": "girls'_frontline_2:_exilium",
-        "proper_name": "Girls' Frontline 2: Exilium",
-        "category": "copyright",
-        "encrypted_count": "e1Jgbg==",
-        "copyright": "Girls' Frontline 2: Exilium",
-        "material": "Video Game",
-        "image_reference": "https://iopwiki.com/images/thumb/e/ea/GFL2_Logo_Main.png/300px-GFL2_Logo_Main.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/umamusume/images/3/3b/TokaiTeio_Uniform.png/revision/latest/scale-to-width-down/226?cb=20180425085144"
       }
     },
     {
       "tag1": {
-        "id": "t0385",
-        "name": "yang_xiao_long",
-        "proper_name": "Yang Xiao Long",
+        "id": "t0449",
+        "name": "azki_(hololive)",
+        "proper_name": "AZKi",
         "category": "character",
-        "encrypted_count": "elVlaA==",
-        "copyright": "RWBY",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rwby/images/8/89/Yang-v8-infobox.png/revision/latest/scale-to-width-down/1200?cb=20200726010350"
+        "encrypted_count": "fFJnYg==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/9/99/AZKi_-_Portrait_02-2-2.png/580px-AZKi_-_Portrait_02-2-2.png"
       },
       "tag2": {
-        "id": "t0215",
-        "name": "kuma_(kancolle)",
-        "proper_name": "Kuma",
+        "id": "t0732",
+        "name": "made_in_abyss",
+        "proper_name": "Made in Abyss",
+        "category": "copyright",
+        "encrypted_count": "eFVlaQ==",
+        "copyright": "Made in Abyss",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/madeinabyss/images/c/c4/Made-In-Abyss-Logo.png/revision/latest?cb=20170708222105"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0271",
+        "name": "hanako_(swimsuit)_(blue_archive)",
+        "proper_name": "Hanako (Swimsuit)",
         "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fF1gYw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/c/c5/Hanako_(Swimsuit).png/266px-Hanako_(Swimsuit).png"
+      },
+      "tag2": {
+        "id": "t0791",
+        "name": "sangonomiya_kokomi",
+        "proper_name": "Sangonomiya Kokomi",
+        "category": "character",
+        "encrypted_count": "elZmaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20230429082521&path-prefix=de"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0146",
+        "name": "nia_(xenoblade)",
+        "proper_name": "Nia",
+        "category": "character",
+        "encrypted_count": "fVxiYw==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
+      },
+      "tag2": {
+        "id": "t0845",
+        "name": "kama_(fate)",
+        "proper_name": "Kama",
+        "category": "character",
+        "encrypted_count": "elRmaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/0/01/AssassinKamaStage3.png/revision/latest?cb=20210330120437"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0003",
+        "name": "fate_(series)",
+        "proper_name": "Fate Series",
+        "category": "copyright",
+        "encrypted_count": "fVxhbkkE",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BOWQ1ZDdiMDItYTc2My00ZjZkLWJlMzktYTZmNGY5MWQwODU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0607",
+        "name": "murano_sayaka",
+        "proper_name": "Murano Sayaka",
+        "category": "character",
+        "encrypted_count": "elduaA==",
+        "image_reference": "https://static.wikia.nocookie.net/virtualyoutuber/images/c/cb/Murano_Sayaka_Icon.png/revision/latest?cb=20230210121923"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0761",
+        "name": "neru_(blue_archive)",
+        "proper_name": "Neru",
+        "category": "character",
+        "encrypted_count": "elBiaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/2/24/Neru.png?version=d1e9e4657c08a61cae484524da7a2082"
+      },
+      "tag2": {
+        "id": "t0217",
+        "name": "piplup",
+        "proper_name": "Piplup",
+        "category": "character",
+        "encrypted_count": "fVFmaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork0393_DLPS.png/1200px-Artwork0393_DLPS.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0507",
+        "name": "watanabe_you",
+        "proper_name": "Watanabe You",
+        "category": "character",
+        "encrypted_count": "d1FnaQ==",
+        "copyright": "Love Live! Sunshine!!",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Watanabe.You.full.2918010.png"
+      },
+      "tag2": {
+        "id": "t0959",
+        "name": "synthesizer_v",
+        "proper_name": "Synthesizer V",
+        "category": "copyright",
+        "encrypted_count": "e1Vhbg==",
+        "copyright": "Synthesizer V",
+        "material": "Music Software",
+        "image_reference": "https://moegirl.uk/images/1/1a/Synthesizer_V_R2_logo.png"
       }
     }
   ]
