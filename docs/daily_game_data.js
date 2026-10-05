@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-04T10:18:37.722663+00:00
-// Date: 2026-10-04
+// Generated on: 2026-10-05T11:00:12.230424+00:00
+// Date: 2026-10-05
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0648",
-        "name": "la+_darknesss",
-        "proper_name": "La+ Darknesss",
+        "id": "t0884",
+        "name": "shinku",
+        "proper_name": "Shinku",
         "category": "character",
-        "encrypted_count": "e1Znbg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6f/Illustrator_Artwork_-_holoX_01.jpg/revision/latest/scale-to-width-down/1200?cb=20230312194809"
-      },
-      "tag2": {
-        "id": "t0289",
-        "name": "seele_vollerei",
-        "proper_name": "Seele Vollerei",
-        "category": "character",
-        "encrypted_count": "fFxvbQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0273",
-        "name": "voicevox",
-        "proper_name": "VoiceVox",
-        "category": "copyright",
-        "encrypted_count": "fFJvYg==",
-        "copyright": "VoiceVox",
-        "material": "Music Software",
-        "image_reference": "https://prtimes.jp/data/corp/132725/ogp/0fc2c0b4cc844511409698e0d4cef820-963b6c7c0403ec1027cb2432a3e966c1.png"
-      },
-      "tag2": {
-        "id": "t0115",
-        "name": "gundam_seed_destiny",
-        "proper_name": "Gundam Seed Destiny",
-        "category": "copyright",
-        "encrypted_count": "elJmYg==",
-        "copyright": "Mobile Suit Gundam",
+        "encrypted_count": "fFFuYg==",
+        "copyright": "Rozen Maiden",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/0/0c/Logo_Mobile_Suit_Gundam_Seed_Destiny.jpg/revision/latest/scale-to-width-down/310?cb=20181204163359"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0455",
-        "name": "akuma_homura",
-        "proper_name": "Akuma Homura",
-        "category": "character",
-        "encrypted_count": "fFFhbA==",
-        "copyright": "Puella Magi Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/b/bb/Artwork_Shinku_2013.png/revision/latest?cb=20140901224243&path-prefix=es"
       },
       "tag2": {
-        "id": "t0857",
-        "name": "mahjong_soul",
-        "proper_name": "Mahjong Soul",
-        "category": "copyright",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Mahjong Soul",
-        "material": "Video Game",
-        "image_reference": "https://riichi.wiki/images/Mahjsoullogo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0953",
-        "name": "aqua_(konosuba)",
-        "proper_name": "Aqua",
+        "id": "t0490",
+        "name": "tartaglia_(genshin_impact)",
+        "proper_name": "Tartaglia",
         "category": "character",
-        "encrypted_count": "dlJhYw==",
-        "copyright": "KonoSuba",
-        "material": "Light Novel",
-        "image_reference": "https://vignette.wikia.nocookie.net/konosuba/images/d/db/Aqua_-_Anime.png/revision/latest?cb=20170127234540&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0185",
-        "name": "hazbin_hotel",
-        "proper_name": "Hazbin Hotel",
-        "category": "copyright",
-        "encrypted_count": "fVZnaw==",
-        "copyright": "Hazbin Hotel",
-        "material": "Anime",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0831",
-        "name": "mydei_(honkai:_star_rail)",
-        "proper_name": "Mydei",
-        "category": "character",
-        "encrypted_count": "fVNhaQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://staticg.sportskeeda.com/editor/2025/02/ea940-17395394049968-1920.jpg"
-      },
-      "tag2": {
-        "id": "t0348",
-        "name": "ranma-chan",
-        "proper_name": "Ranma-chan",
-        "category": "character",
-        "encrypted_count": "eVVkaQ==",
-        "copyright": "Ranma \u00bd",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/ranma/images/d/dd/Saotome_Ranma_%E2%99%80_%28Anime_2024%29.png/revision/latest?cb=20240718055725"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0810",
-        "name": "furude_rika",
-        "proper_name": "Furude Rika",
-        "category": "character",
-        "encrypted_count": "elBhYg==",
-        "copyright": "Higurashi When They Cry",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/when-they-cry/images/e/ee/RikaGou.png/revision/latest?cb=20210202063349&path-prefix=pt-br"
-      },
-      "tag2": {
-        "id": "t0382",
-        "name": "leaf_(pokemon)",
-        "proper_name": "Leaf",
-        "category": "character",
-        "encrypted_count": "fFxjbw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://media.pokemoncentral.it/wiki/3/3b/Leaf_RFVF.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0125",
-        "name": "ethan_(pokemon)",
-        "proper_name": "Ethan",
-        "category": "character",
-        "encrypted_count": "fVJlbg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/5/51/Ethan_(Pok\u00e9mon_Masters).png/revision/latest?cb=20220818005918&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0425",
-        "name": "persona_3_portable",
-        "proper_name": "Persona 3 Portable",
-        "category": "copyright",
-        "encrypted_count": "fFJkaQ==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0342",
-        "name": "jintsuu_(kancolle)",
-        "proper_name": "Jintsuu",
-        "category": "character",
-        "encrypted_count": "fFduYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b0/Jintsu_kai2.png"
-      },
-      "tag2": {
-        "id": "t0153",
-        "name": "melty_blood",
-        "proper_name": "Melty Blood",
-        "category": "copyright",
-        "encrypted_count": "fVxiag==",
-        "copyright": "Melty Blood",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/1/16/Melty_Blood.png/revision/latest/scale-to-width-down/1200?cb=20220210035841"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0437",
-        "name": "tighnari_(genshin_impact)",
-        "proper_name": "Tighnari",
-        "category": "character",
-        "encrypted_count": "fFFkaQ==",
+        "encrypted_count": "eVJiag==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Tighnari_Full_Wish.png/revision/latest?cb=20220824042927"
-      },
-      "tag2": {
-        "id": "t0553",
-        "name": "hoshimi_miyabi",
-        "proper_name": "Hoshimi Miyabi",
-        "category": "character",
-        "encrypted_count": "e1VjbA==",
-        "copyright": "Aikatsu!",
-        "material": "Anime",
-        "image_reference": "https://i.pinimg.com/originals/a0/2c/e5/a02ce53bc67ef1b7fc6ace7e195b0473.png"
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png/revision/latest?cb=20201106023840"
       }
     },
     {
       "tag1": {
-        "id": "t0225",
-        "name": "kiyohime_(fate)",
-        "proper_name": "Kiyohime",
+        "id": "t0513",
+        "name": "arona_(blue_archive)",
+        "proper_name": "Arona",
         "category": "character",
-        "encrypted_count": "fVRgYg==",
-        "copyright": "Fate Series",
+        "encrypted_count": "eFJmbw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/6/62/S056_Stage1.webp/revision/latest?cb=20220910121848"
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/e/e6/Arona.png/266px-Arona.png"
       },
       "tag2": {
-        "id": "t0833",
-        "name": "silver_wolf_(honkai:_star_rail)",
-        "proper_name": "Silver Wolf",
+        "id": "t0331",
+        "name": "faust_(project_moon)",
+        "proper_name": "Faust",
         "category": "character",
-        "encrypted_count": "fVxlYg==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "fFNjaw==",
+        "copyright": "Project Moon",
         "material": "Video Game",
-        "image_reference": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/06/07/Honkai-Star-Rail-Silver-Wolf-Ascension-Trace-materials.jpg"
+        "image_reference": "https://static.wikitide.net/projectmoonwiki/thumb/4/4c/FaustLCB-Profile.png/240px-FaustLCB-Profile.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0873",
+        "name": "rabbit_hole_(vocaloid)",
+        "proper_name": "Rabbit Hole",
+        "category": "copyright",
+        "encrypted_count": "fFFmYw==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://rabbithole.wiki.gg/images/e/e6/Site-logo.png"
+      },
+      "tag2": {
+        "id": "t0070",
+        "name": "koshimizu_sachiko",
+        "proper_name": "Koshimizu Sachiko",
+        "category": "character",
+        "encrypted_count": "fVdvaw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/d/d0/Sachiko_SS.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0146",
+        "name": "nia_(xenoblade)",
+        "proper_name": "Nia",
+        "category": "character",
+        "encrypted_count": "fVxiYw==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest?cb=20171222174412"
+      },
+      "tag2": {
+        "id": "t0313",
+        "name": "natsu_(blue_archive)",
+        "proper_name": "Natsu",
+        "category": "character",
+        "encrypted_count": "fFNkaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/9/90/Natsu.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0297",
+        "name": "hong_lu_(project_moon)",
+        "proper_name": "Hong Lu",
+        "category": "character",
+        "encrypted_count": "fFNjbA==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Hong.Lu.full.4276099.png"
+      },
+      "tag2": {
+        "id": "t0840",
+        "name": "kizuna_akari",
+        "proper_name": "Kizuna Akari",
+        "category": "character",
+        "encrypted_count": "fV1vbw==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/1/18/Vocaloid_akari.png/revision/latest?cb=20180329051055"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
+        "category": "character",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
+      },
+      "tag2": {
+        "id": "t0412",
+        "name": "neuvillette_(genshin_impact)",
+        "proper_name": "Neuvillette",
+        "category": "character",
+        "encrypted_count": "fFBnYg==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshinimpact/images/a/ad/Neuvillette_carte.png/revision/latest?cb=20231105142328&path-prefix=fr"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0959",
+        "name": "synthesizer_v",
+        "proper_name": "Synthesizer V",
+        "category": "copyright",
+        "encrypted_count": "e1Vhbg==",
+        "copyright": "Synthesizer V",
+        "material": "Music Software",
+        "image_reference": "https://moegirl.uk/images/1/1a/Synthesizer_V_R2_logo.png"
+      },
+      "tag2": {
+        "id": "t0346",
+        "name": "sumino_takumi",
+        "proper_name": "Sumino Takumi",
+        "category": "character",
+        "encrypted_count": "fVxjbQ==",
+        "copyright": "KonoSuba: God's Blessing on This Wonderful World!",
+        "material": "Light Novel",
+        "image_reference": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw2bb73cab/rightstuf/9781975371135_manga-konosuba-gods-blessing-on-this-wonderful-world-fantastic-days-novel-primary.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0325",
+        "name": "danganronpa_3_(anime)",
+        "proper_name": "Danganronpa 3: The End of Hope's Peak High School",
+        "category": "copyright",
+        "encrypted_count": "fFxmbw==",
+        "copyright": "Danganronpa",
+        "material": "Anime",
+        "image_reference": "https://vignette2.wikia.nocookie.net/danganronpa/images/2/2f/Logo_of_Hope%27s_Peak.png/revision/latest/scale-to-width-down/2000?cb=20161227015605"
+      },
+      "tag2": {
+        "id": "t0681",
+        "name": "super_robot_wars",
+        "proper_name": "Super Robot Wars",
+        "category": "copyright",
+        "encrypted_count": "eFJhag==",
+        "copyright": "Super Robot Wars",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/superrobotwars/images/5/58/Super_Robot_Wars.png/revision/latest?cb=20171219155107"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0803",
+        "name": "suite_precure",
+        "proper_name": "Suite Precure",
+        "category": "copyright",
+        "encrypted_count": "elNkbQ==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Suite_pretty_cure_logo.jpg/revision/latest/scale-to-width-down/300?cb=20150213050340"
+      },
+      "tag2": {
+        "id": "t0164",
+        "name": "elysia_(miss_pink_elf)_(honkai_impact)",
+        "proper_name": "Elysia (Miss Pink Elf)",
+        "category": "character",
+        "encrypted_count": "fFNvaQ==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/4c/Elf_Elysia.png/revision/latest?cb=20220916070416"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0891",
+        "name": "akagi_(azur_lane)",
+        "proper_name": "Akagi",
+        "category": "character",
+        "encrypted_count": "fFBkaw==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
+      },
+      "tag2": {
+        "id": "t0600",
+        "name": "hecatia_lapislazuli",
+        "proper_name": "Hecatia Lapislazuli",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
       }
     }
   ]
