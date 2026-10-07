@@ -1,228 +1,228 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-06T10:55:25.847391+00:00
-// Date: 2026-10-06
+// Generated on: 2026-10-07T10:43:23.108612+00:00
+// Date: 2026-10-07
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0642",
-        "name": "bremerton_(azur_lane)",
-        "proper_name": "Bremerton",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/dd/Bremerton.png/1223px-Bremerton.png"
-      },
-      "tag2": {
-        "id": "t0702",
-        "name": "shimamura_uzuki",
-        "proper_name": "Shimamura Uzuki",
-        "category": "character",
-        "encrypted_count": "el1kaQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/b/b7/CINDERELLA_GIRLS_Normal_Uzuki_Shimamura_Unawakened.jpg/revision/latest?cb=20190807054405"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0795",
-        "name": "sanji_(one_piece)",
-        "proper_name": "Sanji",
-        "category": "character",
-        "encrypted_count": "eFJibw==",
-        "copyright": "One Piece",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
-      },
-      "tag2": {
-        "id": "t0270",
-        "name": "izumi_sagiri",
-        "proper_name": "Izumi Sagiri",
-        "category": "character",
-        "encrypted_count": "fVNvbA==",
-        "copyright": "Eromanga Sensei",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/eromanga/images/1/19/Sagiri_Izumi_anime.jpg/revision/latest?cb=20211121182256"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0809",
-        "name": "chloe_von_einzbern",
-        "proper_name": "Chloe von Einzbern",
-        "category": "character",
-        "encrypted_count": "e11gYw==",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/7b/Kuro_2wei.png/revision/latest?cb=20161006151250"
-      },
-      "tag2": {
-        "id": "t0808",
-        "name": "sirius_(azur_lane)",
-        "proper_name": "Sirius",
-        "category": "character",
-        "encrypted_count": "eldvbg==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/bhlx/images/1/18/Sirius.png/revision/latest?cb=20190220204411"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0920",
-        "name": "black_rock_shooter",
-        "proper_name": "Black Rock Shooter",
+        "id": "t0499",
+        "name": "mahou_shoujo_lyrical_nanoha_a's",
+        "proper_name": "Mahou Shoujo Lyrical Nanoha A's",
         "category": "copyright",
-        "encrypted_count": "eFFnaQ==",
-        "copyright": "Black Rock Shooter",
+        "encrypted_count": "eFFjbg==",
+        "copyright": "Magical Girl Lyrical Nanoha",
         "material": "Anime",
-        "image_reference": "https://logowik.com/content/uploads/images/black-rock-shooter2321.logowik.com.webp"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qX4UfjZ224U6NOy8aLhkKFgASoK3Giyjjh6LRo5JXQh4H_JGaX6fctZhFpS-Sr_aCI1x&s=10"
       },
       "tag2": {
-        "id": "t0050",
-        "name": "octoling_girl",
-        "proper_name": "Octoling Girl",
+        "id": "t0310",
+        "name": "kokona_(blue_archive)",
+        "proper_name": "Kokona",
         "category": "character",
-        "encrypted_count": "fVNhbQ==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/splatoon/images/c/c9/S3_art_3D_Octoling_Hydra_Splatling.png/revision/latest?cb=20221129201234"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0376",
-        "name": "vivian_banshee",
-        "proper_name": "Vivian Banshee",
-        "category": "character",
-        "encrypted_count": "fFFhaQ==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0901",
-        "name": "inugami_korone",
-        "proper_name": "Inugami Korone",
-        "category": "character",
-        "encrypted_count": "eFdmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/c6/Inugami_Korone_Portrait.png/revision/latest?cb=20200609201058"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0729",
-        "name": "dungeon_and_fighter",
-        "proper_name": "Dungeon and Fighter",
-        "category": "copyright",
-        "encrypted_count": "e1NnaA==",
-        "copyright": "Dungeon and Fighter",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/32/Dfo_new_logo.jpg"
-      },
-      "tag2": {
-        "id": "t0765",
-        "name": "tachibana_arisu",
-        "proper_name": "Tachibana Arisu",
-        "category": "character",
-        "encrypted_count": "e1RibQ==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/1/17/Arisu_Tachibana.jpg/revision/latest?cb=20241231030351&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0485",
-        "name": "oozora_subaru",
-        "proper_name": "Oozora Subaru",
-        "category": "character",
-        "encrypted_count": "eFBibw==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/4/49/Oozora_Subaru_Portrait.png/revision/latest?cb=20200622133539"
-      },
-      "tag2": {
-        "id": "t0660",
-        "name": "sonic_the_hedgehog",
-        "proper_name": "Sonic the Hedgehog",
-        "category": "character",
-        "encrypted_count": "eFFvbw==",
-        "copyright": "Sonic the Hedgehog",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/sonicthehedgehog/images/6/68/Sonic_profil_Sonic-X-Shadow-Generations.png/revision/latest?cb=20240817165317&path-prefix=fr"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0235",
-        "name": "kara_no_kyoukai",
-        "proper_name": "Kara no Kyoukai",
-        "category": "copyright",
-        "encrypted_count": "fVZvaA==",
-        "copyright": "Kara no Kyoukai",
-        "material": "Light Novel",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/f/f0/KnK_logo.png/revision/latest?cb=20130716091824"
-      },
-      "tag2": {
-        "id": "t0004",
-        "name": "blue_archive",
-        "proper_name": "Blue Archive",
-        "category": "copyright",
-        "encrypted_count": "fVBibUgC",
+        "encrypted_count": "fF1vaA==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/3/3b/Kokona_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20250515072948"
       }
     },
     {
       "tag1": {
-        "id": "t0032",
-        "name": "flandre_scarlet",
-        "proper_name": "Flandre Scarlet",
+        "id": "t0444",
+        "name": "akagi_miria",
+        "proper_name": "Akagi Miria",
         "category": "character",
-        "encrypted_count": "e1djaEM=",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fcs-vs-battle/images/e/ef/Flandre_Scarlet_Vector.png/revision/latest/scale-to-width-down/370?cb=20200521120624"
+        "encrypted_count": "fVRjaw==",
+        "image_reference": "https://static.wikia.nocookie.net/deresute/images/1/12/Miria_N.jpg/revision/latest?cb=20160919163515&path-prefix=it"
       },
       "tag2": {
-        "id": "t0933",
-        "name": "baobhan_sith_(fate)",
-        "proper_name": "Baobhan Sith",
+        "id": "t0531",
+        "name": "xiao_(genshin_impact)",
+        "proper_name": "Xiao",
         "category": "character",
-        "encrypted_count": "e1Jlbg==",
-        "copyright": "Fate Series",
+        "encrypted_count": "e1FjYw==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S311_Stage1.webp/revision/latest?cb=20220925055326"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
       }
     },
     {
       "tag1": {
-        "id": "t0045",
-        "name": "seaport_princess",
-        "proper_name": "Seaport Princess",
+        "id": "t0758",
+        "name": "sailor_moon",
+        "proper_name": "Sailor Moon",
         "category": "character",
-        "encrypted_count": "fVdmYw==",
-        "copyright": "Kantai Collection",
-        "material": "video game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/2/22/Harbour_Princess_II_Full.png/revision/latest/scale-to-width-down/300?cb=20180818160600"
+        "encrypted_count": "eFBhYw==",
+        "copyright": "Sailor Moon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_(1992).png/revision/latest?cb=20231109134853&path-prefix=es"
       },
       "tag2": {
-        "id": "t0080",
-        "name": "baldur's_gate",
-        "proper_name": "Baldur's Gate",
+        "id": "t0248",
+        "name": "kanna_kamui",
+        "proper_name": "Kanna Kamui",
+        "category": "character",
+        "encrypted_count": "e1NnbA==",
+        "copyright": "Miss Kobayashi's Dragon Maid",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/maid-dragon/images/5/57/Kanna_Anime.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0656",
+        "name": "sparkle_(honkai:_star_rail)",
+        "proper_name": "Sparkle",
+        "category": "character",
+        "encrypted_count": "el1hbQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
+      },
+      "tag2": {
+        "id": "t0658",
+        "name": "silence_suzuka_(umamusume)",
+        "proper_name": "Silence Suzuka",
+        "category": "character",
+        "encrypted_count": "eldgYg==",
+        "copyright": "Umamusume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/uma-musume-pretty-derby/images/c/c1/Silence_Suzuka_(Stage).png/revision/latest?cb=20220724182241"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0074",
+        "name": "sanya_v._litvyak",
+        "proper_name": "Sanya V. Litvyak",
+        "category": "character",
+        "encrypted_count": "fVxkbA==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
+      },
+      "tag2": {
+        "id": "t0185",
+        "name": "hazbin_hotel",
+        "proper_name": "Hazbin Hotel",
         "category": "copyright",
-        "encrypted_count": "fVdgbQ==",
-        "copyright": "Baldur's Gate",
+        "encrypted_count": "fVZnaw==",
+        "copyright": "Hazbin Hotel",
+        "material": "Anime",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/11/Hazbin-Hotel-Logo-2018.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0903",
+        "name": "twisted_wonderland",
+        "proper_name": "Twisted Wonderland",
+        "category": "copyright",
+        "encrypted_count": "e1xnYg==",
+        "copyright": "Twisted Wonderland",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/forgottenrealms/images/1/1a/BG3_logo_1.png/revision/latest/scale-to-width-down/1200?cb=20200910182711"
+        "image_reference": "https://i.pinimg.com/736x/96/8e/d1/968ed1c1dc79180402437af995b9e753.jpg"
+      },
+      "tag2": {
+        "id": "t0744",
+        "name": "amamiya_ren",
+        "proper_name": "Amamiya Ren",
+        "category": "character",
+        "encrypted_count": "e1Rnbg==",
+        "copyright": "Persona 5",
+        "material": "Video Game",
+        "image_reference": "https://megatenwiki.com/images/5/53/P5D_Ren_Amamiya_Artwork.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0018",
+        "name": "honkai:_star_rail",
+        "proper_name": "Honkai: Star Rail",
+        "category": "copyright",
+        "encrypted_count": "d1diYkQ=",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/7f/Honkai_Star_Rail_%28logo%29.png"
+      },
+      "tag2": {
+        "id": "t0525",
+        "name": "darling_in_the_franxx",
+        "proper_name": "Darling in the Franxx",
+        "category": "copyright",
+        "encrypted_count": "eV1iYw==",
+        "copyright": "Darling in the Franxx",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/fr/8/85/Darling_in_the_Franxx_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0065",
+        "name": "ichika_(blue_archive)",
+        "proper_name": "Ichika",
+        "category": "character",
+        "encrypted_count": "fVdgYw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0399",
+        "name": "saki_(blue_archive)",
+        "proper_name": "Saki",
+        "category": "character",
+        "encrypted_count": "fFFlbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0262",
+        "name": "boko_(girls_und_panzer)",
+        "proper_name": "Boko",
+        "category": "character",
+        "encrypted_count": "fFFvYw==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/gup/images/b/b2/Bokobokoboko.png/revision/latest?cb=20170213013833"
+      },
+      "tag2": {
+        "id": "t0349",
+        "name": "laffey_(azur_lane)",
+        "proper_name": "Laffey",
+        "category": "character",
+        "encrypted_count": "fFxnbg==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/2/2a/Laffey.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0075",
+        "name": "herta_(honkai:_star_rail)",
+        "proper_name": "Herta",
+        "category": "character",
+        "encrypted_count": "fFJkbg==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Character_Herta_Splash_Art.png/revision/latest?cb=20230216231220"
+      },
+      "tag2": {
+        "id": "t0578",
+        "name": "musashi_(kancolle)",
+        "proper_name": "Musashi",
+        "category": "character",
+        "encrypted_count": "e1Rhbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/73/Musashi_Full.webp/revision/latest?cb=20221203120134&path-prefix=protagonist"
       }
     }
   ]
