@@ -1,226 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-09T11:01:54.479699+00:00
-// Date: 2026-10-09
+// Generated on: 2026-10-10T10:17:08.097364+00:00
+// Date: 2026-10-10
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0656",
-        "name": "sparkle_(honkai:_star_rail)",
-        "proper_name": "Sparkle",
+        "id": "t0222",
+        "name": "mostima_(arknights)",
+        "proper_name": "Mostima",
         "category": "character",
-        "encrypted_count": "el1hbQ==",
-        "copyright": "Honkai: Star Rail",
+        "encrypted_count": "fF1vYw==",
+        "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/3/31/Mostima.png/revision/latest?cb=20200520090244"
       },
       "tag2": {
-        "id": "t0701",
-        "name": "stocking_(psg)",
-        "proper_name": "Stocking",
+        "id": "t0342",
+        "name": "jintsuu_(kancolle)",
+        "proper_name": "Jintsuu",
         "category": "character",
-        "encrypted_count": "eFFjaA==",
-        "copyright": "Panty & Stocking with Garterbelt",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0105",
-        "name": "nakano_yotsuba",
-        "proper_name": "Nakano Yotsuba",
-        "category": "character",
-        "encrypted_count": "fVJhbg==",
-        "copyright": "The Quintessential Quintuplets",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701"
-      },
-      "tag2": {
-        "id": "t0820",
-        "name": "kaedehara_kazuha",
-        "proper_name": "Kaedehara Kazuha",
-        "category": "character",
-        "encrypted_count": "fVxjbQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/a/a5/Kazuha_Karte.png/revision/latest?cb=20211123185236&path-prefix=de"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0254",
-        "name": "evelyn_chevalier",
-        "proper_name": "Evelyn Chevalier",
-        "category": "character",
-        "encrypted_count": "fF1uYw==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/hoyodexwiki/4/45/Evelyn_Chevalier_(ZZ-MU).png"
-      },
-      "tag2": {
-        "id": "t0555",
-        "name": "yamada_ryo",
-        "proper_name": "Yamada Ryo",
-        "category": "character",
-        "encrypted_count": "e1duaQ==",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/0/01/Capitulo_1.png/revision/latest/scale-to-width-down/1200?cb=20250314235409&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0953",
-        "name": "aqua_(konosuba)",
-        "proper_name": "Aqua",
-        "category": "character",
-        "encrypted_count": "dlJhYw==",
-        "copyright": "KonoSuba",
-        "material": "Light Novel",
-        "image_reference": "https://vignette.wikia.nocookie.net/konosuba/images/d/db/Aqua_-_Anime.png/revision/latest?cb=20170127234540&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0931",
-        "name": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka",
-        "proper_name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-        "category": "copyright",
-        "encrypted_count": "dldvYg==",
-        "copyright": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-        "material": "Light Novel",
-        "image_reference": "https://images.justwatch.com/poster/162530069/s718/season-2.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0453",
-        "name": "carmine_(pokemon)",
-        "proper_name": "Carmine",
-        "category": "character",
-        "encrypted_count": "fFJuag==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/e/e6/Scarlet_Violet_Carmine.png"
-      },
-      "tag2": {
-        "id": "t0194",
-        "name": "warspite_(kancolle)",
-        "proper_name": "Warspite",
-        "category": "character",
-        "encrypted_count": "fFNuag==",
+        "encrypted_count": "fFduYg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/3b/Ship_Card_Warspite.png/218px-Ship_Card_Warspite.png"
+        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b0/Jintsu_kai2.png"
       }
     },
     {
       "tag1": {
-        "id": "t0137",
-        "name": "bea_(pokemon)",
-        "proper_name": "Bea",
+        "id": "t0847",
+        "name": "emilia_(re:zero)",
+        "proper_name": "Emilia",
         "category": "character",
-        "encrypted_count": "elJhaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/6b/7e/37/6b7e3723b7b1f832563928a9e4b4f65c.png"
+        "encrypted_count": "e1RibQ==",
+        "copyright": "Re:Zero - Starting Life in Another World",
+        "material": "Light Novel",
+        "image_reference": "https://rare-gallery.com/mocahbig/1347718-Emilia-ReZEROReZERO-Starting-Life-In-Another-World-.jpg"
       },
       "tag2": {
-        "id": "t0191",
-        "name": "sylveon",
-        "proper_name": "Sylveon",
+        "id": "t0412",
+        "name": "neuvillette_(genshin_impact)",
+        "proper_name": "Neuvillette",
         "category": "character",
-        "encrypted_count": "elVgYg==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemonopedia/images/b/b2/Shiny2.png/revision/latest?cb=20141109112421&path-prefix=pl"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0640",
-        "name": "akiyama_yukari",
-        "proper_name": "Akiyama Yukari",
-        "category": "character",
-        "encrypted_count": "e1RkYw==",
-        "image_reference": "https://vignette.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png/revision/latest?cb=20170124073104"
-      },
-      "tag2": {
-        "id": "t0352",
-        "name": "hibiki_(blue_archive)",
-        "proper_name": "Hibiki",
-        "category": "character",
-        "encrypted_count": "fFxibQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/b/bc/Hibiki.png/266px-Hibiki.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0328",
-        "name": "panty_(psg)",
-        "proper_name": "Panty",
-        "category": "character",
-        "encrypted_count": "elZjbw==",
-        "copyright": "Panty & Stocking with Garterbelt",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
-      },
-      "tag2": {
-        "id": "t0311",
-        "name": "makaino_ririmu",
-        "proper_name": "Makaino Ririmu",
-        "category": "character",
-        "encrypted_count": "fFxjaA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://vignette.wikia.nocookie.net/virtualyoutuber/images/2/22/Makaino_Ririmu_summer_2020_new_outfit.jpeg/revision/latest?cb=20200813044022"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0692",
-        "name": "miyamoto_musashi_(fate)",
-        "proper_name": "Miyamoto Musashi",
-        "category": "character",
-        "encrypted_count": "e1dvag==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/c/c2/S153_Stage1.webp/revision/latest?cb=20220911082704"
-      },
-      "tag2": {
-        "id": "t0531",
-        "name": "xiao_(genshin_impact)",
-        "proper_name": "Xiao",
-        "category": "character",
-        "encrypted_count": "e1FjYw==",
+        "encrypted_count": "fFBnYg==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
+        "image_reference": "https://static.wikia.nocookie.net/genshinimpact/images/a/ad/Neuvillette_carte.png/revision/latest?cb=20231105142328&path-prefix=fr"
       }
     },
     {
       "tag1": {
-        "id": "t0364",
-        "name": "black_survival",
-        "proper_name": "Black Survival",
-        "category": "copyright",
-        "encrypted_count": "fFxibw==",
-        "copyright": "Black Survival",
-        "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/227-2274467_black-survival-game-logo-hd-png-download.png"
+        "id": "t0092",
+        "name": "eren_yeager",
+        "proper_name": "Eren Yeager",
+        "category": "character",
+        "encrypted_count": "fV1uYw==",
+        "copyright": "Attack on Titan",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest?cb=20220123225500"
       },
       "tag2": {
-        "id": "t0823",
-        "name": "fire_emblem:_the_binding_blade",
-        "proper_name": "Fire Emblem: The Binding Blade",
+        "id": "t0626",
+        "name": "shiranui_(kancolle)",
+        "proper_name": "Shiranui",
+        "category": "character",
+        "encrypted_count": "elJkaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/736x/a4/09/63/a4096367108d3f3fd39fbe4c3ca1bb30.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0002",
+        "name": "kantai_collection",
+        "proper_name": "Kantai Collection",
         "category": "copyright",
-        "encrypted_count": "e1VlaA==",
+        "encrypted_count": "el1lbkYH",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/02/Kantai_Collection_logo.png"
+      },
+      "tag2": {
+        "id": "t0126",
+        "name": "kirito",
+        "proper_name": "Kirito",
+        "category": "character",
+        "encrypted_count": "fVJjbw==",
+        "copyright": "Sword Art Online",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/9/90/Kirito_Sword_Art_Online.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0702",
+        "name": "shimamura_uzuki",
+        "proper_name": "Shimamura Uzuki",
+        "category": "character",
+        "encrypted_count": "el1kaQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/b/b7/CINDERELLA_GIRLS_Normal_Uzuki_Shimamura_Unawakened.jpg/revision/latest?cb=20190807054405"
+      },
+      "tag2": {
+        "id": "t0068",
+        "name": "shimada_arisu",
+        "proper_name": "Shimada Arisu",
+        "category": "character",
+        "encrypted_count": "fVBubQ==",
+        "copyright": "Girls Und Panzer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/a/a6/Arisu_Shimada_Render_01.png/revision/latest/scale-to-width-down/206?cb=20240316075811"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0824",
+        "name": "hellaverse",
+        "proper_name": "Hellaverse",
+        "category": "copyright",
+        "encrypted_count": "elVlbg==",
+        "copyright": "Hellaverse",
+        "image_reference": "https://d1m9vqlvl3fy94.cloudfront.net/project/attachment/287217/947776hellaverselogo.jpg"
+      },
+      "tag2": {
+        "id": "t0445",
+        "name": "female_robin_(fire_emblem)",
+        "proper_name": "Female Robin",
+        "category": "character",
+        "encrypted_count": "fVZjaw==",
         "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/42c558afca2928af13d868d104e2dca5.png"
+        "image_reference": "https://gamepedia.cursecdn.com/fewarriors_gamepedia_en/1/16/Robin_(Female)_Artwork.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0486",
+        "name": "cynthia_(pokemon)",
+        "proper_name": "Cynthia",
+        "category": "character",
+        "encrypted_count": "f1RnYkc=",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/nintendo/images/c/c3/CynthiaBDSP.png/revision/latest?cb=20220120105612&path-prefix=en"
+      },
+      "tag2": {
+        "id": "t0655",
+        "name": "dandadan",
+        "proper_name": "Dandadan",
+        "category": "copyright",
+        "encrypted_count": "eFRibQ==",
+        "copyright": "Dandadan",
+        "material": "Manga",
+        "image_reference": "https://i.pinimg.com/originals/eb/33/ad/eb33adb6aaaa06b225c4e8cb5e389ec7.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0009",
+        "name": "idolmaster",
+        "proper_name": "The Idolmaster",
+        "category": "copyright",
+        "encrypted_count": "fFNhakEB",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BMDQwM2NmOTgtMDY2MC00YTNmLTk3OGItMzE4ZDcyOTMyNmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0783",
+        "name": "fu_hua",
+        "proper_name": "Fu Hua",
+        "category": "character",
+        "encrypted_count": "elVmaw==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/hoducks/images/f/f7/Valkyrie_Accipiter.png/revision/latest?cb=20201226082235"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0113",
+        "name": "bloodborne",
+        "proper_name": "Bloodborne",
+        "category": "copyright",
+        "encrypted_count": "fVBubg==",
+        "copyright": "Bloodborne",
+        "material": "Video Game",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2024/10/Bloodborne-Logo.jpg"
+      },
+      "tag2": {
+        "id": "t0778",
+        "name": "asahina_mikuru",
+        "proper_name": "Asahina Mikuru",
+        "category": "character",
+        "encrypted_count": "e1RlYg==",
+        "copyright": "The Melancholy of Haruhi Suzumiya",
+        "material": "Anime",
+        "image_reference": "https://c.wallhere.com/photos/8e/eb/The_Melancholy_of_Haruhi_Suzumiya_Asahina_Mikuru_anime_girls-2099467.jpg!d"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0763",
+        "name": "yuubari_(kancolle)",
+        "proper_name": "Yuubari",
+        "category": "character",
+        "encrypted_count": "fV1kaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Yuubari.(Kantai.Collection).full.2131376.jpg"
+      },
+      "tag2": {
+        "id": "t0233",
+        "name": "22/7",
+        "proper_name": "22/7",
+        "category": "copyright",
+        "encrypted_count": "fVViYw==",
+        "copyright": "22/7",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/ff/Nanabun_no_Nijuuni.jpg"
       }
     }
   ]
