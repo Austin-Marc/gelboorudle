@@ -1,24 +1,124 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-14T09:09:03.837528+00:00
-// Date: 2026-10-14
+// Generated on: 2026-10-15T08:42:04.831871+00:00
+// Date: 2026-10-15
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0278",
-        "name": "arcane:_league_of_legends",
-        "proper_name": "Arcane: League of Legends",
-        "category": "copyright",
-        "encrypted_count": "fF1maA==",
-        "copyright": "League of Legends",
-        "material": "TV Show",
-        "image_reference": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_logo.png/800px-Arcane_logo.png?9d3f3&20240907135348"
+        "id": "t0517",
+        "name": "taihou_(azur_lane)",
+        "proper_name": "Taihou",
+        "category": "character",
+        "encrypted_count": "eFdnbw==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/3/33/Taihou-chan.png"
       },
       "tag2": {
+        "id": "t0088",
+        "name": "youkai_watch",
+        "proper_name": "Youkai Watch",
+        "category": "copyright",
+        "encrypted_count": "el1hbQ==",
+        "copyright": "Youkai Watch",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/e/ed/Youkaiwatch2019.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0264",
+        "name": "ram_(re:zero)",
+        "proper_name": "Ram",
+        "category": "character",
+        "encrypted_count": "fVBlYg==",
+        "copyright": "Re:Zero",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/rezero/images/e/ee/Ram_-_Re_Zero_Anime_BD_-_6.png/revision/latest?cb=20160914125706"
+      },
+      "tag2": {
+        "id": "t0625",
+        "name": "roronoa_zoro",
+        "proper_name": "Roronoa Zoro",
+        "category": "character",
+        "encrypted_count": "eVBgYw==",
+        "copyright": "One Piece",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20141008195159"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0299",
+        "name": "king_halo_(umamusume)",
+        "proper_name": "King Halo",
+        "category": "character",
+        "encrypted_count": "fFdhbg==",
+        "copyright": "Uma Musume",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/1/1c/Kinghalogame.png/revision/latest/scale-to-width-down/250?cb=20210921101634"
+      },
+      "tag2": {
+        "id": "t0717",
+        "name": "prinz_eugen_(azur_lane)",
+        "proper_name": "Prinz Eugen",
+        "category": "character",
+        "encrypted_count": "elNnag==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/d8/Prinz_EugenCN.png/1320px-Prinz_EugenCN.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0669",
+        "name": "guilty_gear_xrd",
+        "proper_name": "Guilty Gear Xrd",
+        "category": "copyright",
+        "encrypted_count": "eFRhaQ==",
+        "copyright": "Guilty Gear",
+        "material": "Video Game",
+        "image_reference": "https://guiltygear.wiki.gg/images/b/b0/Guilty-Gear-Xrd-Sign-logo.png"
+      },
+      "tag2": {
+        "id": "t0836",
+        "name": "ump45_(girls'_frontline)",
+        "proper_name": "UMP45",
+        "category": "character",
+        "encrypted_count": "fV1kbA==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omniversal-battlefield/images/2/2d/Ump45.png/revision/latest?cb=20200608224228"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0548",
+        "name": "phantasy_star",
+        "proper_name": "Phantasy Star",
+        "category": "copyright",
+        "encrypted_count": "eFBgaQ==",
+        "copyright": "Phantasy Star",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
+      },
+      "tag2": {
+        "id": "t0895",
+        "name": "diarmuid_ua_duibhne_(fate)",
+        "proper_name": "Diarmuid Ua Duibhne",
+        "category": "character",
+        "encrypted_count": "fFBmaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/factvsfiction/images/2/28/Diarmuid.png/revision/latest?cb=20160116010006"
+      }
+    },
+    {
+      "tag1": {
         "id": "t0340",
         "name": "kaeya_(genshin_impact)",
         "proper_name": "Kaeya",
@@ -27,202 +127,104 @@ const DAILY_GAME_DATA = {
         "copyright": "Genshin Impact",
         "material": "Video Game",
         "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8a/Character_Kaeya_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030050&path-prefix=th"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0787",
-        "name": "kouyoku_senki_exs-tia",
-        "proper_name": "Kouyoku Senki Exs-Tia",
-        "category": "copyright",
-        "encrypted_count": "elBnag==",
-        "copyright": "Kouyoku Senki Exs-Tia",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
       },
       "tag2": {
-        "id": "t0271",
-        "name": "hanako_(swimsuit)_(blue_archive)",
-        "proper_name": "Hanako (Swimsuit)",
+        "id": "t0411",
+        "name": "hanekawa_tsubasa",
+        "proper_name": "Hanekawa Tsubasa",
         "category": "character",
-        "encrypted_count": "fF1gYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/c/c5/Hanako_(Swimsuit).png/266px-Hanako_(Swimsuit).png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0531",
-        "name": "xiao_(genshin_impact)",
-        "proper_name": "Xiao",
-        "category": "character",
-        "encrypted_count": "e1FjYw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/88/Character_Xiao_Card.jpg/revision/latest?cb=20220528232419&path-prefix=th"
-      },
-      "tag2": {
-        "id": "t0692",
-        "name": "miyamoto_musashi_(fate)",
-        "proper_name": "Miyamoto Musashi",
-        "category": "character",
-        "encrypted_count": "e1dvag==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/c/c2/S153_Stage1.webp/revision/latest?cb=20220911082704"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0866",
-        "name": "bowsette",
-        "proper_name": "Bowsette",
-        "category": "character",
-        "encrypted_count": "e1dgag==",
-        "image_reference": "https://static.wikia.nocookie.net/mariofanon/images/6/68/Bowsette_.png/revision/latest?cb=20241228024714"
-      },
-      "tag2": {
-        "id": "t0939",
-        "name": "shenhe_(genshin_impact)",
-        "proper_name": "Shenhe",
-        "category": "character",
-        "encrypted_count": "eFBvaw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/shenhe-character-portrait-genshin-impact-wiki-guide-200px.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0838",
-        "name": "hestia_(danmachi)",
-        "proper_name": "Hestia",
-        "category": "character",
-        "encrypted_count": "e1Rmbg==",
-        "copyright": "DanMachi",
+        "encrypted_count": "fVdhbA==",
+        "copyright": "Monogatari Series",
         "material": "Light Novel",
-        "image_reference": "https://static.zerochan.net/Hestia.(DanMachi).full.2789461.png"
-      },
-      "tag2": {
-        "id": "t0402",
-        "name": "sessyoin_kiara",
-        "proper_name": "Sessyoin Kiara",
-        "category": "character",
-        "encrypted_count": "fFJgbg==",
-        "copyright": "Fate Grand/Order",
-        "material": "Video game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
+        "image_reference": "https://static.wikia.nocookie.net/bakemonogatari1645/images/b/be/Bakehane.png/revision/latest/scale-to-width-down/1200?cb=20181125055426"
       }
     },
     {
       "tag1": {
-        "id": "t0461",
-        "name": "burnice_white",
-        "proper_name": "Burnice White",
-        "category": "character",
-        "encrypted_count": "fFJhbg==",
-        "copyright": "Zenlesss Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/yuripedia/images/d/d1/Agent_Burnice_White_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240930234702"
-      },
-      "tag2": {
-        "id": "t0937",
-        "name": "aki_minoriko",
-        "proper_name": "Aki Minoriko",
-        "category": "character",
-        "encrypted_count": "e1NkbA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/8/80/MinorikoMOF.png/revision/latest?cb=20091025132039"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0854",
-        "name": "path_to_nowhere",
-        "proper_name": "Path to Nowhere",
+        "id": "t0537",
+        "name": "kingdom_hearts",
+        "proper_name": "Kingdom Hearts",
         "category": "copyright",
-        "encrypted_count": "fVxmaw==",
-        "copyright": "Path to Nowhere",
+        "encrypted_count": "dlViYg==",
+        "copyright": "Kingdom Hearts",
         "material": "Video Game",
-        "image_reference": "https://static.jojowiki.com/images/archive/f/f2/20240126233527!Path_to_Nowhere_Logo.png"
+        "image_reference": "https://static.wikia.nocookie.net/kingdomhearts/images/d/db/Kingdom_Hearts_front_cover_%28US%29.png/revision/latest?cb=20231231113847"
       },
       "tag2": {
-        "id": "t0644",
-        "name": "yahata_umiri",
-        "proper_name": "Yahata Umiri",
+        "id": "t0219",
+        "name": "admire_vega_(umamusume)",
+        "proper_name": "Admire Vega",
         "category": "character",
-        "encrypted_count": "elJuag==",
-        "copyright": "Arknights",
+        "encrypted_count": "fFJibw==",
+        "copyright": "Umamusume: Pretty Derby",
         "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
+        "image_reference": "https://static.zerochan.net/Admire.Vega.full.3896993.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0573",
-        "name": "nilou_(genshin_impact)",
-        "proper_name": "Nilou",
+        "id": "t0168",
+        "name": "castorice_(honkai:_star_rail)",
+        "proper_name": "Castorice",
         "category": "character",
-        "encrypted_count": "e1FgaA==",
-        "copyright": "Genshin Impact",
+        "encrypted_count": "fF1ubg==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859"
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/NPC_Castorice.png/revision/latest/scale-to-width-down/281?cb=20250115040840"
       },
       "tag2": {
-        "id": "t0048",
-        "name": "rosalina",
-        "proper_name": "Rosalina",
-        "category": "character",
-        "encrypted_count": "eFBubA==",
-        "copyright": "Super Mario",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rosalina_by_Shigehisa_Nakaue.png/250px-Rosalina_by_Shigehisa_Nakaue.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0711",
-        "name": "fuwawa_abyssgard",
-        "proper_name": "Fuwawa Abyssgard",
-        "category": "character",
-        "encrypted_count": "eldibA==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/ca/Fuwawa_Abyssgard_3D.png/revision/latest?cb=20240902203521"
-      },
-      "tag2": {
-        "id": "t0699",
-        "name": "nakiri_ayame",
-        "proper_name": "Nakiri Ayame",
-        "category": "character",
-        "encrypted_count": "elNvaQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6a/Nakiri_Ayame_October_'24_3D.png/revision/latest?cb=20241022205421"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0724",
-        "name": "kishin_sagume",
-        "proper_name": "Kishin Sagume",
-        "category": "character",
-        "encrypted_count": "elZkbg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5a/TH15Sagume.png/revision/latest?cb=20150908222725"
-      },
-      "tag2": {
-        "id": "t0751",
-        "name": "pokemon_(classic_anime)",
-        "proper_name": "Pok\u00e9mon (Classic Anime)",
+        "id": "t0277",
+        "name": "oshiro_project:re",
+        "proper_name": "Oshiro Project: Re",
         "category": "copyright",
-        "encrypted_count": "d1NuaA==",
+        "encrypted_count": "fVRjaQ==",
+        "copyright": "Oshiro Project: Re",
+        "material": "Video Game",
+        "image_reference": "https://play-lh.googleusercontent.com/mZqL67H8JkcYvkTYS1ZFA2ZswkmlAJeo4XjEZZUCfvw5JXiBLhp9ExrXKiigv0gfzSE=w526-h296-rw"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0947",
+        "name": "midoriya_izuku",
+        "proper_name": "Izuku Midoriya",
+        "category": "character",
+        "encrypted_count": "d1ViaQ==",
+        "copyright": "My Hero Academia",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/db/Izuku_Midoriya_%28My_Hero_Academia_character%29.png"
+      },
+      "tag2": {
+        "id": "t0603",
+        "name": "kikuchi_makoto",
+        "proper_name": "Kikuchi Makoto",
+        "category": "character",
+        "encrypted_count": "e1JiYw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/d/d1/Normal_Makoto_Kikuchi_Mobage_Transparent.png/revision/latest?cb=20190202042832"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0772",
+        "name": "pokemon_adventures",
+        "proper_name": "Pok\u00e9mon Adventures",
+        "category": "copyright",
+        "encrypted_count": "elJuaQ==",
         "copyright": "Pok\u00e9mon",
-        "material": "Anime",
-        "image_reference": "https://i.redd.it/m5jdk1ymvre31.png"
+        "material": "Manga",
+        "image_reference": "https://archives.bulbagarden.net/media/upload/5/55/Pokemon_Adventures_logo.png"
+      },
+      "tag2": {
+        "id": "t0696",
+        "name": "minase_iori",
+        "proper_name": "Minase Iori",
+        "category": "character",
+        "encrypted_count": "e1dnaQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/idolmaster/images/0/06/Iori_Minase_2nd_Vision_Idol.png/revision/latest/scale-to-width-down/350?cb=20200506210134"
       }
     }
   ]
