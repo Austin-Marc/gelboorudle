@@ -1,88 +1,130 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-18T08:25:42.508864+00:00
-// Date: 2026-10-18
+// Generated on: 2026-10-19T09:26:21.584024+00:00
+// Date: 2026-10-19
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0838",
-        "name": "hestia_(danmachi)",
-        "proper_name": "Hestia",
+        "id": "t0134",
+        "name": "dusk_(arknights)",
+        "proper_name": "Dusk",
         "category": "character",
-        "encrypted_count": "e1Rmbg==",
-        "copyright": "DanMachi",
-        "material": "Light Novel",
-        "image_reference": "https://static.zerochan.net/Hestia.(DanMachi).full.2789461.png"
+        "encrypted_count": "fVZiYw==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/5/5d/Dusk.png/revision/latest?cb=20210205132501"
       },
       "tag2": {
-        "id": "t0253",
-        "name": "beatrice_(umineko)",
-        "proper_name": "Beatrice",
-        "category": "character",
-        "encrypted_count": "fVVnYg==",
-        "copyright": "Umineko no Naku Koro ni",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
+        "id": "t0010",
+        "name": "arknights",
+        "proper_name": "Arknights",
+        "category": "copyright",
+        "encrypted_count": "f1NnaEMG",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Arknights_English_Release_Logo.svg/2560px-Arknights_English_Release_Logo.svg.png"
       }
     },
     {
       "tag1": {
-        "id": "t0624",
-        "name": "gumi",
-        "proper_name": "Gumi",
+        "id": "t0037",
+        "name": "mayuzumi_fuyuko",
+        "proper_name": "Mayuzumi Fuyuko",
         "category": "character",
-        "encrypted_count": "e1Bmaw==",
+        "encrypted_count": "fVJuYg==",
+        "image_reference": "https://image.shinycolors.wiki/d/da/FuyukoProfile.png"
+      },
+      "tag2": {
+        "id": "t0368",
+        "name": "black_swan_(honkai:_star_rail)",
+        "proper_name": "Black Swan",
+        "category": "character",
+        "encrypted_count": "fFFvbA==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Character_Black_Swan_Introduction.png/revision/latest?cb=20231212041201"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0286",
+        "name": "charlotte_(madoka_magica)",
+        "proper_name": "Charlotte",
+        "category": "character",
+        "encrypted_count": "fFNvYw==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://images.puella-magi.net/b/be/Card_Charlotte.png"
+      },
+      "tag2": {
+        "id": "t0363",
+        "name": "m.u.g.e.n",
+        "proper_name": "M.U.G.E.N",
+        "category": "copyright",
+        "encrypted_count": "fVNhaw==",
+        "copyright": "M.U.G.E.N",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/roblox/images/7/7f/MugenIcon2020February.png/revision/latest?cb=20210219071459"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0280",
+        "name": "project_voltage",
+        "proper_name": "Project Voltage",
+        "category": "copyright",
+        "encrypted_count": "fVdnYg==",
+        "copyright": "Project Voltage",
+        "material": "Video Game",
+        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230905142316/Logo_Project_Voltage.png/600px-Logo_Project_Voltage.png"
+      },
+      "tag2": {
+        "id": "t0836",
+        "name": "ump45_(girls'_frontline)",
+        "proper_name": "UMP45",
+        "category": "character",
+        "encrypted_count": "fV1kbA==",
+        "copyright": "Girls' Frontline",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omniversal-battlefield/images/2/2d/Ump45.png/revision/latest?cb=20200608224228"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0902",
+        "name": "meiko_(vocaloid)",
+        "proper_name": "MEIKO",
+        "category": "character",
+        "encrypted_count": "e1Rhag==",
         "copyright": "Vocaloid",
         "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/vocaloid/images/a/ad/AI_Megpoid_GUMI_transparent.png/revision/latest?cb=20221016001045"
+        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/7/77/MEIKO_V3.png/revision/latest?cb=20140117094450"
       },
       "tag2": {
-        "id": "t0563",
-        "name": "power_(chainsaw_man)",
-        "proper_name": "Power",
+        "id": "t0678",
+        "name": "murasaki_shion",
+        "proper_name": "Murasaki Shion",
         "category": "character",
-        "encrypted_count": "eFNjYw==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/60/Power_Infobox.png/revision/latest?cb=20221018191230&path-prefix=protagonist"
+        "encrypted_count": "e1Riaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/3/3f/Murasaki_Shion_Portrait.png/revision/latest?cb=20200616011940"
       }
     },
     {
       "tag1": {
-        "id": "t0917",
-        "name": "asuna_(bunny)_(blue_archive)",
-        "proper_name": "Asuna (Bunny)",
-        "category": "character",
-        "encrypted_count": "eFZgaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/6/66/Asuna_(Bunny_Girl)_00.png/326px-Asuna_(Bunny_Girl)_00.png"
-      },
-      "tag2": {
-        "id": "t0114",
-        "name": "fresh_precure!",
-        "proper_name": "Fresh Precure!",
+        "id": "t0273",
+        "name": "voicevox",
+        "proper_name": "VoiceVox",
         "category": "copyright",
-        "encrypted_count": "elJgYg==",
-        "copyright": "Precure",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/9/98/Fresh_Pretty_Cure_(English_2009).png/revision/latest?cb=20230828060448"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0362",
-        "name": "soulcalibur",
-        "proper_name": "Soulcalibur",
-        "category": "copyright",
-        "encrypted_count": "elVvbg==",
-        "copyright": "Soulcalibur",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cb/Soul_Calibur_logo.png/revision/latest?cb=20140721234029"
+        "encrypted_count": "fFJvYg==",
+        "copyright": "VoiceVox",
+        "material": "Music Software",
+        "image_reference": "https://prtimes.jp/data/corp/132725/ogp/0fc2c0b4cc844511409698e0d4cef820-963b6c7c0403ec1027cb2432a3e966c1.png"
       },
       "tag2": {
         "id": "t0864",
@@ -97,133 +139,90 @@ const DAILY_GAME_DATA = {
     },
     {
       "tag1": {
-        "id": "t0268",
-        "name": "uzuki_(kancolle)",
-        "proper_name": "Uzuki",
-        "category": "character",
-        "encrypted_count": "fFNjaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/8/88/Uzuki.png/revision/latest?cb=20140312175607&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0371",
-        "name": "lilith_(darkstalkers)",
-        "proper_name": "Lilith",
-        "category": "character",
-        "encrypted_count": "elZvaQ==",
-        "copyright": "Darkstalkers",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Lilith.Aensland.1024.4168190.webp"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0068",
-        "name": "shimada_arisu",
-        "proper_name": "Shimada Arisu",
-        "category": "character",
-        "encrypted_count": "fVBubQ==",
-        "copyright": "Girls Und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/charactah-account/images/a/a6/Arisu_Shimada_Render_01.png/revision/latest/scale-to-width-down/206?cb=20240316075811"
-      },
-      "tag2": {
-        "id": "t0694",
-        "name": "cookie_run",
-        "proper_name": "Cookie Run",
+        "id": "t0281",
+        "name": "happinesscharge_precure!",
+        "proper_name": "HappinessCharge Precure!",
         "category": "copyright",
-        "encrypted_count": "e1ZmaA==",
-        "copyright": "Cookie Run",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Cookie_Run_series_logo.png/revision/latest/scale-to-width-down/1200?cb=20211123144049"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0891",
-        "name": "akagi_(azur_lane)",
-        "proper_name": "Akagi",
-        "category": "character",
-        "encrypted_count": "fFBkaw==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
+        "encrypted_count": "fVZubg==",
+        "copyright": "HappinessCharge Precure!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/prettycureseries/images/4/43/HappinessChargePrettyCureLogo1.jpg/revision/latest?cb=20160704142946&path-prefix=pl"
       },
       "tag2": {
-        "id": "t0100",
-        "name": "katyusha_(girls_und_panzer)",
-        "proper_name": "Katyusha",
-        "category": "character",
-        "encrypted_count": "fVZkaw==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/c/ce/Katyusha.png/revision/latest?cb=20170123061132"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0824",
-        "name": "hellaverse",
-        "proper_name": "Hellaverse",
+        "id": "t0118",
+        "name": "my_little_pony",
+        "proper_name": "My Little Pony",
         "category": "copyright",
-        "encrypted_count": "elVlbg==",
-        "copyright": "Hellaverse",
-        "image_reference": "https://d1m9vqlvl3fy94.cloudfront.net/project/attachment/287217/947776hellaverselogo.jpg"
-      },
-      "tag2": {
-        "id": "t0674",
-        "name": "iowa_(kancolle)",
-        "proper_name": "Iowa",
-        "category": "character",
-        "encrypted_count": "elNnbw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/a/a5/Iowa_Full.png/revision/latest?cb=20180817192145"
+        "encrypted_count": "e1Vvbw==",
+        "copyright": "My Little Pony",
+        "material": "TV Show",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/04/My-Little-Pony-Logo-2016.png"
       }
     },
     {
       "tag1": {
-        "id": "t0821",
-        "name": "graf_zeppelin_(kancolle)",
-        "proper_name": "Graf Zeppelin",
+        "id": "t0645",
+        "name": "momose_ginko",
+        "proper_name": "Momose Ginko",
         "category": "character",
-        "encrypted_count": "fVxkYw==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "elRmbg==",
+        "copyright": "Project Sekai",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Graf.Zeppelin.(Kantai.Collection).full.1974176.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/f/f4/Ginko_Momose_2024.webp/revision/latest/scale-to-width-down/268?cb=20240520014334&path-prefix=es"
       },
       "tag2": {
-        "id": "t0796",
-        "name": "misty_(pokemon)",
-        "proper_name": "Misty",
+        "id": "t0455",
+        "name": "akuma_homura",
+        "proper_name": "Akuma Homura",
         "category": "character",
-        "encrypted_count": "f1duakc=",
-        "copyright": "Pokemon",
+        "encrypted_count": "fFFhbA==",
+        "copyright": "Puella Magi Madoka Magica",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png"
+        "image_reference": "https://images.puella-magi.net/c/c2/Ultimate_Madoka_%26_Akuma_Devil_Homura.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0043",
-        "name": "izuna_(blue_archive)",
-        "proper_name": "Izuna",
-        "category": "character",
-        "encrypted_count": "fVBhaQ==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png/revision/latest?cb=20220420075102"
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
+        "category": "copyright",
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
       },
       "tag2": {
-        "id": "t0651",
-        "name": "senketsu",
-        "proper_name": "Senketsu",
-        "category": "character",
-        "encrypted_count": "eFRgaw==",
-        "copyright": "Kill la Kill",
+        "id": "t0318",
+        "name": "promare",
+        "proper_name": "Promare",
+        "category": "copyright",
+        "encrypted_count": "fVRvYw==",
+        "copyright": "Promare",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/kill-la-kill/images/6/64/Senketsu.png/revision/latest/scale-to-width-down/275?cb=20140301064639"
+        "image_reference": "https://i0.kym-cdn.com/photos/images/original/001/270/904/f6a.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0723",
+        "name": "narukami_yu",
+        "proper_name": "Narukami Yu",
+        "category": "character",
+        "encrypted_count": "elxiaw==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://blazblue.wiki/images/2/2e/BlazBlue_Cross_Tag_Battle_Yu_Narukami_Main.png"
+      },
+      "tag2": {
+        "id": "t0053",
+        "name": "dragon_quest_iii",
+        "proper_name": "Dragon Quest III",
+        "category": "copyright",
+        "encrypted_count": "eFBubg==",
+        "copyright": "Dragon Quest",
+        "material": "Video Game",
+        "image_reference": "https://m.media-amazon.com/images/I/91M8HM0QlDL._AC_UF1000,1000_QL80_.jpg"
       }
     }
   ]
