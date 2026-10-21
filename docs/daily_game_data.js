@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-20T09:00:41.521410+00:00
-// Date: 2026-10-20
+// Generated on: 2026-10-21T08:59:36.715904+00:00
+// Date: 2026-10-21
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0195",
-        "name": "reizei_mako",
-        "proper_name": "Reizei Mako",
+        "id": "t0208",
+        "name": "iroha_(blue_archive)",
+        "proper_name": "Iroha",
         "category": "character",
-        "encrypted_count": "fF1kYw==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fVRgYw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/b/bf/Iroha.png?version=03ef775c67f6cd088ca023ceabf87467"
+      },
+      "tag2": {
+        "id": "t0084",
+        "name": "urusei_yatsura",
+        "proper_name": "Urusei Yatsura",
+        "category": "copyright",
+        "encrypted_count": "elJhaQ==",
+        "copyright": "Urusei Yatsura",
         "material": "Anime",
-        "image_reference": "https://img10.reactor.cc/pics/post/full/Girls-und-Panzer-Anime-reizei-mako-sazanka-4507628.png"
-      },
-      "tag2": {
-        "id": "t0933",
-        "name": "baobhan_sith_(fate)",
-        "proper_name": "Baobhan Sith",
-        "category": "character",
-        "encrypted_count": "e1Jlbg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S311_Stage1.webp/revision/latest?cb=20220925055326"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0880",
-        "name": "senran_kagura_shoujo-tachi_no_shin'ei",
-        "proper_name": "Senran Kagura: Shoujo-tachi no Shin'ei",
+        "id": "t0546",
+        "name": "queen's_blade",
+        "proper_name": "Queen's Blade",
         "category": "copyright",
-        "encrypted_count": "eFxl",
-        "copyright": "Senran Kagura",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/c/cc/Senran_Kagura.png/revision/latest?cb=20210114042723"
-      },
-      "tag2": {
-        "id": "t0637",
-        "name": "golden_kamuy",
-        "proper_name": "Golden Kamuy",
-        "category": "copyright",
-        "encrypted_count": "elxnbg==",
-        "copyright": "Golden Kamuy",
-        "material": "Manga",
-        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0389",
-        "name": "mega_gardevoir",
-        "proper_name": "Mega Gardevoir",
-        "category": "character",
-        "encrypted_count": "fF1iYg==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/66/d5/17/66d517e6be088e8593678091fe19277a.png"
-      },
-      "tag2": {
-        "id": "t0190",
-        "name": "shin_megami_tensei",
-        "proper_name": "Shin Megami Tensei",
-        "category": "copyright",
-        "encrypted_count": "eVZvbw==",
-        "copyright": "Shin Megami Tensei",
-        "material": "Video Game",
-        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/thumb/6/66/Shin_Megami_Tensei_logo.svg/800px-Shin_Megami_Tensei_logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0514",
-        "name": "darjeeling_(girls_und_panzer)",
-        "proper_name": "Darjeeling",
-        "category": "character",
-        "encrypted_count": "eFFhbA==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime"
-      },
-      "tag2": {
-        "id": "t0863",
-        "name": "kitasan_black_(umamusume)",
-        "proper_name": "Kitasan Black",
-        "category": "character",
-        "encrypted_count": "fVBjag==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/7/73/Kitasan_black_anime.png/revision/latest?cb=20210109020442"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0431",
-        "name": "hayate_no_gotoku!",
-        "proper_name": "Hayate no Gotoku!",
-        "category": "copyright",
-        "encrypted_count": "fVxubQ==",
-        "copyright": "Hayate no Gotoku!",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
-      },
-      "tag2": {
-        "id": "t0486",
-        "name": "cynthia_(pokemon)",
-        "proper_name": "Cynthia",
-        "category": "character",
-        "encrypted_count": "f1RnYkc=",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/nintendo/images/c/c3/CynthiaBDSP.png/revision/latest?cb=20220120105612&path-prefix=en"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0361",
-        "name": "miyafuji_yoshika",
-        "proper_name": "Miyafuji Yoshika",
-        "category": "character",
-        "encrypted_count": "fVVhag==",
-        "copyright": "Strike Witches",
+        "encrypted_count": "f1Bna0M=",
+        "copyright": "Queen's Blade",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Miyafuji.Yoshika.full.1053900.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
       },
       "tag2": {
-        "id": "t0091",
-        "name": "maya_(kancolle)",
-        "proper_name": "Maya",
+        "id": "t0701",
+        "name": "stocking_(psg)",
+        "proper_name": "Stocking",
         "category": "character",
-        "encrypted_count": "fVRlYg==",
+        "encrypted_count": "eFFjaA==",
+        "copyright": "Panty & Stocking with Garterbelt",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0905",
+        "name": "splatoon_1",
+        "proper_name": "Splatoon 1",
+        "category": "copyright",
+        "encrypted_count": "eVdvYw==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://www.pngkit.com/png/full/832-8327989_splatoon-logo.png"
+      },
+      "tag2": {
+        "id": "t0541",
+        "name": "minami_kotori",
+        "proper_name": "Minami Kotori",
+        "category": "character",
+        "encrypted_count": "dlJlaA==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjaPdIt9a2JBqPM2ogg68Gw8TSwNPuvsggg&s"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0885",
+        "name": "male_rover_(wuthering_waves)",
+        "proper_name": "Male Rover",
+        "category": "character",
+        "encrypted_count": "fFVvbg==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Rover.(Male).full.3938446.png"
+      },
+      "tag2": {
+        "id": "t0341",
+        "name": "non-human_admiral_(kancolle)",
+        "proper_name": "Non-Human Admiral",
+        "category": "character",
+        "encrypted_count": "f1FuaA==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Maya.png/revision/latest?cb=20140310181530&path-prefix=protagonist"
+        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
       }
     },
     {
       "tag1": {
-        "id": "t0502",
-        "name": "matou_sakura",
-        "proper_name": "Matou Sakura",
-        "category": "character",
-        "encrypted_count": "eFNhag==",
-        "copyright": "Fate Series",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Sakura_FGO.png/revision/latest?cb=20171107173330&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0498",
-        "name": "dead_or_alive",
-        "proper_name": "Dead or Alive",
+        "id": "t0078",
+        "name": "hyouka",
+        "proper_name": "Hyouka",
         "category": "copyright",
-        "encrypted_count": "fFVib0A=",
-        "copyright": "Dead or Alive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/deadoralive/images/c/c9/Logo.png/revision/latest?cb=20080525033719"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0421",
-        "name": "hidamari_sketch",
-        "proper_name": "Hidamari Sketch",
-        "category": "copyright",
-        "encrypted_count": "fVFhaA==",
-        "copyright": "Hidamari Sketch",
+        "encrypted_count": "fVNnbA==",
+        "copyright": "Hyouka",
         "material": "Anime",
-        "image_reference": "https://image.librewiki.net/thumb/8/88/Hidamari_Sketch_logo.webp/480px-Hidamari_Sketch_logo.webp.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Hyouka_English_poster.jpg/250px-Hyouka_English_poster.jpg"
       },
       "tag2": {
-        "id": "t0598",
-        "name": "len'en",
-        "proper_name": "Len'en",
+        "id": "t0754",
+        "name": "gegege_no_kitarou",
+        "proper_name": "GeGeGe no Kitarou",
         "category": "copyright",
-        "encrypted_count": "e1ZiaA==",
-        "copyright": "Len'en",
-        "material": "Video Game",
-        "image_reference": "https://lenen.wiki.gg/images/Site-logo.png?b36d97"
+        "encrypted_count": "e1RlYg==",
+        "copyright": "GeGeGe no Kitarou",
+        "material": "Anime",
+        "image_reference": "https://images.launchbox-app.com/82f56e88-1d89-4c7f-95d4-b5ffdf87c0be.png"
       }
     },
     {
       "tag1": {
-        "id": "t0734",
-        "name": "lily_white",
-        "proper_name": "Lily White",
+        "id": "t0822",
+        "name": "gundam_build_fighters",
+        "proper_name": "Gundam Build Fighters",
+        "category": "copyright",
+        "encrypted_count": "eVdlaw==",
+        "copyright": "Gundam",
+        "material": "Anime",
+        "image_reference": "https://en.gundam.info/series/buildfighters/wp-content/themes/series/images/buildfighters/logo_en.png"
+      },
+      "tag2": {
+        "id": "t0096",
+        "name": "mash_kyrielight_(demi-servant)",
+        "proper_name": "Mash Kyrielight",
         "category": "character",
-        "encrypted_count": "elZuYw==",
+        "encrypted_count": "f1Bmbw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0938",
+        "name": "phainon_(honkai:_star_rail)",
+        "proper_name": "Phainon",
+        "category": "character",
+        "encrypted_count": "e1Jhbg==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Ordain_of_the_Chrysos_Heir_Phainon.png/revision/latest?cb=20241122123229"
+      },
+      "tag2": {
+        "id": "t0548",
+        "name": "phantasy_star",
+        "proper_name": "Phantasy Star",
+        "category": "copyright",
+        "encrypted_count": "eFBgaQ==",
+        "copyright": "Phantasy Star",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0844",
+        "name": "kyon",
+        "proper_name": "Kyon",
+        "category": "character",
+        "encrypted_count": "elZlaQ==",
+        "copyright": "The Melancholy of Haruhi Suzumiya",
+        "material": "Light Novel",
+        "image_reference": "https://i.pinimg.com/originals/a0/fd/09/a0fd091b54d8f0cc1207a7d5d8a6ee3e.jpg"
+      },
+      "tag2": {
+        "id": "t0732",
+        "name": "made_in_abyss",
+        "proper_name": "Made in Abyss",
+        "category": "copyright",
+        "encrypted_count": "eFVlaQ==",
+        "copyright": "Made in Abyss",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/madeinabyss/images/c/c4/Made-In-Abyss-Logo.png/revision/latest?cb=20170708222105"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0902",
+        "name": "meiko_(vocaloid)",
+        "proper_name": "MEIKO",
+        "category": "character",
+        "encrypted_count": "e1Rhag==",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/7/77/MEIKO_V3.png/revision/latest?cb=20140117094450"
+      },
+      "tag2": {
+        "id": "t0105",
+        "name": "nakano_yotsuba",
+        "proper_name": "Nakano Yotsuba",
+        "category": "character",
+        "encrypted_count": "fVJhbg==",
+        "copyright": "The Quintessential Quintuplets",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0596",
+        "name": "aki_shizuha",
+        "proper_name": "Aki Shizuha",
+        "category": "character",
+        "encrypted_count": "elxuYg==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fumo-city/images/7/7a/Lilywhitesbf.png/revision/latest?cb=20241003014301"
+        "image_reference": "https://static.wikia.nocookie.net/the-outsider-who-loved-gensokyo/images/3/3b/Shizuha_Smile.png/revision/latest?cb=20190404011450"
       },
       "tag2": {
-        "id": "t0188",
-        "name": "mega_man_zero_(series)",
-        "proper_name": "Mega Man Zero Series",
-        "category": "copyright",
-        "encrypted_count": "elRvbg==",
-        "copyright": "Mega Man",
+        "id": "t0067",
+        "name": "jack_the_ripper_(fate/apocrypha)",
+        "proper_name": "Jack the Ripper",
+        "category": "character",
+        "encrypted_count": "fV1iYw==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0871",
-        "name": "senpai_ga_uzai_kouhai_no_hanashi",
-        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
-        "category": "copyright",
-        "encrypted_count": "f1FuaQ==",
-        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
-        "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
-      },
-      "tag2": {
-        "id": "t0226",
-        "name": "yuri!!!_on_ice",
-        "proper_name": "Yuri!!! on ICE",
-        "category": "copyright",
-        "encrypted_count": "fVdnbA==",
-        "copyright": "Yuri!!! on ICE",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6YWsFdsN90j7jwUoV9LzaEFb96hoevDz1A--O3VGX_DqgBhW4Zj1pJGBIwN25bKoiUybLw"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/c/c8/Assassin_of_black.png/revision/latest?cb=20130824114138"
       }
     }
   ]
