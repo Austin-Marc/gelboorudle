@@ -1,156 +1,36 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-21T08:59:36.715904+00:00
-// Date: 2026-10-21
+// Generated on: 2026-10-22T09:01:57.245217+00:00
+// Date: 2026-10-22
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0208",
-        "name": "iroha_(blue_archive)",
-        "proper_name": "Iroha",
+        "id": "t0343",
+        "name": "hatsuyuki_(kancolle)",
+        "proper_name": "Hatsuyuki",
         "category": "character",
-        "encrypted_count": "fVRgYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/b/bf/Iroha.png?version=03ef775c67f6cd088ca023ceabf87467"
-      },
-      "tag2": {
-        "id": "t0084",
-        "name": "urusei_yatsura",
-        "proper_name": "Urusei Yatsura",
-        "category": "copyright",
-        "encrypted_count": "elJhaQ==",
-        "copyright": "Urusei Yatsura",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0546",
-        "name": "queen's_blade",
-        "proper_name": "Queen's Blade",
-        "category": "copyright",
-        "encrypted_count": "f1Bna0M=",
-        "copyright": "Queen's Blade",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
-      },
-      "tag2": {
-        "id": "t0701",
-        "name": "stocking_(psg)",
-        "proper_name": "Stocking",
-        "category": "character",
-        "encrypted_count": "eFFjaA==",
-        "copyright": "Panty & Stocking with Garterbelt",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0905",
-        "name": "splatoon_1",
-        "proper_name": "Splatoon 1",
-        "category": "copyright",
-        "encrypted_count": "eVdvYw==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://www.pngkit.com/png/full/832-8327989_splatoon-logo.png"
-      },
-      "tag2": {
-        "id": "t0541",
-        "name": "minami_kotori",
-        "proper_name": "Minami Kotori",
-        "category": "character",
-        "encrypted_count": "dlJlaA==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjaPdIt9a2JBqPM2ogg68Gw8TSwNPuvsggg&s"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0885",
-        "name": "male_rover_(wuthering_waves)",
-        "proper_name": "Male Rover",
-        "category": "character",
-        "encrypted_count": "fFVvbg==",
-        "copyright": "Wuthering Waves",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Rover.(Male).full.3938446.png"
-      },
-      "tag2": {
-        "id": "t0341",
-        "name": "non-human_admiral_(kancolle)",
-        "proper_name": "Non-Human Admiral",
-        "category": "character",
-        "encrypted_count": "f1FuaA==",
+        "encrypted_count": "fFZvaQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://img10.joyreactor.com/pics/post/anime-fandoms-Ryuujou-4475955.jpeg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0078",
-        "name": "hyouka",
-        "proper_name": "Hyouka",
-        "category": "copyright",
-        "encrypted_count": "fVNnbA==",
-        "copyright": "Hyouka",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Hyouka_English_poster.jpg/250px-Hyouka_English_poster.jpg"
+        "image_reference": "https://static.zerochan.net/Hatsuyuki.(Kantai.Collection).full.2014249.jpg"
       },
       "tag2": {
-        "id": "t0754",
-        "name": "gegege_no_kitarou",
-        "proper_name": "GeGeGe no Kitarou",
-        "category": "copyright",
-        "encrypted_count": "e1RlYg==",
-        "copyright": "GeGeGe no Kitarou",
-        "material": "Anime",
-        "image_reference": "https://images.launchbox-app.com/82f56e88-1d89-4c7f-95d4-b5ffdf87c0be.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0822",
-        "name": "gundam_build_fighters",
-        "proper_name": "Gundam Build Fighters",
-        "category": "copyright",
-        "encrypted_count": "eVdlaw==",
-        "copyright": "Gundam",
-        "material": "Anime",
-        "image_reference": "https://en.gundam.info/series/buildfighters/wp-content/themes/series/images/buildfighters/logo_en.png"
-      },
-      "tag2": {
-        "id": "t0096",
-        "name": "mash_kyrielight_(demi-servant)",
-        "proper_name": "Mash Kyrielight",
+        "id": "t0697",
+        "name": "sephiroth",
+        "proper_name": "Sephiroth",
         "category": "character",
-        "encrypted_count": "f1Bmbw==",
-        "copyright": "Fate Series",
+        "encrypted_count": "e1Rnag==",
+        "copyright": "Final Fantasy",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate-grand-order-anime/images/f/fd/Mash.png/revision/latest?cb=20200127030836"
+        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/1/17/Sephiroth_FFVII_Remake_render.png/revision/latest?cb=20200210184912&path-prefix=pt-br"
       }
     },
     {
       "tag1": {
-        "id": "t0938",
-        "name": "phainon_(honkai:_star_rail)",
-        "proper_name": "Phainon",
-        "category": "character",
-        "encrypted_count": "e1Jhbg==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Ordain_of_the_Chrysos_Heir_Phainon.png/revision/latest?cb=20241122123229"
-      },
-      "tag2": {
         "id": "t0548",
         "name": "phantasy_star",
         "proper_name": "Phantasy Star",
@@ -159,72 +39,189 @@ const DAILY_GAME_DATA = {
         "copyright": "Phantasy Star",
         "material": "Video Game",
         "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
+      },
+      "tag2": {
+        "id": "t0791",
+        "name": "sangonomiya_kokomi",
+        "proper_name": "Sangonomiya Kokomi",
+        "category": "character",
+        "encrypted_count": "elZmaQ==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20230429082521&path-prefix=de"
       }
     },
     {
       "tag1": {
-        "id": "t0844",
-        "name": "kyon",
-        "proper_name": "Kyon",
-        "category": "character",
-        "encrypted_count": "elZlaQ==",
-        "copyright": "The Melancholy of Haruhi Suzumiya",
-        "material": "Light Novel",
-        "image_reference": "https://i.pinimg.com/originals/a0/fd/09/a0fd091b54d8f0cc1207a7d5d8a6ee3e.jpg"
-      },
-      "tag2": {
-        "id": "t0732",
-        "name": "made_in_abyss",
-        "proper_name": "Made in Abyss",
+        "id": "t0186",
+        "name": "ado_(utaite)",
+        "proper_name": "Ado",
         "category": "copyright",
-        "encrypted_count": "eFVlaQ==",
-        "copyright": "Made in Abyss",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/madeinabyss/images/c/c4/Made-In-Abyss-Logo.png/revision/latest?cb=20170708222105"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0902",
-        "name": "meiko_(vocaloid)",
-        "proper_name": "MEIKO",
-        "category": "character",
-        "encrypted_count": "e1Rhag==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/7/77/MEIKO_V3.png/revision/latest?cb=20140117094450"
+        "encrypted_count": "fVVubA==",
+        "copyright": "Ado",
+        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
       },
       "tag2": {
-        "id": "t0105",
-        "name": "nakano_yotsuba",
-        "proper_name": "Nakano Yotsuba",
+        "id": "t0519",
+        "name": "hakos_baelz",
+        "proper_name": "Hakos Baelz",
         "category": "character",
-        "encrypted_count": "fVJhbg==",
-        "copyright": "The Quintessential Quintuplets",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701"
+        "encrypted_count": "e1JmYg==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/68/Hakos_Baelz_3D.png/revision/latest?cb=20240901181420"
       }
     },
     {
       "tag1": {
-        "id": "t0596",
-        "name": "aki_shizuha",
-        "proper_name": "Aki Shizuha",
+        "id": "t0220",
+        "name": "sakurai_momoka",
+        "proper_name": "Sakurai Momoka",
         "category": "character",
-        "encrypted_count": "elxuYg==",
+        "encrypted_count": "fVJjbQ==",
+        "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/72/Sakurai_Momoka.png/revision/latest?cb=20230408124811"
+      },
+      "tag2": {
+        "id": "t0813",
+        "name": "koizumi_hanayo",
+        "proper_name": "Koizumi Hanayo",
+        "category": "character",
+        "encrypted_count": "e1Jkbw==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live-super-sentai/images/2/27/Hanayo_01_01.png/revision/latest?cb=20180827052255"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0657",
+        "name": "samidare_(kancolle)",
+        "proper_name": "Samidare",
+        "category": "character",
+        "encrypted_count": "elJgbg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://cdn.donmai.us/sample/55/a3/__samidare_kantai_collection_drawn_by_dangan_kurabu__sample-55a33481aaa5fe9a23ab4c80ba009ff8.jpg"
+      },
+      "tag2": {
+        "id": "t0171",
+        "name": "taihou_(kancolle)",
+        "proper_name": "Taihou",
+        "category": "character",
+        "encrypted_count": "fVRmaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b1/Ship_Card_Taihou_Damaged.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0287",
+        "name": "satsuki_(kancolle)",
+        "proper_name": "Satsuki",
+        "category": "character",
+        "encrypted_count": "fFJgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0923",
+        "name": "monkey_d._luffy",
+        "proper_name": "Monkey D. Luffy",
+        "category": "character",
+        "encrypted_count": "f1RjakU=",
+        "copyright": "One Piece",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190303115209&path-prefix=pt"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0627",
+        "name": "sazanami_(kancolle)",
+        "proper_name": "Sazanami",
+        "category": "character",
+        "encrypted_count": "eldmaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Sazanami.(Kantai.Collection).full.1845445.jpg"
+      },
+      "tag2": {
+        "id": "t0951",
+        "name": "dio_brando",
+        "proper_name": "Dio Brando",
+        "category": "character",
+        "encrypted_count": "eFdvYw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/0/0a/latest/20210424101455/DIO_Normal_SC_Infobox_Anime.png/800px-DIO_Normal_SC_Infobox_Anime.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0856",
+        "name": "metal_gear_(series)",
+        "proper_name": "Metal Gear Series",
+        "category": "copyright",
+        "encrypted_count": "el1uag==",
+        "copyright": "Metal Gear Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/konamiverse/images/6/60/Metal_Gear_Series_Logo_a.png/revision/latest/scale-to-width-down/350?cb=20190803173003"
+      },
+      "tag2": {
+        "id": "t0162",
+        "name": "satonaka_chie",
+        "proper_name": "Satonaka Chie",
+        "category": "character",
+        "encrypted_count": "elVhaw==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0886",
+        "name": "skadi_the_corrupting_heart_(arknights)",
+        "proper_name": "Skadi the Corrupting Heart",
+        "category": "character",
+        "encrypted_count": "fFdvbA==",
+        "copyright": "Arknights",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cf/Skadi_the_Corrupting_Heart.png/revision/latest?cb=20210501130244"
+      },
+      "tag2": {
+        "id": "t0862",
+        "name": "kachimachi_kosuzu",
+        "proper_name": "Kachimachi Kosuzu",
+        "category": "character",
+        "encrypted_count": "fVZkaw==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/the-outsider-who-loved-gensokyo/images/3/3b/Shizuha_Smile.png/revision/latest?cb=20190404011450"
+        "image_reference": "https://static.myfigurecollection.net/upload/entries/1/377786-f2961.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0539",
+        "name": "hasumi_(blue_archive)",
+        "proper_name": "Hasumi",
+        "category": "character",
+        "encrypted_count": "eFRmaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Hasumi_Portrait.png/revision/latest?cb=20220423095508"
       },
       "tag2": {
-        "id": "t0067",
-        "name": "jack_the_ripper_(fate/apocrypha)",
-        "proper_name": "Jack the Ripper",
-        "category": "character",
-        "encrypted_count": "fV1iYw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/c/c8/Assassin_of_black.png/revision/latest?cb=20130824114138"
+        "id": "t0579",
+        "name": "heartcatch_precure!",
+        "proper_name": "Heartcatch Precure!",
+        "category": "copyright",
+        "encrypted_count": "eFZnbg==",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/de5shxw-01a69a49-e4f7-4987-b7b7-d4eda00bd7f8.png/v1/fill/w_1600,h_911/heartcatch_pretty_cure_logo_by_joshuat1306_de5shxw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kZTVzaHh3LTAxYTY5YTQ5LWU0ZjctNDk4Ny1iN2I3LWQ0ZWRhMDBiZDdmOC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CVHZAac5yav0HgjR_KGO1Yy9qGk64nAIG56xG-3f6g0"
       }
     }
   ]
