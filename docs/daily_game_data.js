@@ -1,227 +1,226 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-22T09:01:57.245217+00:00
-// Date: 2026-10-22
+// Generated on: 2026-10-23T08:56:56.789721+00:00
+// Date: 2026-10-23
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0343",
-        "name": "hatsuyuki_(kancolle)",
-        "proper_name": "Hatsuyuki",
+        "id": "t0215",
+        "name": "kuma_(kancolle)",
+        "proper_name": "Kuma",
         "category": "character",
-        "encrypted_count": "fFZvaQ==",
+        "encrypted_count": "fFJuYg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Hatsuyuki.(Kantai.Collection).full.2014249.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/74/Kuma.png/revision/latest/scale-to-width-down/300?cb=20151127111153&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0697",
-        "name": "sephiroth",
-        "proper_name": "Sephiroth",
+        "id": "t0134",
+        "name": "dusk_(arknights)",
+        "proper_name": "Dusk",
         "category": "character",
-        "encrypted_count": "e1Rnag==",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/finalfantasy/images/1/17/Sephiroth_FFVII_Remake_render.png/revision/latest?cb=20200210184912&path-prefix=pt-br"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0548",
-        "name": "phantasy_star",
-        "proper_name": "Phantasy Star",
-        "category": "copyright",
-        "encrypted_count": "eFBgaQ==",
-        "copyright": "Phantasy Star",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
-      },
-      "tag2": {
-        "id": "t0791",
-        "name": "sangonomiya_kokomi",
-        "proper_name": "Sangonomiya Kokomi",
-        "category": "character",
-        "encrypted_count": "elZmaQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20230429082521&path-prefix=de"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0186",
-        "name": "ado_(utaite)",
-        "proper_name": "Ado",
-        "category": "copyright",
-        "encrypted_count": "fVVubA==",
-        "copyright": "Ado",
-        "image_reference": "https://shorefire.com/images/uploads/gallery/Ado_Logo_white.jpg"
-      },
-      "tag2": {
-        "id": "t0519",
-        "name": "hakos_baelz",
-        "proper_name": "Hakos Baelz",
-        "category": "character",
-        "encrypted_count": "e1JmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/68/Hakos_Baelz_3D.png/revision/latest?cb=20240901181420"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0220",
-        "name": "sakurai_momoka",
-        "proper_name": "Sakurai Momoka",
-        "category": "character",
-        "encrypted_count": "fVJjbQ==",
-        "image_reference": "https://static.wikia.nocookie.net/kangaroos/images/7/72/Sakurai_Momoka.png/revision/latest?cb=20230408124811"
-      },
-      "tag2": {
-        "id": "t0813",
-        "name": "koizumi_hanayo",
-        "proper_name": "Koizumi Hanayo",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-super-sentai/images/2/27/Hanayo_01_01.png/revision/latest?cb=20180827052255"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0657",
-        "name": "samidare_(kancolle)",
-        "proper_name": "Samidare",
-        "category": "character",
-        "encrypted_count": "elJgbg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/sample/55/a3/__samidare_kantai_collection_drawn_by_dangan_kurabu__sample-55a33481aaa5fe9a23ab4c80ba009ff8.jpg"
-      },
-      "tag2": {
-        "id": "t0171",
-        "name": "taihou_(kancolle)",
-        "proper_name": "Taihou",
-        "category": "character",
-        "encrypted_count": "fVRmaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/b/b1/Ship_Card_Taihou_Damaged.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0287",
-        "name": "satsuki_(kancolle)",
-        "proper_name": "Satsuki",
-        "category": "character",
-        "encrypted_count": "fFJgaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/9/92/Satsuki_(Kantai_Collection).png/revision/latest?cb=20200719072533&path-prefix=protagonist"
-      },
-      "tag2": {
-        "id": "t0923",
-        "name": "monkey_d._luffy",
-        "proper_name": "Monkey D. Luffy",
-        "category": "character",
-        "encrypted_count": "f1RjakU=",
-        "copyright": "One Piece",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190303115209&path-prefix=pt"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0627",
-        "name": "sazanami_(kancolle)",
-        "proper_name": "Sazanami",
-        "category": "character",
-        "encrypted_count": "eldmaQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Sazanami.(Kantai.Collection).full.1845445.jpg"
-      },
-      "tag2": {
-        "id": "t0951",
-        "name": "dio_brando",
-        "proper_name": "Dio Brando",
-        "category": "character",
-        "encrypted_count": "eFdvYw==",
-        "copyright": "JoJo's Bizarre Adventure",
-        "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/0/0a/latest/20210424101455/DIO_Normal_SC_Infobox_Anime.png/800px-DIO_Normal_SC_Infobox_Anime.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0856",
-        "name": "metal_gear_(series)",
-        "proper_name": "Metal Gear Series",
-        "category": "copyright",
-        "encrypted_count": "el1uag==",
-        "copyright": "Metal Gear Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/konamiverse/images/6/60/Metal_Gear_Series_Logo_a.png/revision/latest/scale-to-width-down/350?cb=20190803173003"
-      },
-      "tag2": {
-        "id": "t0162",
-        "name": "satonaka_chie",
-        "proper_name": "Satonaka Chie",
-        "category": "character",
-        "encrypted_count": "elVhaw==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0886",
-        "name": "skadi_the_corrupting_heart_(arknights)",
-        "proper_name": "Skadi the Corrupting Heart",
-        "category": "character",
-        "encrypted_count": "fFdvbA==",
+        "encrypted_count": "fVZiYw==",
         "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cf/Skadi_the_Corrupting_Heart.png/revision/latest?cb=20210501130244"
-      },
-      "tag2": {
-        "id": "t0862",
-        "name": "kachimachi_kosuzu",
-        "proper_name": "Kachimachi Kosuzu",
-        "category": "character",
-        "encrypted_count": "fVZkaw==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.myfigurecollection.net/upload/entries/1/377786-f2961.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/5/5d/Dusk.png/revision/latest?cb=20210205132501"
       }
     },
     {
       "tag1": {
-        "id": "t0539",
-        "name": "hasumi_(blue_archive)",
-        "proper_name": "Hasumi",
-        "category": "character",
-        "encrypted_count": "eFRmaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Hasumi_Portrait.png/revision/latest?cb=20220423095508"
+        "id": "t0274",
+        "name": "sayonara_zetsubou_sensei",
+        "proper_name": "Sayonara, Zetsubou-Sensei",
+        "category": "copyright",
+        "encrypted_count": "fVdjYw==",
+        "copyright": "Sayonara, Zetsubou-Sensei",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/71/A_Sayonara_zetsubou_sensei_logo.png/revision/latest?cb=20150308203430"
       },
       "tag2": {
-        "id": "t0579",
-        "name": "heartcatch_precure!",
-        "proper_name": "Heartcatch Precure!",
+        "id": "t0509",
+        "name": "sanrio",
+        "proper_name": "Sanrio",
         "category": "copyright",
-        "encrypted_count": "eFZnbg==",
-        "copyright": "Precure",
+        "encrypted_count": "eFVlaw==",
+        "copyright": "Sanrio",
+        "image_reference": "https://static.wikia.nocookie.net/hellokitty/images/a/a5/Mv-cinnamon.png/revision/latest/scale-to-width/360?cb=20250930161135"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0875",
+        "name": "osomatsu-kun",
+        "proper_name": "Osomatsu-kun",
+        "category": "copyright",
+        "encrypted_count": "elZjbw==",
+        "copyright": "Osomatsu-kun",
         "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/de5shxw-01a69a49-e4f7-4987-b7b7-d4eda00bd7f8.png/v1/fill/w_1600,h_911/heartcatch_pretty_cure_logo_by_joshuat1306_de5shxw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6IlwvZlwvZWQ5OTFjZjQtN2M4Yy00NTMwLWI2YmEtYTNhYmYzYWIyZWFlXC9kZTVzaHh3LTAxYTY5YTQ5LWU0ZjctNDk4Ny1iN2I3LWQ0ZWRhMDBiZDdmOC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CVHZAac5yav0HgjR_KGO1Yy9qGk64nAIG56xG-3f6g0"
+        "image_reference": "https://static.wikia.nocookie.net/osomatsukun/images/e/e6/Site-logo.png/revision/latest?cb=20210713152445"
+      },
+      "tag2": {
+        "id": "t0869",
+        "name": "inui_toko",
+        "proper_name": "Inui Toko",
+        "category": "character",
+        "encrypted_count": "fFFibA==",
+        "copyright": "Nijisanji",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0193",
+        "name": "omaru_polka",
+        "proper_name": "Omaru Polka",
+        "category": "character",
+        "encrypted_count": "fVRjbQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://www.previewsworld.com/SiteImage/MainImage/STL314355.jpg"
+      },
+      "tag2": {
+        "id": "t0816",
+        "name": "robin_(honkai:_star_rail)",
+        "proper_name": "Robin",
+        "category": "character",
+        "encrypted_count": "fV1naQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Character_Robin_Introduction.png/revision/latest?cb=20240312040444"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0715",
+        "name": "hatsutori_hajime",
+        "proper_name": "Hatsutori Hajime",
+        "category": "character",
+        "encrypted_count": "eldkYw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://cdn.donmai.us/original/10/9b/109b39a052b5f37522dcaa3271dc1e95.png"
+      },
+      "tag2": {
+        "id": "t0783",
+        "name": "fu_hua",
+        "proper_name": "Fu Hua",
+        "category": "character",
+        "encrypted_count": "elVmaw==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/hoducks/images/f/f7/Valkyrie_Accipiter.png/revision/latest?cb=20201226082235"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0301",
+        "name": "tomoe_gozen_(fate)",
+        "proper_name": "Tomoe Gozen",
+        "category": "character",
+        "encrypted_count": "fVRmaw==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6999/99662f2ac78d6680faaed4cc6b30d0b4757f43dcr1-850-1073v2_hq.jpg"
+      },
+      "tag2": {
+        "id": "t0360",
+        "name": "male_byleth_(fire_emblem)",
+        "proper_name": "Byleth (Male)",
+        "category": "character",
+        "encrypted_count": "el1uYg==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://fireemblemwiki.org/w/images/thumb/7/7a/FETH_Byleth_m.png/1200px-FETH_Byleth_m.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0551",
+        "name": "stone_ocean",
+        "proper_name": "Stone Ocean",
+        "category": "copyright",
+        "encrypted_count": "fVZvbA==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/6/6b/latest/20210404125436/Stone_Ocean_Anime_Logo.png"
+      },
+      "tag2": {
+        "id": "t0131",
+        "name": "ayanami_(azur_lane)",
+        "proper_name": "Ayanami",
+        "category": "character",
+        "encrypted_count": "fVdkag==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/bhlx/images/0/0a/Ayanami.png/revision/latest?cb=20190519143145"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0663",
+        "name": "osawa_rurino",
+        "proper_name": "Osawa Rurino",
+        "category": "character",
+        "encrypted_count": "elVgbQ==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d2/Osawa_Rurino.png/revision/latest/scale-to-width-down/1200?cb=20230210125149"
+      },
+      "tag2": {
+        "id": "t0733",
+        "name": "takagaki_kaede",
+        "proper_name": "Takagaki Kaede",
+        "category": "character",
+        "encrypted_count": "elJmaA==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/thumb/f/f6/Cinderella_master_004_cover.jpg/1200px-Cinderella_master_004_cover.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0395",
+        "name": "enterprise_(azur_lane)",
+        "proper_name": "Enterprise",
+        "category": "character",
+        "encrypted_count": "fFJmbQ==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/4/40/Enterprise.png"
+      },
+      "tag2": {
+        "id": "t0800",
+        "name": "amate_yuzuriha",
+        "proper_name": "Amate Yuzuriha",
+        "category": "character",
+        "encrypted_count": "elZvbQ==",
+        "copyright": "Unknown",
+        "image_reference": "https://static.wikia.nocookie.net/gundam/images/2/24/Amate_Yuzuriha_Civ_front.png/revision/latest/scale-to-width-down/1200?cb=20241204053936"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0182",
+        "name": "kamado_nezuko",
+        "proper_name": "Kamado Nezuko",
+        "category": "character",
+        "encrypted_count": "eldnaw==",
+        "copyright": "Demon Slayer",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4d/Nezuko_anime.png/revision/latest?cb=20211119014953"
+      },
+      "tag2": {
+        "id": "t0626",
+        "name": "shiranui_(kancolle)",
+        "proper_name": "Shiranui",
+        "category": "character",
+        "encrypted_count": "elJkaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/736x/a4/09/63/a4096367108d3f3fd39fbe4c3ca1bb30.jpg"
       }
     }
   ]
