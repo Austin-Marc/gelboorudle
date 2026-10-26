@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-25T08:49:54.983642+00:00
-// Date: 2026-10-25
+// Generated on: 2026-10-26T09:30:26.299117+00:00
+// Date: 2026-10-26
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0380",
-        "name": "michishio_(kancolle)",
-        "proper_name": "Michishio",
+        "id": "t0848",
+        "name": "doremy_sweet",
+        "proper_name": "Doremy Sweet",
         "category": "character",
-        "encrypted_count": "fFdgag==",
-        "copyright": "Kantai Collection",
+        "encrypted_count": "fVBjYg==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/b/bd/Ship_Card_Michishio_Kai_Ni.png/218px-Ship_Card_Michishio_Kai_Ni.png"
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/35236-1354156714.png"
       },
       "tag2": {
-        "id": "t0328",
-        "name": "panty_(psg)",
-        "proper_name": "Panty",
-        "category": "character",
-        "encrypted_count": "elZjbw==",
-        "copyright": "Panty & Stocking with Garterbelt",
+        "id": "t0727",
+        "name": "shoujo_kageki_revue_starlight",
+        "proper_name": "Shoujo Kageki Revue Starlight",
+        "category": "copyright",
+        "encrypted_count": "elxhbg==",
+        "copyright": "Shoujo Kageki Revue Starlight",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pswgb/images/7/74/107000_front.jpg/revision/latest/scale-to-width-down/1200?cb=20240816022611"
+        "image_reference": "https://tl.vhv.rs/dpng/s/583-5832892_shoujo-kageki-revue-starlight-logo-hd-png-download.png"
       }
     },
     {
       "tag1": {
-        "id": "t0514",
-        "name": "darjeeling_(girls_und_panzer)",
-        "proper_name": "Darjeeling",
+        "id": "t0065",
+        "name": "ichika_(blue_archive)",
+        "proper_name": "Ichika",
         "category": "character",
-        "encrypted_count": "eFFhbA==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime"
-      },
-      "tag2": {
-        "id": "t0426",
-        "name": "avatar_legends",
-        "proper_name": "Avatar Legends",
-        "category": "copyright",
-        "encrypted_count": "elBvaA==",
-        "copyright": "Avatar: The Last Airbender",
-        "material": "Tabletop Game",
-        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0533",
-        "name": "kotobuki_tsumugi",
-        "proper_name": "Kotobuki Tsumugi",
-        "category": "character",
-        "encrypted_count": "eFBvbg==",
-        "copyright": "K-On!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/k-on/images/c/ca/Tsumugi_Kotobuki_new_mughot.png/revision/latest?cb=20130713162937"
-      },
-      "tag2": {
-        "id": "t0654",
-        "name": "xenoblade_chronicles_3",
-        "proper_name": "Xenoblade Chronicles 3",
-        "category": "copyright",
-        "encrypted_count": "e11hag==",
-        "copyright": "Xenoblade Chronicles",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/5/52/Xenoblade_Chronicles_3_HQ_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221119001600"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0505",
-        "name": "cu_chulainn_(fate)",
-        "proper_name": "Cu Chulainn",
-        "category": "character",
-        "encrypted_count": "eFVmYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
-      },
-      "tag2": {
-        "id": "t0609",
-        "name": "library_of_ruina",
-        "proper_name": "Library of Ruina",
-        "category": "copyright",
-        "encrypted_count": "e1VkaA==",
-        "copyright": "Library of Ruina",
-        "material": "Video Game",
-        "image_reference": "https://libraryofruina.wiki.gg/images/e/e6/Site-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0538",
-        "name": "animal_crossing",
-        "proper_name": "Animal Crossing",
-        "category": "copyright",
-        "encrypted_count": "f1Ria0M=",
-        "copyright": "Animal Crossing",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/animalcrossing/images/1/1e/NH-boxart.png/revision/latest?cb=20200102220852"
-      },
-      "tag2": {
-        "id": "t0230",
-        "name": "kid_icarus_uprising",
-        "proper_name": "Kid Icarus: Uprising",
-        "category": "copyright",
-        "encrypted_count": "elVvbw==",
-        "copyright": "Kid Icarus: Uprising",
-        "material": "Video Game",
-        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdlhz0SDnycIXAyHMifpNYjHFY6xq8cTkg2sR9Ff8zE9PQAbqyap13XnTJ0g4_WFdFg8WvA"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0869",
-        "name": "inui_toko",
-        "proper_name": "Inui Toko",
-        "category": "character",
-        "encrypted_count": "fFFibA==",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://i.redd.it/rlnho8qn71871.jpg"
-      },
-      "tag2": {
-        "id": "t0760",
-        "name": "tsushima_yoshiko",
-        "proper_name": "Tsushima Yoshiko",
-        "category": "character",
-        "encrypted_count": "eVduaw==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live/images/4/44/Tsushima_Yoshiko_ALL_STARS.png/revision/latest?cb=20200323032830&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0336",
-        "name": "yukine_chris",
-        "proper_name": "Yukine Chris",
-        "category": "character",
-        "encrypted_count": "fVVjYw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/38/28/85/3828856f31e9ce0c92e1bb306bd82d2b.png"
-      },
-      "tag2": {
-        "id": "t0354",
-        "name": "saratoga_(kancolle)",
-        "proper_name": "Saratoga",
-        "category": "character",
-        "encrypted_count": "fFFvbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/0/0d/Ship_Card_Saratoga_Mk.II.png/218px-Ship_Card_Saratoga_Mk.II.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0849",
-        "name": "kasane_teto_(sv)",
-        "proper_name": "Kasane Teto",
-        "category": "character",
-        "encrypted_count": "fVFlbA==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://vignette.wikia.nocookie.net/vocaloid/images/4/4f/Kasane_Teto_CAFFEIN-Cropped.PNG/revision/latest?cb=20150509152327"
-      },
-      "tag2": {
-        "id": "t0459",
-        "name": "shinonome_ena",
-        "proper_name": "Shinonome Ena",
-        "category": "character",
-        "encrypted_count": "fFZgYw==",
-        "copyright": "D4DJ",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/borderline/images/d/d3/Enaena.jpeg/revision/latest?cb=20230611004255"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0241",
-        "name": "angelina_(arknights)",
-        "proper_name": "Angelina",
-        "category": "character",
-        "encrypted_count": "fF1nbA==",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/9/9b/Angelina.png/revision/latest?cb=20190620082323"
-      },
-      "tag2": {
-        "id": "t0781",
-        "name": "kiso_(kancolle)",
-        "proper_name": "Kiso",
-        "category": "character",
-        "encrypted_count": "fVNjbQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Kiso.(Kantai.Collection).full.1763723.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0120",
-        "name": "yuzu_(blue_archive)",
-        "proper_name": "Yuzu",
-        "category": "character",
-        "encrypted_count": "fVVnYw==",
+        "encrypted_count": "fVdgYw==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/a/ac/Yuzu_Portrait.png/revision/latest?cb=20220420090226"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/0e/Ichika_Nakamasa_Portrait.png/revision/latest?cb=20240503131138&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0453",
-        "name": "carmine_(pokemon)",
-        "proper_name": "Carmine",
+        "id": "t0591",
+        "name": "belle_(zenless_zone_zero)",
+        "proper_name": "Belle",
         "category": "character",
-        "encrypted_count": "fFJuag==",
+        "encrypted_count": "elNlbg==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6e/Agent_Belle_Portrait.png/revision/latest?cb=20240707002545"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0739",
+        "name": "wise_(zenless_zone_zero)",
+        "proper_name": "Wise",
+        "category": "character",
+        "encrypted_count": "fVNkaA==",
+        "copyright": "Zenless Zone Zero",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e8/Agent_Wise_Portrait.png/revision/latest?cb=20240707002534"
+      },
+      "tag2": {
+        "id": "t0532",
+        "name": "mutsu_(kancolle)",
+        "proper_name": "Mutsu",
+        "category": "character",
+        "encrypted_count": "e1BjYw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2018/01/74b7b170-f222-400e-942d-3a40dc073a2b.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0289",
+        "name": "seele_vollerei",
+        "proper_name": "Seele Vollerei",
+        "category": "character",
+        "encrypted_count": "fFxvbQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://avatarfiles.alphacoders.com/349/349863.png"
+      },
+      "tag2": {
+        "id": "t0780",
+        "name": "ui_(blue_archive)",
+        "proper_name": "Ui",
+        "category": "character",
+        "encrypted_count": "eldubA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/1/18/Ui.png?version=9d1ebe8f93c452bc3cea698a3676d4e7"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0121",
+        "name": "aisaka_taiga",
+        "proper_name": "Aisaka Taiga",
+        "category": "character",
+        "encrypted_count": "fVNhYw==",
+        "copyright": "Toradora!",
+        "material": "Light Novel",
+        "image_reference": "https://anibase.net/files/076c0373d3a43576ada022e81b5be19c/360"
+      },
+      "tag2": {
+        "id": "t0251",
+        "name": "kicchou_yachie",
+        "proper_name": "Kicchou Yachie",
+        "category": "character",
+        "encrypted_count": "fFFgbg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/touhou/images/a/a2/Th17Yachie.png/revision/latest?cb=20190812092355"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0599",
+        "name": "monster_musume_no_iru_nichijou",
+        "proper_name": "Monster Musume no Iru Nichijou",
+        "category": "copyright",
+        "encrypted_count": "eVBiYg==",
+        "copyright": "Monster Musume no Iru Nichijou",
+        "material": "Anime",
+        "image_reference": "https://image.pngaaa.com/602/2661602-middle.png"
+      },
+      "tag2": {
+        "id": "t0641",
+        "name": "morgan_le_fay_(fate)",
+        "proper_name": "Morgan le Fay",
+        "category": "character",
+        "encrypted_count": "el1vag==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/newkomica-kari/images/4/42/Morgan_le_Fay_(Fate)II.jpg/revision/latest?cb=20230709170531&path-prefix=zh-tw"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0683",
+        "name": "lucina_(fire_emblem)",
+        "proper_name": "Lucina",
+        "category": "character",
+        "encrypted_count": "eFJmYg==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://cdn.fireemblemwiki.org/c/c4/FEA_Lucina_03.png"
+      },
+      "tag2": {
+        "id": "t0600",
+        "name": "hecatia_lapislazuli",
+        "proper_name": "Hecatia Lapislazuli",
+        "category": "character",
+        "encrypted_count": "elJvag==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th15Hecatia.png/revision/latest?cb=20150910182828"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0253",
+        "name": "beatrice_(umineko)",
+        "proper_name": "Beatrice",
+        "category": "character",
+        "encrypted_count": "fVVnYg==",
+        "copyright": "Umineko no Naku Koro ni",
+        "material": "Visual Novel",
+        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
+      },
+      "tag2": {
+        "id": "t0716",
+        "name": "ultimate_madoka",
+        "proper_name": "Ultimate Madoka",
+        "category": "character",
+        "encrypted_count": "elBmag==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://mangayo.it/31904-full_default/puella-magi-madoka-magica-ultimate-deluxe-edition-1.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0025",
+        "name": "girls_und_panzer",
+        "proper_name": "Girls und Panzer",
+        "category": "copyright",
+        "encrypted_count": "eVFuY0g=",
+        "copyright": "Girls und Panzer",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/f0/Girls_und_Panzer_TV_key_visual.png"
+      },
+      "tag2": {
+        "id": "t0512",
+        "name": "archer_(fate)",
+        "proper_name": "Archer",
+        "category": "character",
+        "encrypted_count": "eFRjaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0881",
+        "name": "final_fantasy_iv",
+        "proper_name": "Final Fantasy IV",
+        "category": "copyright",
+        "encrypted_count": "fVxmbA==",
+        "copyright": "Final Fantasy",
+        "material": "Video Game",
+        "image_reference": "https://cdn.finalfantasywiki.com/f/fe/FFIV_logo.png"
+      },
+      "tag2": {
+        "id": "t0137",
+        "name": "bea_(pokemon)",
+        "proper_name": "Bea",
+        "category": "character",
+        "encrypted_count": "elJhaA==",
         "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/e/e6/Scarlet_Violet_Carmine.png"
+        "image_reference": "https://i.pinimg.com/originals/6b/7e/37/6b7e3723b7b1f832563928a9e4b4f65c.png"
       }
     }
   ]
