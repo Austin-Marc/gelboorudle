@@ -1,230 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-10-30T10:36:24.327195+00:00
-// Date: 2026-10-30
+// Generated on: 2026-10-31T10:03:03.903604+00:00
+// Date: 2026-10-31
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0865",
-        "name": "rotom",
-        "proper_name": "Rotom",
+        "id": "t0679",
+        "name": "hoshizora_rin",
+        "proper_name": "Hoshizora Rin",
         "category": "character",
-        "encrypted_count": "eldhbA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a5/latest/20160604220739/Rotom.png/1200px-Rotom.png"
+        "encrypted_count": "eF1jbg==",
+        "copyright": "Love Live!",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/love-live-fanon/images/7/72/LL-SIF-ASA-Rin.png/revision/latest?cb=20240813083711"
       },
       "tag2": {
-        "id": "t0495",
-        "name": "kurodani_yamame",
-        "proper_name": "Kurodani Yamame",
+        "id": "t0630",
+        "name": "letty_whiterock",
+        "proper_name": "Letty Whiterock",
         "category": "character",
-        "encrypted_count": "e1xiaA==",
+        "encrypted_count": "el1gaw==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/5b/Th175Yamame.png/revision/latest?cb=20201023221601"
+        "image_reference": "https://pm1.narvii.com/6315/c24bd14b452c00397597058250a72032e0353200_hq.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0007",
-        "name": "hololive",
-        "proper_name": "Hololive",
+        "id": "t0028",
+        "name": "precure",
+        "proper_name": "Precure",
         "category": "copyright",
-        "encrypted_count": "fFNibEAH",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/f/fc/Hololive_production_Logo.png/revision/latest/scale-to-width-down/1200?cb=20200703020700"
+        "encrypted_count": "eFNhbEM=",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5c/PrettyCureS1.jpg"
       },
       "tag2": {
-        "id": "t0344",
-        "name": "emiya_kiritsugu",
-        "proper_name": "Emiya Kiritsugu",
-        "category": "character",
-        "encrypted_count": "fFJibw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/7326/284a5545869ad21ac461b4091907ce74a4665745r1-584-800v2_hq.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0669",
-        "name": "guilty_gear_xrd",
-        "proper_name": "Guilty Gear Xrd",
+        "id": "t0525",
+        "name": "darling_in_the_franxx",
+        "proper_name": "Darling in the Franxx",
         "category": "copyright",
-        "encrypted_count": "eFRhaQ==",
-        "copyright": "Guilty Gear",
-        "material": "Video Game",
-        "image_reference": "https://guiltygear.wiki.gg/images/b/b0/Guilty-Gear-Xrd-Sign-logo.png"
-      },
-      "tag2": {
-        "id": "t0659",
-        "name": "kasumi_(kancolle)",
-        "proper_name": "Kasumi",
-        "category": "character",
-        "encrypted_count": "elFibQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/6b/Kasumi.png/revision/latest?cb=20150606171159&path-prefix=protagonist"
+        "encrypted_count": "eV1iYw==",
+        "copyright": "Darling in the Franxx",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/fr/8/85/Darling_in_the_Franxx_Logo.png"
       }
     },
     {
       "tag1": {
-        "id": "t0593",
-        "name": "sukuna_shinmyoumaru",
-        "proper_name": "Sukuna Shinmyoumaru",
-        "category": "character",
-        "encrypted_count": "elBjaA==",
+        "id": "t0001",
+        "name": "touhou",
+        "proper_name": "Touhou",
+        "category": "copyright",
+        "encrypted_count": "d1VjbkQH",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://wiki.koumakan.jp/images/shinpiroku/6/6b/ShinmyoumaruULiL.png"
+        "image_reference": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0715/4f2d148d417cc5876bdfd62734c716c2c82c5017d413df3a.png"
       },
       "tag2": {
-        "id": "t0583",
-        "name": "amami_haruka",
-        "proper_name": "Amami Haruka",
+        "id": "t0310",
+        "name": "kokona_(blue_archive)",
+        "proper_name": "Kokona",
         "category": "character",
-        "encrypted_count": "e1xjbg==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/1/1a/Normal_Haruka_Amami_Mobage_Transparent.png/revision/latest?cb=20180709223230"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0782",
-        "name": "medusa_(rider)_(fate)",
-        "proper_name": "Medusa (Rider)",
-        "category": "character",
-        "encrypted_count": "e1BiYw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/vsbattles/images/d/dc/Fate_Grand_Order_Rider_Medusa.png/revision/latest?cb=20180103064846"
-      },
-      "tag2": {
-        "id": "t0484",
-        "name": "clownpiece",
-        "proper_name": "Clownpiece",
-        "category": "character",
-        "encrypted_count": "e11lbA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/53/TH15Clownpiece.png/revision/latest?cb=20150926164947"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0322",
-        "name": "cookie_run:_kingdom",
-        "proper_name": "Cookie Run: Kingdom",
-        "category": "copyright",
-        "encrypted_count": "fFNiaQ==",
-        "copyright": "Cookie Run: Kingdom",
-        "material": "Video Game",
-        "image_reference": "https://videogamedatabank.com/application/files/1516/1212/6345/cookie_run_kingdom_logo.png"
-      },
-      "tag2": {
-        "id": "t0112",
-        "name": "project_diva_(series)",
-        "proper_name": "Project Diva Series",
-        "category": "copyright",
-        "encrypted_count": "fFNibg==",
-        "copyright": "Project Diva Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/ruben-the-hedgehog-official/images/4/48/HMPD_Logo.png/revision/latest?cb=20170808141524"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0567",
-        "name": "fire_emblem:_genealogy_of_the_holy_war",
-        "proper_name": "Fire Emblem: Genealogy of the Holy War",
-        "category": "copyright",
-        "encrypted_count": "e11kYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/2/2c/FESK_Logo.png/1200px-FESK_Logo.png"
-      },
-      "tag2": {
-        "id": "t0595",
-        "name": "kanna_(blue_archive)",
-        "proper_name": "Kanna",
-        "category": "character",
-        "encrypted_count": "e1Vvag==",
+        "encrypted_count": "fF1vaA==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/47/Kanna.png?version=09ce58bc6b8b274502da1550c549a7aa"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/3/3b/Kokona_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20250515072948"
       }
     },
     {
       "tag1": {
-        "id": "t0174",
-        "name": "dimitri_alexandre_blaiddyd",
-        "proper_name": "Dimitri Alexandre Blaiddyd",
+        "id": "t0098",
+        "name": "akigumo_(kancolle)",
+        "proper_name": "Akigumo",
         "category": "character",
-        "encrypted_count": "fVFhaQ==",
-        "copyright": "Fire Emblem",
+        "encrypted_count": "fFxvaQ==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5d/Dimitri_Alexandre_Blaiddyd.png"
+        "image_reference": "https://static.wikia.nocookie.net/kancolle/images/e/e5/Akigumo_Card.png/revision/latest?cb=20180817195311"
       },
       "tag2": {
-        "id": "t0176",
-        "name": "raora_panthera",
-        "proper_name": "Raora Panthera",
+        "id": "t0835",
+        "name": "don_quixote_(project_moon)",
+        "proper_name": "Don Quixote",
         "category": "character",
-        "encrypted_count": "fVRmaA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.zerochan.net/Raora.Panthera.full.4205491.png"
+        "encrypted_count": "fVNhYw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://cdn.donmai.us/original/3c/f6/3cf6f87b76563d2c5a3724ec391f9976.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0277",
-        "name": "oshiro_project:re",
-        "proper_name": "Oshiro Project: Re",
+        "id": "t0425",
+        "name": "persona_3_portable",
+        "proper_name": "Persona 3 Portable",
         "category": "copyright",
-        "encrypted_count": "fVRjaQ==",
-        "copyright": "Oshiro Project: Re",
+        "encrypted_count": "fFJkaQ==",
+        "copyright": "Persona",
         "material": "Video Game",
-        "image_reference": "https://play-lh.googleusercontent.com/mZqL67H8JkcYvkTYS1ZFA2ZswkmlAJeo4XjEZZUCfvw5JXiBLhp9ExrXKiigv0gfzSE=w526-h296-rw"
+        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
       },
       "tag2": {
-        "id": "t0817",
-        "name": "female_corrin_(fire_emblem)",
-        "proper_name": "Female Corrin",
-        "category": "character",
-        "encrypted_count": "el1jYg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/fireemblem/images/a/aa/Female_Corrin_Heroes.png/revision/latest?cb=20170210061649"
+        "id": "t0871",
+        "name": "senpai_ga_uzai_kouhai_no_hanashi",
+        "proper_name": "Senpai ga Uzai Kouhai no Hanashi",
+        "category": "copyright",
+        "encrypted_count": "f1FuaQ==",
+        "copyright": "Senpai ga Uzai Kouhai no Hanashi",
+        "material": "Anime",
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6af9f8bb-8bb2-4696-b60f-0168f6af5e2e/dess6qc-96ee728a-fda8-4979-99dc-f14cb99bd069.png/v1/fill/w_512,h_512/senpai_ga_uzai_kouhai_no_hanashi_folder_icon_001_by_laylachan1993_dess6qc-fullview.png"
       }
     },
     {
       "tag1": {
-        "id": "t0435",
-        "name": "akiyama_mizuki",
-        "proper_name": "Akiyama Mizuki",
+        "id": "t0915",
+        "name": "junko_(touhou)",
+        "proper_name": "Junko",
         "category": "character",
-        "encrypted_count": "fFdjbQ==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "e1Fgag==",
+        "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
+        "image_reference": "https://static.wikia.nocookie.net/fcs-vs-battle/images/a/a9/Touhou_Project_Junko_Vector.png/revision/latest/scale-to-width-down/1200?cb=20180601120243"
       },
       "tag2": {
-        "id": "t0015",
-        "name": "hatsune_miku",
-        "proper_name": "Hatsune Miku",
+        "id": "t0795",
+        "name": "sanji_(one_piece)",
+        "proper_name": "Sanji",
         "category": "character",
-        "encrypted_count": "f1Zvb0II",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
+        "encrypted_count": "eFJibw==",
+        "copyright": "One Piece",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0602",
+        "name": "akashi_(kancolle)",
+        "proper_name": "Akashi",
+        "category": "character",
+        "encrypted_count": "elBgaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/1/1f/Akashi.png/revision/latest?cb=20150930175545&path-prefix=protagonist"
+      },
+      "tag2": {
+        "id": "t0615",
+        "name": "touqi_guaitan",
+        "proper_name": "Touqi Guaitan",
+        "category": "copyright",
+        "encrypted_count": "e1ZkbQ==",
+        "copyright": "Touqi Guaitan",
+        "image_reference": "https://static.wikia.nocookie.net/touqi-guaitan/images/e/e6/Site-logo.png/revision/latest?cb=20241228194321"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0196",
+        "name": "charizard",
+        "proper_name": "Charizard",
+        "category": "character",
+        "encrypted_count": "fVxmaw==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/d2/d8/40/d2d8405e5600dafbd7e042fe30f39ae6.png"
+      },
+      "tag2": {
+        "id": "t0317",
+        "name": "shining_nikki",
+        "proper_name": "Shining Nikki",
+        "category": "copyright",
+        "encrypted_count": "fFNgbw==",
+        "copyright": "Shining Nikki",
+        "material": "Mobile Game",
+        "image_reference": "https://static.wikia.nocookie.net/shining-nikki/images/e/ee/Shining_Nikki_logo_(TW-CN).png/revision/latest/scale-to-width-down/268?cb=20210506215012"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0482",
+        "name": "sakura_kyoko_(magical_girl)",
+        "proper_name": "Sakura Kyoko",
+        "category": "character",
+        "encrypted_count": "eFRhYw==",
+        "copyright": "Puella Magi Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/madoka/images/2/24/Kyoko_Sakura_Profile.png/revision/latest?cb=20200520131323"
+      },
+      "tag2": {
+        "id": "t0638",
+        "name": "d.va_(overwatch)",
+        "proper_name": "D.Va",
+        "category": "character",
+        "encrypted_count": "e1FjbA==",
+        "copyright": "Overwatch",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0463",
+        "name": "aubrey_(faraway)_(omori)",
+        "proper_name": "Aubrey",
+        "category": "character",
+        "encrypted_count": "fFZubA==",
+        "copyright": "Omori",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/8/88/DW_Aubrey_Fullbody_Profile.png/revision/latest?cb=20221031041200"
+      },
+      "tag2": {
+        "id": "t0415",
+        "name": "kasumi_kai_ni_(kancolle)",
+        "proper_name": "Kasumi Kai Ni",
+        "category": "character",
+        "encrypted_count": "f1NiaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/f/f3/Ship_Card_Kasumi_Kai_Ni.png/218px-Ship_Card_Kasumi_Kai_Ni.png"
       }
     }
   ]
