@@ -1,228 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-01T10:54:23.126457+00:00
-// Date: 2026-11-01
+// Generated on: 2026-11-02T11:51:51.226325+00:00
+// Date: 2026-11-02
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0845",
-        "name": "kama_(fate)",
-        "proper_name": "Kama",
+        "id": "t0660",
+        "name": "sonic_the_hedgehog",
+        "proper_name": "Sonic the Hedgehog",
         "category": "character",
-        "encrypted_count": "elRmaQ==",
+        "encrypted_count": "eFFvbw==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonicthehedgehog/images/6/68/Sonic_profil_Sonic-X-Shadow-Generations.png/revision/latest?cb=20240817165317&path-prefix=fr"
+      },
+      "tag2": {
+        "id": "t0471",
+        "name": "kirlia",
+        "proper_name": "Kirlia",
+        "category": "character",
+        "encrypted_count": "fVdjag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokeverse/images/9/95/281Kirlia_Pokemon_Mystery_Dungeon_Explorers_of_Sky.png/revision/latest?cb=20180522133058"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0030",
+        "name": "mahou_shoujo_madoka_magica_(anime)",
+        "proper_name": "Mahou Shoujo Madoka Magica",
+        "category": "copyright",
+        "encrypted_count": "el1vYkQ=",
+        "copyright": "Mahou Shoujo Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/MadokaBD.jpg"
+      },
+      "tag2": {
+        "id": "t0312",
+        "name": "vodka_(umamusume)",
+        "proper_name": "Vodka",
+        "category": "character",
+        "encrypted_count": "fFZuaw==",
+        "copyright": "Uma Musume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Vodka.(Uma.Musume).600.3298337.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0442",
+        "name": "mash_kyrielight_(dangerous_beast)",
+        "proper_name": "Mash Kyrielight",
+        "category": "character",
+        "encrypted_count": "fFJkag==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/0/01/AssassinKamaStage3.png/revision/latest?cb=20210330120437"
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/mash_2.png"
       },
       "tag2": {
-        "id": "t0480",
-        "name": "soga_no_tojiko",
-        "proper_name": "Soga no Tojiko",
+        "id": "t0061",
+        "name": "hiroi_kikuri",
+        "proper_name": "Hiroi Kikuri",
         "category": "character",
-        "encrypted_count": "e1dlYg==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th13Tojiko.png/revision/latest?cb=20110813200351"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0558",
-        "name": "red_(pokemon)",
-        "proper_name": "Red",
-        "category": "character",
-        "encrypted_count": "e1xvbQ==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/4/40/Red_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.png/revision/latest?cb=20220701232612"
-      },
-      "tag2": {
-        "id": "t0392",
-        "name": "android_18",
-        "proper_name": "Android 18",
-        "category": "character",
-        "encrypted_count": "dlFvbQ==",
-        "copyright": "Dragon Ball",
+        "encrypted_count": "fVFlbA==",
+        "copyright": "Bocchi The Rock!",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/69/Android_18_Resurrection_%27F%27.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/8/88/Kikuri_Hiroi.png/revision/latest?cb=20221213205501"
       }
     },
     {
       "tag1": {
-        "id": "t0866",
-        "name": "bowsette",
-        "proper_name": "Bowsette",
-        "category": "character",
-        "encrypted_count": "e1dgag==",
-        "image_reference": "https://static.wikia.nocookie.net/mariofanon/images/6/68/Bowsette_.png/revision/latest?cb=20241228024714"
+        "id": "t0364",
+        "name": "black_survival",
+        "proper_name": "Black Survival",
+        "category": "copyright",
+        "encrypted_count": "fFxibw==",
+        "copyright": "Black Survival",
+        "material": "Video Game",
+        "image_reference": "https://www.kindpng.com/picc/m/227-2274467_black-survival-game-logo-hd-png-download.png"
       },
       "tag2": {
-        "id": "t0771",
-        "name": "cyberpunk_(series)",
-        "proper_name": "Cyberpunk Series",
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
         "category": "copyright",
-        "encrypted_count": "e1Jlaw==",
-        "copyright": "Cyberpunk",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
         "material": "Video Game",
-        "image_reference": "https://wallpaperaccess.com/full/3594200.jpg"
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
       }
     },
     {
       "tag1": {
-        "id": "t0583",
-        "name": "amami_haruka",
-        "proper_name": "Amami Haruka",
+        "id": "t0941",
+        "name": "minamoto_no_raikou_(fate)",
+        "proper_name": "Minamoto no Raikou",
         "category": "character",
-        "encrypted_count": "e1xjbg==",
-        "copyright": "The Idolmaster",
+        "encrypted_count": "eVNuYg==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/1/1a/Normal_Haruka_Amami_Mobage_Transparent.png/revision/latest?cb=20180709223230"
+        "image_reference": "https://img10.reactor.cc/pics/post/full/Jjune-Anime-Artist-Anime-minamoto-no-raikou-(fategrand-order)-3857226.jpeg"
       },
       "tag2": {
-        "id": "t0423",
-        "name": "brave_witches",
-        "proper_name": "Brave Witches",
-        "category": "copyright",
-        "encrypted_count": "fVRibA==",
-        "copyright": "Brave Witches",
-        "material": "Anime",
-        "image_reference": "https://image.librewiki.net/d/d5/BRAVE_WITCHES_logo.png"
+        "id": "t0794",
+        "name": "nice_nature_(umamusume)",
+        "proper_name": "Nice Nature",
+        "category": "character",
+        "encrypted_count": "fVBgbw==",
+        "copyright": "Umamusume",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/0/0a/Nice_nature.png/revision/latest?cb=20181031020942"
       }
     },
     {
       "tag1": {
-        "id": "t0605",
-        "name": "sunny_(omori)",
-        "proper_name": "Sunny",
+        "id": "t0122",
+        "name": "elysia_(herrscher_of_human:_ego)_(honkai_impact)",
+        "proper_name": "Elysia",
         "category": "character",
-        "encrypted_count": "e1RnaA==",
-        "copyright": "Omori",
+        "encrypted_count": "fVVgYw==",
+        "copyright": "Honkai Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/4/45/SUNNY_CUERPO_COMPLETO.png/revision/latest?cb=20240312190414&path-prefix=es"
+        "image_reference": "https://static.wikia.nocookie.net/honkai-impact-3rd-fr/images/7/71/Hi3rd-Elysia_001.png/revision/latest?cb=20210723072018&path-prefix=fr"
       },
       "tag2": {
-        "id": "t0112",
-        "name": "project_diva_(series)",
-        "proper_name": "Project Diva Series",
-        "category": "copyright",
-        "encrypted_count": "fFNibg==",
-        "copyright": "Project Diva Series",
+        "id": "t0939",
+        "name": "shenhe_(genshin_impact)",
+        "proper_name": "Shenhe",
+        "category": "character",
+        "encrypted_count": "eFBvaw==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/ruben-the-hedgehog-official/images/4/48/HMPD_Logo.png/revision/latest?cb=20170808141524"
+        "image_reference": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/shenhe-character-portrait-genshin-impact-wiki-guide-200px.png"
       }
     },
     {
       "tag1": {
-        "id": "t0431",
-        "name": "hayate_no_gotoku!",
-        "proper_name": "Hayate no Gotoku!",
+        "id": "t0508",
+        "name": "kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~",
+        "proper_name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
         "category": "copyright",
-        "encrypted_count": "fVxubQ==",
-        "copyright": "Hayate no Gotoku!",
+        "encrypted_count": "dlJkaA==",
+        "copyright": "Kaguya-sama wa Kokurasetai",
+        "material": "Manga"
+      },
+      "tag2": {
+        "id": "t0889",
+        "name": "takakura_ken_(dandadan)",
+        "proper_name": "Takakura Ken",
+        "category": "character",
+        "encrypted_count": "fFJiaQ==",
+        "copyright": "Dandadan",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/hayatenogotoku/images/f/ff/Hayate_Logo_Manga_2nd.png/revision/latest?cb=20120917151458"
-      },
-      "tag2": {
-        "id": "t0773",
-        "name": "ishmael_(project_moon)",
-        "proper_name": "Ishmael",
-        "category": "character",
-        "encrypted_count": "elVlbA==",
-        "copyright": "Project Moon",
-        "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/720x720/79/cd/79cd551dc8403cc82cc0ce2f61546382.webp"
+        "image_reference": "https://anibase.net/files/13762c8d5bb5429e2cc1a0bce96894e3"
       }
     },
     {
       "tag1": {
-        "id": "t0873",
-        "name": "rabbit_hole_(vocaloid)",
-        "proper_name": "Rabbit Hole",
+        "id": "t0879",
+        "name": "mob_psycho_100",
+        "proper_name": "Mob Psycho 100",
         "category": "copyright",
-        "encrypted_count": "fFFmYw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://rabbithole.wiki.gg/images/e/e6/Site-logo.png"
-      },
-      "tag2": {
-        "id": "t0638",
-        "name": "d.va_(overwatch)",
-        "proper_name": "D.Va",
-        "category": "character",
-        "encrypted_count": "e1FjbA==",
-        "copyright": "Overwatch",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png/revision/latest?cb=20220930190845"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0095",
-        "name": "inkling_boy",
-        "proper_name": "Inkling Boy",
-        "category": "character",
-        "encrypted_count": "fVJvaQ==",
-        "copyright": "Splatoon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
-      },
-      "tag2": {
-        "id": "t0435",
-        "name": "akiyama_mizuki",
-        "proper_name": "Akiyama Mizuki",
-        "category": "character",
-        "encrypted_count": "fFdjbQ==",
-        "copyright": "The Idolmaster",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0673",
-        "name": "meitantei_conan",
-        "proper_name": "Meitantei Conan",
-        "category": "copyright",
-        "encrypted_count": "eFZmaA==",
-        "copyright": "Detective Conan",
-        "material": "Manga",
-        "image_reference": "https://w7.pngwing.com/pngs/149/839/png-transparent-jimmy-kudo-kaito-kuroba-rachel-moore-harley-hartwell-magic-kaito-meitantei-conan-text-logo-detective.png"
-      },
-      "tag2": {
-        "id": "t0865",
-        "name": "rotom",
-        "proper_name": "Rotom",
-        "category": "character",
-        "encrypted_count": "eldhbA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a5/latest/20160604220739/Rotom.png/1200px-Rotom.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0115",
-        "name": "gundam_seed_destiny",
-        "proper_name": "Gundam Seed Destiny",
-        "category": "copyright",
-        "encrypted_count": "elJmYg==",
-        "copyright": "Mobile Suit Gundam",
+        "encrypted_count": "fFNnaw==",
+        "copyright": "Mob Psycho 100",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/0/0c/Logo_Mobile_Suit_Gundam_Seed_Destiny.jpg/revision/latest/scale-to-width-down/310?cb=20181204163359"
+        "image_reference": "https://image.tmdb.org/t/p/original/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png"
       },
       "tag2": {
-        "id": "t0300",
-        "name": "urakaze_(kancolle)",
-        "proper_name": "Urakaze",
+        "id": "t0651",
+        "name": "senketsu",
+        "proper_name": "Senketsu",
         "category": "character",
-        "encrypted_count": "fFxiYg==",
+        "encrypted_count": "eFRgaw==",
+        "copyright": "Kill la Kill",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/kill-la-kill/images/6/64/Senketsu.png/revision/latest/scale-to-width-down/275?cb=20140301064639"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0119",
+        "name": "maria-sama_ga_miteru",
+        "proper_name": "Maria-sama ga Miteru",
+        "category": "copyright",
+        "encrypted_count": "fVFmbA==",
+        "copyright": "Maria-sama ga Miteru",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/animeland-index/images/6/6a/Maria_sama_ga_miteru.jpg/revision/latest?cb=20220526195420&path-prefix=fr"
+      },
+      "tag2": {
+        "id": "t0200",
+        "name": "tsunomaki_watame",
+        "proper_name": "Tsunomaki Watame",
+        "category": "character",
+        "encrypted_count": "fVRmaw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/0/05/Tsunomaki_Watame_-_Portrait_01.png/800px-Tsunomaki_Watame_-_Portrait_01.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0391",
+        "name": "yahagi_(kancolle)",
+        "proper_name": "Yahagi",
+        "category": "character",
+        "encrypted_count": "fFFvag==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Urakaze.(Kantai.Collection).full.4330635.jpg"
+        "image_reference": "https://static.zerochan.net/Yahagi.(Kantai.Collection).full.4307028.jpg"
+      },
+      "tag2": {
+        "id": "t0416",
+        "name": "high_priest_(ragnarok_online)",
+        "proper_name": "High Priest",
+        "category": "character",
+        "encrypted_count": "fFBgaw==",
+        "copyright": "Ragnarok Online",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
       }
     }
   ]
