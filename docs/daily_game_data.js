@@ -1,230 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-05T11:43:48.434682+00:00
-// Date: 2026-11-05
+// Generated on: 2026-11-06T11:41:45.228854+00:00
+// Date: 2026-11-06
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0051",
-        "name": "cyberpunk:_edgerunners",
-        "proper_name": "Cyberpunk: Edgerunners",
+        "id": "t0397",
+        "name": "lyrica_prismriver",
+        "proper_name": "Lyrica Prismriver",
+        "category": "character",
+        "encrypted_count": "fFdubw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+      },
+      "tag2": {
+        "id": "t0905",
+        "name": "splatoon_1",
+        "proper_name": "Splatoon 1",
         "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "Cyberpunk: Edgerunners",
+        "encrypted_count": "eVdvYw==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://www.pngkit.com/png/full/832-8327989_splatoon-logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0281",
+        "name": "happinesscharge_precure!",
+        "proper_name": "HappinessCharge Precure!",
+        "category": "copyright",
+        "encrypted_count": "fVZubg==",
+        "copyright": "HappinessCharge Precure!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/cyberpunk/images/c/c1/Cyberpunk_Edgerunners_Trigger_2.jpg/revision/latest?cb=20220801170122"
+        "image_reference": "https://static.wikia.nocookie.net/prettycureseries/images/4/43/HappinessChargePrettyCureLogo1.jpg/revision/latest?cb=20160704142946&path-prefix=pl"
       },
       "tag2": {
-        "id": "t0589",
-        "name": "yumemi_riamu",
-        "proper_name": "Yumemi Riamu",
-        "category": "character",
-        "encrypted_count": "e1Blbw==",
-        "copyright": "Project Sekai",
-        "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/thumb/d/d5/Riamu_SS.png/300px-Riamu_SS.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0320",
-        "name": "street_fighter_zero_(series)",
-        "proper_name": "Street Fighter Zero Series",
+        "id": "t0274",
+        "name": "sayonara_zetsubou_sensei",
+        "proper_name": "Sayonara, Zetsubou-Sensei",
         "category": "copyright",
-        "encrypted_count": "fVBhaQ==",
-        "copyright": "Street Fighter",
-        "material": "Video Game",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11a10a01-ac23-4fea-ad5a-b51f53084159/d7emmzp-a5fccda0-1e9b-4213-a884-e8393ac4a9de.png/v1/fill/w_800,h_554/street_fighter_zero_logo_by_ringostarr39_d7emmzp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU0IiwicGF0aCI6IlwvZlwvMTFhMTBhMDEtYWMyMy00ZmVhLWFkNWEtYjUxZjUzMDg0MTU5XC9kN2VtbXpwLWE1ZmNjZGEwLTFlOWItNDIxMy1hODg0LWU4MzkzYWM0YTlkZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wiCZfhEIoUu7WURWTrk1j8qIrUtTR7ibA4zBI_z-EcA"
-      },
-      "tag2": {
-        "id": "t0624",
-        "name": "gumi",
-        "proper_name": "Gumi",
-        "category": "character",
-        "encrypted_count": "e1Bmaw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/vocaloid/images/a/ad/AI_Megpoid_GUMI_transparent.png/revision/latest?cb=20221016001045"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0426",
-        "name": "avatar_legends",
-        "proper_name": "Avatar Legends",
-        "category": "copyright",
-        "encrypted_count": "elBvaA==",
-        "copyright": "Avatar: The Last Airbender",
-        "material": "Tabletop Game",
-        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
-      },
-      "tag2": {
-        "id": "t0028",
-        "name": "precure",
-        "proper_name": "Precure",
-        "category": "copyright",
-        "encrypted_count": "eFNhbEM=",
-        "copyright": "Precure",
+        "encrypted_count": "fVdjYw==",
+        "copyright": "Sayonara, Zetsubou-Sensei",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5c/PrettyCureS1.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/71/A_Sayonara_zetsubou_sensei_logo.png/revision/latest?cb=20150308203430"
       }
     },
     {
       "tag1": {
-        "id": "t0936",
-        "name": "kiana_kaslana",
-        "proper_name": "Kiana Kaslana",
+        "id": "t0649",
+        "name": "misumi_uika",
+        "proper_name": "Misumi Uika",
         "category": "character",
-        "encrypted_count": "e11nbQ==",
-        "copyright": "Honkai Impact",
-        "material": "Video Game",
-        "image_reference": "https://w0.peakpx.com/wallpaper/700/671/HD-wallpaper-kiana-kaslana-anime-honkai-impact-3rd.jpg"
-      },
-      "tag2": {
-        "id": "t0637",
-        "name": "golden_kamuy",
-        "proper_name": "Golden Kamuy",
-        "category": "copyright",
-        "encrypted_count": "elxnbg==",
-        "copyright": "Golden Kamuy",
-        "material": "Manga",
-        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0364",
-        "name": "black_survival",
-        "proper_name": "Black Survival",
-        "category": "copyright",
-        "encrypted_count": "fFxibw==",
-        "copyright": "Black Survival",
-        "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/227-2274467_black-survival-game-logo-hd-png-download.png"
-      },
-      "tag2": {
-        "id": "t0300",
-        "name": "urakaze_(kancolle)",
-        "proper_name": "Urakaze",
-        "category": "character",
-        "encrypted_count": "fFxiYg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Urakaze.(Kantai.Collection).full.4330635.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0407",
-        "name": "lyn_(fire_emblem)",
-        "proper_name": "Lyn",
-        "category": "character",
-        "encrypted_count": "fVBmbg==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://fireemblemwiki.org/w/images/thumb/3/3a/FEA_Lyn.png/1200px-FEA_Lyn.png"
-      },
-      "tag2": {
-        "id": "t0306",
-        "name": "kurosawa_dia",
-        "proper_name": "Kurosawa Dia",
-        "category": "character",
-        "encrypted_count": "elJkYg==",
-        "copyright": "Love Live!",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/love-live/images/d/db/789Transparent.png/revision/latest?cb=20160601025120&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0532",
-        "name": "mutsu_(kancolle)",
-        "proper_name": "Mutsu",
-        "category": "character",
-        "encrypted_count": "e1BjYw==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://images.bigbadtoystore.com/images/p/full/2018/01/74b7b170-f222-400e-942d-3a40dc073a2b.jpg"
-      },
-      "tag2": {
-        "id": "t0485",
-        "name": "oozora_subaru",
-        "proper_name": "Oozora Subaru",
-        "category": "character",
-        "encrypted_count": "eFBibw==",
+        "encrypted_count": "elFkYw==",
         "copyright": "Hololive",
         "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/4/49/Oozora_Subaru_Portrait.png/revision/latest?cb=20200622133539"
+        "image_reference": "https://desu.shikimori.me/uploads/poster/characters/231743/main_2x-834729a77e6d0d0cdb91ff8bcacadf1a.webp"
+      },
+      "tag2": {
+        "id": "t0581",
+        "name": "asuna_(sao)",
+        "proper_name": "Asuna",
+        "category": "character",
+        "encrypted_count": "eVRnYw==",
+        "copyright": "Sword Art Online",
+        "material": "Light Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
       }
     },
     {
       "tag1": {
-        "id": "t0157",
-        "name": "my_little_pony:_friendship_is_magic",
-        "proper_name": "My Little Pony: Friendship Is Magic",
+        "id": "t0709",
+        "name": "machikado_mazoku",
+        "proper_name": "Machikado Mazoku",
         "category": "copyright",
-        "encrypted_count": "elJhag==",
-        "copyright": "My Little Pony",
-        "material": "TV Show",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg/640px-My_Little_Pony_Friendship_Is_Magic_logo_-_2017.svg.png"
+        "encrypted_count": "elNubg==",
+        "copyright": "Machikado Mazoku",
+        "material": "Anime",
+        "image_reference": "https://images.seeklogo.com/logo-png/46/1/machikado-mazoku-logo-png_seeklogo-463180.png"
       },
       "tag2": {
-        "id": "t0425",
-        "name": "persona_3_portable",
-        "proper_name": "Persona 3 Portable",
+        "id": "t0613",
+        "name": "the_hundred_line_-last_defense_academy-",
+        "proper_name": "The Hundred Line -Last Defense Academy-",
         "category": "copyright",
-        "encrypted_count": "fFJkaQ==",
-        "copyright": "Persona",
-        "material": "Video Game",
-        "image_reference": "https://megatenwiki.com/images/0/02/P3P_Logo.png"
+        "encrypted_count": "dlZgbw==",
+        "copyright": "The Hundred Line -Last Defense Academy-",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/12/The-Hundred-Line-Last-Defense-Academy_2024_12-04-24_011-1440x1018.png"
       }
     },
     {
       "tag1": {
-        "id": "t0402",
-        "name": "sessyoin_kiara",
-        "proper_name": "Sessyoin Kiara",
-        "category": "character",
-        "encrypted_count": "fFJgbg==",
-        "copyright": "Fate Grand/Order",
-        "material": "Video game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/6/67/Beast3RKiara.png/revision/latest/scale-to-width-down/1200?cb=20220210064906"
+        "id": "t0751",
+        "name": "pokemon_(classic_anime)",
+        "proper_name": "Pok\u00e9mon (Classic Anime)",
+        "category": "copyright",
+        "encrypted_count": "d1NuaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://i.redd.it/m5jdk1ymvre31.png"
       },
       "tag2": {
-        "id": "t0552",
-        "name": "denji_(chainsaw_man)",
-        "proper_name": "Denji",
+        "id": "t0159",
+        "name": "miura_azusa",
+        "proper_name": "Miura Azusa",
         "category": "character",
-        "encrypted_count": "eFdgaA==",
-        "copyright": "Chainsaw Man",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/e/e8/Denji_anime.png/revision/latest?cb=20221018185742&path-prefix=es"
+        "encrypted_count": "fVNhaQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/6/67/MASTER_ARTIST_3_11.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0644",
-        "name": "yahata_umiri",
-        "proper_name": "Yahata Umiri",
+        "id": "t0272",
+        "name": "kris_(deltarune)",
+        "proper_name": "Kris",
         "category": "character",
-        "encrypted_count": "elJuag==",
-        "copyright": "Arknights",
+        "encrypted_count": "fFxkbg==",
+        "copyright": "Deltarune",
         "material": "Video Game",
-        "image_reference": "https://arknights.wiki.gg/images/thumb/Yahata_Umiri.png/264px-Yahata_Umiri.png?4b840d"
+        "image_reference": "https://static.wikia.nocookie.net/deltarune/images/f/fb/Kris_LINE_sticker_artwork.png/revision/latest?cb=20201120001252"
       },
       "tag2": {
-        "id": "t0162",
-        "name": "satonaka_chie",
-        "proper_name": "Satonaka Chie",
+        "id": "t0206",
+        "name": "blue_oak",
+        "proper_name": "Blue Oak",
         "category": "character",
-        "encrypted_count": "elVhaw==",
-        "copyright": "Persona",
+        "encrypted_count": "fF1nYg==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
+        "image_reference": "https://comicvine.gamespot.com/a/uploads/square_medium/11/114183/5216642-243px-heartgold_soulsilver_blue.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0070",
+        "name": "koshimizu_sachiko",
+        "proper_name": "Koshimizu Sachiko",
+        "category": "character",
+        "encrypted_count": "fVdvaw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/d/d0/Sachiko_SS.png"
+      },
+      "tag2": {
+        "id": "t0511",
+        "name": "gundam_seed",
+        "proper_name": "Gundam Seed",
+        "category": "copyright",
+        "encrypted_count": "dlVkbw==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0524",
+        "name": "dragon_ball_super",
+        "proper_name": "Dragon Ball Super",
+        "category": "copyright",
+        "encrypted_count": "f1dlakY=",
+        "copyright": "Dragon Ball",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/d/d0/Dragon_Ball_Super_Vector_Logo.svg/revision/latest?cb=20190306223754"
+      },
+      "tag2": {
+        "id": "t0854",
+        "name": "path_to_nowhere",
+        "proper_name": "Path to Nowhere",
+        "category": "copyright",
+        "encrypted_count": "fVxmaw==",
+        "copyright": "Path to Nowhere",
+        "material": "Video Game",
+        "image_reference": "https://static.jojowiki.com/images/archive/f/f2/20240126233527!Path_to_Nowhere_Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0142",
+        "name": "common_raccoon_(kemono_friends)",
+        "proper_name": "Common Raccoon",
+        "category": "character",
+        "encrypted_count": "fF1mbQ==",
+        "copyright": "Kemono Friends",
+        "material": "Anime",
+        "image_reference": "https://s1.zerochan.net/Common.Raccoon.(Kemono.Friends).600.3421032.jpg"
+      },
+      "tag2": {
+        "id": "t0030",
+        "name": "mahou_shoujo_madoka_magica_(anime)",
+        "proper_name": "Mahou Shoujo Madoka Magica",
+        "category": "copyright",
+        "encrypted_count": "el1vYkQ=",
+        "copyright": "Mahou Shoujo Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/fc/MadokaBD.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0181",
+        "name": "jinx_(league_of_legends)",
+        "proper_name": "Jinx",
+        "category": "character",
+        "encrypted_count": "elZmYw==",
+        "copyright": "League of Legends",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
+      },
+      "tag2": {
+        "id": "t0361",
+        "name": "miyafuji_yoshika",
+        "proper_name": "Miyafuji Yoshika",
+        "category": "character",
+        "encrypted_count": "fVVhag==",
+        "copyright": "Strike Witches",
+        "material": "Anime",
+        "image_reference": "https://static.zerochan.net/Miyafuji.Yoshika.full.1053900.jpg"
       }
     }
   ]
