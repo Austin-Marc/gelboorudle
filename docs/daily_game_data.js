@@ -1,229 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-07T10:48:13.295248+00:00
-// Date: 2026-11-07
+// Generated on: 2026-11-08T10:55:10.008826+00:00
+// Date: 2026-11-08
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0280",
-        "name": "project_voltage",
-        "proper_name": "Project Voltage",
+        "id": "t0014",
+        "name": "idolmaster_cinderella_girls",
+        "proper_name": "Idolmaster Cinderella Girls",
         "category": "copyright",
-        "encrypted_count": "fVdnYg==",
-        "copyright": "Project Voltage",
+        "encrypted_count": "f1Bma0cB",
+        "copyright": "Idolmaster Cinderella Girls",
         "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230905142316/Logo_Project_Voltage.png/600px-Logo_Project_Voltage.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Idolmaster_Cinderella_Girls_promo.jpg"
       },
       "tag2": {
-        "id": "t0191",
-        "name": "sylveon",
-        "proper_name": "Sylveon",
+        "id": "t0653",
+        "name": "bakugou_katsuki",
+        "proper_name": "Bakugou Katsuki",
         "category": "character",
-        "encrypted_count": "elVgYg==",
+        "encrypted_count": "eFxjbw==",
+        "copyright": "My Hero Academia",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/02/BakugoMHAVol13.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0397",
+        "name": "lyrica_prismriver",
+        "proper_name": "Lyrica Prismriver",
+        "category": "character",
+        "encrypted_count": "fFdubw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png"
+      },
+      "tag2": {
+        "id": "t0637",
+        "name": "golden_kamuy",
+        "proper_name": "Golden Kamuy",
+        "category": "copyright",
+        "encrypted_count": "elxnbg==",
+        "copyright": "Golden Kamuy",
+        "material": "Manga",
+        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0305",
+        "name": "twin_turbo_(umamusume)",
+        "proper_name": "Twin Turbo",
+        "category": "character",
+        "encrypted_count": "fFBjaA==",
+        "copyright": "Uma Musume: Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/4/46/Twin_Turbo_%28Race%29.png/revision/latest?cb=20240728220739"
+      },
+      "tag2": {
+        "id": "t0577",
+        "name": "mirko",
+        "proper_name": "Mirko",
+        "category": "character",
+        "encrypted_count": "dlZvaw==",
+        "copyright": "My Hero Academia",
+        "material": "Anime",
+        "image_reference": "https://anibase.net/files/700520fd441958ed48e83800b93815f7"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0217",
+        "name": "piplup",
+        "proper_name": "Piplup",
+        "category": "character",
+        "encrypted_count": "fVFmaA==",
         "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemonopedia/images/b/b2/Shiny2.png/revision/latest?cb=20141109112421&path-prefix=pl"
+        "image_reference": "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork0393_DLPS.png/1200px-Artwork0393_DLPS.png"
+      },
+      "tag2": {
+        "id": "t0359",
+        "name": "akai_haato",
+        "proper_name": "Akai Haato",
+        "category": "character",
+        "encrypted_count": "fFxmaA==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/f/f6/Akai_Haato_-_Nonstop_Story_Full_Illustration.png/640px-Akai_Haato_-_Nonstop_Story_Full_Illustration.png"
       }
     },
     {
       "tag1": {
-        "id": "t0604",
-        "name": "okita_souji_(koha-ace)",
-        "proper_name": "Okita Souji",
+        "id": "t0128",
+        "name": "omori_(omori)",
+        "proper_name": "Omori",
         "category": "character",
-        "encrypted_count": "e1NgbA==",
-        "copyright": "Fate Series",
+        "encrypted_count": "fVRibA==",
+        "copyright": "Omori",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/be/5c/4d/be5c4d182c79b9fa602ffa6537784489.png"
+        "image_reference": "https://static.wikia.nocookie.net/omori/images/c/ce/Group_hug_dw.gif/revision/latest?cb=20220217114528&path-prefix=zh"
       },
       "tag2": {
-        "id": "t0728",
-        "name": "little_witch_academia",
-        "proper_name": "Little Witch Academia",
+        "id": "t0350",
+        "name": "kamijou_touma",
+        "proper_name": "Kamijou Touma",
+        "category": "character",
+        "encrypted_count": "fFNjaQ==",
+        "copyright": "A Certain Magical Index",
+        "material": "Light Novel",
+        "image_reference": "https://static.tvtropes.org/pmwiki/pub/images/kamijou_touma.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0511",
+        "name": "gundam_seed",
+        "proper_name": "Gundam Seed",
         "category": "copyright",
-        "encrypted_count": "eVZhbA==",
-        "copyright": "Little Witch Academia",
+        "encrypted_count": "dlVkbw==",
+        "copyright": "Mobile Suit Gundam",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/Little_Witch_Academia_Logo.png/revision/latest?cb=20230313220247"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0470",
-        "name": "florian_(pokemon)",
-        "proper_name": "Florian",
-        "category": "character",
-        "encrypted_count": "fFJubA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20230826015011/Artwork_de_Florian_y_Fuecoco.png/376px-Artwork_de_Florian_y_Fuecoco.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
       },
       "tag2": {
-        "id": "t0011",
-        "name": "umamusume",
-        "proper_name": "Umamusume",
-        "category": "copyright",
-        "encrypted_count": "f1BkaEkA",
+        "id": "t0543",
+        "name": "tokai_teio_(umamusume)",
+        "proper_name": "Tokai Teio",
+        "category": "character",
+        "encrypted_count": "elJhbA==",
         "copyright": "Umamusume",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/31/Umamusume_Pretty_Derby_game_cover.jpg"
+        "image_reference": "https://vignette.wikia.nocookie.net/umamusume/images/3/3b/TokaiTeio_Uniform.png/revision/latest/scale-to-width-down/226?cb=20180425085144"
       }
     },
     {
       "tag1": {
-        "id": "t0156",
-        "name": "fire_emblem:_the_sacred_stones",
-        "proper_name": "Fire Emblem: The Sacred Stones",
+        "id": "t0028",
+        "name": "precure",
+        "proper_name": "Precure",
         "category": "copyright",
-        "encrypted_count": "elBuaA==",
-        "copyright": "Fire Emblem",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/06/Logo_Fire_Emblem_The_Sacred_Stones.png/revision/latest?cb=20170719171810&path-prefix=es"
+        "encrypted_count": "eFNhbEM=",
+        "copyright": "Precure",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/5/5c/PrettyCureS1.jpg"
       },
       "tag2": {
-        "id": "t0621",
-        "name": "caesar_anthonio_zeppeli",
-        "proper_name": "Caesar Anthonio Zeppeli",
+        "id": "t0832",
+        "name": "giorno_giovanna",
+        "proper_name": "Giorno Giovanna",
         "category": "character",
-        "encrypted_count": "elxmaw==",
+        "encrypted_count": "fV1hag==",
         "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/2/23/latest/20200616234147/Caesar_Infobox_Anime.png/540px-Caesar_Infobox_Anime.png"
+        "image_reference": "https://static.jojowiki.com/images/thumb/4/4a/latest/20210422070411/Giorno_Giovanna_Infobox_Anime.png/400px-Giorno_Giovanna_Infobox_Anime.png"
       }
     },
     {
       "tag1": {
-        "id": "t0680",
-        "name": "kal'tsit_(arknights)",
-        "proper_name": "Kal'tsit",
+        "id": "t0958",
+        "name": "steins;gate",
+        "proper_name": "Steins;Gate",
+        "category": "copyright",
+        "encrypted_count": "eFxhbA==",
+        "copyright": "Steins;Gate",
+        "material": "Visual Novel",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "tag2": {
+        "id": "t0654",
+        "name": "xenoblade_chronicles_3",
+        "proper_name": "Xenoblade Chronicles 3",
+        "category": "copyright",
+        "encrypted_count": "e11hag==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/5/52/Xenoblade_Chronicles_3_HQ_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221119001600"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0015",
+        "name": "hatsune_miku",
+        "proper_name": "Hatsune Miku",
         "category": "character",
-        "encrypted_count": "elFmaw==",
+        "encrypted_count": "f1Zvb0II",
+        "copyright": "Vocaloid",
+        "material": "Music Software",
+        "image_reference": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375"
+      },
+      "tag2": {
+        "id": "t0922",
+        "name": "skadi_(arknights)",
+        "proper_name": "Skadi",
+        "category": "character",
+        "encrypted_count": "eFRhYw==",
         "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/6/68/Kal'tsit.png/revision/latest?cb=20231010112313"
-      },
-      "tag2": {
-        "id": "t0863",
-        "name": "kitasan_black_(umamusume)",
-        "proper_name": "Kitasan Black",
-        "category": "character",
-        "encrypted_count": "fVBjag==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/7/73/Kitasan_black_anime.png/revision/latest?cb=20210109020442"
+        "image_reference": "https://arknights.rus.wiki/media/uploads/0fdfcbac-arknights.rus.wiki-skadi-char-263-skadi-11.png"
       }
     },
     {
       "tag1": {
-        "id": "t0802",
-        "name": "haikyuu!!",
-        "proper_name": "Haikyuu!!",
-        "category": "copyright",
-        "encrypted_count": "e1Jmag==",
-        "copyright": "Haikyuu!!",
-        "material": "Manga",
-        "image_reference": "https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png"
-      },
-      "tag2": {
-        "id": "t0954",
-        "name": "izumi_konata",
-        "proper_name": "Konata Izumi",
+        "id": "t0533",
+        "name": "kotobuki_tsumugi",
+        "proper_name": "Kotobuki Tsumugi",
         "category": "character",
-        "encrypted_count": "eVNmbA==",
-        "copyright": "Lucky Star",
+        "encrypted_count": "eFBvbg==",
+        "copyright": "K-On!",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/7/73/Konata-san.gif/revision/latest?cb=20120723133321"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0272",
-        "name": "kris_(deltarune)",
-        "proper_name": "Kris",
-        "category": "character",
-        "encrypted_count": "fFxkbg==",
-        "copyright": "Deltarune",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/deltarune/images/f/fb/Kris_LINE_sticker_artwork.png/revision/latest?cb=20201120001252"
+        "image_reference": "https://static.wikia.nocookie.net/k-on/images/c/ca/Tsumugi_Kotobuki_new_mughot.png/revision/latest?cb=20130713162937"
       },
       "tag2": {
-        "id": "t0399",
-        "name": "saki_(blue_archive)",
-        "proper_name": "Saki",
+        "id": "t0506",
+        "name": "shirogane_noel",
+        "proper_name": "Shirogane Noel",
         "category": "character",
-        "encrypted_count": "fFFlbA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/d/d0/Saki.png/266px-Saki.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0569",
-        "name": "holostars",
-        "proper_name": "Holostars",
-        "category": "copyright",
-        "encrypted_count": "e1diaQ==",
+        "encrypted_count": "eFJkaA==",
         "copyright": "Hololive Production",
-        "image_reference": "https://static.wikitide.net/hololivewiki/thumb/b/bb/Logo_-_Holostars.png/799px-Logo_-_Holostars.png?20200525222120"
-      },
-      "tag2": {
-        "id": "t0909",
-        "name": "mordred_(fate)",
-        "proper_name": "Mordred",
-        "category": "character",
-        "encrypted_count": "eFViYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/d9/13/56/d91356ac5b500a9cbeb4dfcb5c0f2a66.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0123",
-        "name": "falin_touden",
-        "proper_name": "Falin Touden",
-        "category": "character",
-        "encrypted_count": "fVBmbA==",
-        "copyright": "Dungeon Meshi",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
-      },
-      "tag2": {
-        "id": "t0673",
-        "name": "meitantei_conan",
-        "proper_name": "Meitantei Conan",
-        "category": "copyright",
-        "encrypted_count": "eFZmaA==",
-        "copyright": "Detective Conan",
-        "material": "Manga",
-        "image_reference": "https://w7.pngwing.com/pngs/149/839/png-transparent-jimmy-kudo-kaito-kuroba-rachel-moore-harley-hartwell-magic-kaito-meitantei-conan-text-logo-detective.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0538",
-        "name": "animal_crossing",
-        "proper_name": "Animal Crossing",
-        "category": "copyright",
-        "encrypted_count": "f1Ria0M=",
-        "copyright": "Animal Crossing",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/animalcrossing/images/1/1e/NH-boxart.png/revision/latest?cb=20200102220852"
-      },
-      "tag2": {
-        "id": "t0090",
-        "name": "artoria_pendragon_(lancer)_(fate)",
-        "proper_name": "Artoria Pendragon (Lancer)",
-        "category": "character",
-        "encrypted_count": "elFhaw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/character-stats-and-profiles/images/9/93/LancerArturiaStage3.jpg/revision/latest?cb=20191026015024"
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/d/d1/Shirogane_Noel_3D.png/revision/latest?cb=20240901173516"
       }
     }
   ]
