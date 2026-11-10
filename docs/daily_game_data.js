@@ -1,178 +1,102 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-09T12:20:31.118157+00:00
-// Date: 2026-11-09
+// Generated on: 2026-11-10T11:57:23.057077+00:00
+// Date: 2026-11-10
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0942",
-        "name": "bb_(fate)",
-        "proper_name": "BB",
+        "id": "t0841",
+        "name": "natsuiro_matsuri",
+        "proper_name": "Natsuiro Matsuri",
         "category": "character",
-        "encrypted_count": "eFZlYw==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.mana.wiki/grandorder/166_BB_1.png"
+        "encrypted_count": "elVhbQ==",
+        "copyright": "Hololive Production",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/bg_Natsuiro-Matsuri_01.png"
       },
       "tag2": {
-        "id": "t0490",
-        "name": "tartaglia_(genshin_impact)",
-        "proper_name": "Tartaglia",
+        "id": "t0656",
+        "name": "sparkle_(honkai:_star_rail)",
+        "proper_name": "Sparkle",
         "category": "character",
-        "encrypted_count": "eVJiag==",
-        "copyright": "Genshin Impact",
+        "encrypted_count": "el1hbQ==",
+        "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png/revision/latest?cb=20201106023840"
+        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0038",
-        "name": "super_sonico",
-        "proper_name": "Super Sonico",
+        "id": "t0578",
+        "name": "musashi_(kancolle)",
+        "proper_name": "Musashi",
         "category": "character",
-        "encrypted_count": "e1dkbQ==",
-        "copyright": "Super Sonico",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Supersonicocharacter.jpg/250px-Supersonicocharacter.jpg"
-      },
-      "tag2": {
-        "id": "t0695",
-        "name": "phantasy_star_online_2",
-        "proper_name": "Phantasy Star Online 2",
-        "category": "copyright",
-        "encrypted_count": "e1VgbQ==",
-        "copyright": "Phantasy Star Online 2",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/4/48/Phantasy_star_online_2_logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0216",
-        "name": "i-401_(kancolle)",
-        "proper_name": "I-401",
-        "category": "character",
-        "encrypted_count": "fFxhbA==",
+        "encrypted_count": "e1Rhbg==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://yksk.kancollewiki.net/w/images/thumb/3/35/Ship_Card_I-401.png/218px-Ship_Card_I-401.png"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/73/Musashi_Full.webp/revision/latest?cb=20221203120134&path-prefix=protagonist"
       },
       "tag2": {
-        "id": "t0891",
-        "name": "akagi_(azur_lane)",
-        "proper_name": "Akagi",
-        "category": "character",
-        "encrypted_count": "fFBkaw==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/thumb/a/a5/AkagiSpringWithoutBG.png/674px-AkagiSpringWithoutBG.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0324",
-        "name": "tate_no_yuusha_no_nariagari",
-        "proper_name": "Tate no Yuusha no Nariagari",
+        "id": "t0239",
+        "name": "go!_princess_precure",
+        "proper_name": "Go! Princess Precure",
         "category": "copyright",
-        "encrypted_count": "fVNjaQ==",
-        "copyright": "Tate no Yuusha no Nariagari",
-        "material": "Light Novel",
-        "image_reference": "https://vectorseek.com/wp-content/uploads/2023/11/Tate-no-Yuusha-no-Nariagari-Logo-Vector.svg-.png"
-      },
-      "tag2": {
-        "id": "t0201",
-        "name": "maekawa_miku",
-        "proper_name": "Maekawa Miku",
-        "category": "character",
-        "encrypted_count": "fVVmbg==",
-        "copyright": "Idolmaster Cinderella Girls",
+        "encrypted_count": "fVBgaA==",
+        "copyright": "Go! Princess Precure",
         "material": "Anime",
-        "image_reference": "https://m.project-imas.wiki/images/thumb/3/3c/Miku_SS.png/300px-Miku_SS.png"
+        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrfro-dcc080fa-8f6b-4627-8407-2319854f47c9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q2YWJjMzkwLTg1MDktNGZhNC05ODY3LTM5OGRkNDgwNDYzY1wvZGVmcmZyby1kY2MwODBmYS04ZjZiLTQ2MjctODQwNy0yMzE5ODU0ZjQ3YzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2xLM9AVlQ7ftXi5qUhHR2nTYna4SpFJ1rA54XuwW0DA"
       }
     },
     {
       "tag1": {
-        "id": "t0115",
-        "name": "gundam_seed_destiny",
-        "proper_name": "Gundam Seed Destiny",
+        "id": "t0816",
+        "name": "robin_(honkai:_star_rail)",
+        "proper_name": "Robin",
+        "category": "character",
+        "encrypted_count": "fV1naQ==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Character_Robin_Introduction.png/revision/latest?cb=20240312040444"
+      },
+      "tag2": {
+        "id": "t0323",
+        "name": "working!!",
+        "proper_name": "Working!!",
         "category": "copyright",
-        "encrypted_count": "elJmYg==",
-        "copyright": "Mobile Suit Gundam",
+        "encrypted_count": "fVFkaQ==",
+        "copyright": "Working!!",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/0/0c/Logo_Mobile_Suit_Gundam_Seed_Destiny.jpg/revision/latest/scale-to-width-down/310?cb=20181204163359"
-      },
-      "tag2": {
-        "id": "t0081",
-        "name": "final_fantasy_vii_rebirth",
-        "proper_name": "Final Fantasy VII Rebirth",
-        "category": "copyright",
-        "encrypted_count": "fVxgaQ==",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/75/Boxart_for_Final_Fantasy_VII_Rebirth.png"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
       }
     },
     {
       "tag1": {
-        "id": "t0064",
-        "name": "nessa_(pokemon)",
-        "proper_name": "Nessa",
-        "category": "character",
-        "encrypted_count": "e1VmaQ==",
-        "copyright": "Pokemon",
+        "id": "t0082",
+        "name": "samurai_spirits",
+        "proper_name": "Samurai Spirits",
+        "category": "copyright",
+        "encrypted_count": "f1ZjaUQ=",
+        "copyright": "Samurai Spirits",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Pokemon-Nessa.png/220px-Pokemon-Nessa.png"
+        "image_reference": "https://www.snk-corp.co.jp/us/games/samuraishodown/img/characters/chara_01.png"
       },
       "tag2": {
-        "id": "t0172",
-        "name": "illustrious_(azur_lane)",
-        "proper_name": "Illustrious",
-        "category": "character",
-        "encrypted_count": "fVdhbg==",
-        "copyright": "Azur Lane",
+        "id": "t0005",
+        "name": "pokemon",
+        "proper_name": "Pok\u00e9mon",
+        "category": "copyright",
+        "encrypted_count": "elFlbUYB",
+        "copyright": "Pok\u00e9mon",
         "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/3/39/Illustrious.png"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
       }
     },
     {
       "tag1": {
-        "id": "t0023",
-        "name": "nijisanji",
-        "proper_name": "Nijisanji",
-        "category": "copyright",
-        "encrypted_count": "eVNhbEg=",
-        "copyright": "Nijisanji",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/fictionalcrossover/images/7/73/Nijisanji_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221027135628"
-      },
-      "tag2": {
-        "id": "t0502",
-        "name": "matou_sakura",
-        "proper_name": "Matou Sakura",
-        "category": "character",
-        "encrypted_count": "eFNhag==",
-        "copyright": "Fate Series",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/0/09/Sakura_FGO.png/revision/latest?cb=20171107173330&path-prefix=protagonist"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0633",
-        "name": "love_live!_school_idol_festival",
-        "proper_name": "Love Live! School Idol Festival",
-        "category": "copyright",
-        "encrypted_count": "fVZuakg=",
-        "copyright": "Love Live!",
-        "material": "Video Game",
-        "image_reference": "https://www.kindpng.com/picc/m/102-1023896_love-live-school-idol-festival-logo-hd-png.png"
-      },
-      "tag2": {
         "id": "t0112",
         "name": "project_diva_(series)",
         "proper_name": "Project Diva Series",
@@ -181,50 +105,124 @@ const DAILY_GAME_DATA = {
         "copyright": "Project Diva Series",
         "material": "Video Game",
         "image_reference": "https://static.wikia.nocookie.net/ruben-the-hedgehog-official/images/4/48/HMPD_Logo.png/revision/latest?cb=20170808141524"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0058",
-        "name": "narmaya_(granblue_fantasy)",
-        "proper_name": "Narmaya",
-        "category": "character",
-        "encrypted_count": "fV1iYw==",
-        "copyright": "Granblue Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://gbf.wiki/images/thumb/f/fc/Npc_zoom_3040063000_01.png/480px-Npc_zoom_3040063000_01.png"
       },
       "tag2": {
-        "id": "t0838",
-        "name": "hestia_(danmachi)",
-        "proper_name": "Hestia",
+        "id": "t0737",
+        "name": "uruha_rushia",
+        "proper_name": "Uruha Rushia",
         "category": "character",
-        "encrypted_count": "e1Rmbg==",
-        "copyright": "DanMachi",
-        "material": "Light Novel",
-        "image_reference": "https://static.zerochan.net/Hestia.(DanMachi).full.2789461.png"
+        "encrypted_count": "elFgbA==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://static.wikitide.net/hololivewiki/b/be/Uruha_Rushia_-_Portrait_3D_01-1.png"
       }
     },
     {
       "tag1": {
-        "id": "t0796",
-        "name": "misty_(pokemon)",
-        "proper_name": "Misty",
+        "id": "t0809",
+        "name": "chloe_von_einzbern",
+        "proper_name": "Chloe von Einzbern",
         "category": "character",
-        "encrypted_count": "f1duakc=",
-        "copyright": "Pokemon",
+        "encrypted_count": "e11gYw==",
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/7b/Kuro_2wei.png/revision/latest?cb=20161006151250"
+      },
+      "tag2": {
+        "id": "t0686",
+        "name": "hiei_(kancolle)",
+        "proper_name": "Hiei",
+        "category": "character",
+        "encrypted_count": "elRubQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0512",
+        "name": "archer_(fate)",
+        "proper_name": "Archer",
+        "category": "character",
+        "encrypted_count": "eFRjaQ==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
+      },
+      "tag2": {
+        "id": "t0366",
+        "name": "kuro_no_kiseki_(series)",
+        "proper_name": "Kuro no Kiseki",
+        "category": "copyright",
+        "encrypted_count": "fFxibg==",
+        "copyright": "Kuro no Kiseki",
+        "material": "Video Game",
+        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/61b44e77aae5bfa464aa71914d0043a7.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0475",
+        "name": "akebono_(kancolle)",
+        "proper_name": "Akebono",
+        "category": "character",
+        "encrypted_count": "e1Jgbw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/kancolle/images/c/c8/Akebono_Kai_Spring_Bouquet_Full.png/revision/latest/scale-to-width-down/300?cb=20200427091639"
+      },
+      "tag2": {
+        "id": "t0227",
+        "name": "futari_wa_precure",
+        "proper_name": "Futari wa Precure",
+        "category": "copyright",
+        "encrypted_count": "elZlYw==",
+        "copyright": "Futari wa Precure",
         "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png"
+        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0621",
+        "name": "caesar_anthonio_zeppeli",
+        "proper_name": "Caesar Anthonio Zeppeli",
+        "category": "character",
+        "encrypted_count": "elxmaw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/2/23/latest/20200616234147/Caesar_Infobox_Anime.png/540px-Caesar_Infobox_Anime.png"
       },
       "tag2": {
-        "id": "t0852",
-        "name": "arch_bishop_(ragnarok_online)",
-        "proper_name": "Arch Bishop",
+        "id": "t0535",
+        "name": "mahou_shoujo_madoka_magica:_hangyaku_no_monogatari",
+        "proper_name": "Mahou Shoujo Madoka Magica: Hangyaku no Monogatari",
+        "category": "copyright",
+        "encrypted_count": "e1Bhaw==",
+        "copyright": "Mahou Shoujo Madoka Magica",
+        "material": "Anime",
+        "image_reference": "https://www.animeclick.it/immagini/manga/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari/cover/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari-cover.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0137",
+        "name": "bea_(pokemon)",
+        "proper_name": "Bea",
         "category": "character",
-        "encrypted_count": "fVJibQ==",
-        "copyright": "Ragnarok Online",
+        "encrypted_count": "elJhaA==",
+        "copyright": "Pokemon",
         "material": "Video Game",
-        "image_reference": "https://gamepedia.cursecdn.com/ragnarok_gamepedia_en/2/20/Character_Archbishop.jpg"
+        "image_reference": "https://i.pinimg.com/originals/6b/7e/37/6b7e3723b7b1f832563928a9e4b4f65c.png"
+      },
+      "tag2": {
+        "id": "t0267",
+        "name": "akizuki_ritsuko",
+        "proper_name": "Akizuki Ritsuko",
+        "category": "character",
+        "encrypted_count": "fVVvYg==",
+        "copyright": "The iDOLM@STER",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
       }
     }
   ]
