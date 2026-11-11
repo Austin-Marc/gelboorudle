@@ -1,228 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-10T11:57:23.057077+00:00
-// Date: 2026-11-10
+// Generated on: 2026-11-11T11:35:37.057987+00:00
+// Date: 2026-11-11
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0841",
-        "name": "natsuiro_matsuri",
-        "proper_name": "Natsuiro Matsuri",
+        "id": "t0315",
+        "name": "curren_chan_(umamusume)",
+        "proper_name": "Curren Chan",
         "category": "character",
-        "encrypted_count": "elVhbQ==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/bg_Natsuiro-Matsuri_01.png"
+        "encrypted_count": "fFFiYg==",
+        "copyright": "Uma Musume Pretty Derby",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Curren.Chan.full.3657664.png"
       },
       "tag2": {
-        "id": "t0656",
-        "name": "sparkle_(honkai:_star_rail)",
-        "proper_name": "Sparkle",
+        "id": "t0014",
+        "name": "idolmaster_cinderella_girls",
+        "proper_name": "Idolmaster Cinderella Girls",
+        "category": "copyright",
+        "encrypted_count": "f1Bma0cB",
+        "copyright": "Idolmaster Cinderella Girls",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Idolmaster_Cinderella_Girls_promo.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0831",
+        "name": "mydei_(honkai:_star_rail)",
+        "proper_name": "Mydei",
         "category": "character",
-        "encrypted_count": "el1hbQ==",
+        "encrypted_count": "fVNhaQ==",
         "copyright": "Honkai: Star Rail",
         "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/Sparkle.(Honkai.Star.Rail).full.4102087.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0578",
-        "name": "musashi_(kancolle)",
-        "proper_name": "Musashi",
-        "category": "character",
-        "encrypted_count": "e1Rhbg==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/p__/images/7/73/Musashi_Full.webp/revision/latest?cb=20221203120134&path-prefix=protagonist"
+        "image_reference": "https://staticg.sportskeeda.com/editor/2025/02/ea940-17395394049968-1920.jpg"
       },
       "tag2": {
-        "id": "t0239",
-        "name": "go!_princess_precure",
-        "proper_name": "Go! Princess Precure",
-        "category": "copyright",
-        "encrypted_count": "fVBgaA==",
-        "copyright": "Go! Princess Precure",
-        "material": "Anime",
-        "image_reference": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6abc390-8509-4fa4-9867-398dd480463c/defrfro-dcc080fa-8f6b-4627-8407-2319854f47c9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q2YWJjMzkwLTg1MDktNGZhNC05ODY3LTM5OGRkNDgwNDYzY1wvZGVmcmZyby1kY2MwODBmYS04ZjZiLTQ2MjctODQwNy0yMzE5ODU0ZjQ3YzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2xLM9AVlQ7ftXi5qUhHR2nTYna4SpFJ1rA54XuwW0DA"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0816",
-        "name": "robin_(honkai:_star_rail)",
-        "proper_name": "Robin",
+        "id": "t0438",
+        "name": "tamamo_cat_(fate)",
+        "proper_name": "Tamamo Cat",
         "category": "character",
-        "encrypted_count": "fV1naQ==",
-        "copyright": "Honkai: Star Rail",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Character_Robin_Introduction.png/revision/latest?cb=20240312040444"
-      },
-      "tag2": {
-        "id": "t0323",
-        "name": "working!!",
-        "proper_name": "Working!!",
-        "category": "copyright",
-        "encrypted_count": "fVFkaQ==",
-        "copyright": "Working!!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Working.jpg/revision/latest?cb=20140424011312"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0082",
-        "name": "samurai_spirits",
-        "proper_name": "Samurai Spirits",
-        "category": "copyright",
-        "encrypted_count": "f1ZjaUQ=",
-        "copyright": "Samurai Spirits",
-        "material": "Video Game",
-        "image_reference": "https://www.snk-corp.co.jp/us/games/samuraishodown/img/characters/chara_01.png"
-      },
-      "tag2": {
-        "id": "t0005",
-        "name": "pokemon",
-        "proper_name": "Pok\u00e9mon",
-        "category": "copyright",
-        "encrypted_count": "elFlbUYB",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0112",
-        "name": "project_diva_(series)",
-        "proper_name": "Project Diva Series",
-        "category": "copyright",
-        "encrypted_count": "fFNibg==",
-        "copyright": "Project Diva Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/ruben-the-hedgehog-official/images/4/48/HMPD_Logo.png/revision/latest?cb=20170808141524"
-      },
-      "tag2": {
-        "id": "t0737",
-        "name": "uruha_rushia",
-        "proper_name": "Uruha Rushia",
-        "category": "character",
-        "encrypted_count": "elFgbA==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikitide.net/hololivewiki/b/be/Uruha_Rushia_-_Portrait_3D_01-1.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0809",
-        "name": "chloe_von_einzbern",
-        "proper_name": "Chloe von Einzbern",
-        "category": "character",
-        "encrypted_count": "e11gYw==",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/7/7b/Kuro_2wei.png/revision/latest?cb=20161006151250"
-      },
-      "tag2": {
-        "id": "t0686",
-        "name": "hiei_(kancolle)",
-        "proper_name": "Hiei",
-        "category": "character",
-        "encrypted_count": "elRubQ==",
-        "copyright": "Kantai Collection",
-        "material": "Video Game",
-        "image_reference": "https://ami.animecharactersdatabase.com/uploads/chars/6186-114358380.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0512",
-        "name": "archer_(fate)",
-        "proper_name": "Archer",
-        "category": "character",
-        "encrypted_count": "eFRjaQ==",
+        "encrypted_count": "fFBibA==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/e8/20/5c/e8205ca482a287c18acad24d1da3d9d8.png"
-      },
-      "tag2": {
-        "id": "t0366",
-        "name": "kuro_no_kiseki_(series)",
-        "proper_name": "Kuro no Kiseki",
-        "category": "copyright",
-        "encrypted_count": "fFxibg==",
-        "copyright": "Kuro no Kiseki",
-        "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo_thumb/61b44e77aae5bfa464aa71914d0043a7.png"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/3/33/Cat_1_.png/revision/latest?cb=20220215002434"
       }
     },
     {
       "tag1": {
-        "id": "t0475",
-        "name": "akebono_(kancolle)",
-        "proper_name": "Akebono",
+        "id": "t0511",
+        "name": "gundam_seed",
+        "proper_name": "Gundam Seed",
+        "category": "copyright",
+        "encrypted_count": "dlVkbw==",
+        "copyright": "Mobile Suit Gundam",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
+      },
+      "tag2": {
+        "id": "t0304",
+        "name": "oberon_(fate)",
+        "proper_name": "Oberon",
         "category": "character",
-        "encrypted_count": "e1Jgbw==",
+        "encrypted_count": "fFxvbg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://pm1.aminoapps.com/8013/ff4bf082deaeb0bce85c456b82cc04ae6b676231r1-600-858v2_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0744",
+        "name": "amamiya_ren",
+        "proper_name": "Amamiya Ren",
+        "category": "character",
+        "encrypted_count": "e1Rnbg==",
+        "copyright": "Persona 5",
+        "material": "Video Game",
+        "image_reference": "https://megatenwiki.com/images/5/53/P5D_Ren_Amamiya_Artwork.png"
+      },
+      "tag2": {
+        "id": "t0789",
+        "name": "tatsumaki",
+        "proper_name": "Tatsumaki",
+        "category": "character",
+        "encrypted_count": "eVJgag==",
+        "copyright": "One Punch Man",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/onepunchman/images/d/d2/Tatsumaki_Manga.png/revision/latest?cb=20190907232753"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0048",
+        "name": "rosalina",
+        "proper_name": "Rosalina",
+        "category": "character",
+        "encrypted_count": "eFBubA==",
+        "copyright": "Super Mario",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rosalina_by_Shigehisa_Nakaue.png/250px-Rosalina_by_Shigehisa_Nakaue.png"
+      },
+      "tag2": {
+        "id": "t0102",
+        "name": "shirogane_naoto",
+        "proper_name": "Shirogane Naoto",
+        "category": "character",
+        "encrypted_count": "fVxiYg==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/0/0e/P4A_Naoto.png/revision/latest?cb=20141207153024"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0279",
+        "name": "shakugan_no_shana",
+        "proper_name": "Shakugan no Shana",
+        "category": "copyright",
+        "encrypted_count": "fVNjYg==",
+        "copyright": "Shakugan no Shana",
+        "material": "Light Novel",
+        "image_reference": "https://static.wikia.nocookie.net/shakugan/images/3/34/First_season_title_card.jpg/revision/latest?cb=20120915105459"
+      },
+      "tag2": {
+        "id": "t0853",
+        "name": "mikasa_ackerman",
+        "proper_name": "Mikasa Ackerman",
+        "category": "character",
+        "encrypted_count": "e1djag==",
+        "copyright": "Attack on Titan",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png/revision/latest?cb=20231105175401"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0603",
+        "name": "kikuchi_makoto",
+        "proper_name": "Kikuchi Makoto",
+        "category": "character",
+        "encrypted_count": "e1JiYw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/idolmaster/images/d/d1/Normal_Makoto_Kikuchi_Mobage_Transparent.png/revision/latest?cb=20190202042832"
+      },
+      "tag2": {
+        "id": "t0654",
+        "name": "xenoblade_chronicles_3",
+        "proper_name": "Xenoblade Chronicles 3",
+        "category": "copyright",
+        "encrypted_count": "e11hag==",
+        "copyright": "Xenoblade Chronicles",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/5/52/Xenoblade_Chronicles_3_HQ_Logo.png/revision/latest/scale-to-width-down/1200?cb=20221119001600"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0484",
+        "name": "clownpiece",
+        "proper_name": "Clownpiece",
+        "category": "character",
+        "encrypted_count": "e11lbA==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/5/53/TH15Clownpiece.png/revision/latest?cb=20150926164947"
+      },
+      "tag2": {
+        "id": "t0372",
+        "name": "glaceon",
+        "proper_name": "Glaceon",
+        "category": "character",
+        "encrypted_count": "fV1iaA==",
+        "copyright": "Pok\u00e9mon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/Glaceon.png/revision/latest?cb=20170422064259"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0458",
+        "name": "yura_(kancolle)",
+        "proper_name": "Yura",
+        "category": "character",
+        "encrypted_count": "fFdjbQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/kancolle/images/c/c8/Akebono_Kai_Spring_Bouquet_Full.png/revision/latest/scale-to-width-down/300?cb=20200427091639"
+        "image_reference": "https://static.zerochan.net/Yura.(Kantai.Collection).full.1712007.jpg"
       },
       "tag2": {
-        "id": "t0227",
-        "name": "futari_wa_precure",
-        "proper_name": "Futari wa Precure",
-        "category": "copyright",
-        "encrypted_count": "elZlYw==",
-        "copyright": "Futari wa Precure",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/prettycure/images/7/77/Futari_wa_Pretty_Cure_logo.png/revision/latest?cb=20141115204151&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0621",
-        "name": "caesar_anthonio_zeppeli",
-        "proper_name": "Caesar Anthonio Zeppeli",
+        "id": "t0077",
+        "name": "higashikata_josuke",
+        "proper_name": "Higashikata Josuke",
         "category": "character",
-        "encrypted_count": "elxmaw==",
+        "encrypted_count": "fVdmbg==",
         "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://static.jojowiki.com/images/thumb/2/23/latest/20200616234147/Caesar_Infobox_Anime.png/540px-Caesar_Infobox_Anime.png"
-      },
-      "tag2": {
-        "id": "t0535",
-        "name": "mahou_shoujo_madoka_magica:_hangyaku_no_monogatari",
-        "proper_name": "Mahou Shoujo Madoka Magica: Hangyaku no Monogatari",
-        "category": "copyright",
-        "encrypted_count": "e1Bhaw==",
-        "copyright": "Mahou Shoujo Madoka Magica",
-        "material": "Anime",
-        "image_reference": "https://www.animeclick.it/immagini/manga/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari/cover/Gekijouban_Madoka_Magica_Magica_Shinpen_Hangyaku_no_Monogatari-cover.jpg"
+        "image_reference": "https://static.jojowiki.com/images/thumb/a/a1/latest/20221007024100/Josuke_DU_Infobox_Manga.png/1200px-Josuke_DU_Infobox_Manga.png"
       }
     },
     {
       "tag1": {
-        "id": "t0137",
-        "name": "bea_(pokemon)",
-        "proper_name": "Bea",
+        "id": "t0912",
+        "name": "miorine_rembran",
+        "proper_name": "Miorine Rembran",
         "category": "character",
-        "encrypted_count": "elJhaA==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://i.pinimg.com/originals/6b/7e/37/6b7e3723b7b1f832563928a9e4b4f65c.png"
+        "encrypted_count": "eFRmYg==",
+        "copyright": "Mobile Suit Gundam: The Witch from Mercury",
+        "material": "Anime",
+        "image_reference": "https://en.gundam.info/about-gundam/series-pages/witch/gwitch/jp/character/2023/05/205_front_2.png"
       },
       "tag2": {
-        "id": "t0267",
-        "name": "akizuki_ritsuko",
-        "proper_name": "Akizuki Ritsuko",
-        "category": "character",
-        "encrypted_count": "fVVvYg==",
-        "copyright": "The iDOLM@STER",
+        "id": "t0428",
+        "name": "girls'_frontline_neural_cloud",
+        "proper_name": "Girls' Frontline: Neural Cloud",
+        "category": "copyright",
+        "encrypted_count": "fFJhbQ==",
+        "copyright": "Girls' Frontline: Neural Cloud",
         "material": "Video Game",
-        "image_reference": "https://project-imas.wiki/images/c/c1/MASTER_ARTIST_4_09.png"
+        "image_reference": "https://uspto.report/TM/98035315/mark.png"
       }
     }
   ]
