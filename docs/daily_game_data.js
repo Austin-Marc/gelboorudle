@@ -1,164 +1,162 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-12T11:59:15.973039+00:00
-// Date: 2026-11-12
+// Generated on: 2026-11-13T11:44:19.358823+00:00
+// Date: 2026-11-13
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0188",
-        "name": "mega_man_zero_(series)",
-        "proper_name": "Mega Man Zero Series",
+        "id": "t0655",
+        "name": "dandadan",
+        "proper_name": "Dandadan",
         "category": "copyright",
-        "encrypted_count": "elRvbg==",
-        "copyright": "Mega Man",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/6f/Mega_Man_Zero_logo.png"
+        "encrypted_count": "eFRibQ==",
+        "copyright": "Dandadan",
+        "material": "Manga",
+        "image_reference": "https://i.pinimg.com/originals/eb/33/ad/eb33adb6aaaa06b225c4e8cb5e389ec7.png"
       },
       "tag2": {
-        "id": "t0752",
-        "name": "mobile_suit_gundam",
-        "proper_name": "Mobile Suit Gundam",
+        "id": "t0352",
+        "name": "hibiki_(blue_archive)",
+        "proper_name": "Hibiki",
+        "category": "character",
+        "encrypted_count": "fFxibQ==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/b/bc/Hibiki.png/266px-Hibiki.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0511",
+        "name": "gundam_seed",
+        "proper_name": "Gundam Seed",
         "category": "copyright",
-        "encrypted_count": "eFNibA==",
+        "encrypted_count": "dlVkbw==",
         "copyright": "Mobile Suit Gundam",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png/revision/latest?cb=20190720061056"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0954",
-        "name": "izumi_konata",
-        "proper_name": "Konata Izumi",
-        "category": "character",
-        "encrypted_count": "eVNmbA==",
-        "copyright": "Lucky Star",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/luckystar/images/7/73/Konata-san.gif/revision/latest?cb=20120723133321"
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/c/cd/Seedfirstdvd.jpg"
       },
       "tag2": {
-        "id": "t0019",
-        "name": "final_fantasy",
-        "proper_name": "Final Fantasy",
+        "id": "t0568",
+        "name": "kamitsubaki_studio",
+        "proper_name": "Kamitsubaki Studio",
         "category": "copyright",
-        "encrypted_count": "f1ZnbkcB",
-        "copyright": "Final Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://bymoonlightblog.wordpress.com/wp-content/uploads/2017/01/final-fantasy-logo.jpg?w=531&h=310"
+        "encrypted_count": "e1dnbw==",
+        "copyright": "Kamitsubaki Studio",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/01/Company-Logo_KAMITSUBAKI-STUDIO.png"
       }
     },
     {
       "tag1": {
-        "id": "t0709",
-        "name": "machikado_mazoku",
-        "proper_name": "Machikado Mazoku",
-        "category": "copyright",
-        "encrypted_count": "elNubg==",
-        "copyright": "Machikado Mazoku",
-        "material": "Anime",
-        "image_reference": "https://images.seeklogo.com/logo-png/46/1/machikado-mazoku-logo-png_seeklogo-463180.png"
-      },
-      "tag2": {
-        "id": "t0778",
-        "name": "asahina_mikuru",
-        "proper_name": "Asahina Mikuru",
+        "id": "t0606",
+        "name": "serena_(pokemon)",
+        "proper_name": "Serena",
         "category": "character",
-        "encrypted_count": "e1RlYg==",
-        "copyright": "The Melancholy of Haruhi Suzumiya",
-        "material": "Anime",
-        "image_reference": "https://c.wallhere.com/photos/8e/eb/The_Melancholy_of_Haruhi_Suzumiya_Asahina_Mikuru_anime_girls-2099467.jpg!d"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0372",
-        "name": "glaceon",
-        "proper_name": "Glaceon",
-        "category": "character",
-        "encrypted_count": "fV1iaA==",
+        "encrypted_count": "dlZnbg==",
         "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/Glaceon.png/revision/latest?cb=20170422064259"
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/espokemon/images/7/7f/Serena_(anime_XY)_3.png/revision/latest?cb=20150527212218"
       },
       "tag2": {
-        "id": "t0545",
-        "name": "pripara",
-        "proper_name": "Pripara",
+        "id": "t0546",
+        "name": "queen's_blade",
+        "proper_name": "Queen's Blade",
         "category": "copyright",
-        "encrypted_count": "eFZgbw==",
-        "copyright": "Pripara",
+        "encrypted_count": "f1Bna0M=",
+        "copyright": "Queen's Blade",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/pripara/images/b/b9/Pripara_logo.png/revision/latest/scale-to-width-down/180?cb=20190729130335"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/6/69/QB.png/revision/latest?cb=20130813040237"
       }
     },
     {
       "tag1": {
-        "id": "t0010",
-        "name": "arknights",
-        "proper_name": "Arknights",
+        "id": "t0156",
+        "name": "fire_emblem:_the_sacred_stones",
+        "proper_name": "Fire Emblem: The Sacred Stones",
         "category": "copyright",
-        "encrypted_count": "f1NnaEMG",
-        "copyright": "Arknights",
-        "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Arknights_English_Release_Logo.svg/2560px-Arknights_English_Release_Logo.svg.png"
-      },
-      "tag2": {
-        "id": "t0522",
-        "name": "fire_emblem:_the_blazing_blade",
-        "proper_name": "Fire Emblem: The Blazing Blade",
-        "category": "copyright",
-        "encrypted_count": "eVZuag==",
+        "encrypted_count": "elBuaA==",
         "copyright": "Fire Emblem",
         "material": "Video Game",
-        "image_reference": "https://cdn.fireemblemwiki.org/thumb/1/1e/FERK_Logo.png/400px-FERK_Logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0745",
-        "name": "haruno_sakura",
-        "proper_name": "Haruno Sakura",
-        "category": "character",
-        "encrypted_count": "f1RnbUA=",
-        "copyright": "Naruto",
-        "material": "Manga",
-        "image_reference": "https://vignette.wikia.nocookie.net/naruto/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160531055927&path-prefix=pl"
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/0/06/Logo_Fire_Emblem_The_Sacred_Stones.png/revision/latest?cb=20170719171810&path-prefix=es"
       },
       "tag2": {
-        "id": "t0406",
-        "name": "princess_daisy",
-        "proper_name": "Princess Daisy",
+        "id": "t0252",
+        "name": "kochou_shinobu",
+        "proper_name": "Kochou Shinobu",
         "category": "character",
-        "encrypted_count": "eFxvYg==",
-        "copyright": "Mario",
-        "material": "Video Game",
-        "image_reference": "https://www.mariowiki.com/images/thumb/a/a9/SuperMarioParty_Daisy.png/1200px-SuperMarioParty_Daisy.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0703",
-        "name": "gojou_satoru",
-        "proper_name": "Gojou Satoru",
-        "category": "character",
-        "encrypted_count": "e1VvYg==",
-        "copyright": "Jujutsu Kaisen",
+        "encrypted_count": "fVNjaA==",
+        "copyright": "Demon Slayer: Kimetsu no Yaiba",
         "material": "Anime",
-        "image_reference": "https://static.zerochan.net/Gojou.Satoru.full.3974287.jpg"
-      },
-      "tag2": {
-        "id": "t0650",
-        "name": "ereshkigal_(fate)",
-        "proper_name": "Ereshkigal",
+        "image_reference": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png/revision/latest/scale-to-width-down/1200?cb=20211119011810"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0677",
+        "name": "meltryllis_(fate)",
+        "proper_name": "Meltryllis",
         "category": "character",
-        "encrypted_count": "el1gaA==",
+        "encrypted_count": "elxiaA==",
         "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://pm1.narvii.com/6799/1433c297dcd8ea75d63f5657adcf6412e4c9326cv2_hq.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/e/e9/Meltryllis.png/revision/latest?cb=20121214101028"
+      },
+      "tag2": {
+        "id": "t0825",
+        "name": "bemani",
+        "proper_name": "BEMANI",
+        "category": "copyright",
+        "encrypted_count": "e1VlYw==",
+        "copyright": "BEMANI",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/e/e3/BEMANI_alt_logo.png/revision/latest?cb=20240414213707"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0162",
+        "name": "satonaka_chie",
+        "proper_name": "Satonaka Chie",
+        "category": "character",
+        "encrypted_count": "elVhaw==",
+        "copyright": "Persona",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/megamitensei/images/c/c6/Chie_Satonaka.png/revision/latest/scale-to-width-down/1200?cb=20230208003757"
+      },
+      "tag2": {
+        "id": "t0165",
+        "name": "z1_leberecht_maass_(kancolle)",
+        "proper_name": "Z1 Leberecht Maass",
+        "category": "character",
+        "encrypted_count": "fVRhbA==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Z1.Leberecht.Maass.(Kantai.Collection).full.1689627.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0436",
+        "name": "yi_sang_(project_moon)",
+        "proper_name": "Yi Sang",
+        "category": "character",
+        "encrypted_count": "fFBjYw==",
+        "copyright": "Project Moon",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Yi.Sang.full.4190667.png"
+      },
+      "tag2": {
+        "id": "t0514",
+        "name": "darjeeling_(girls_und_panzer)",
+        "proper_name": "Darjeeling",
+        "category": "character",
+        "encrypted_count": "eFFhbA==",
+        "copyright": "Girls und Panzer",
+        "material": "Anime"
       }
     },
     {
@@ -173,58 +171,58 @@ const DAILY_GAME_DATA = {
         "image_reference": "https://static.wikitide.net/bluearchivewiki/4/47/Kanna.png?version=09ce58bc6b8b274502da1550c549a7aa"
       },
       "tag2": {
-        "id": "t0426",
-        "name": "avatar_legends",
-        "proper_name": "Avatar Legends",
-        "category": "copyright",
-        "encrypted_count": "elBvaA==",
-        "copyright": "Avatar: The Last Airbender",
-        "material": "Tabletop Game",
-        "image_reference": "https://static.wikia.nocookie.net/awatar/images/c/c7/Avatar_Legends_The_Roleplaying_Game_logo.png/revision/latest?cb=20240815185318"
+        "id": "t0627",
+        "name": "sazanami_(kancolle)",
+        "proper_name": "Sazanami",
+        "category": "character",
+        "encrypted_count": "eldmaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Sazanami.(Kantai.Collection).full.1845445.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0314",
-        "name": "aotsuki_eito",
-        "proper_name": "Aotsuki Eito",
+        "id": "t0794",
+        "name": "nice_nature_(umamusume)",
+        "proper_name": "Nice Nature",
         "category": "character",
-        "encrypted_count": "fVNhbg==",
-        "copyright": "Unknown",
-        "material": "Unknown",
-        "image_reference": "https://static.wikia.nocookie.net/the-hundred-line/images/b/b3/Eito_Fullbody.png/revision/latest?cb=20250114130334"
-      },
-      "tag2": {
-        "id": "t0775",
-        "name": "satono_diamond_(umamusume)",
-        "proper_name": "Satono Diamond",
-        "category": "character",
-        "encrypted_count": "fV1uaQ==",
+        "encrypted_count": "fVBgbw==",
         "copyright": "Umamusume",
         "material": "Video Game",
-        "image_reference": "https://anibase.net/files/9c255b349e46f9a689fdc5f6574199f5/320"
+        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/0/0a/Nice_nature.png/revision/latest?cb=20181031020942"
+      },
+      "tag2": {
+        "id": "t0490",
+        "name": "tartaglia_(genshin_impact)",
+        "proper_name": "Tartaglia",
+        "category": "character",
+        "encrypted_count": "eVJiag==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png/revision/latest?cb=20201106023840"
       }
     },
     {
       "tag1": {
-        "id": "t0405",
-        "name": "gran_(granblue_fantasy)",
-        "proper_name": "Gran",
+        "id": "t0947",
+        "name": "midoriya_izuku",
+        "proper_name": "Izuku Midoriya",
         "category": "character",
-        "encrypted_count": "fFNjbA==",
-        "copyright": "Granblue Fantasy",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/granblue/images/3/33/FighterM.png/revision/latest?cb=20210313172546"
+        "encrypted_count": "d1ViaQ==",
+        "copyright": "My Hero Academia",
+        "material": "Manga",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/db/Izuku_Midoriya_%28My_Hero_Academia_character%29.png"
       },
       "tag2": {
-        "id": "t0500",
-        "name": "kasodani_kyouko",
-        "proper_name": "Kasodani Kyouko",
+        "id": "t0269",
+        "name": "fushiguro_megumi",
+        "proper_name": "Fushiguro Megumi",
         "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/original/12/27/__kasodani_kyouko_touhou_drawn_by_dairi__1227d63d9dffa3f9e8e6fb34b063a87b.png?download=1"
+        "encrypted_count": "elRkaw==",
+        "copyright": "Jujutsu Kaisen",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8d/Megumi_Fushiguro_(Anime).png/revision/latest?cb=20201213115916&path-prefix=pl"
       }
     }
   ]
