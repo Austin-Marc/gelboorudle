@@ -1,76 +1,32 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-14T11:05:27.013551+00:00
-// Date: 2026-11-14
+// Generated on: 2026-11-15T11:40:28.743243+00:00
+// Date: 2026-11-15
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0845",
-        "name": "kama_(fate)",
-        "proper_name": "Kama",
-        "category": "character",
-        "encrypted_count": "elRmaQ==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/typemoon/images/0/01/AssassinKamaStage3.png/revision/latest?cb=20210330120437"
-      },
-      "tag2": {
-        "id": "t0074",
-        "name": "sanya_v._litvyak",
-        "proper_name": "Sanya V. Litvyak",
-        "category": "character",
-        "encrypted_count": "fVxkbA==",
-        "copyright": "Strike Witches",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/b/b0/Sanya_profile.png/revision/latest?cb=20100203184723"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0699",
-        "name": "nakiri_ayame",
-        "proper_name": "Nakiri Ayame",
-        "category": "character",
-        "encrypted_count": "elNvaQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/6a/Nakiri_Ayame_October_'24_3D.png/revision/latest?cb=20241022205421"
-      },
-      "tag2": {
-        "id": "t0273",
-        "name": "voicevox",
-        "proper_name": "VoiceVox",
+        "id": "t0085",
+        "name": "tales_of_vesperia",
+        "proper_name": "Tales of Vesperia",
         "category": "copyright",
-        "encrypted_count": "fFJvYg==",
-        "copyright": "VoiceVox",
-        "material": "Music Software",
-        "image_reference": "https://prtimes.jp/data/corp/132725/ogp/0fc2c0b4cc844511409698e0d4cef820-963b6c7c0403ec1027cb2432a3e966c1.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0160",
-        "name": "toga_himiko",
-        "proper_name": "Toga Himiko",
-        "category": "character",
-        "encrypted_count": "eFJjaQ==",
-        "copyright": "My Hero Academia",
-        "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
+        "encrypted_count": "elZnaQ==",
+        "copyright": "Tales Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/d/dc/Tales_of_Vesperia_Game_Cover.jpg"
       },
       "tag2": {
-        "id": "t0758",
-        "name": "sailor_moon",
-        "proper_name": "Sailor Moon",
-        "category": "character",
-        "encrypted_count": "eFBhYw==",
-        "copyright": "Sailor Moon",
+        "id": "t0571",
+        "name": "gintama",
+        "proper_name": "Gintama",
+        "category": "copyright",
+        "encrypted_count": "eFNmYg==",
+        "copyright": "Gintama",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_(1992).png/revision/latest?cb=20231109134853&path-prefix=es"
+        "image_reference": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Gintama_English_Logo.png/revision/latest?cb=20210101181027"
       }
     },
     {
@@ -85,146 +41,187 @@ const DAILY_GAME_DATA = {
         "image_reference": "https://static.wikia.nocookie.net/projectsekai/images/6/65/Happy_Birthday!!_(Mizuki)_transparent.png/revision/latest?cb=20220826202705"
       },
       "tag2": {
-        "id": "t0559",
-        "name": "anchovy_(girls_und_panzer)",
-        "proper_name": "Anchovy",
+        "id": "t0042",
+        "name": "shiroko_terror_(blue_archive)",
+        "proper_name": "Shiroko Terror",
         "category": "character",
-        "encrypted_count": "e1xiaw==",
-        "copyright": "Girls und Panzer",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/gup/images/7/79/Anchovy.png/revision/latest?cb=20170123061720"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0859",
-        "name": "spice_and_wolf",
-        "proper_name": "Spice and Wolf",
-        "category": "copyright",
-        "encrypted_count": "elBgbw==",
-        "copyright": "Spice and Wolf",
-        "material": "Light Novel",
-        "image_reference": "https://images.fanart.tv/fanart/spice-and-wolf-576941a008b12.png"
-      },
-      "tag2": {
-        "id": "t0661",
-        "name": "nero_claudius_(fate/extra)",
-        "proper_name": "Nero Claudius",
-        "category": "character",
-        "encrypted_count": "e1JubA==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S005_Stage1.webp/revision/latest?cb=20220910072246"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0244",
-        "name": "lana_(pokemon)",
-        "proper_name": "Lana",
-        "category": "character",
-        "encrypted_count": "e1Jkbw==",
-        "copyright": "Pokemon",
-        "material": "Video Game",
-        "image_reference": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Sun_Moon_Lana.png/1200px-Sun_Moon_Lana.png"
-      },
-      "tag2": {
-        "id": "t0595",
-        "name": "kanna_(blue_archive)",
-        "proper_name": "Kanna",
-        "category": "character",
-        "encrypted_count": "e1Vvag==",
+        "encrypted_count": "fVdvbg==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/4/47/Kanna.png?version=09ce58bc6b8b274502da1550c549a7aa"
+        "image_reference": "https://static.wikia.nocookie.net/villains/images/a/a1/Shiroko_Terror_Portrait.png/revision/latest?cb=20230309084121"
       }
     },
     {
       "tag1": {
-        "id": "t0131",
-        "name": "ayanami_(azur_lane)",
-        "proper_name": "Ayanami",
+        "id": "t0542",
+        "name": "shiori_novella",
+        "proper_name": "Shiori Novella",
         "category": "character",
-        "encrypted_count": "fVdkag==",
-        "copyright": "Azur Lane",
+        "encrypted_count": "e1FmYw==",
+        "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/bhlx/images/0/0a/Ayanami.png/revision/latest?cb=20190519143145"
+        "image_reference": "https://static.wikitide.net/hololivewiki/0/03/Shiori_Novella_-_Portrait_01.png"
       },
       "tag2": {
-        "id": "t0433",
-        "name": "n_(pokemon)",
-        "proper_name": "N",
+        "id": "t0337",
+        "name": "kaenbyou_rin_(cat)",
+        "proper_name": "Kaenbyou Rin",
         "category": "character",
-        "encrypted_count": "fF1ibw==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/pokemon/images/0/01/N_Black_2_and_White_2.png/revision/latest?cb=20220603233630"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0873",
-        "name": "rabbit_hole_(vocaloid)",
-        "proper_name": "Rabbit Hole",
-        "category": "copyright",
-        "encrypted_count": "fFFmYw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://rabbithole.wiki.gg/images/e/e6/Site-logo.png"
-      },
-      "tag2": {
-        "id": "t0138",
-        "name": "yorigami_jo'on",
-        "proper_name": "Yorigami Joon",
-        "category": "character",
-        "encrypted_count": "fFJmbw==",
+        "encrypted_count": "fFBlYg==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/touhou/images/6/6e/JoonYorigami1.2.png/revision/latest?cb=20230430211416"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/b/b2/RinSubAni.png/revision/latest/thumbnail/width/360/height/450?cb=20091025143107"
       }
     },
     {
       "tag1": {
-        "id": "t0081",
-        "name": "final_fantasy_vii_rebirth",
-        "proper_name": "Final Fantasy VII Rebirth",
+        "id": "t0747",
+        "name": "devil_may_cry_(series)",
+        "proper_name": "Devil May Cry Series",
         "category": "copyright",
-        "encrypted_count": "fVxgaQ==",
+        "encrypted_count": "e1BibA==",
+        "copyright": "Devil May Cry Series",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Logo_of_the_Devil_May_Cry_series.png/375px-Logo_of_the_Devil_May_Cry_series.png"
+      },
+      "tag2": {
+        "id": "t0070",
+        "name": "koshimizu_sachiko",
+        "proper_name": "Koshimizu Sachiko",
+        "category": "character",
+        "encrypted_count": "fVdvaw==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/d/d0/Sachiko_SS.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0663",
+        "name": "osawa_rurino",
+        "proper_name": "Osawa Rurino",
+        "category": "character",
+        "encrypted_count": "elVgbQ==",
+        "image_reference": "https://static.wikia.nocookie.net/love-live/images/d/d2/Osawa_Rurino.png/revision/latest/scale-to-width-down/1200?cb=20230210125149"
+      },
+      "tag2": {
+        "id": "t0152",
+        "name": "final_fantasy_ix",
+        "proper_name": "Final Fantasy IX",
+        "category": "copyright",
+        "encrypted_count": "eldkbg==",
         "copyright": "Final Fantasy",
         "material": "Video Game",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/7/75/Boxart_for_Final_Fantasy_VII_Rebirth.png"
-      },
-      "tag2": {
-        "id": "t0662",
-        "name": "kiryuuin_satsuki",
-        "proper_name": "Kiryuuin Satsuki",
-        "category": "character",
-        "encrypted_count": "eF1nYg==",
-        "copyright": "Kill la Kill",
-        "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/kill-la-kill/images/0/01/Satsuki_Kiryuin(1).png/revision/latest?cb=20170301220730&path-prefix=es"
+        "image_reference": "https://www.pngmart.com/files/22/Final-Fantasy-IX-Logo-PNG-File.png"
       }
     },
     {
       "tag1": {
-        "id": "t0349",
-        "name": "laffey_(azur_lane)",
-        "proper_name": "Laffey",
+        "id": "t0492",
+        "name": "joseph_joestar_(young)",
+        "proper_name": "Young Joseph Joestar",
         "category": "character",
-        "encrypted_count": "fFxnbg==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://azurlane.netojuu.com/images/2/2a/Laffey.png"
+        "encrypted_count": "eFViag==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://rei.animecharactersdatabase.com/uploads/chars/5688-2139872028.jpg"
       },
       "tag2": {
-        "id": "t0679",
-        "name": "hoshizora_rin",
-        "proper_name": "Hoshizora Rin",
-        "category": "character",
-        "encrypted_count": "eF1jbg==",
-        "copyright": "Love Live!",
+        "id": "t0017",
+        "name": "fire_emblem",
+        "proper_name": "Fire Emblem",
+        "category": "copyright",
+        "encrypted_count": "f1diYkMC",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fireemblem/images/1/1b/Fire_Emblem_Engage_Box_Art.png/revision/latest/thumbnail/width/360/height/450?cb=20220914001431"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0945",
+        "name": "hololive_dev_is",
+        "proper_name": "HoloLive DEV_IS",
+        "category": "copyright",
+        "encrypted_count": "e11uaA==",
+        "copyright": "Hololive",
+        "image_reference": "https://kai-you.net/press/img/hololive-DEV_IS-TEASER-0-29-screenshot-1.png"
+      },
+      "tag2": {
+        "id": "t0226",
+        "name": "yuri!!!_on_ice",
+        "proper_name": "Yuri!!! on ICE",
+        "category": "copyright",
+        "encrypted_count": "fVdnbA==",
+        "copyright": "Yuri!!! on ICE",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/love-live-fanon/images/7/72/LL-SIF-ASA-Rin.png/revision/latest?cb=20240813083711"
+        "image_reference": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6YWsFdsN90j7jwUoV9LzaEFb96hoevDz1A--O3VGX_DqgBhW4Zj1pJGBIwN25bKoiUybLw"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0642",
+        "name": "bremerton_(azur_lane)",
+        "proper_name": "Bremerton",
+        "category": "character",
+        "encrypted_count": "e1Jkbw==",
+        "copyright": "Azur Lane",
+        "material": "Video Game",
+        "image_reference": "https://azurlane.netojuu.com/images/thumb/d/dd/Bremerton.png/1223px-Bremerton.png"
+      },
+      "tag2": {
+        "id": "t0652",
+        "name": "shirasaka_koume",
+        "proper_name": "Shirasaka Koume",
+        "category": "character",
+        "encrypted_count": "e1dkYw==",
+        "copyright": "Hololive",
+        "material": "Virtual Youtubers",
+        "image_reference": "https://pm1.narvii.com/6987/a06dfbcbc8f121386f7c8512ba51acd69fa98ac5r1-766-1064v2_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0151",
+        "name": "miyu_edelfelt",
+        "proper_name": "Miyu Edelfelt",
+        "category": "character",
+        "encrypted_count": "elRjaA==",
+        "copyright": "Fate Series",
+        "material": "Anime",
+        "image_reference": "https://vignette.wikia.nocookie.net/typemoon/images/3/37/Miyu_Edelfelt_(Fate_Kaleid_-_Uniforme).png/revision/latest?cb=20200808040558&path-prefix=es"
+      },
+      "tag2": {
+        "id": "t0348",
+        "name": "ranma-chan",
+        "proper_name": "Ranma-chan",
+        "category": "character",
+        "encrypted_count": "eVVkaQ==",
+        "copyright": "Ranma \u00bd",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/ranma/images/d/dd/Saotome_Ranma_%E2%99%80_%28Anime_2024%29.png/revision/latest?cb=20240718055725"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0548",
+        "name": "phantasy_star",
+        "proper_name": "Phantasy Star",
+        "category": "copyright",
+        "encrypted_count": "eFBgaQ==",
+        "copyright": "Phantasy Star",
+        "material": "Video Game",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/3/34/Phantasy_Star_MS_cover.png"
+      },
+      "tag2": {
+        "id": "t0392",
+        "name": "android_18",
+        "proper_name": "Android 18",
+        "category": "character",
+        "encrypted_count": "dlFvbQ==",
+        "copyright": "Dragon Ball",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/6/69/Android_18_Resurrection_%27F%27.jpg"
       }
     }
   ]
