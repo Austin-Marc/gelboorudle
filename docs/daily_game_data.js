@@ -1,229 +1,229 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-17T12:38:08.400210+00:00
-// Date: 2026-11-17
+// Generated on: 2026-11-18T12:29:33.195301+00:00
+// Date: 2026-11-18
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0856",
-        "name": "metal_gear_(series)",
-        "proper_name": "Metal Gear Series",
+        "id": "t0004",
+        "name": "blue_archive",
+        "proper_name": "Blue Archive",
         "category": "copyright",
-        "encrypted_count": "el1uag==",
-        "copyright": "Metal Gear Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/konamiverse/images/6/60/Metal_Gear_Series_Logo_a.png/revision/latest/scale-to-width-down/350?cb=20190803173003"
-      },
-      "tag2": {
-        "id": "t0605",
-        "name": "sunny_(omori)",
-        "proper_name": "Sunny",
-        "category": "character",
-        "encrypted_count": "e1RnaA==",
-        "copyright": "Omori",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/4/45/SUNNY_CUERPO_COMPLETO.png/revision/latest?cb=20240312190414&path-prefix=es"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0452",
-        "name": "ump9_(girls'_frontline)",
-        "proper_name": "UMP9",
-        "category": "character",
-        "encrypted_count": "fFBvaw==",
-        "copyright": "Girls' Frontline",
-        "material": "Video Game",
-        "image_reference": "https://static.zerochan.net/UMP9.(Girls.Frontline).full.3776038.jpg"
-      },
-      "tag2": {
-        "id": "t0056",
-        "name": "modao_zushi",
-        "proper_name": "Mo Dao Zu Shi",
-        "category": "copyright",
-        "encrypted_count": "fVFibA==",
-        "copyright": "Mo Dao Zu Shi",
-        "material": "Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/e/e8/One_of_the_official_posters_for_Mo_Dao_Zu_Shi_by_Tencent.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0218",
-        "name": "mizi_(alien_stage)",
-        "proper_name": "Mizi",
-        "category": "character",
-        "encrypted_count": "fFJuYg==",
-        "copyright": "Alien Stage",
-        "image_reference": "https://vroid-hub.pximg.net/c/frame/assets%252Fogp%252Fcharacter_model_v1.png/c/model/images%252Fportrait_images%252F2494839%252F8374239706450583027.png/images/full_body_images/2494839/5127483077383492138.png"
-      },
-      "tag2": {
-        "id": "t0670",
-        "name": "skullgirls",
-        "proper_name": "Skullgirls",
-        "category": "copyright",
-        "encrypted_count": "f1Nmb0g=",
-        "copyright": "Skullgirls",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/skullgirls/images/8/8c/Skullgirls_logo.png/revision/latest/scale-to-width-down/1200?cb=20150502183112"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0155",
-        "name": "summer_pockets",
-        "proper_name": "Summer Pockets",
-        "category": "copyright",
-        "encrypted_count": "fVVlYw==",
-        "copyright": "Summer Pockets",
-        "material": "Visual Novel",
-        "image_reference": "https://wiki.ruliweb.com/images/thumb/6/66/\uc11c\uba38\ud3ec\ucf13_logo.png/640px-\uc11c\uba38\ud3ec\ucf13_logo.png"
-      },
-      "tag2": {
-        "id": "t0960",
-        "name": "itsumi_erika",
-        "proper_name": "Itsumi Erika",
-        "category": "character",
-        "encrypted_count": "e1Fnaw==",
+        "encrypted_count": "fVBibUgC",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/original/a3/59/__itsumi_erika_and_erika_blue_archive_and_1_more_drawn_by_kamishima_kanon__a359e862a02aac5f44d1c09454a21999.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/4/44/BA_Visual_1.png/revision/latest/scale-to-width-down/200?cb=20210410071347"
+      },
+      "tag2": {
+        "id": "t0778",
+        "name": "asahina_mikuru",
+        "proper_name": "Asahina Mikuru",
+        "category": "character",
+        "encrypted_count": "e1RlYg==",
+        "copyright": "The Melancholy of Haruhi Suzumiya",
+        "material": "Anime",
+        "image_reference": "https://c.wallhere.com/photos/8e/eb/The_Melancholy_of_Haruhi_Suzumiya_Asahina_Mikuru_anime_girls-2099467.jpg!d"
       }
     },
     {
       "tag1": {
-        "id": "t0253",
-        "name": "beatrice_(umineko)",
-        "proper_name": "Beatrice",
+        "id": "t0949",
+        "name": "hinata_hajime",
+        "proper_name": "Hajime Hinata",
         "category": "character",
-        "encrypted_count": "fVVnYg==",
-        "copyright": "Umineko no Naku Koro ni",
-        "material": "Visual Novel",
-        "image_reference": "https://static.wikia.nocookie.net/umineko/images/3/36/Beatrice_mei_%281%29.png/revision/latest?cb=20211119213600"
+        "encrypted_count": "e1FjbQ==",
+        "copyright": "Danganronpa",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/danganronpa/images/c/c0/DR2_Hajime_Hinata.png/revision/latest?cb=20171229205740&path-prefix=ro"
       },
       "tag2": {
-        "id": "t0036",
-        "name": "usami_sumireko",
-        "proper_name": "Usami Sumireko",
+        "id": "t0489",
+        "name": "street_fighter_6",
+        "proper_name": "Street Fighter 6",
+        "category": "copyright",
+        "encrypted_count": "dlJjaA==",
+        "copyright": "Street Fighter",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/streetfighter/images/4/47/Street_fighter_6_logo.png/revision/latest?cb=20220603151920"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0169",
+        "name": "hagiwara_yukiho",
+        "proper_name": "Hagiwara Yukiho",
         "category": "character",
-        "encrypted_count": "fFJnaA==",
+        "encrypted_count": "fVBgbQ==",
+        "copyright": "The Idolmaster",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/4/45/MASTER_ARTIST_4_11.png"
+      },
+      "tag2": {
+        "id": "t0084",
+        "name": "urusei_yatsura",
+        "proper_name": "Urusei Yatsura",
+        "category": "copyright",
+        "encrypted_count": "elJhaQ==",
+        "copyright": "Urusei Yatsura",
+        "material": "Anime",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Urusei_Yatsura_1981_visual.jpg/250px-Urusei_Yatsura_1981_visual.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0827",
+        "name": "hifumi_(blue_archive)",
+        "proper_name": "Hifumi",
+        "category": "character",
+        "encrypted_count": "fV1kbA==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://s1.zerochan.net/Ajitani.Hifumi.600.3693607.jpg"
+      },
+      "tag2": {
+        "id": "t0379",
+        "name": "female_rover_(wuthering_waves)",
+        "proper_name": "Female Rover",
+        "category": "character",
+        "encrypted_count": "fFFnbw==",
+        "copyright": "Wuthering Waves",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Rover.(Female).full.3915197.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0505",
+        "name": "cu_chulainn_(fate)",
+        "proper_name": "Cu Chulainn",
+        "category": "character",
+        "encrypted_count": "eFVmYg==",
+        "copyright": "Fate Series",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
+      },
+      "tag2": {
+        "id": "t0325",
+        "name": "danganronpa_3_(anime)",
+        "proper_name": "Danganronpa 3: The End of Hope's Peak High School",
+        "category": "copyright",
+        "encrypted_count": "fFxmbw==",
+        "copyright": "Danganronpa",
+        "material": "Anime",
+        "image_reference": "https://vignette2.wikia.nocookie.net/danganronpa/images/2/2f/Logo_of_Hope%27s_Peak.png/revision/latest/scale-to-width-down/2000?cb=20161227015605"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0707",
+        "name": "steel_ball_run",
+        "proper_name": "Steel Ball Run",
+        "category": "copyright",
+        "encrypted_count": "eldjYw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/4/4f/latest/20250412184658/Steel_Ball_Run_Anime_Logo.png?20250412184658"
+      },
+      "tag2": {
+        "id": "t0138",
+        "name": "yorigami_jo'on",
+        "proper_name": "Yorigami Joon",
+        "category": "character",
+        "encrypted_count": "fFJmbw==",
         "copyright": "Touhou Project",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/vsbattles/images/d/d8/Th145Sumireko.png/revision/latest?cb=20151127030013"
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/6/6e/JoonYorigami1.2.png/revision/latest?cb=20230430211416"
       }
     },
     {
       "tag1": {
-        "id": "t0961",
-        "name": "ako_(blue_archive)",
-        "proper_name": "Ako",
-        "category": "character",
-        "encrypted_count": "e1xuaA==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://images.dotgg.gg/bluearchive/characters/portrait_ako.webp"
-      },
-      "tag2": {
-        "id": "t0120",
-        "name": "yuzu_(blue_archive)",
-        "proper_name": "Yuzu",
-        "category": "character",
-        "encrypted_count": "fVVnYw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/a/ac/Yuzu_Portrait.png/revision/latest?cb=20220420090226"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0033",
-        "name": "kemono_friends",
-        "proper_name": "Kemono Friends",
+        "id": "t0282",
+        "name": "soul_eater",
+        "proper_name": "Soul Eater",
         "category": "copyright",
-        "encrypted_count": "e1xibEg=",
-        "copyright": "Kemono Friends",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kemono_Friends_Anime_Key_Visual_Art.jpg/250px-Kemono_Friends_Anime_Key_Visual_Art.jpg"
+        "encrypted_count": "elJmYg==",
+        "copyright": "Soul Eater",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2023/08/Soul-Eater-Logo.png"
       },
       "tag2": {
-        "id": "t0793",
-        "name": "jane_doe_(zenless_zone_zero)",
-        "proper_name": "Jane Doe",
+        "id": "t0049",
+        "name": "gokou_ruri",
+        "proper_name": "Gokou Ruri",
         "category": "character",
-        "encrypted_count": "elZiag==",
+        "encrypted_count": "fVxhbA==",
+        "copyright": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/oreimo/images/c/cd/Kuroneko_Appearance.png/revision/latest?cb=20240414210944"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0821",
+        "name": "graf_zeppelin_(kancolle)",
+        "proper_name": "Graf Zeppelin",
+        "category": "character",
+        "encrypted_count": "fVxkYw==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Graf.Zeppelin.(Kantai.Collection).full.1974176.jpg"
+      },
+      "tag2": {
+        "id": "t0123",
+        "name": "falin_touden",
+        "proper_name": "Falin Touden",
+        "category": "character",
+        "encrypted_count": "fVBmbA==",
+        "copyright": "Dungeon Meshi",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/delicious-in-dungeon/images/1/1d/Falin_Touden_Full_Body_%28Anime%29-.png/revision/latest?cb=20231004123608"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0568",
+        "name": "kamitsubaki_studio",
+        "proper_name": "Kamitsubaki Studio",
+        "category": "copyright",
+        "encrypted_count": "e1dnbw==",
+        "copyright": "Kamitsubaki Studio",
+        "image_reference": "https://www.gematsu.com/wp-content/uploads/2024/01/Company-Logo_KAMITSUBAKI-STUDIO.png"
+      },
+      "tag2": {
+        "id": "t0630",
+        "name": "letty_whiterock",
+        "proper_name": "Letty Whiterock",
+        "category": "character",
+        "encrypted_count": "el1gaw==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://pm1.narvii.com/6315/c24bd14b452c00397597058250a72032e0353200_hq.jpg"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0739",
+        "name": "wise_(zenless_zone_zero)",
+        "proper_name": "Wise",
+        "category": "character",
+        "encrypted_count": "fVNkaA==",
         "copyright": "Zenless Zone Zero",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Agent_Jane_Doe_Portrait.png/revision/latest/scale-to-width-down/1200?cb=20240712062618"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0501",
-        "name": "ijichi_nijika",
-        "proper_name": "Ijichi Nijika",
-        "category": "character",
-        "encrypted_count": "eFZgbA==",
-        "copyright": "Bocchi the Rock!",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/bocchi-the-rock/images/9/92/Nijika_Ijichi_Character_Design_2.png/revision/latest?cb=20220915114343"
+        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e8/Agent_Wise_Portrait.png/revision/latest?cb=20240707002534"
       },
       "tag2": {
-        "id": "t0857",
-        "name": "mahjong_soul",
-        "proper_name": "Mahjong Soul",
-        "category": "copyright",
-        "encrypted_count": "fVFnaQ==",
-        "copyright": "Mahjong Soul",
-        "material": "Video Game",
-        "image_reference": "https://riichi.wiki/images/Mahjsoullogo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0376",
-        "name": "vivian_banshee",
-        "proper_name": "Vivian Banshee",
+        "id": "t0160",
+        "name": "toga_himiko",
+        "proper_name": "Toga Himiko",
         "category": "character",
-        "encrypted_count": "fFFhaQ==",
-        "copyright": "Zenless Zone Zero",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f5/Agent_Vivian_Banshee_Portrait.png/revision/latest?cb=20250424213744&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0258",
-        "name": "azusa_(blue_archive)",
-        "proper_name": "Azusa",
-        "category": "character",
-        "encrypted_count": "fFxjaw==",
-        "copyright": "Blue Archive",
-        "material": "Video Game",
-        "image_reference": "https://patchwiki.biligame.com/images/bluearchive/thumb/7/7a/8jb0demk10a7ez5g3uu18bkm9xl1iux.png/220px-Student_Portrait_Azusa_Collection.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0481",
-        "name": "ookami_mio",
-        "proper_name": "Ookami Mio",
-        "category": "character",
-        "encrypted_count": "eFxmbQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/1/18/Ookami_Mio_Portrait.png/revision/latest?cb=20200616012840"
-      },
-      "tag2": {
-        "id": "t0246",
-        "name": "qiqi_(genshin_impact)",
-        "proper_name": "Qiqi",
-        "category": "character",
-        "encrypted_count": "fVVibQ==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/8/8b/Personagem_Qiqi_Cart\u00e3o.jpg/revision/latest?cb=20210330004500&path-prefix=pt-br"
+        "encrypted_count": "eFJjaQ==",
+        "copyright": "My Hero Academia",
+        "material": "Manga",
+        "image_reference": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Himiko_Toga_Civilian_Full_Body.png/revision/latest?cb=20180514135925&path-prefix=pt-br"
       }
     }
   ]
