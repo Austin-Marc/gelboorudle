@@ -1,230 +1,226 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-23T13:53:06.347622+00:00
-// Date: 2026-11-23
+// Generated on: 2026-11-24T14:25:28.531461+00:00
+// Date: 2026-11-24
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0094",
-        "name": "eila_ilmatar_juutilainen",
-        "proper_name": "Eila Ilmatar Juutilainen",
-        "category": "character",
-        "encrypted_count": "fVxnbA==",
-        "copyright": "Girls und Panzer",
+        "id": "t0284",
+        "name": "yes!_precure_5",
+        "proper_name": "Yes! Precure 5",
+        "category": "copyright",
+        "encrypted_count": "fVFubQ==",
+        "copyright": "Yes! Precure 5",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/strikewitches/images/7/71/ProfileEila.jpg/revision/latest?cb=20111031223859"
+        "image_reference": "https://static.wikitide.net/precurewikiwiki/e/ef/Yesfiveenglogo.jpg"
       },
       "tag2": {
-        "id": "t0846",
-        "name": "kirigiri_kyoko",
-        "proper_name": "Kirigiri Kyoko",
+        "id": "t0886",
+        "name": "skadi_the_corrupting_heart_(arknights)",
+        "proper_name": "Skadi the Corrupting Heart",
         "category": "character",
-        "encrypted_count": "elVgbg==",
-        "copyright": "Danganronpa",
+        "encrypted_count": "fFdvbA==",
+        "copyright": "Arknights",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/danganronpa/images/1/12/Kyoko_Kirigiri_Illustration.png/revision/latest?cb=20180925005620"
+        "image_reference": "https://static.wikia.nocookie.net/mrfz/images/c/cf/Skadi_the_Corrupting_Heart.png/revision/latest?cb=20210501130244"
       }
     },
     {
       "tag1": {
-        "id": "t0093",
-        "name": "pecorine_(princess_connect!)",
-        "proper_name": "Peorine",
+        "id": "t0298",
+        "name": "hayami_kanade",
+        "proper_name": "Hayami Kanade",
         "category": "character",
-        "encrypted_count": "fVxgYw==",
-        "copyright": "Princess Connect!",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png/revision/latest?cb=20180219083648"
-      },
-      "tag2": {
-        "id": "t0790",
-        "name": "takarada_rikka",
-        "proper_name": "Takarada Rikka",
-        "category": "character",
-        "encrypted_count": "e1Jgbw==",
-        "copyright": "SSSS.Gridman",
+        "encrypted_count": "fF1kaw==",
+        "copyright": "IdolMaster Cinderella Girls",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/ssssgridman/images/7/7a/Rikka_Takarada.png/revision/latest?cb=20210623074221"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0618",
-        "name": "kagerou_project",
-        "proper_name": "Kagerou Project",
-        "category": "copyright",
-        "encrypted_count": "e1VlbQ==",
-        "copyright": "Kagerou Project",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/kagerouproject/images/e/e6/Site-logo.png/revision/latest?cb=20210720114629&path-prefix=es"
+        "image_reference": "https://static.wikia.nocookie.net/cinderella-girls/images/d/d1/200037R-Hayami-Kanade-Cool.png/revision/latest?cb=20180905181124"
       },
       "tag2": {
-        "id": "t0787",
-        "name": "kouyoku_senki_exs-tia",
-        "proper_name": "Kouyoku Senki Exs-Tia",
+        "id": "t0709",
+        "name": "machikado_mazoku",
+        "proper_name": "Machikado Mazoku",
         "category": "copyright",
-        "encrypted_count": "elBnag==",
-        "copyright": "Kouyoku Senki Exs-Tia",
-        "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Azarin.600.4096409.jpg"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0055",
-        "name": "fate/prototype",
-        "proper_name": "Fate/prototype",
-        "category": "copyright",
-        "encrypted_count": "elVnaA==",
-        "copyright": "Fate Series",
-        "material": "Light Novel",
-        "image_reference": "https://m.media-amazon.com/images/M/MV5BZTk4YmFmOGItZjM2Zi00ODFlLWE0YjAtZWRhMzlkZGVkYmE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-      },
-      "tag2": {
-        "id": "t0581",
-        "name": "asuna_(sao)",
-        "proper_name": "Asuna",
-        "category": "character",
-        "encrypted_count": "eVRnYw==",
-        "copyright": "Sword Art Online",
-        "material": "Light Novel",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0855",
-        "name": "sen_no_kiseki_(series)",
-        "proper_name": "Sen no Kiseki Series",
-        "category": "copyright",
-        "encrypted_count": "elJlbQ==",
-        "copyright": "The Legend of Heroes",
-        "material": "Video Game",
-        "image_reference": "https://image.pngaaa.com/464/4421464-middle.png"
-      },
-      "tag2": {
-        "id": "t0625",
-        "name": "roronoa_zoro",
-        "proper_name": "Roronoa Zoro",
-        "category": "character",
-        "encrypted_count": "eVBgYw==",
-        "copyright": "One Piece",
+        "encrypted_count": "elNubg==",
+        "copyright": "Machikado Mazoku",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20141008195159"
+        "image_reference": "https://images.seeklogo.com/logo-png/46/1/machikado-mazoku-logo-png_seeklogo-463180.png"
       }
     },
     {
       "tag1": {
-        "id": "t0953",
-        "name": "aqua_(konosuba)",
-        "proper_name": "Aqua",
+        "id": "t0718",
+        "name": "kirishima_(kancolle)",
+        "proper_name": "Kirishima",
         "category": "character",
-        "encrypted_count": "dlJhYw==",
-        "copyright": "KonoSuba",
-        "material": "Light Novel",
-        "image_reference": "https://vignette.wikia.nocookie.net/konosuba/images/d/db/Aqua_-_Anime.png/revision/latest?cb=20170127234540&path-prefix=es"
-      },
-      "tag2": {
-        "id": "t0024",
-        "name": "girls'_frontline",
-        "proper_name": "Girls' Frontline",
-        "category": "copyright",
-        "encrypted_count": "e1xnbEc=",
-        "copyright": "Girls' Frontline",
+        "encrypted_count": "fVJvbw==",
+        "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://cdn2.steamgriddb.com/logo/81594380e009d61a67688e4805265058.png"
+        "image_reference": "https://static.zerochan.net/Kirishima.(Kantai.Collection).full.1906714.jpg"
+      },
+      "tag2": {
+        "id": "t0767",
+        "name": "alice's_adventures_in_wonderland",
+        "proper_name": "Alice's Adventures in Wonderland",
+        "category": "copyright",
+        "encrypted_count": "e1dubQ==",
+        "copyright": "Alice's Adventures in Wonderland",
+        "material": "Novel",
+        "image_reference": "https://logodix.com/logo/867893.jpg"
       }
     },
     {
       "tag1": {
-        "id": "t0624",
-        "name": "gumi",
-        "proper_name": "Gumi",
-        "category": "character",
-        "encrypted_count": "e1Bmaw==",
-        "copyright": "Vocaloid",
-        "material": "Music Software",
-        "image_reference": "https://static.wikia.nocookie.net/vocaloid/images/a/ad/AI_Megpoid_GUMI_transparent.png/revision/latest?cb=20221016001045"
-      },
-      "tag2": {
-        "id": "t0884",
-        "name": "shinku",
-        "proper_name": "Shinku",
-        "category": "character",
-        "encrypted_count": "fFFuYg==",
-        "copyright": "Rozen Maiden",
+        "id": "t0752",
+        "name": "mobile_suit_gundam",
+        "proper_name": "Mobile Suit Gundam",
+        "category": "copyright",
+        "encrypted_count": "eFNibA==",
+        "copyright": "Mobile Suit Gundam",
         "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/rozenmaiden/images/b/bb/Artwork_Shinku_2013.png/revision/latest?cb=20140901224243&path-prefix=es"
+        "image_reference": "https://vignette.wikia.nocookie.net/gundam/images/8/88/MSG_logo_b.png/revision/latest?cb=20190720061056"
+      },
+      "tag2": {
+        "id": "t0368",
+        "name": "black_swan_(honkai:_star_rail)",
+        "proper_name": "Black Swan",
+        "category": "character",
+        "encrypted_count": "fFFvbA==",
+        "copyright": "Honkai: Star Rail",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Character_Black_Swan_Introduction.png/revision/latest?cb=20231212041201"
       }
     },
     {
       "tag1": {
-        "id": "t0020",
-        "name": "hololive_english",
-        "proper_name": "Hololive English",
-        "category": "copyright",
-        "encrypted_count": "d1Vja0Y=",
-        "copyright": "Hololive English",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hololive_ENGLISH_logo.svg/2560px-Hololive_ENGLISH_logo.svg.png"
+        "id": "t0542",
+        "name": "shiori_novella",
+        "proper_name": "Shiori Novella",
+        "category": "character",
+        "encrypted_count": "e1FmYw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/hololivewiki/0/03/Shiori_Novella_-_Portrait_01.png"
       },
       "tag2": {
-        "id": "t0706",
-        "name": "nitroplus",
-        "proper_name": "Nitroplus",
+        "id": "t0566",
+        "name": "transformers",
+        "proper_name": "Transformers",
         "category": "copyright",
-        "encrypted_count": "d1FlbQ==",
-        "copyright": "Nitroplus",
-        "material": "Video Game",
-        "image_reference": "https://www.gematsu.com/wp-content/uploads/2021/09/Company-Logo_Nitroplus-1920x1088.png"
+        "encrypted_count": "eFRmbg==",
+        "copyright": "Transformers",
+        "image_reference": "https://vignette.wikia.nocookie.net/transformers-film-series/images/6/69/Transformers_(Logo).png/revision/latest?cb=20160331061907"
       }
     },
     {
       "tag1": {
-        "id": "t0505",
-        "name": "cu_chulainn_(fate)",
-        "proper_name": "Cu Chulainn",
+        "id": "t0940",
+        "name": "iseri_nina",
+        "proper_name": "Iseri Nina",
         "category": "character",
-        "encrypted_count": "eFVmYg==",
-        "copyright": "Fate Series",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
+        "encrypted_count": "e1dubg==",
+        "image_reference": "https://static.wikitide.net/saimoewiki/thumb/1/11/Nina_Iseri_wiki_pfp.png/280px-Nina_Iseri_wiki_pfp.png"
       },
       "tag2": {
-        "id": "t0795",
-        "name": "sanji_(one_piece)",
-        "proper_name": "Sanji",
+        "id": "t0509",
+        "name": "sanrio",
+        "proper_name": "Sanrio",
+        "category": "copyright",
+        "encrypted_count": "eFVlaw==",
+        "copyright": "Sanrio",
+        "image_reference": "https://static.wikia.nocookie.net/hellokitty/images/a/a5/Mv-cinnamon.png/revision/latest/scale-to-width/360?cb=20250930161135"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0746",
+        "name": "yelan_(genshin_impact)",
+        "proper_name": "Yelan",
         "category": "character",
-        "encrypted_count": "eFJibw==",
-        "copyright": "One Piece",
+        "encrypted_count": "elJhYw==",
+        "copyright": "Genshin Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.actugaming.net/media/2022/05/genshin-impact-yelan.jpg"
+      },
+      "tag2": {
+        "id": "t0394",
+        "name": "lyra_(pokemon)",
+        "proper_name": "Lyra",
+        "category": "character",
+        "encrypted_count": "fVZkag==",
+        "copyright": "Pokemon",
+        "material": "Video Game",
+        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/d/d8/Lyra.png/revision/latest?cb=20160116133943"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0882",
+        "name": "seiken_densetsu",
+        "proper_name": "Seiken Densetsu",
+        "category": "copyright",
+        "encrypted_count": "elZnaQ==",
+        "copyright": "Seiken Densetsu",
+        "material": "Video Game",
+        "image_reference": "https://cdn.wikimg.net/en/strategywiki/images/2/2a/Seiken_Densetsu_logo.jpg"
+      },
+      "tag2": {
+        "id": "t0783",
+        "name": "fu_hua",
+        "proper_name": "Fu Hua",
+        "category": "character",
+        "encrypted_count": "elVmaw==",
+        "copyright": "Honkai Impact",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/hoducks/images/f/f7/Valkyrie_Accipiter.png/revision/latest?cb=20201226082235"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0095",
+        "name": "inkling_boy",
+        "proper_name": "Inkling Boy",
+        "category": "character",
+        "encrypted_count": "fVJvaQ==",
+        "copyright": "Splatoon",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/characterprofile/images/7/74/Inkling_Boy.png/revision/latest?cb=20160108065858"
+      },
+      "tag2": {
+        "id": "t0888",
+        "name": "lysithea_von_ordelia",
+        "proper_name": "Lysithea von Ordelia",
+        "category": "character",
+        "encrypted_count": "fF1nbA==",
+        "copyright": "Fire Emblem",
+        "material": "Video Game",
+        "image_reference": "https://cdn.fireemblemwiki.org/thumb/7/7f/FETH_Lysithea.png/800px-FETH_Lysithea.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0361",
+        "name": "miyafuji_yoshika",
+        "proper_name": "Miyafuji Yoshika",
+        "category": "character",
+        "encrypted_count": "fVVhag==",
+        "copyright": "Strike Witches",
         "material": "Anime",
-        "image_reference": "https://vignette.wikia.nocookie.net/onepiece/images/4/47/Sanji14.jpg/revision/latest?cb=20140813105919&path-prefix=cs"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0519",
-        "name": "hakos_baelz",
-        "proper_name": "Hakos Baelz",
-        "category": "character",
-        "encrypted_count": "e1JmYg==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/6/68/Hakos_Baelz_3D.png/revision/latest?cb=20240901181420"
+        "image_reference": "https://static.zerochan.net/Miyafuji.Yoshika.full.1053900.jpg"
       },
       "tag2": {
-        "id": "t0121",
-        "name": "aisaka_taiga",
-        "proper_name": "Aisaka Taiga",
+        "id": "t0917",
+        "name": "asuna_(bunny)_(blue_archive)",
+        "proper_name": "Asuna (Bunny)",
         "category": "character",
-        "encrypted_count": "fVNhYw==",
-        "copyright": "Toradora!",
-        "material": "Light Novel",
-        "image_reference": "https://anibase.net/files/076c0373d3a43576ada022e81b5be19c/360"
+        "encrypted_count": "eFZgaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/6/66/Asuna_(Bunny_Girl)_00.png/326px-Asuna_(Bunny_Girl)_00.png"
       }
     }
   ]
