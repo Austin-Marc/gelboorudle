@@ -1,230 +1,230 @@
 // Generated daily challenge - DO NOT EDIT MANUALLY
-// Generated on: 2026-11-27T13:20:03.563024+00:00
-// Date: 2026-11-27
+// Generated on: 2026-11-28T12:34:38.859095+00:00
+// Date: 2026-11-28
 
 const DAILY_GAME_DATA = {
   "version": "1.0",
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "key": "NdVZq1TZsWX7ELQX",
   "pairs": [
     {
       "tag1": {
-        "id": "t0847",
-        "name": "emilia_(re:zero)",
-        "proper_name": "Emilia",
-        "category": "character",
-        "encrypted_count": "e1RibQ==",
-        "copyright": "Re:Zero - Starting Life in Another World",
-        "material": "Light Novel",
-        "image_reference": "https://rare-gallery.com/mocahbig/1347718-Emilia-ReZEROReZERO-Starting-Life-In-Another-World-.jpg"
-      },
-      "tag2": {
-        "id": "t0131",
-        "name": "ayanami_(azur_lane)",
-        "proper_name": "Ayanami",
-        "category": "character",
-        "encrypted_count": "fVdkag==",
-        "copyright": "Azur Lane",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/bhlx/images/0/0a/Ayanami.png/revision/latest?cb=20190519143145"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0534",
-        "name": "kaban_(kemono_friends)",
-        "proper_name": "Kaban",
-        "category": "character",
-        "encrypted_count": "e1dhbg==",
-        "copyright": "Kemono Friends",
-        "material": "Anime",
-        "image_reference": "https://www.japari-library.com/images/3/3e/KabanS2.png"
-      },
-      "tag2": {
-        "id": "t0728",
-        "name": "little_witch_academia",
-        "proper_name": "Little Witch Academia",
+        "id": "t0904",
+        "name": "to_heart_2",
+        "proper_name": "To Heart 2",
         "category": "copyright",
-        "encrypted_count": "eVZhbA==",
-        "copyright": "Little Witch Academia",
-        "material": "Anime",
-        "image_reference": "https://static.wikia.nocookie.net/logo-timeline/images/b/b2/Little_Witch_Academia_Logo.png/revision/latest?cb=20230313220247"
+        "encrypted_count": "eFxvYw==",
+        "copyright": "To Heart",
+        "material": "Visual Novel",
+        "image_reference": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/To_Heart_2_Logo.svg/240px-To_Heart_2_Logo.svg.png?20210104203002"
+      },
+      "tag2": {
+        "id": "t0480",
+        "name": "soga_no_tojiko",
+        "proper_name": "Soga no Tojiko",
+        "category": "character",
+        "encrypted_count": "e1dlYg==",
+        "copyright": "Touhou Project",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/touhou/images/0/07/Th13Tojiko.png/revision/latest?cb=20110813200351"
       }
     },
     {
       "tag1": {
-        "id": "t0711",
-        "name": "fuwawa_abyssgard",
-        "proper_name": "Fuwawa Abyssgard",
+        "id": "t0073",
+        "name": "jonathan_joestar",
+        "proper_name": "Jonathan Joestar",
         "category": "character",
-        "encrypted_count": "eldibA==",
-        "copyright": "Hololive Production",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/c/ca/Fuwawa_Abyssgard_3D.png/revision/latest?cb=20240902203521"
-      },
-      "tag2": {
-        "id": "t0670",
-        "name": "skullgirls",
-        "proper_name": "Skullgirls",
-        "category": "copyright",
-        "encrypted_count": "f1Nmb0g=",
-        "copyright": "Skullgirls",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/skullgirls/images/8/8c/Skullgirls_logo.png/revision/latest/scale-to-width-down/1200?cb=20150502183112"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0794",
-        "name": "nice_nature_(umamusume)",
-        "proper_name": "Nice Nature",
-        "category": "character",
-        "encrypted_count": "fVBgbw==",
-        "copyright": "Umamusume",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/umamusume/images/0/0a/Nice_nature.png/revision/latest?cb=20181031020942"
-      },
-      "tag2": {
-        "id": "t0481",
-        "name": "ookami_mio",
-        "proper_name": "Ookami Mio",
-        "category": "character",
-        "encrypted_count": "eFxmbQ==",
-        "copyright": "Hololive",
-        "material": "Virtual Youtubers",
-        "image_reference": "https://static.wikia.nocookie.net/hololivevtuber/images/1/18/Ookami_Mio_Portrait.png/revision/latest?cb=20200616012840"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0948",
-        "name": "eula_(genshin_impact)",
-        "proper_name": "Eula",
-        "category": "character",
-        "encrypted_count": "eFNkaw==",
-        "copyright": "Genshin Impact",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Eula_Character_Card.png/revision/latest?cb=20230302031310"
-      },
-      "tag2": {
-        "id": "t0404",
-        "name": "higashiyama_kobeni",
-        "proper_name": "Higashiyama Kobeni",
-        "category": "character",
-        "encrypted_count": "fVZlbQ==",
-        "copyright": "Chainsaw Man",
+        "encrypted_count": "fVFiaw==",
+        "copyright": "JoJo's Bizarre Adventure",
         "material": "Manga",
-        "image_reference": "https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0372",
-        "name": "glaceon",
-        "proper_name": "Glaceon",
-        "category": "character",
-        "encrypted_count": "fV1iaA==",
-        "copyright": "Pok\u00e9mon",
-        "material": "Video Game",
-        "image_reference": "https://vignette.wikia.nocookie.net/pokemon/images/f/fa/Glaceon.png/revision/latest?cb=20170422064259"
+        "image_reference": "https://static.jojowiki.com/images/thumb/b/bd/latest/20221006234855/Jonathan_Infobox_Manga.png/800px-Jonathan_Infobox_Manga.png"
       },
       "tag2": {
-        "id": "t0416",
-        "name": "high_priest_(ragnarok_online)",
-        "proper_name": "High Priest",
+        "id": "t0820",
+        "name": "kaedehara_kazuha",
+        "proper_name": "Kaedehara Kazuha",
         "category": "character",
-        "encrypted_count": "fFBgaw==",
-        "copyright": "Ragnarok Online",
-        "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/ragnarok_gamepedia_en/images/7/76/Character_HighPriest.jpg/revision/latest?cb=20161103202845"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0233",
-        "name": "22/7",
-        "proper_name": "22/7",
-        "category": "copyright",
-        "encrypted_count": "fVViYw==",
-        "copyright": "22/7",
-        "material": "Anime",
-        "image_reference": "https://upload.wikimedia.org/wikipedia/en/f/ff/Nanabun_no_Nijuuni.jpg"
-      },
-      "tag2": {
-        "id": "t0806",
-        "name": "minecraft",
-        "proper_name": "Minecraft",
-        "category": "copyright",
-        "encrypted_count": "elRhbw==",
-        "copyright": "Minecraft",
-        "material": "Video Game",
-        "image_reference": "https://www.symbols.com/images/symbol/1/2891_minecraft-wiki-logo.png"
-      }
-    },
-    {
-      "tag1": {
-        "id": "t0451",
-        "name": "albedo_(genshin_impact)",
-        "proper_name": "Albedo",
-        "category": "character",
-        "encrypted_count": "fFBlaw==",
+        "encrypted_count": "fVxjbQ==",
         "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png/revision/latest?cb=20210302092013"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/a/a5/Kazuha_Karte.png/revision/latest?cb=20211123185236&path-prefix=de"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0637",
+        "name": "golden_kamuy",
+        "proper_name": "Golden Kamuy",
+        "category": "copyright",
+        "encrypted_count": "elxnbg==",
+        "copyright": "Golden Kamuy",
+        "material": "Manga",
+        "image_reference": "https://image.tmdb.org/t/p/original/8pvA8HCjwF0JwNSRThHmft6pO73.png"
       },
       "tag2": {
-        "id": "t0687",
-        "name": "ro-500_(kancolle)",
-        "proper_name": "Ro-500",
+        "id": "t0659",
+        "name": "kasumi_(kancolle)",
+        "proper_name": "Kasumi",
         "category": "character",
-        "encrypted_count": "el1kaw==",
+        "encrypted_count": "elFibQ==",
         "copyright": "Kantai Collection",
         "material": "Video Game",
-        "image_reference": "https://s1.zerochan.net/Ro-500.(Kantai.Collection).600.2131087.jpg"
+        "image_reference": "https://static.wikia.nocookie.net/p__/images/6/6b/Kasumi.png/revision/latest?cb=20150606171159&path-prefix=protagonist"
       }
     },
     {
       "tag1": {
-        "id": "t0128",
-        "name": "omori_(omori)",
-        "proper_name": "Omori",
+        "id": "t0505",
+        "name": "cu_chulainn_(fate)",
+        "proper_name": "Cu Chulainn",
         "category": "character",
-        "encrypted_count": "fVRibA==",
-        "copyright": "Omori",
+        "encrypted_count": "eFVmYg==",
+        "copyright": "Fate Series",
         "material": "Video Game",
-        "image_reference": "https://static.wikia.nocookie.net/omori/images/c/ce/Group_hug_dw.gif/revision/latest?cb=20220217114528&path-prefix=zh"
+        "image_reference": "https://static.wikia.nocookie.net/fate/images/a/ad/4a274112aa34354a36f3ca23bd4d7f51.jpg/revision/latest?cb=20170425162718&path-prefix=pl"
       },
       "tag2": {
-        "id": "t0500",
-        "name": "kasodani_kyouko",
-        "proper_name": "Kasodani Kyouko",
+        "id": "t0851",
+        "name": "fischl_(genshin_impact)",
+        "proper_name": "Fischl",
         "category": "character",
-        "encrypted_count": "e1NnbA==",
-        "copyright": "Touhou Project",
+        "encrypted_count": "elVkaA==",
+        "copyright": "Genshin Impact",
         "material": "Video Game",
-        "image_reference": "https://cdn.donmai.us/original/12/27/__kasodani_kyouko_touhou_drawn_by_dairi__1227d63d9dffa3f9e8e6fb34b063a87b.png?download=1"
+        "image_reference": "https://static.wikia.nocookie.net/genshin-impact/images/c/c3/Character_Fischl_Full_Wish.png/revision/latest/scale-to-width-down/1200?cb=20220714030048&path-prefix=th"
       }
     },
     {
       "tag1": {
-        "id": "t0593",
-        "name": "sukuna_shinmyoumaru",
-        "proper_name": "Sukuna Shinmyoumaru",
-        "category": "character",
-        "encrypted_count": "elBjaA==",
-        "copyright": "Touhou Project",
-        "material": "Video Game",
-        "image_reference": "https://wiki.koumakan.jp/images/shinpiroku/6/6b/ShinmyoumaruULiL.png"
+        "id": "t0958",
+        "name": "steins;gate",
+        "proper_name": "Steins;Gate",
+        "category": "copyright",
+        "encrypted_count": "eFxhbA==",
+        "copyright": "Steins;Gate",
+        "material": "Visual Novel",
+        "image_reference": "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
       },
       "tag2": {
-        "id": "t0601",
-        "name": "midori_(blue_archive)",
-        "proper_name": "Midori",
+        "id": "t0768",
+        "name": "taimanin_(series)",
+        "proper_name": "Taimanin Series",
+        "category": "copyright",
+        "encrypted_count": "fVNjYkk=",
+        "copyright": "Taimanin Series",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/anime/images/8/80/TA-logo.png/revision/latest?cb=20240303183926&path-prefix=pt-br"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0430",
+        "name": "emil_chronicle_online",
+        "proper_name": "Emil Chronicle Online",
+        "category": "copyright",
+        "encrypted_count": "fFJubw==",
+        "copyright": "Emil Chronicle Online",
+        "material": "Video Game",
+        "image_reference": "https://cdn.mobygames.com/covers/9924119-emil-chronicle-online-windows-front-cover.jpg"
+      },
+      "tag2": {
+        "id": "t0381",
+        "name": "amy_rose",
+        "proper_name": "Amy Rose",
         "category": "character",
-        "encrypted_count": "el1jbA==",
+        "encrypted_count": "elxuag==",
+        "copyright": "Sonic the Hedgehog",
+        "material": "Video Game",
+        "image_reference": "https://static.wikia.nocookie.net/sonic/images/9/94/AmyRoseTSR.png/revision/latest?cb=20200229192419&path-prefix=es"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0347",
+        "name": "peroro_(blue_archive)",
+        "proper_name": "Peroro",
+        "category": "character",
+        "encrypted_count": "fFFibQ==",
         "copyright": "Blue Archive",
         "material": "Video Game",
-        "image_reference": "https://static.wikitide.net/bluearchivewiki/e/ee/Midori.png?version=aec01d62bf6034e8c2582827b8eb2a2c"
+        "image_reference": "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Perorodzilla_Banner_1.png/revision/latest/scale-to-width-down/700?cb=20211028155953"
+      },
+      "tag2": {
+        "id": "t0237",
+        "name": "snk",
+        "proper_name": "Shingeki no Kyojin",
+        "category": "copyright",
+        "encrypted_count": "fFNubUU=",
+        "copyright": "Attack on Titan",
+        "material": "Manga",
+        "image_reference": "https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0300",
+        "name": "urakaze_(kancolle)",
+        "proper_name": "Urakaze",
+        "category": "character",
+        "encrypted_count": "fFxiYg==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Urakaze.(Kantai.Collection).full.4330635.jpg"
+      },
+      "tag2": {
+        "id": "t0544",
+        "name": "ash_ketchum",
+        "proper_name": "Ash Ketchum",
+        "category": "character",
+        "encrypted_count": "f1RgY0g=",
+        "copyright": "Pok\u00e9mon",
+        "material": "Anime",
+        "image_reference": "https://static.wikia.nocookie.net/pokemony/images/c/cd/Ash_JN.png/revision/latest?cb=20200723225043&path-prefix=pl"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0812",
+        "name": "takatsuki_yayoi",
+        "proper_name": "Takatsuki Yayoi",
+        "category": "character",
+        "encrypted_count": "elBhbA==",
+        "copyright": "The iDOLM@STER",
+        "material": "Video Game",
+        "image_reference": "https://project-imas.wiki/images/e/e1/MASTER_ARTIST_3_10.jpg"
+      },
+      "tag2": {
+        "id": "t0621",
+        "name": "caesar_anthonio_zeppeli",
+        "proper_name": "Caesar Anthonio Zeppeli",
+        "category": "character",
+        "encrypted_count": "elxmaw==",
+        "copyright": "JoJo's Bizarre Adventure",
+        "material": "Manga",
+        "image_reference": "https://static.jojowiki.com/images/thumb/2/23/latest/20200616234147/Caesar_Infobox_Anime.png/540px-Caesar_Infobox_Anime.png"
+      }
+    },
+    {
+      "tag1": {
+        "id": "t0917",
+        "name": "asuna_(bunny)_(blue_archive)",
+        "proper_name": "Asuna (Bunny)",
+        "category": "character",
+        "encrypted_count": "eFZgaw==",
+        "copyright": "Blue Archive",
+        "material": "Video Game",
+        "image_reference": "https://static.wikitide.net/bluearchivewiki/thumb/6/66/Asuna_(Bunny_Girl)_00.png/326px-Asuna_(Bunny_Girl)_00.png"
+      },
+      "tag2": {
+        "id": "t0343",
+        "name": "hatsuyuki_(kancolle)",
+        "proper_name": "Hatsuyuki",
+        "category": "character",
+        "encrypted_count": "fFZvaQ==",
+        "copyright": "Kantai Collection",
+        "material": "Video Game",
+        "image_reference": "https://static.zerochan.net/Hatsuyuki.(Kantai.Collection).full.2014249.jpg"
       }
     }
   ]
